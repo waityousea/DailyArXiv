@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - May 21, 2025
+title: Latest 15 Papers - May 22, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/waityousea/DailyArXiv/) page for a better reading experience and more papers.**
@@ -26,6 +26,7 @@ labels: documentation
 ## source detection
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Replay Attacks Against Audio Deepfake Detection](http://arxiv.org/abs/2505.14862v1)** | 2025-05-20 |  |
 | **[SourceDetMamba: A Graph-aware State Space Model for Source Detection in Sequential Hypergraphs](http://arxiv.org/abs/2505.12910v1)** | 2025-05-19 | Accepted by IJCAI25 |
 | **[HyperDet: Source Detection in Hypergraphs via Interactive Relationship Construction and Feature-rich Attention Fusion](http://arxiv.org/abs/2505.12894v1)** | 2025-05-19 | Accepted by IJCAI25 |
 | **[Enhanced RMT estimator for signal number estimation in the presence of colored noise](http://arxiv.org/abs/2211.12942v3)** | 2025-05-05 | 20 pages, 6 figures |
@@ -40,7 +41,6 @@ labels: documentation
 | **[Image Pre-Processing Framework for Time-Domain Astronomy in the Artificial Intelligence Era](http://arxiv.org/abs/2502.10783v1)** | 2025-02-15 | <details><summary>Accep...</summary><p>Accepted by the AJ. The Docker Version could be found in the PaperData Repository powered by China-VO</p></details> |
 | **[Time-based GNSS attack detection](http://arxiv.org/abs/2502.03868v2)** | 2025-02-12 | <details><summary>IEEE ...</summary><p>IEEE Transactions on Aerospace and Electronic Systems (Early Access)</p></details> |
 | **[Successive Interference Cancellation-aided Diffusion Models for Joint Channel Estimation and Data Detection in Low Rank Channel Scenarios](http://arxiv.org/abs/2501.11229v1)** | 2025-01-20 | <details><summary>Publi...</summary><p>Published at IEEE ICASSP 2025</p></details> |
-| **[Detection of Rumors and Their Sources in Social Networks: A Comprehensive Survey](http://arxiv.org/abs/2501.05292v1)** | 2025-01-09 |  |
 
 ## source identification
 | **Title** | **Date** | **Comment** |
