@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - May 25, 2025
+title: Latest 15 Papers - May 26, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/waityousea/DailyArXiv/) page for a better reading experience and more papers.**
@@ -45,6 +45,7 @@ labels: documentation
 ## source identification
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Multi-agent Systems for Misinformation Lifecycle : Detection, Correction And Source Identification](http://arxiv.org/abs/2505.17511v1)** | 2025-05-23 |  |
 | **[Bandit on the Hunt: Dynamic Crawling for Cyber Threat Intelligence](http://arxiv.org/abs/2504.18375v1)** | 2025-04-25 | <details><summary>12 pa...</summary><p>12 pages, 1 figure, 3 tables</p></details> |
 | **[Distributed Multi-robot Source Seeking in Unknown Environments with Unknown Number of Sources](http://arxiv.org/abs/2503.11048v1)** | 2025-03-14 | ICRA 2025 |
 | **[Real-time Pollutant Identification through Optical PM Micro-Sensor](http://arxiv.org/abs/2503.10724v1)** | 2025-03-13 | 11 pages, 4 figures |
@@ -59,7 +60,6 @@ labels: documentation
 | **[A Bayesian approach with Gaussian priors to the inverse problem of source identification in elliptic PDEs](http://arxiv.org/abs/2402.19214v3)** | 2024-07-25 | <details><summary>21 Pa...</summary><p>21 Pages, 8 figures, 5 tables. To appear in BAYSM 2023 proceedings</p></details> |
 | **[Identifying the Source of Generation for Large Language Models](http://arxiv.org/abs/2407.12846v1)** | 2024-07-05 | ICPRAI 2024 |
 | **[A novel shape optimization approach for source identification in elliptic equations](http://arxiv.org/abs/2407.02909v1)** | 2024-07-03 |  |
-| **[Landscape More Secure Than Portrait? Zooming Into the Directionality of Digital Images With Security Implications](http://arxiv.org/abs/2406.15206v1)** | 2024-06-21 |  |
 
 ## diffusion source
 | **Title** | **Date** | **Comment** |
