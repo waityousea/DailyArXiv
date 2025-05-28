@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - May 27, 2025
+title: Latest 15 Papers - May 28, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/waityousea/DailyArXiv/) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## source localization
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Efficient and Microphone-Fault-Tolerant 3D Sound Source Localization](http://arxiv.org/abs/2505.20961v1)** | 2025-05-27 | <details><summary>Accep...</summary><p>Accepted by Interspeech 2025 Conference</p></details> |
 | **[Leveraging Structural Knowledge in Diffusion Models for Source Localization in Data-Limited Graph Scenarios](http://arxiv.org/abs/2502.17928v2)** | 2025-05-24 |  |
 | **[TF-Mamba: A Time-Frequency Network for Sound Source Localization](http://arxiv.org/abs/2409.05034v2)** | 2025-05-20 | <details><summary>Accep...</summary><p>Accepted by Interspeech 2025</p></details> |
 | **[RSS-Based Localization: Ensuring Consistency and Asymptotic Efficiency](http://arxiv.org/abs/2505.13070v1)** | 2025-05-19 |  |
@@ -21,7 +22,6 @@ labels: documentation
 | **[Application of Physics-Informed Neural Networks for Solving the Inverse Advection-Diffusion Problem to Localize Pollution Sources](http://arxiv.org/abs/2503.18849v1)** | 2025-03-24 |  |
 | **[Where's That Voice Coming? Continual Learning for Sound Source Localization](http://arxiv.org/abs/2407.03661v3)** | 2025-03-20 | <details><summary>Accep...</summary><p>Accepted to ICME 2025</p></details> |
 | **[Autonomous Robotic Radio Source Localization via a Novel Gaussian Mixture Filtering Approach](http://arxiv.org/abs/2503.10349v1)** | 2025-03-13 |  |
-| **[Fully Reversing the Shoebox Image Source Method: From Impulse Responses to Room Parameters](http://arxiv.org/abs/2405.03385v2)** | 2025-03-10 |  |
 
 ## source detection
 | **Title** | **Date** | **Comment** |
