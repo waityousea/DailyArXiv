@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - May 29, 2025
+title: Latest 15 Papers - May 30, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/waityousea/DailyArXiv/) page for a better reading experience and more papers.**
