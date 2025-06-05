@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - June 04, 2025
+title: Latest 15 Papers - June 05, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/waityousea/DailyArXiv/) page for a better reading experience and more papers.**
@@ -7,7 +7,11 @@ labels: documentation
 ## source localization
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Online Performance Assessment of Multi-Source-Localization for Autonomous Driving Systems Using Subjective Logic](http://arxiv.org/abs/2506.02932v1)** | 2025-06-03 | <details><summary>submi...</summary><p>submitted to IEEE IAVVC 2025</p></details> |
+| **[AuralNet: Hierarchical Attention-based 3D Binaural Localization of Overlapping Speakers](http://arxiv.org/abs/2506.02773v1)** | 2025-06-03 | <details><summary>Accep...</summary><p>Accepted and to appear at Interspeech 2025</p></details> |
 | **[Autonomous Robotic Radio Source Localization via a Novel Gaussian Mixture Filtering Approach](http://arxiv.org/abs/2503.10349v2)** | 2025-06-02 |  |
+| **[Graph Neural Networks for Jamming Source Localization](http://arxiv.org/abs/2506.03196v1)** | 2025-06-01 |  |
+| **[Diffusion Models for Increasing Accuracy in Olfaction Sensors and Datasets](http://arxiv.org/abs/2506.00455v1)** | 2025-05-31 |  |
 | **[Efficient and Microphone-Fault-Tolerant 3D Sound Source Localization](http://arxiv.org/abs/2505.20961v1)** | 2025-05-27 | <details><summary>Accep...</summary><p>Accepted by Interspeech 2025 Conference</p></details> |
 | **[Leveraging Structural Knowledge in Diffusion Models for Source Localization in Data-Limited Graph Scenarios](http://arxiv.org/abs/2502.17928v2)** | 2025-05-24 |  |
 | **[TF-Mamba: A Time-Frequency Network for Sound Source Localization](http://arxiv.org/abs/2409.05034v2)** | 2025-05-20 | <details><summary>Accep...</summary><p>Accepted by Interspeech 2025</p></details> |
@@ -18,17 +22,13 @@ labels: documentation
 | **[An Efficient GPU-based Implementation for Noise Robust Sound Source Localization](http://arxiv.org/abs/2504.03373v2)** | 2025-05-08 | 6 pages, 2 figures |
 | **[DiffusionRIR: Room Impulse Response Interpolation using Diffusion Models](http://arxiv.org/abs/2504.20625v1)** | 2025-04-29 |  |
 | **[Siamese Network with Dual Attention for EEG-Driven Social Learning: Bridging the Human-Robot Gap in Long-Tail Autonomous Driving](http://arxiv.org/abs/2504.10296v1)** | 2025-04-14 | 50 pages, 18 figures |
-| **[Optimal Sensor Placement Using Combinations of Hybrid Measurements for Source Localization](http://arxiv.org/abs/2504.03769v2)** | 2025-04-09 |  |
-| **[Leveraging Sound Source Trajectories for Universal Sound Separation](http://arxiv.org/abs/2409.04843v2)** | 2025-04-05 | <details><summary>Submi...</summary><p>Submitted to IEEE/ACM Transactions on Audio, Speech and Language Processing(TASLP)</p></details> |
-| **[Application of Physics-Informed Neural Networks for Solving the Inverse Advection-Diffusion Problem to Localize Pollution Sources](http://arxiv.org/abs/2503.18849v1)** | 2025-03-24 |  |
-| **[Where's That Voice Coming? Continual Learning for Sound Source Localization](http://arxiv.org/abs/2407.03661v3)** | 2025-03-20 | <details><summary>Accep...</summary><p>Accepted to ICME 2025</p></details> |
 
 ## source detection
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[SourceDetMamba: A Graph-aware State Space Model for Source Detection in Sequential Hypergraphs](http://arxiv.org/abs/2505.12910v2)** | 2025-06-04 | Accepted by IJCAI25 |
+| **[HyperDet: Source Detection in Hypergraphs via Interactive Relationship Construction and Feature-rich Attention Fusion](http://arxiv.org/abs/2505.12894v2)** | 2025-06-04 | Accepted by IJCAI25 |
 | **[Replay Attacks Against Audio Deepfake Detection](http://arxiv.org/abs/2505.14862v2)** | 2025-06-01 |  |
-| **[SourceDetMamba: A Graph-aware State Space Model for Source Detection in Sequential Hypergraphs](http://arxiv.org/abs/2505.12910v1)** | 2025-05-19 | Accepted by IJCAI25 |
-| **[HyperDet: Source Detection in Hypergraphs via Interactive Relationship Construction and Feature-rich Attention Fusion](http://arxiv.org/abs/2505.12894v1)** | 2025-05-19 | Accepted by IJCAI25 |
 | **[Enhanced RMT estimator for signal number estimation in the presence of colored noise](http://arxiv.org/abs/2211.12942v3)** | 2025-05-05 | 20 pages, 6 figures |
 | **[Transfer Learning Under High-Dimensional Network Convolutional Regression Model](http://arxiv.org/abs/2504.19979v2)** | 2025-04-29 |  |
 | **[PhishLang: A Real-Time, Fully Client-Side Phishing Detection Framework Using MobileBERT](http://arxiv.org/abs/2408.05667v3)** | 2025-04-16 |  |
@@ -83,7 +83,7 @@ labels: documentation
 ## rumor source
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[HyperDet: Source Detection in Hypergraphs via Interactive Relationship Construction and Feature-rich Attention Fusion](http://arxiv.org/abs/2505.12894v1)** | 2025-05-19 | Accepted by IJCAI25 |
+| **[HyperDet: Source Detection in Hypergraphs via Interactive Relationship Construction and Feature-rich Attention Fusion](http://arxiv.org/abs/2505.12894v2)** | 2025-06-04 | Accepted by IJCAI25 |
 | **[Detection of Rumors and Their Sources in Social Networks: A Comprehensive Survey](http://arxiv.org/abs/2501.05292v1)** | 2025-01-09 |  |
 | **[Examining the Limitations of Computational Rumor Detection Models Trained on Static Datasets](http://arxiv.org/abs/2309.11576v2)** | 2024-03-24 | <details><summary>Accep...</summary><p>Accepted at LREC-COLING 2024</p></details> |
 | **[GIN-SD: Source Detection in Graphs with Incomplete Nodes via Positional Encoding and Attentive Fusion](http://arxiv.org/abs/2403.00014v1)** | 2024-02-27 | <details><summary>The p...</summary><p>The paper is accepted by AAAI24</p></details> |
