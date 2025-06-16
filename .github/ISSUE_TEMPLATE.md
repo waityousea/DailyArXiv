@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - June 15, 2025
+title: Latest 15 Papers - June 16, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/waityousea/DailyArXiv/) page for a better reading experience and more papers.**
@@ -7,9 +7,9 @@ labels: documentation
 ## source localization
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Autonomous Robotic Radio Source Localization via a Novel Gaussian Mixture Filtering Approach](http://arxiv.org/abs/2503.10349v3)** | 2025-06-13 |  |
 | **[Online Performance Assessment of Multi-Source-Localization for Autonomous Driving Systems Using Subjective Logic](http://arxiv.org/abs/2506.02932v1)** | 2025-06-03 | <details><summary>submi...</summary><p>submitted to IEEE IAVVC 2025</p></details> |
 | **[AuralNet: Hierarchical Attention-based 3D Binaural Localization of Overlapping Speakers](http://arxiv.org/abs/2506.02773v1)** | 2025-06-03 | <details><summary>Accep...</summary><p>Accepted and to appear at Interspeech 2025</p></details> |
-| **[Autonomous Robotic Radio Source Localization via a Novel Gaussian Mixture Filtering Approach](http://arxiv.org/abs/2503.10349v2)** | 2025-06-02 |  |
 | **[Graph Neural Networks for Jamming Source Localization](http://arxiv.org/abs/2506.03196v1)** | 2025-06-01 |  |
 | **[Diffusion Models for Increasing Accuracy in Olfaction Sensors and Datasets](http://arxiv.org/abs/2506.00455v1)** | 2025-05-31 |  |
 | **[Efficient and Microphone-Fault-Tolerant 3D Sound Source Localization](http://arxiv.org/abs/2505.20961v1)** | 2025-05-27 | <details><summary>Accep...</summary><p>Accepted by Interspeech 2025 Conference</p></details> |
