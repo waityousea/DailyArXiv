@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - June 18, 2025
+title: Latest 15 Papers - June 19, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/waityousea/DailyArXiv/) page for a better reading experience and more papers.**
@@ -7,12 +7,13 @@ labels: documentation
 ## source localization
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Graph Neural Networks for Jamming Source Localization](http://arxiv.org/abs/2506.03196v2)** | 2025-06-18 |  |
+| **[Thinking in Directivity: Speech Large Language Model for Multi-Talker Directional Speech Recognition](http://arxiv.org/abs/2506.14973v1)** | 2025-06-17 | <details><summary>Accep...</summary><p>Accepted to Interspeech 2025</p></details> |
 | **[Action Dubber: Timing Audible Actions via Inflectional Flow](http://arxiv.org/abs/2506.13320v1)** | 2025-06-16 | Accepted by ICML2025 |
 | **[Diffusion Graph Neural Networks for Robustness in Olfaction Sensors and Datasets](http://arxiv.org/abs/2506.00455v2)** | 2025-06-15 |  |
 | **[Autonomous Robotic Radio Source Localization via a Novel Gaussian Mixture Filtering Approach](http://arxiv.org/abs/2503.10349v3)** | 2025-06-13 |  |
 | **[Online Performance Assessment of Multi-Source-Localization for Autonomous Driving Systems Using Subjective Logic](http://arxiv.org/abs/2506.02932v1)** | 2025-06-03 | <details><summary>submi...</summary><p>submitted to IEEE IAVVC 2025</p></details> |
 | **[AuralNet: Hierarchical Attention-based 3D Binaural Localization of Overlapping Speakers](http://arxiv.org/abs/2506.02773v1)** | 2025-06-03 | <details><summary>Accep...</summary><p>Accepted and to appear at Interspeech 2025</p></details> |
-| **[Graph Neural Networks for Jamming Source Localization](http://arxiv.org/abs/2506.03196v1)** | 2025-06-01 |  |
 | **[Efficient and Microphone-Fault-Tolerant 3D Sound Source Localization](http://arxiv.org/abs/2505.20961v1)** | 2025-05-27 | <details><summary>Accep...</summary><p>Accepted by Interspeech 2025 Conference</p></details> |
 | **[Leveraging Structural Knowledge in Diffusion Models for Source Localization in Data-Limited Graph Scenarios](http://arxiv.org/abs/2502.17928v2)** | 2025-05-24 |  |
 | **[TF-Mamba: A Time-Frequency Network for Sound Source Localization](http://arxiv.org/abs/2409.05034v2)** | 2025-05-20 | <details><summary>Accep...</summary><p>Accepted by Interspeech 2025</p></details> |
@@ -21,7 +22,6 @@ labels: documentation
 | **[Improving Sound Source Localization with Joint Slot Attention on Image and Audio](http://arxiv.org/abs/2504.15118v2)** | 2025-05-11 | <details><summary>Accep...</summary><p>Accepted to CVPR 2025</p></details> |
 | **[Hearing and Seeing Through CLIP: A Framework for Self-Supervised Sound Source Localization](http://arxiv.org/abs/2505.05343v1)** | 2025-05-08 | <details><summary>Journ...</summary><p>Journal Extension of WACV 2024 paper (arXiv:2311.04066). Code is available at https://github.com/swimmiing/ACL-SSL</p></details> |
 | **[An Efficient GPU-based Implementation for Noise Robust Sound Source Localization](http://arxiv.org/abs/2504.03373v2)** | 2025-05-08 | 6 pages, 2 figures |
-| **[DiffusionRIR: Room Impulse Response Interpolation using Diffusion Models](http://arxiv.org/abs/2504.20625v1)** | 2025-04-29 |  |
 
 ## source detection
 | **Title** | **Date** | **Comment** |
