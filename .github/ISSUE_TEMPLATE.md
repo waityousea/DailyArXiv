@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - June 22, 2025
+title: Latest 15 Papers - June 23, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/waityousea/DailyArXiv/) page for a better reading experience and more papers.**
@@ -7,6 +7,8 @@ labels: documentation
 ## source localization
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Experimental Setup and Software Pipeline to Evaluate Optimization based Autonomous Multi-Robot Search Algorithms](http://arxiv.org/abs/2506.16710v1)** | 2025-06-20 | <details><summary>to be...</summary><p>to be published in IDETC 2025 conference proceedings</p></details> |
+| **[Single-Microphone-Based Sound Source Localization for Mobile Robots in Reverberant Environments](http://arxiv.org/abs/2506.16173v1)** | 2025-06-19 | <details><summary>This ...</summary><p>This paper was accepted and going to appear in the 2025 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)</p></details> |
 | **[Graph Neural Networks for Jamming Source Localization](http://arxiv.org/abs/2506.03196v2)** | 2025-06-18 |  |
 | **[Thinking in Directivity: Speech Large Language Model for Multi-Talker Directional Speech Recognition](http://arxiv.org/abs/2506.14973v1)** | 2025-06-17 | <details><summary>Accep...</summary><p>Accepted to Interspeech 2025</p></details> |
 | **[Action Dubber: Timing Audible Actions via Inflectional Flow](http://arxiv.org/abs/2506.13320v1)** | 2025-06-16 | Accepted by ICML2025 |
@@ -20,8 +22,6 @@ labels: documentation
 | **[RSS-Based Localization: Ensuring Consistency and Asymptotic Efficiency](http://arxiv.org/abs/2505.13070v1)** | 2025-05-19 |  |
 | **[Reducing Sensor Requirements by Relaxing the Network Metric Dimension](http://arxiv.org/abs/2505.11193v1)** | 2025-05-16 |  |
 | **[Improving Sound Source Localization with Joint Slot Attention on Image and Audio](http://arxiv.org/abs/2504.15118v2)** | 2025-05-11 | <details><summary>Accep...</summary><p>Accepted to CVPR 2025</p></details> |
-| **[Hearing and Seeing Through CLIP: A Framework for Self-Supervised Sound Source Localization](http://arxiv.org/abs/2505.05343v1)** | 2025-05-08 | <details><summary>Journ...</summary><p>Journal Extension of WACV 2024 paper (arXiv:2311.04066). Code is available at https://github.com/swimmiing/ACL-SSL</p></details> |
-| **[An Efficient GPU-based Implementation for Noise Robust Sound Source Localization](http://arxiv.org/abs/2504.03373v2)** | 2025-05-08 | 6 pages, 2 figures |
 
 ## source detection
 | **Title** | **Date** | **Comment** |
@@ -45,6 +45,7 @@ labels: documentation
 ## source identification
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Dynamic Watermark Generation for Digital Images using Perimeter Gated SPAD Imager PUFs](http://arxiv.org/abs/2506.17134v1)** | 2025-06-20 | <details><summary>5 pag...</summary><p>5 pages, 7 figures, accepted at MWSCAS 2025 Conference</p></details> |
 | **[Multi-agent Systems for Misinformation Lifecycle : Detection, Correction And Source Identification](http://arxiv.org/abs/2505.17511v1)** | 2025-05-23 |  |
 | **[Bandit on the Hunt: Dynamic Crawling for Cyber Threat Intelligence](http://arxiv.org/abs/2504.18375v1)** | 2025-04-25 | <details><summary>12 pa...</summary><p>12 pages, 1 figure, 3 tables</p></details> |
 | **[Distributed Multi-robot Source Seeking in Unknown Environments with Unknown Number of Sources](http://arxiv.org/abs/2503.11048v1)** | 2025-03-14 | ICRA 2025 |
@@ -59,7 +60,6 @@ labels: documentation
 | **[The ADMM-PINNs Algorithmic Framework for Nonsmooth PDE-Constrained Optimization: A Deep Learning Approach](http://arxiv.org/abs/2302.08309v2)** | 2024-07-28 |  |
 | **[A Bayesian approach with Gaussian priors to the inverse problem of source identification in elliptic PDEs](http://arxiv.org/abs/2402.19214v3)** | 2024-07-25 | <details><summary>21 Pa...</summary><p>21 Pages, 8 figures, 5 tables. To appear in BAYSM 2023 proceedings</p></details> |
 | **[Identifying the Source of Generation for Large Language Models](http://arxiv.org/abs/2407.12846v1)** | 2024-07-05 | ICPRAI 2024 |
-| **[A novel shape optimization approach for source identification in elliptic equations](http://arxiv.org/abs/2407.02909v1)** | 2024-07-03 |  |
 
 ## diffusion source
 | **Title** | **Date** | **Comment** |
