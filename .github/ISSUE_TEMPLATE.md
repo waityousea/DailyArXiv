@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - June 24, 2025
+title: Latest 15 Papers - June 25, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/waityousea/DailyArXiv/) page for a better reading experience and more papers.**
@@ -7,8 +7,8 @@ labels: documentation
 ## source localization
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Object-aware Sound Source Localization via Audio-Visual Scene Understanding](http://arxiv.org/abs/2506.18557v1)** | 2025-06-23 | <details><summary>Accep...</summary><p>Accepted at CVPR 2025</p></details> |
-| **[Experimental Setup and Software Pipeline to Evaluate Optimization based Autonomous Multi-Robot Search Algorithms](http://arxiv.org/abs/2506.16710v1)** | 2025-06-20 | <details><summary>to be...</summary><p>to be published in IDETC 2025 conference proceedings</p></details> |
+| **[Object-aware Sound Source Localization via Audio-Visual Scene Understanding](http://arxiv.org/abs/2506.18557v2)** | 2025-06-24 | <details><summary>Accep...</summary><p>Accepted at CVPR 2025</p></details> |
+| **[Experimental Setup and Software Pipeline to Evaluate Optimization based Autonomous Multi-Robot Search Algorithms](http://arxiv.org/abs/2506.16710v2)** | 2025-06-23 | IDETC 2025 |
 | **[Single-Microphone-Based Sound Source Localization for Mobile Robots in Reverberant Environments](http://arxiv.org/abs/2506.16173v1)** | 2025-06-19 | <details><summary>This ...</summary><p>This paper was accepted and going to appear in the 2025 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)</p></details> |
 | **[Graph Neural Networks for Jamming Source Localization](http://arxiv.org/abs/2506.03196v2)** | 2025-06-18 |  |
 | **[Thinking in Directivity: Speech Large Language Model for Multi-Talker Directional Speech Recognition](http://arxiv.org/abs/2506.14973v1)** | 2025-06-17 | <details><summary>Accep...</summary><p>Accepted to Interspeech 2025</p></details> |
