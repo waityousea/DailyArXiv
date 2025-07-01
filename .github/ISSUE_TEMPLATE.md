@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - June 30, 2025
+title: Latest 15 Papers - July 01, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/waityousea/DailyArXiv/) page for a better reading experience and more papers.**
@@ -54,6 +54,12 @@ labels: documentation
 | **[Rapid Parameter Inference with Uncertainty Quantification for a Radiological Plume Source Identification Problem](http://arxiv.org/abs/2502.17492v1)** | 2025-02-20 |  |
 | **[Color Flow Imaging Microscopy Improves Identification of Stress Sources of Protein Aggregates in Biopharmaceuticals](http://arxiv.org/abs/2501.15492v1)** | 2025-01-26 | <details><summary>Accep...</summary><p>Accepted for publication in MICCAI 2024 Workshop on Medical Optical Imaging and Virtual Microscopy Image Analysis (MOVI)</p></details> |
 | **[Point Source Identification in Subdiffusion from A Posteriori Internal Measurement](http://arxiv.org/abs/2412.08220v1)** | 2024-12-11 | 20 pages, 7 figures |
+| **[Auptimize: Optimal Placement of Spatial Audio Cues for Extended Reality](http://arxiv.org/abs/2408.09320v1)** | 2024-08-18 | UIST 2024 |
+| **[Point Source Identification Using Singularity Enriched Neural Networks](http://arxiv.org/abs/2408.09143v1)** | 2024-08-17 | 22 pages |
+| **[Causal Discovery of Linear Non-Gaussian Causal Models with Unobserved Confounding](http://arxiv.org/abs/2408.04907v1)** | 2024-08-09 |  |
+| **[The ADMM-PINNs Algorithmic Framework for Nonsmooth PDE-Constrained Optimization: A Deep Learning Approach](http://arxiv.org/abs/2302.08309v2)** | 2024-07-28 |  |
+| **[A Bayesian approach with Gaussian priors to the inverse problem of source identification in elliptic PDEs](http://arxiv.org/abs/2402.19214v3)** | 2024-07-25 | <details><summary>21 Pa...</summary><p>21 Pages, 8 figures, 5 tables. To appear in BAYSM 2023 proceedings</p></details> |
+| **[Identifying the Source of Generation for Large Language Models](http://arxiv.org/abs/2407.12846v1)** | 2024-07-05 | ICPRAI 2024 |
 
 ## diffusion source
 | **Title** | **Date** | **Comment** |
