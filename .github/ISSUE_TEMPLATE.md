@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - July 02, 2025
+title: Latest 15 Papers - July 03, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/waityousea/DailyArXiv/) page for a better reading experience and more papers.**
@@ -7,6 +7,8 @@ labels: documentation
 ## source localization
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[A Review on Sound Source Localization in Robotics: Focusing on Deep Learning Methods](http://arxiv.org/abs/2507.01143v1)** | 2025-07-01 | 35 pages |
+| **[Cyber Attacks Detection, Prevention, and Source Localization in Digital Substation Communication using Hybrid Statistical-Deep Learning](http://arxiv.org/abs/2507.00522v1)** | 2025-07-01 | <details><summary>10 pa...</summary><p>10 pages, 6 figures. This work has been submitted to the IEEE for possible publication</p></details> |
 | **[Loss functions incorporating auditory spatial perception in deep learning -- a review](http://arxiv.org/abs/2506.19404v1)** | 2025-06-24 | <details><summary>Submi...</summary><p>Submitted to I3DA 2025</p></details> |
 | **[Object-aware Sound Source Localization via Audio-Visual Scene Understanding](http://arxiv.org/abs/2506.18557v2)** | 2025-06-24 | <details><summary>Accep...</summary><p>Accepted at CVPR 2025</p></details> |
 | **[Experimental Setup and Software Pipeline to Evaluate Optimization based Autonomous Multi-Robot Search Algorithms](http://arxiv.org/abs/2506.16710v2)** | 2025-06-23 | IDETC 2025 |
@@ -20,8 +22,6 @@ labels: documentation
 | **[Online Performance Assessment of Multi-Source-Localization for Autonomous Driving Systems Using Subjective Logic](http://arxiv.org/abs/2506.02932v1)** | 2025-06-03 | <details><summary>submi...</summary><p>submitted to IEEE IAVVC 2025</p></details> |
 | **[AuralNet: Hierarchical Attention-based 3D Binaural Localization of Overlapping Speakers](http://arxiv.org/abs/2506.02773v1)** | 2025-06-03 | <details><summary>Accep...</summary><p>Accepted and to appear at Interspeech 2025</p></details> |
 | **[Efficient and Microphone-Fault-Tolerant 3D Sound Source Localization](http://arxiv.org/abs/2505.20961v1)** | 2025-05-27 | <details><summary>Accep...</summary><p>Accepted by Interspeech 2025 Conference</p></details> |
-| **[Leveraging Structural Knowledge in Diffusion Models for Source Localization in Data-Limited Graph Scenarios](http://arxiv.org/abs/2502.17928v2)** | 2025-05-24 |  |
-| **[TF-Mamba: A Time-Frequency Network for Sound Source Localization](http://arxiv.org/abs/2409.05034v2)** | 2025-05-20 | <details><summary>Accep...</summary><p>Accepted by Interspeech 2025</p></details> |
 
 ## source detection
 | **Title** | **Date** | **Comment** |
@@ -45,6 +45,7 @@ labels: documentation
 ## source identification
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Using Wavelet Domain Fingerprints to Improve Source Camera Identification](http://arxiv.org/abs/2507.01712v1)** | 2025-07-02 |  |
 | **[Dynamic Watermark Generation for Digital Images using Perimeter Gated SPAD Imager PUFs](http://arxiv.org/abs/2506.17134v1)** | 2025-06-20 | <details><summary>5 pag...</summary><p>5 pages, 7 figures, accepted at MWSCAS 2025 Conference</p></details> |
 | **[Multi-agent Systems for Misinformation Lifecycle : Detection, Correction And Source Identification](http://arxiv.org/abs/2505.17511v1)** | 2025-05-23 |  |
 | **[Bandit on the Hunt: Dynamic Crawling for Cyber Threat Intelligence](http://arxiv.org/abs/2504.18375v1)** | 2025-04-25 | <details><summary>12 pa...</summary><p>12 pages, 1 figure, 3 tables</p></details> |
@@ -59,7 +60,6 @@ labels: documentation
 | **[Causal Discovery of Linear Non-Gaussian Causal Models with Unobserved Confounding](http://arxiv.org/abs/2408.04907v1)** | 2024-08-09 |  |
 | **[The ADMM-PINNs Algorithmic Framework for Nonsmooth PDE-Constrained Optimization: A Deep Learning Approach](http://arxiv.org/abs/2302.08309v2)** | 2024-07-28 |  |
 | **[A Bayesian approach with Gaussian priors to the inverse problem of source identification in elliptic PDEs](http://arxiv.org/abs/2402.19214v3)** | 2024-07-25 | <details><summary>21 Pa...</summary><p>21 Pages, 8 figures, 5 tables. To appear in BAYSM 2023 proceedings</p></details> |
-| **[Identifying the Source of Generation for Large Language Models](http://arxiv.org/abs/2407.12846v1)** | 2024-07-05 | ICPRAI 2024 |
 
 ## diffusion source
 | **Title** | **Date** | **Comment** |
