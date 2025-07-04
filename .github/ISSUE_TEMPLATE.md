@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - July 03, 2025
+title: Latest 15 Papers - July 04, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/waityousea/DailyArXiv/) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## source localization
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Illuminant and light direction estimation using Wasserstein distance method](http://arxiv.org/abs/2503.05802v2)** | 2025-07-03 |  |
 | **[A Review on Sound Source Localization in Robotics: Focusing on Deep Learning Methods](http://arxiv.org/abs/2507.01143v1)** | 2025-07-01 | 35 pages |
 | **[Cyber Attacks Detection, Prevention, and Source Localization in Digital Substation Communication using Hybrid Statistical-Deep Learning](http://arxiv.org/abs/2507.00522v1)** | 2025-07-01 | <details><summary>10 pa...</summary><p>10 pages, 6 figures. This work has been submitted to the IEEE for possible publication</p></details> |
 | **[Loss functions incorporating auditory spatial perception in deep learning -- a review](http://arxiv.org/abs/2506.19404v1)** | 2025-06-24 | <details><summary>Submi...</summary><p>Submitted to I3DA 2025</p></details> |
@@ -21,11 +22,11 @@ labels: documentation
 | **[Autonomous Robotic Radio Source Localization via a Novel Gaussian Mixture Filtering Approach](http://arxiv.org/abs/2503.10349v3)** | 2025-06-13 |  |
 | **[Online Performance Assessment of Multi-Source-Localization for Autonomous Driving Systems Using Subjective Logic](http://arxiv.org/abs/2506.02932v1)** | 2025-06-03 | <details><summary>submi...</summary><p>submitted to IEEE IAVVC 2025</p></details> |
 | **[AuralNet: Hierarchical Attention-based 3D Binaural Localization of Overlapping Speakers](http://arxiv.org/abs/2506.02773v1)** | 2025-06-03 | <details><summary>Accep...</summary><p>Accepted and to appear at Interspeech 2025</p></details> |
-| **[Efficient and Microphone-Fault-Tolerant 3D Sound Source Localization](http://arxiv.org/abs/2505.20961v1)** | 2025-05-27 | <details><summary>Accep...</summary><p>Accepted by Interspeech 2025 Conference</p></details> |
 
 ## source detection
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Source Detection in Hypergraph Epidemic Dynamics using a Higher-Order Dynamic Message Passing Algorithm](http://arxiv.org/abs/2507.02523v1)** | 2025-07-03 |  |
 | **[SourceDetMamba: A Graph-aware State Space Model for Source Detection in Sequential Hypergraphs](http://arxiv.org/abs/2505.12910v2)** | 2025-06-04 | Accepted by IJCAI25 |
 | **[HyperDet: Source Detection in Hypergraphs via Interactive Relationship Construction and Feature-rich Attention Fusion](http://arxiv.org/abs/2505.12894v2)** | 2025-06-04 | Accepted by IJCAI25 |
 | **[Replay Attacks Against Audio Deepfake Detection](http://arxiv.org/abs/2505.14862v2)** | 2025-06-01 |  |
@@ -40,11 +41,12 @@ labels: documentation
 | **[Can Indirect Prompt Injection Attacks Be Detected and Removed?](http://arxiv.org/abs/2502.16580v1)** | 2025-02-23 | 17 pages, 6 figures |
 | **[Image Pre-Processing Framework for Time-Domain Astronomy in the Artificial Intelligence Era](http://arxiv.org/abs/2502.10783v1)** | 2025-02-15 | <details><summary>Accep...</summary><p>Accepted by the AJ. The Docker Version could be found in the PaperData Repository powered by China-VO</p></details> |
 | **[Time-based GNSS attack detection](http://arxiv.org/abs/2502.03868v2)** | 2025-02-12 | <details><summary>IEEE ...</summary><p>IEEE Transactions on Aerospace and Electronic Systems (Early Access)</p></details> |
-| **[Successive Interference Cancellation-aided Diffusion Models for Joint Channel Estimation and Data Detection in Low Rank Channel Scenarios](http://arxiv.org/abs/2501.11229v1)** | 2025-01-20 | <details><summary>Publi...</summary><p>Published at IEEE ICASSP 2025</p></details> |
 
 ## source identification
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Moments, Time-Inversion and Source Identification for the Heat Equation](http://arxiv.org/abs/2507.02677v1)** | 2025-07-03 | 30 pages |
+| **[Goal-oriented optimal sensor placement for PDE-constrained inverse problems in crisis management](http://arxiv.org/abs/2507.02500v1)** | 2025-07-03 |  |
 | **[Using Wavelet Domain Fingerprints to Improve Source Camera Identification](http://arxiv.org/abs/2507.01712v1)** | 2025-07-02 |  |
 | **[Dynamic Watermark Generation for Digital Images using Perimeter Gated SPAD Imager PUFs](http://arxiv.org/abs/2506.17134v1)** | 2025-06-20 | <details><summary>5 pag...</summary><p>5 pages, 7 figures, accepted at MWSCAS 2025 Conference</p></details> |
 | **[Multi-agent Systems for Misinformation Lifecycle : Detection, Correction And Source Identification](http://arxiv.org/abs/2505.17511v1)** | 2025-05-23 |  |
@@ -58,8 +60,6 @@ labels: documentation
 | **[Auptimize: Optimal Placement of Spatial Audio Cues for Extended Reality](http://arxiv.org/abs/2408.09320v1)** | 2024-08-18 | UIST 2024 |
 | **[Point Source Identification Using Singularity Enriched Neural Networks](http://arxiv.org/abs/2408.09143v1)** | 2024-08-17 | 22 pages |
 | **[Causal Discovery of Linear Non-Gaussian Causal Models with Unobserved Confounding](http://arxiv.org/abs/2408.04907v1)** | 2024-08-09 |  |
-| **[The ADMM-PINNs Algorithmic Framework for Nonsmooth PDE-Constrained Optimization: A Deep Learning Approach](http://arxiv.org/abs/2302.08309v2)** | 2024-07-28 |  |
-| **[A Bayesian approach with Gaussian priors to the inverse problem of source identification in elliptic PDEs](http://arxiv.org/abs/2402.19214v3)** | 2024-07-25 | <details><summary>21 Pa...</summary><p>21 Pages, 8 figures, 5 tables. To appear in BAYSM 2023 proceedings</p></details> |
 
 ## diffusion source
 | **Title** | **Date** | **Comment** |
