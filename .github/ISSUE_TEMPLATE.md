@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - July 08, 2025
+title: Latest 15 Papers - July 09, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/waityousea/DailyArXiv/) page for a better reading experience and more papers.**
@@ -7,6 +7,8 @@ labels: documentation
 ## source localization
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Direction Estimation of Sound Sources Using Microphone Arrays and Signal Strength](http://arxiv.org/abs/2507.03466v1)** | 2025-07-04 | 5 pages |
+| **[Bayesian Model Parameter Learning in Linear Inverse Problems: Application in EEG Focal Source Imaging](http://arxiv.org/abs/2501.13109v2)** | 2025-07-03 |  |
 | **[Illuminant and light direction estimation using Wasserstein distance method](http://arxiv.org/abs/2503.05802v2)** | 2025-07-03 |  |
 | **[A Review on Sound Source Localization in Robotics: Focusing on Deep Learning Methods](http://arxiv.org/abs/2507.01143v1)** | 2025-07-01 | 35 pages |
 | **[Cyber Attacks Detection, Prevention, and Source Localization in Digital Substation Communication using Hybrid Statistical-Deep Learning](http://arxiv.org/abs/2507.00522v1)** | 2025-07-01 | <details><summary>10 pa...</summary><p>10 pages, 6 figures. This work has been submitted to the IEEE for possible publication</p></details> |
@@ -20,8 +22,6 @@ labels: documentation
 | **[Action Dubber: Timing Audible Actions via Inflectional Flow](http://arxiv.org/abs/2506.13320v1)** | 2025-06-16 | Accepted by ICML2025 |
 | **[Diffusion Graph Neural Networks for Robustness in Olfaction Sensors and Datasets](http://arxiv.org/abs/2506.00455v2)** | 2025-06-15 |  |
 | **[Autonomous Robotic Radio Source Localization via a Novel Gaussian Mixture Filtering Approach](http://arxiv.org/abs/2503.10349v3)** | 2025-06-13 |  |
-| **[Online Performance Assessment of Multi-Source-Localization for Autonomous Driving Systems Using Subjective Logic](http://arxiv.org/abs/2506.02932v1)** | 2025-06-03 | <details><summary>submi...</summary><p>submitted to IEEE IAVVC 2025</p></details> |
-| **[AuralNet: Hierarchical Attention-based 3D Binaural Localization of Overlapping Speakers](http://arxiv.org/abs/2506.02773v1)** | 2025-06-03 | <details><summary>Accep...</summary><p>Accepted and to appear at Interspeech 2025</p></details> |
 
 ## source detection
 | **Title** | **Date** | **Comment** |
@@ -46,20 +46,10 @@ labels: documentation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
 | **[Moments, Time-Inversion and Source Identification for the Heat Equation](http://arxiv.org/abs/2507.02677v1)** | 2025-07-03 | 30 pages |
-| **[Goal-oriented optimal sensor placement for PDE-constrained inverse problems in crisis management](http://arxiv.org/abs/2507.02500v1)** | 2025-07-03 |  |
+| **[Goal-oriented optimal sensor placement for PDE-constrained inverse problems in crisis management](http://arxiv.org/abs/2507.02500v2)** | 2025-07-08 |  |
 | **[Using Wavelet Domain Fingerprints to Improve Source Camera Identification](http://arxiv.org/abs/2507.01712v1)** | 2025-07-02 |  |
 | **[Dynamic Watermark Generation for Digital Images using Perimeter Gated SPAD Imager PUFs](http://arxiv.org/abs/2506.17134v1)** | 2025-06-20 | <details><summary>5 pag...</summary><p>5 pages, 7 figures, accepted at MWSCAS 2025 Conference</p></details> |
 | **[Multi-agent Systems for Misinformation Lifecycle : Detection, Correction And Source Identification](http://arxiv.org/abs/2505.17511v1)** | 2025-05-23 |  |
-| **[Bandit on the Hunt: Dynamic Crawling for Cyber Threat Intelligence](http://arxiv.org/abs/2504.18375v1)** | 2025-04-25 | <details><summary>12 pa...</summary><p>12 pages, 1 figure, 3 tables</p></details> |
-| **[Distributed Multi-robot Source Seeking in Unknown Environments with Unknown Number of Sources](http://arxiv.org/abs/2503.11048v1)** | 2025-03-14 | ICRA 2025 |
-| **[Real-time Pollutant Identification through Optical PM Micro-Sensor](http://arxiv.org/abs/2503.10724v1)** | 2025-03-13 | 11 pages, 4 figures |
-| **[Team NYCU at Defactify4: Robust Detection and Source Identification of AI-Generated Images Using CNN and CLIP-Based Models](http://arxiv.org/abs/2503.10718v1)** | 2025-03-13 |  |
-| **[Rapid Parameter Inference with Uncertainty Quantification for a Radiological Plume Source Identification Problem](http://arxiv.org/abs/2502.17492v1)** | 2025-02-20 |  |
-| **[Color Flow Imaging Microscopy Improves Identification of Stress Sources of Protein Aggregates in Biopharmaceuticals](http://arxiv.org/abs/2501.15492v1)** | 2025-01-26 | <details><summary>Accep...</summary><p>Accepted for publication in MICCAI 2024 Workshop on Medical Optical Imaging and Virtual Microscopy Image Analysis (MOVI)</p></details> |
-| **[Point Source Identification in Subdiffusion from A Posteriori Internal Measurement](http://arxiv.org/abs/2412.08220v1)** | 2024-12-11 | 20 pages, 7 figures |
-| **[Auptimize: Optimal Placement of Spatial Audio Cues for Extended Reality](http://arxiv.org/abs/2408.09320v1)** | 2024-08-18 | UIST 2024 |
-| **[Point Source Identification Using Singularity Enriched Neural Networks](http://arxiv.org/abs/2408.09143v1)** | 2024-08-17 | 22 pages |
-| **[Causal Discovery of Linear Non-Gaussian Causal Models with Unobserved Confounding](http://arxiv.org/abs/2408.04907v1)** | 2024-08-09 |  |
 
 ## diffusion source
 | **Title** | **Date** | **Comment** |
@@ -67,18 +57,6 @@ labels: documentation
 | **[Kinetic Monte Carlo methods for three-dimensional diffusive capture problems in exterior domains](http://arxiv.org/abs/2406.13644v2)** | 2024-10-27 | 32 pages, 10 figures |
 | **[Radio U-Net: a convolutional neural network to detect diffuse radio sources in galaxy clusters and beyond](http://arxiv.org/abs/2408.10871v1)** | 2024-08-20 | <details><summary>Accep...</summary><p>Accepted by MNRAS, 16 pages, 9 figures, 2 tables</p></details> |
 | **[Source Localization for Cross Network Information Diffusion](http://arxiv.org/abs/2404.14668v1)** | 2024-04-23 | <details><summary>Code ...</summary><p>Code and data are available at: https://github.com/tanmoysr/CNSL/</p></details> |
-| **[3DStyle-Diffusion: Pursuing Fine-grained Text-driven 3D Stylization with 2D Diffusion Models](http://arxiv.org/abs/2311.05464v1)** | 2023-11-09 | ACM Multimedia 2023 |
-| **[Go viral or go broadcast? Characterizing the virality and growth of cascades](http://arxiv.org/abs/2006.01027v3)** | 2022-06-28 | <details><summary>10 pa...</summary><p>10 pages, 15 figures, 2 tables</p></details> |
-| **[Source Localization of Graph Diffusion via Variational Autoencoders for Graph Inverse Problems](http://arxiv.org/abs/2206.12327v1)** | 2022-06-24 | <details><summary>11 pa...</summary><p>11 pages, accepted by SIGKDD 2022</p></details> |
-| **[PrEF: Percolation-based Evolutionary Framework for the diffusion-source-localization problem in large networks](http://arxiv.org/abs/2205.07422v2)** | 2022-05-19 |  |
-| **[Social Diffusion Sources Can Escape Detection](http://arxiv.org/abs/2102.10539v2)** | 2021-11-11 | <details><summary>100 p...</summary><p>100 pages, 80 figures</p></details> |
-| **[Convolutional Deep Denoising Autoencoders for Radio Astronomical Images](http://arxiv.org/abs/2110.08618v1)** | 2021-10-16 | <details><summary>21 pa...</summary><p>21 pages, 14 figures, Accepted for publication by MNRAS</p></details> |
-| **[Diffusion Source Identification on Networks with Statistical Confidence](http://arxiv.org/abs/2106.04800v2)** | 2021-06-17 |  |
-| **[Information Source Finding in Networks: Querying with Budgets](http://arxiv.org/abs/2009.00795v5)** | 2020-10-22 | <details><summary>Part ...</summary><p>Part of this work was presented at the IEEE INFOCOM 2017 (arXiv:1805.03532) and IEEE ISIT 2018 (arXiv:1711.05496)</p></details> |
-| **[Necessary and Sufficient Budgets in Information Source Finding with Querying: Adaptivity Gap](http://arxiv.org/abs/1805.03532v9)** | 2020-10-06 | <details><summary>This ...</summary><p>This is a technical paper of ISIT 2018 and part of this work was presented at the IEEE INFOCOM 2017 (arXiv:1711.05496)</p></details> |
-| **[Identification of Anomalous Diffusion Sources by Unsupervised Learning](http://arxiv.org/abs/2010.02168v1)** | 2020-10-05 | <details><summary>publi...</summary><p>published in physical review research</p></details> |
-| **[Optimal Localization of Diffusion Sources in Complex Networks](http://arxiv.org/abs/1703.04915v1)** | 2017-03-15 | 6 figures |
-| **[Catch'Em All: Locating Multiple Diffusion Sources in Networks with Partial Observations](http://arxiv.org/abs/1611.06963v1)** | 2016-11-21 | 16 figures |
 
 ## rumor source
 | **Title** | **Date** | **Comment** |
