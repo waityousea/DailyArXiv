@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - July 20, 2025
+title: Latest 15 Papers - July 21, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/waityousea/DailyArXiv/) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## source localization
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[LOCUS: LOcalization with Channel Uncertainty and Sporadic Energy](http://arxiv.org/abs/2302.09409v3)** | 2025-07-18 |  |
 | **[Experimental Setup and Software Pipeline to Evaluate Optimization based Autonomous Multi-Robot Search Algorithms](http://arxiv.org/abs/2506.16710v3)** | 2025-07-11 | <details><summary>Accep...</summary><p>Accepted for presentation in proceedings of ASME IDETC 2025</p></details> |
 | **[Reducing Sensor Requirements by Relaxing the Network Metric Dimension](http://arxiv.org/abs/2505.11193v2)** | 2025-07-11 |  |
 | **[Consistent and Asymptotically Efficient Localization from Bearing-only Measurements](http://arxiv.org/abs/2507.07647v1)** | 2025-07-10 |  |
@@ -21,11 +22,11 @@ labels: documentation
 | **[Object-aware Sound Source Localization via Audio-Visual Scene Understanding](http://arxiv.org/abs/2506.18557v2)** | 2025-06-24 | <details><summary>Accep...</summary><p>Accepted at CVPR 2025</p></details> |
 | **[SHAMaNS: Sound Localization with Hybrid Alpha-Stable Spatial Measure and Neural Steerer](http://arxiv.org/abs/2506.18954v1)** | 2025-06-23 | <details><summary>Europ...</summary><p>European Signal Processing Conference (EUSIPCO), Sep 2025, Palermo, Italy</p></details> |
 | **[Single-Microphone-Based Sound Source Localization for Mobile Robots in Reverberant Environments](http://arxiv.org/abs/2506.16173v1)** | 2025-06-19 | <details><summary>This ...</summary><p>This paper was accepted and going to appear in the 2025 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)</p></details> |
-| **[Graph Neural Networks for Jamming Source Localization](http://arxiv.org/abs/2506.03196v2)** | 2025-06-18 |  |
 
 ## source detection
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Can Indirect Prompt Injection Attacks Be Detected and Removed?](http://arxiv.org/abs/2502.16580v2)** | 2025-07-18 | <details><summary>To Ap...</summary><p>To Appear in ACL 2025</p></details> |
 | **[Enforcing Speech Content Privacy in Environmental Sound Recordings using Segment-wise Waveform Reversal](http://arxiv.org/abs/2507.08412v1)** | 2025-07-11 |  |
 | **[Addressing overlapping communities in multiple-source detection: An edge clustering approach for complex networks](http://arxiv.org/abs/2507.08265v1)** | 2025-07-11 |  |
 | **[Source Detection in Hypergraph Epidemic Dynamics using a Higher-Order Dynamic Message Passing Algorithm](http://arxiv.org/abs/2507.02523v1)** | 2025-07-03 |  |
@@ -40,7 +41,6 @@ labels: documentation
 | **[Visualizing Privacy-Relevant Data Flows in Android Applications](http://arxiv.org/abs/2503.16640v1)** | 2025-03-20 |  |
 | **[Graph Discovery and Source Detection in Temporal Graphs](http://arxiv.org/abs/2503.13567v1)** | 2025-03-17 | <details><summary>This ...</summary><p>This is my Master's thesis submitted at the Digital Engineering Faculty of the University of Potsdam on September 30, 2024. It has been turned into two individual submissions at arXiv:2412.10881 and arXiv:2412.10877</p></details> |
 | **[Neural Posterior Estimation for Cataloging Astronomical Images with Spatially Varying Backgrounds and Point Spread Functions](http://arxiv.org/abs/2503.00156v1)** | 2025-02-28 |  |
-| **[Can Indirect Prompt Injection Attacks Be Detected and Removed?](http://arxiv.org/abs/2502.16580v1)** | 2025-02-23 | 17 pages, 6 figures |
 
 ## source identification
 | **Title** | **Date** | **Comment** |
