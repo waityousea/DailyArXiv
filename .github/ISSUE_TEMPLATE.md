@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - July 29, 2025
+title: Latest 15 Papers - July 30, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/waityousea/DailyArXiv/) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## source localization
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Sound Source Localization for Human-Robot Interaction in Outdoor Environments](http://arxiv.org/abs/2507.21431v1)** | 2025-07-29 |  |
 | **[BleedOrigin: Dynamic Bleeding Source Localization in Endoscopic Submucosal Dissection via Dual-Stage Detection and Tracking](http://arxiv.org/abs/2507.15094v1)** | 2025-07-20 | 27 pages, 14 figures |
 | **[LOCUS: LOcalization with Channel Uncertainty and Sporadic Energy](http://arxiv.org/abs/2302.09409v3)** | 2025-07-18 |  |
 | **[Experimental Setup and Software Pipeline to Evaluate Optimization based Autonomous Multi-Robot Search Algorithms](http://arxiv.org/abs/2506.16710v3)** | 2025-07-11 | <details><summary>Accep...</summary><p>Accepted for presentation in proceedings of ASME IDETC 2025</p></details> |
@@ -21,7 +22,6 @@ labels: documentation
 | **[Cyber Attacks Detection, Prevention, and Source Localization in Digital Substation Communication using Hybrid Statistical-Deep Learning](http://arxiv.org/abs/2507.00522v1)** | 2025-07-01 | <details><summary>10 pa...</summary><p>10 pages, 6 figures. This work has been submitted to the IEEE for possible publication</p></details> |
 | **[Loss functions incorporating auditory spatial perception in deep learning -- a review](http://arxiv.org/abs/2506.19404v1)** | 2025-06-24 | <details><summary>Submi...</summary><p>Submitted to I3DA 2025</p></details> |
 | **[Object-aware Sound Source Localization via Audio-Visual Scene Understanding](http://arxiv.org/abs/2506.18557v2)** | 2025-06-24 | <details><summary>Accep...</summary><p>Accepted at CVPR 2025</p></details> |
-| **[SHAMaNS: Sound Localization with Hybrid Alpha-Stable Spatial Measure and Neural Steerer](http://arxiv.org/abs/2506.18954v1)** | 2025-06-23 | <details><summary>Europ...</summary><p>European Signal Processing Conference (EUSIPCO), Sep 2025, Palermo, Italy</p></details> |
 
 ## source detection
 | **Title** | **Date** | **Comment** |
