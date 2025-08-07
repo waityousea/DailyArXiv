@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - August 06, 2025
+title: Latest 15 Papers - August 07, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/waityousea/DailyArXiv/) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## source localization
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[AV-SSAN: Audio-Visual Selective DoA Estimation through Explicit Multi-Band Semantic-Spatial Alignment](http://arxiv.org/abs/2507.07384v2)** | 2025-08-06 | 9 pages |
 | **[Beamformed 360° Sound Maps: U-Net-Driven Acoustic Source Segmentation and Localization](http://arxiv.org/abs/2508.00307v1)** | 2025-08-01 |  |
 | **[The Effect of Prior Parameters on Standardized Kalman Filter-Based EEG Source Localization](http://arxiv.org/abs/2507.23450v1)** | 2025-07-31 |  |
 | **[Sound Source Localization for Human-Robot Interaction in Outdoor Environments](http://arxiv.org/abs/2507.21431v1)** | 2025-07-29 |  |
@@ -15,7 +16,6 @@ labels: documentation
 | **[Experimental Setup and Software Pipeline to Evaluate Optimization based Autonomous Multi-Robot Search Algorithms](http://arxiv.org/abs/2506.16710v3)** | 2025-07-11 | <details><summary>Accep...</summary><p>Accepted for presentation in proceedings of ASME IDETC 2025</p></details> |
 | **[Reducing Sensor Requirements by Relaxing the Network Metric Dimension](http://arxiv.org/abs/2505.11193v2)** | 2025-07-11 |  |
 | **[Consistent and Asymptotically Efficient Localization from Bearing-only Measurements](http://arxiv.org/abs/2507.07647v1)** | 2025-07-10 |  |
-| **[VP-SelDoA: Visual-prompted Selective DoA Estimation of Target Sound via Semantic-Spatial Matching](http://arxiv.org/abs/2507.07384v1)** | 2025-07-10 | Under Review |
 | **[SonicMotion: Dynamic Spatial Audio Soundscapes with Latent Diffusion Models](http://arxiv.org/abs/2507.07318v1)** | 2025-07-09 |  |
 | **[Direction Estimation of Sound Sources Using Microphone Arrays and Signal Strength](http://arxiv.org/abs/2507.03466v1)** | 2025-07-04 | 5 pages |
 | **[Bayesian Model Parameter Learning in Linear Inverse Problems: Application in EEG Focal Source Imaging](http://arxiv.org/abs/2501.13109v2)** | 2025-07-03 |  |
