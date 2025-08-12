@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - August 11, 2025
+title: Latest 15 Papers - August 12, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/waityousea/DailyArXiv/) page for a better reading experience and more papers.**
@@ -17,7 +17,7 @@ labels: documentation
 | **[Reducing Sensor Requirements by Relaxing the Network Metric Dimension](http://arxiv.org/abs/2505.11193v2)** | 2025-07-11 |  |
 | **[Consistent and Asymptotically Efficient Localization from Bearing-only Measurements](http://arxiv.org/abs/2507.07647v1)** | 2025-07-10 |  |
 | **[SonicMotion: Dynamic Spatial Audio Soundscapes with Latent Diffusion Models](http://arxiv.org/abs/2507.07318v1)** | 2025-07-09 |  |
-| **[Direction Estimation of Sound Sources Using Microphone Arrays and Signal Strength](http://arxiv.org/abs/2507.03466v1)** | 2025-07-04 | 5 pages |
+| **[Direction Estimation of Sound Sources Using Microphone Arrays and Signal Strength](http://arxiv.org/abs/2507.03466v2)** | 2025-08-09 | 5 pages |
 | **[Bayesian Model Parameter Learning in Linear Inverse Problems: Application in EEG Focal Source Imaging](http://arxiv.org/abs/2501.13109v2)** | 2025-07-03 |  |
 | **[Illuminant and light direction estimation using Wasserstein distance method](http://arxiv.org/abs/2503.05802v2)** | 2025-07-03 |  |
 | **[A Review on Sound Source Localization in Robotics: Focusing on Deep Learning Methods](http://arxiv.org/abs/2507.01143v1)** | 2025-07-01 | 35 pages |
