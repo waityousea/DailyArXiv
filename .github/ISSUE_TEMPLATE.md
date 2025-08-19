@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - August 18, 2025
+title: Latest 15 Papers - August 19, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/waityousea/DailyArXiv/) page for a better reading experience and more papers.**
@@ -45,6 +45,7 @@ labels: documentation
 ## source identification
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Set-Valued Transformer Network for High-Emission Mobile Source Identification](http://arxiv.org/abs/2508.11976v1)** | 2025-08-16 |  |
 | **[An Unsupervised Deep XAI Framework for Localization of Concurrent Replay Attacks in Nuclear Reactor Signals](http://arxiv.org/abs/2508.09162v1)** | 2025-08-05 |  |
 | **[Horizontal and Vertical Federated Causal Structure Learning via Higher-order Cumulants](http://arxiv.org/abs/2507.06888v1)** | 2025-07-09 |  |
 | **[Goal-oriented optimal sensor placement for PDE-constrained inverse problems in crisis management](http://arxiv.org/abs/2507.02500v2)** | 2025-07-08 |  |
@@ -59,7 +60,6 @@ labels: documentation
 | **[Rapid Parameter Inference with Uncertainty Quantification for a Radiological Plume Source Identification Problem](http://arxiv.org/abs/2502.17492v1)** | 2025-02-20 |  |
 | **[Color Flow Imaging Microscopy Improves Identification of Stress Sources of Protein Aggregates in Biopharmaceuticals](http://arxiv.org/abs/2501.15492v1)** | 2025-01-26 | <details><summary>Accep...</summary><p>Accepted for publication in MICCAI 2024 Workshop on Medical Optical Imaging and Virtual Microscopy Image Analysis (MOVI)</p></details> |
 | **[Point Source Identification in Subdiffusion from A Posteriori Internal Measurement](http://arxiv.org/abs/2412.08220v1)** | 2024-12-11 | 20 pages, 7 figures |
-| **[Auptimize: Optimal Placement of Spatial Audio Cues for Extended Reality](http://arxiv.org/abs/2408.09320v1)** | 2024-08-18 | UIST 2024 |
 
 ## diffusion source
 | **Title** | **Date** | **Comment** |
