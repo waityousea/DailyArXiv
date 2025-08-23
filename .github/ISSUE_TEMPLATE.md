@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - August 22, 2025
+title: Latest 15 Papers - August 23, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/waityousea/DailyArXiv/) page for a better reading experience and more papers.**
@@ -49,17 +49,6 @@ labels: documentation
 | **[An Unsupervised Deep XAI Framework for Localization of Concurrent Replay Attacks in Nuclear Reactor Signals](http://arxiv.org/abs/2508.09162v1)** | 2025-08-05 |  |
 | **[Horizontal and Vertical Federated Causal Structure Learning via Higher-order Cumulants](http://arxiv.org/abs/2507.06888v1)** | 2025-07-09 |  |
 | **[Goal-oriented optimal sensor placement for PDE-constrained inverse problems in crisis management](http://arxiv.org/abs/2507.02500v2)** | 2025-07-08 |  |
-| **[Moments, Time-Inversion and Source Identification for the Heat Equation](http://arxiv.org/abs/2507.02677v1)** | 2025-07-03 | 30 pages |
-| **[Using Wavelet Domain Fingerprints to Improve Source Camera Identification](http://arxiv.org/abs/2507.01712v1)** | 2025-07-02 |  |
-| **[Dynamic Watermark Generation for Digital Images using Perimeter Gated SPAD Imager PUFs](http://arxiv.org/abs/2506.17134v1)** | 2025-06-20 | <details><summary>5 pag...</summary><p>5 pages, 7 figures, accepted at MWSCAS 2025 Conference</p></details> |
-| **[Multi-agent Systems for Misinformation Lifecycle : Detection, Correction And Source Identification](http://arxiv.org/abs/2505.17511v1)** | 2025-05-23 |  |
-| **[Bandit on the Hunt: Dynamic Crawling for Cyber Threat Intelligence](http://arxiv.org/abs/2504.18375v1)** | 2025-04-25 | <details><summary>12 pa...</summary><p>12 pages, 1 figure, 3 tables</p></details> |
-| **[Distributed Multi-robot Source Seeking in Unknown Environments with Unknown Number of Sources](http://arxiv.org/abs/2503.11048v1)** | 2025-03-14 | ICRA 2025 |
-| **[Real-time Pollutant Identification through Optical PM Micro-Sensor](http://arxiv.org/abs/2503.10724v1)** | 2025-03-13 | 11 pages, 4 figures |
-| **[Team NYCU at Defactify4: Robust Detection and Source Identification of AI-Generated Images Using CNN and CLIP-Based Models](http://arxiv.org/abs/2503.10718v1)** | 2025-03-13 |  |
-| **[Rapid Parameter Inference with Uncertainty Quantification for a Radiological Plume Source Identification Problem](http://arxiv.org/abs/2502.17492v1)** | 2025-02-20 |  |
-| **[Color Flow Imaging Microscopy Improves Identification of Stress Sources of Protein Aggregates in Biopharmaceuticals](http://arxiv.org/abs/2501.15492v1)** | 2025-01-26 | <details><summary>Accep...</summary><p>Accepted for publication in MICCAI 2024 Workshop on Medical Optical Imaging and Virtual Microscopy Image Analysis (MOVI)</p></details> |
-| **[Point Source Identification in Subdiffusion from A Posteriori Internal Measurement](http://arxiv.org/abs/2412.08220v1)** | 2024-12-11 | 20 pages, 7 figures |
 
 ## diffusion source
 | **Title** | **Date** | **Comment** |
