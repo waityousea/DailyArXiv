@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - August 24, 2025
+title: Latest 15 Papers - August 25, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/waityousea/DailyArXiv/) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## source localization
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Take That for Me: Multimodal Exophora Resolution with Interactive Questioning for Ambiguous Out-of-View Instructions](http://arxiv.org/abs/2508.16143v1)** | 2025-08-22 | <details><summary>See w...</summary><p>See website at https://emergentsystemlabstudent.github.io/MIEL/. Accepted at IEEE RO-MAN 2025</p></details> |
 | **[BEASST: Behavioral Entropic Gradient based Adaptive Source Seeking for Mobile Robots](http://arxiv.org/abs/2508.10363v1)** | 2025-08-14 |  |
 | **[Direction Estimation of Sound Sources Using Microphone Arrays and Signal Strength](http://arxiv.org/abs/2507.03466v2)** | 2025-08-09 | 5 pages |
 | **[AV-SSAN: Audio-Visual Selective DoA Estimation through Explicit Multi-Band Semantic-Spatial Alignment](http://arxiv.org/abs/2507.07384v2)** | 2025-08-06 | 9 pages |
@@ -21,7 +22,6 @@ labels: documentation
 | **[SonicMotion: Dynamic Spatial Audio Soundscapes with Latent Diffusion Models](http://arxiv.org/abs/2507.07318v1)** | 2025-07-09 |  |
 | **[Bayesian Model Parameter Learning in Linear Inverse Problems: Application in EEG Focal Source Imaging](http://arxiv.org/abs/2501.13109v2)** | 2025-07-03 |  |
 | **[Illuminant and light direction estimation using Wasserstein distance method](http://arxiv.org/abs/2503.05802v2)** | 2025-07-03 |  |
-| **[A Review on Sound Source Localization in Robotics: Focusing on Deep Learning Methods](http://arxiv.org/abs/2507.01143v1)** | 2025-07-01 | 35 pages |
 
 ## source detection
 | **Title** | **Date** | **Comment** |
