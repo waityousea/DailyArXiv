@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - August 25, 2025
+title: Latest 15 Papers - August 26, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/waityousea/DailyArXiv/) page for a better reading experience and more papers.**
@@ -26,27 +26,19 @@ labels: documentation
 ## source detection
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Neural Posterior Estimation for Cataloging Astronomical Images with Spatially Varying Backgrounds and Point Spread Functions](http://arxiv.org/abs/2503.00156v2)** | 2025-08-24 | <details><summary>Publi...</summary><p>Published in the Astronomical Journal</p></details> |
+| **[Two-Stage Framework for Efficient UAV-Based Wildfire Video Analysis with Adaptive Compression and Fire Source Detection](http://arxiv.org/abs/2508.16739v1)** | 2025-08-22 |  |
 | **[Catch Me If You Can: Finding the Source of Infections in Temporal Networks](http://arxiv.org/abs/2412.10877v2)** | 2025-08-12 | <details><summary>This ...</summary><p>This work is based on the first author's master thesis, which is available at arXiv:2503.13567</p></details> |
 | **[Can Indirect Prompt Injection Attacks Be Detected and Removed?](http://arxiv.org/abs/2502.16580v4)** | 2025-08-02 | ACL 2025 Main |
 | **[BleedOrigin: Dynamic Bleeding Source Localization in Endoscopic Submucosal Dissection via Dual-Stage Detection and Tracking](http://arxiv.org/abs/2507.15094v1)** | 2025-07-20 | 27 pages, 14 figures |
 | **[Enforcing Speech Content Privacy in Environmental Sound Recordings using Segment-wise Waveform Reversal](http://arxiv.org/abs/2507.08412v1)** | 2025-07-11 |  |
 | **[Addressing overlapping communities in multiple-source detection: An edge clustering approach for complex networks](http://arxiv.org/abs/2507.08265v1)** | 2025-07-11 |  |
-| **[Source Detection in Hypergraph Epidemic Dynamics using a Higher-Order Dynamic Message Passing Algorithm](http://arxiv.org/abs/2507.02523v1)** | 2025-07-03 |  |
-| **[SourceDetMamba: A Graph-aware State Space Model for Source Detection in Sequential Hypergraphs](http://arxiv.org/abs/2505.12910v2)** | 2025-06-04 | Accepted by IJCAI25 |
-| **[HyperDet: Source Detection in Hypergraphs via Interactive Relationship Construction and Feature-rich Attention Fusion](http://arxiv.org/abs/2505.12894v2)** | 2025-06-04 | Accepted by IJCAI25 |
-| **[Replay Attacks Against Audio Deepfake Detection](http://arxiv.org/abs/2505.14862v2)** | 2025-06-01 |  |
-| **[Enhanced RMT estimator for signal number estimation in the presence of colored noise](http://arxiv.org/abs/2211.12942v3)** | 2025-05-05 | 20 pages, 6 figures |
-| **[Transfer Learning Under High-Dimensional Network Convolutional Regression Model](http://arxiv.org/abs/2504.19979v2)** | 2025-04-29 |  |
-| **[PhishLang: A Real-Time, Fully Client-Side Phishing Detection Framework Using MobileBERT](http://arxiv.org/abs/2408.05667v3)** | 2025-04-16 |  |
-| **[Rank-based transfer learning for high-dimensional survival data with application to sepsis data](http://arxiv.org/abs/2504.11270v1)** | 2025-04-15 |  |
-| **[Higher-order Interaction Matters: Dynamic Hypergraph Neural Networks for Epidemic Modeling](http://arxiv.org/abs/2503.20114v2)** | 2025-04-01 | <details><summary>10 pa...</summary><p>10 pages, 4 figures, 4 tables</p></details> |
-| **[Visualizing Privacy-Relevant Data Flows in Android Applications](http://arxiv.org/abs/2503.16640v1)** | 2025-03-20 |  |
 
 ## source identification
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[An Unsupervised Deep XAI Framework for Localization of Concurrent Replay Attacks in Nuclear Reactor Signals](http://arxiv.org/abs/2508.09162v2)** | 2025-08-25 | <details><summary>Added...</summary><p>Added references, corrected typos, grammar check, authors updated</p></details> |
 | **[Set-Valued Transformer Network for High-Emission Mobile Source Identification](http://arxiv.org/abs/2508.11976v1)** | 2025-08-16 |  |
-| **[An Unsupervised Deep XAI Framework for Localization of Concurrent Replay Attacks in Nuclear Reactor Signals](http://arxiv.org/abs/2508.09162v1)** | 2025-08-05 |  |
 | **[Horizontal and Vertical Federated Causal Structure Learning via Higher-order Cumulants](http://arxiv.org/abs/2507.06888v1)** | 2025-07-09 |  |
 | **[Goal-oriented optimal sensor placement for PDE-constrained inverse problems in crisis management](http://arxiv.org/abs/2507.02500v2)** | 2025-07-08 |  |
 | **[Moments, Time-Inversion and Source Identification for the Heat Equation](http://arxiv.org/abs/2507.02677v1)** | 2025-07-03 | 30 pages |
