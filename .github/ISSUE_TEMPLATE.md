@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - September 08, 2025
+title: Latest 15 Papers - September 09, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/waityousea/DailyArXiv/) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## source localization
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[On Time Delay Interpolation for Improved Acoustic Reflector Localization](http://arxiv.org/abs/2509.04629v1)** | 2025-09-04 | <details><summary>20 pa...</summary><p>20 pages, 13 figures, 2 tables, submitted to J. Acoust. Soc. Am</p></details> |
 | **[Learning from Silence and Noise for Visual Sound Source Localization](http://arxiv.org/abs/2508.21761v1)** | 2025-08-29 | <details><summary>10 pa...</summary><p>10 pages, 2 figures, 4 tables + Supplementary Material</p></details> |
 | **[Real-Time Tracking Antenna System for Moving Targets](http://arxiv.org/abs/2508.20905v1)** | 2025-08-28 |  |
 | **[Take That for Me: Multimodal Exophora Resolution with Interactive Questioning for Ambiguous Out-of-View Instructions](http://arxiv.org/abs/2508.16143v1)** | 2025-08-22 | <details><summary>See w...</summary><p>See website at https://emergentsystemlabstudent.github.io/MIEL/. Accepted at IEEE RO-MAN 2025</p></details> |
@@ -21,7 +22,6 @@ labels: documentation
 | **[Experimental Setup and Software Pipeline to Evaluate Optimization based Autonomous Multi-Robot Search Algorithms](http://arxiv.org/abs/2506.16710v3)** | 2025-07-11 | <details><summary>Accep...</summary><p>Accepted for presentation in proceedings of ASME IDETC 2025</p></details> |
 | **[Reducing Sensor Requirements by Relaxing the Network Metric Dimension](http://arxiv.org/abs/2505.11193v2)** | 2025-07-11 |  |
 | **[Consistent and Asymptotically Efficient Localization from Bearing-only Measurements](http://arxiv.org/abs/2507.07647v1)** | 2025-07-10 |  |
-| **[SonicMotion: Dynamic Spatial Audio Soundscapes with Latent Diffusion Models](http://arxiv.org/abs/2507.07318v1)** | 2025-07-09 |  |
 
 ## source detection
 | **Title** | **Date** | **Comment** |
