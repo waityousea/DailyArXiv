@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - September 12, 2025
+title: Latest 15 Papers - September 13, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/waityousea/DailyArXiv/) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## source localization
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Diffusion Graph Neural Networks for Robustness in Olfaction Sensors and Datasets](http://arxiv.org/abs/2506.00455v3)** | 2025-09-11 |  |
 | **[On Time Delay Interpolation for Improved Acoustic Reflector Localization](http://arxiv.org/abs/2509.04629v1)** | 2025-09-04 | <details><summary>20 pa...</summary><p>20 pages, 13 figures, 2 tables, submitted to J. Acoust. Soc. Am</p></details> |
 | **[Learning from Silence and Noise for Visual Sound Source Localization](http://arxiv.org/abs/2508.21761v1)** | 2025-08-29 | <details><summary>10 pa...</summary><p>10 pages, 2 figures, 4 tables + Supplementary Material</p></details> |
 | **[Real-Time Tracking Antenna System for Moving Targets](http://arxiv.org/abs/2508.20905v1)** | 2025-08-28 |  |
@@ -21,7 +22,6 @@ labels: documentation
 | **[LOCUS: LOcalization with Channel Uncertainty and Sporadic Energy](http://arxiv.org/abs/2302.09409v3)** | 2025-07-18 |  |
 | **[Experimental Setup and Software Pipeline to Evaluate Optimization based Autonomous Multi-Robot Search Algorithms](http://arxiv.org/abs/2506.16710v3)** | 2025-07-11 | <details><summary>Accep...</summary><p>Accepted for presentation in proceedings of ASME IDETC 2025</p></details> |
 | **[Reducing Sensor Requirements by Relaxing the Network Metric Dimension](http://arxiv.org/abs/2505.11193v2)** | 2025-07-11 |  |
-| **[Consistent and Asymptotically Efficient Localization from Bearing-only Measurements](http://arxiv.org/abs/2507.07647v1)** | 2025-07-10 |  |
 
 ## source detection
 | **Title** | **Date** | **Comment** |
@@ -33,6 +33,14 @@ labels: documentation
 | **[BleedOrigin: Dynamic Bleeding Source Localization in Endoscopic Submucosal Dissection via Dual-Stage Detection and Tracking](http://arxiv.org/abs/2507.15094v1)** | 2025-07-20 | 27 pages, 14 figures |
 | **[Enforcing Speech Content Privacy in Environmental Sound Recordings using Segment-wise Waveform Reversal](http://arxiv.org/abs/2507.08412v1)** | 2025-07-11 |  |
 | **[Addressing overlapping communities in multiple-source detection: An edge clustering approach for complex networks](http://arxiv.org/abs/2507.08265v1)** | 2025-07-11 |  |
+| **[Source Detection in Hypergraph Epidemic Dynamics using a Higher-Order Dynamic Message Passing Algorithm](http://arxiv.org/abs/2507.02523v1)** | 2025-07-03 |  |
+| **[SourceDetMamba: A Graph-aware State Space Model for Source Detection in Sequential Hypergraphs](http://arxiv.org/abs/2505.12910v2)** | 2025-06-04 | Accepted by IJCAI25 |
+| **[HyperDet: Source Detection in Hypergraphs via Interactive Relationship Construction and Feature-rich Attention Fusion](http://arxiv.org/abs/2505.12894v2)** | 2025-06-04 | Accepted by IJCAI25 |
+| **[Replay Attacks Against Audio Deepfake Detection](http://arxiv.org/abs/2505.14862v2)** | 2025-06-01 |  |
+| **[Enhanced RMT estimator for signal number estimation in the presence of colored noise](http://arxiv.org/abs/2211.12942v3)** | 2025-05-05 | 20 pages, 6 figures |
+| **[Transfer Learning Under High-Dimensional Network Convolutional Regression Model](http://arxiv.org/abs/2504.19979v2)** | 2025-04-29 |  |
+| **[PhishLang: A Real-Time, Fully Client-Side Phishing Detection Framework Using MobileBERT](http://arxiv.org/abs/2408.05667v3)** | 2025-04-16 |  |
+| **[Rank-based transfer learning for high-dimensional survival data with application to sepsis data](http://arxiv.org/abs/2504.11270v1)** | 2025-04-15 |  |
 
 ## source identification
 | **Title** | **Date** | **Comment** |
