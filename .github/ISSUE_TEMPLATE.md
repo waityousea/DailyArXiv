@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - September 14, 2025
+title: Latest 15 Papers - September 15, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/waityousea/DailyArXiv/) page for a better reading experience and more papers.**
@@ -21,7 +21,6 @@ labels: documentation
 | **[BleedOrigin: Dynamic Bleeding Source Localization in Endoscopic Submucosal Dissection via Dual-Stage Detection and Tracking](http://arxiv.org/abs/2507.15094v1)** | 2025-07-20 | 27 pages, 14 figures |
 | **[LOCUS: LOcalization with Channel Uncertainty and Sporadic Energy](http://arxiv.org/abs/2302.09409v3)** | 2025-07-18 |  |
 | **[Experimental Setup and Software Pipeline to Evaluate Optimization based Autonomous Multi-Robot Search Algorithms](http://arxiv.org/abs/2506.16710v3)** | 2025-07-11 | <details><summary>Accep...</summary><p>Accepted for presentation in proceedings of ASME IDETC 2025</p></details> |
-| **[Reducing Sensor Requirements by Relaxing the Network Metric Dimension](http://arxiv.org/abs/2505.11193v2)** | 2025-07-11 |  |
 
 ## source detection
 | **Title** | **Date** | **Comment** |
