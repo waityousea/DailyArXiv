@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - September 15, 2025
+title: Latest 15 Papers - September 16, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/waityousea/DailyArXiv/) page for a better reading experience and more papers.**
@@ -7,20 +7,10 @@ labels: documentation
 ## source localization
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Physics-informed sensor coverage through structure preserving machine learning](http://arxiv.org/abs/2509.10363v1)** | 2025-09-12 |  |
 | **[Diffusion Graph Neural Networks for Robustness in Olfaction Sensors and Datasets](http://arxiv.org/abs/2506.00455v3)** | 2025-09-11 |  |
 | **[On Time Delay Interpolation for Improved Acoustic Reflector Localization](http://arxiv.org/abs/2509.04629v1)** | 2025-09-04 | <details><summary>20 pa...</summary><p>20 pages, 13 figures, 2 tables, submitted to J. Acoust. Soc. Am</p></details> |
 | **[Learning from Silence and Noise for Visual Sound Source Localization](http://arxiv.org/abs/2508.21761v1)** | 2025-08-29 | <details><summary>10 pa...</summary><p>10 pages, 2 figures, 4 tables + Supplementary Material</p></details> |
-| **[Real-Time Tracking Antenna System for Moving Targets](http://arxiv.org/abs/2508.20905v1)** | 2025-08-28 |  |
-| **[Take That for Me: Multimodal Exophora Resolution with Interactive Questioning for Ambiguous Out-of-View Instructions](http://arxiv.org/abs/2508.16143v1)** | 2025-08-22 | <details><summary>See w...</summary><p>See website at https://emergentsystemlabstudent.github.io/MIEL/. Accepted at IEEE RO-MAN 2025</p></details> |
-| **[BEASST: Behavioral Entropic Gradient based Adaptive Source Seeking for Mobile Robots](http://arxiv.org/abs/2508.10363v1)** | 2025-08-14 |  |
-| **[Direction Estimation of Sound Sources Using Microphone Arrays and Signal Strength](http://arxiv.org/abs/2507.03466v2)** | 2025-08-09 | 5 pages |
-| **[AV-SSAN: Audio-Visual Selective DoA Estimation through Explicit Multi-Band Semantic-Spatial Alignment](http://arxiv.org/abs/2507.07384v2)** | 2025-08-06 | 9 pages |
-| **[Beamformed 360° Sound Maps: U-Net-Driven Acoustic Source Segmentation and Localization](http://arxiv.org/abs/2508.00307v1)** | 2025-08-01 |  |
-| **[The Effect of Prior Parameters on Standardized Kalman Filter-Based EEG Source Localization](http://arxiv.org/abs/2507.23450v1)** | 2025-07-31 |  |
-| **[Sound Source Localization for Human-Robot Interaction in Outdoor Environments](http://arxiv.org/abs/2507.21431v1)** | 2025-07-29 |  |
-| **[BleedOrigin: Dynamic Bleeding Source Localization in Endoscopic Submucosal Dissection via Dual-Stage Detection and Tracking](http://arxiv.org/abs/2507.15094v1)** | 2025-07-20 | 27 pages, 14 figures |
-| **[LOCUS: LOcalization with Channel Uncertainty and Sporadic Energy](http://arxiv.org/abs/2302.09409v3)** | 2025-07-18 |  |
-| **[Experimental Setup and Software Pipeline to Evaluate Optimization based Autonomous Multi-Robot Search Algorithms](http://arxiv.org/abs/2506.16710v3)** | 2025-07-11 | <details><summary>Accep...</summary><p>Accepted for presentation in proceedings of ASME IDETC 2025</p></details> |
 
 ## source detection
 | **Title** | **Date** | **Comment** |
@@ -44,6 +34,7 @@ labels: documentation
 ## source identification
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Physics-informed sensor coverage through structure preserving machine learning](http://arxiv.org/abs/2509.10363v1)** | 2025-09-12 |  |
 | **[An Unsupervised Deep XAI Framework for Localization of Concurrent Replay Attacks in Nuclear Reactor Signals](http://arxiv.org/abs/2508.09162v2)** | 2025-08-25 | <details><summary>Added...</summary><p>Added references, corrected typos, grammar check, authors updated</p></details> |
 | **[Set-Valued Transformer Network for High-Emission Mobile Source Identification](http://arxiv.org/abs/2508.11976v1)** | 2025-08-16 |  |
 | **[Horizontal and Vertical Federated Causal Structure Learning via Higher-order Cumulants](http://arxiv.org/abs/2507.06888v1)** | 2025-07-09 |  |
@@ -58,7 +49,6 @@ labels: documentation
 | **[Team NYCU at Defactify4: Robust Detection and Source Identification of AI-Generated Images Using CNN and CLIP-Based Models](http://arxiv.org/abs/2503.10718v1)** | 2025-03-13 |  |
 | **[Rapid Parameter Inference with Uncertainty Quantification for a Radiological Plume Source Identification Problem](http://arxiv.org/abs/2502.17492v1)** | 2025-02-20 |  |
 | **[Color Flow Imaging Microscopy Improves Identification of Stress Sources of Protein Aggregates in Biopharmaceuticals](http://arxiv.org/abs/2501.15492v1)** | 2025-01-26 | <details><summary>Accep...</summary><p>Accepted for publication in MICCAI 2024 Workshop on Medical Optical Imaging and Virtual Microscopy Image Analysis (MOVI)</p></details> |
-| **[Point Source Identification in Subdiffusion from A Posteriori Internal Measurement](http://arxiv.org/abs/2412.08220v1)** | 2024-12-11 | 20 pages, 7 figures |
 
 ## diffusion source
 | **Title** | **Date** | **Comment** |
