@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - September 19, 2025
+title: Latest 15 Papers - September 20, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/waityousea/DailyArXiv/) page for a better reading experience and more papers.**
@@ -32,11 +32,21 @@ labels: documentation
 | **[Catch Me If You Can: Finding the Source of Infections in Temporal Networks](http://arxiv.org/abs/2412.10877v2)** | 2025-08-12 | <details><summary>This ...</summary><p>This work is based on the first author's master thesis, which is available at arXiv:2503.13567</p></details> |
 | **[Can Indirect Prompt Injection Attacks Be Detected and Removed?](http://arxiv.org/abs/2502.16580v4)** | 2025-08-02 | ACL 2025 Main |
 | **[BleedOrigin: Dynamic Bleeding Source Localization in Endoscopic Submucosal Dissection via Dual-Stage Detection and Tracking](http://arxiv.org/abs/2507.15094v1)** | 2025-07-20 | 27 pages, 14 figures |
+| **[Enforcing Speech Content Privacy in Environmental Sound Recordings using Segment-wise Waveform Reversal](http://arxiv.org/abs/2507.08412v1)** | 2025-07-11 |  |
+| **[Addressing overlapping communities in multiple-source detection: An edge clustering approach for complex networks](http://arxiv.org/abs/2507.08265v1)** | 2025-07-11 |  |
+| **[Source Detection in Hypergraph Epidemic Dynamics using a Higher-Order Dynamic Message Passing Algorithm](http://arxiv.org/abs/2507.02523v1)** | 2025-07-03 |  |
+| **[SourceDetMamba: A Graph-aware State Space Model for Source Detection in Sequential Hypergraphs](http://arxiv.org/abs/2505.12910v2)** | 2025-06-04 | Accepted by IJCAI25 |
+| **[HyperDet: Source Detection in Hypergraphs via Interactive Relationship Construction and Feature-rich Attention Fusion](http://arxiv.org/abs/2505.12894v2)** | 2025-06-04 | Accepted by IJCAI25 |
+| **[Replay Attacks Against Audio Deepfake Detection](http://arxiv.org/abs/2505.14862v2)** | 2025-06-01 |  |
+| **[Enhanced RMT estimator for signal number estimation in the presence of colored noise](http://arxiv.org/abs/2211.12942v3)** | 2025-05-05 | 20 pages, 6 figures |
+| **[Transfer Learning Under High-Dimensional Network Convolutional Regression Model](http://arxiv.org/abs/2504.19979v2)** | 2025-04-29 |  |
+| **[PhishLang: A Real-Time, Fully Client-Side Phishing Detection Framework Using MobileBERT](http://arxiv.org/abs/2408.05667v3)** | 2025-04-16 |  |
 
 ## source identification
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
 | **[Physics-informed sensor coverage through structure preserving machine learning](http://arxiv.org/abs/2509.10363v1)** | 2025-09-12 |  |
+| **[A Bayesian thinning algorithm for the point source identification of heat equation](http://arxiv.org/abs/2509.14245v1)** | 2025-09-04 | 6 pages |
 | **[An Unsupervised Deep XAI Framework for Localization of Concurrent Replay Attacks in Nuclear Reactor Signals](http://arxiv.org/abs/2508.09162v2)** | 2025-08-25 | <details><summary>Added...</summary><p>Added references, corrected typos, grammar check, authors updated</p></details> |
 | **[Set-Valued Transformer Network for High-Emission Mobile Source Identification](http://arxiv.org/abs/2508.11976v1)** | 2025-08-16 |  |
 | **[Horizontal and Vertical Federated Causal Structure Learning via Higher-order Cumulants](http://arxiv.org/abs/2507.06888v1)** | 2025-07-09 |  |
@@ -50,7 +60,6 @@ labels: documentation
 | **[Real-time Pollutant Identification through Optical PM Micro-Sensor](http://arxiv.org/abs/2503.10724v1)** | 2025-03-13 | 11 pages, 4 figures |
 | **[Team NYCU at Defactify4: Robust Detection and Source Identification of AI-Generated Images Using CNN and CLIP-Based Models](http://arxiv.org/abs/2503.10718v1)** | 2025-03-13 |  |
 | **[Rapid Parameter Inference with Uncertainty Quantification for a Radiological Plume Source Identification Problem](http://arxiv.org/abs/2502.17492v1)** | 2025-02-20 |  |
-| **[Color Flow Imaging Microscopy Improves Identification of Stress Sources of Protein Aggregates in Biopharmaceuticals](http://arxiv.org/abs/2501.15492v1)** | 2025-01-26 | <details><summary>Accep...</summary><p>Accepted for publication in MICCAI 2024 Workshop on Medical Optical Imaging and Virtual Microscopy Image Analysis (MOVI)</p></details> |
 
 ## diffusion source
 | **Title** | **Date** | **Comment** |
