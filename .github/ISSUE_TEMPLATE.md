@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - September 23, 2025
+title: Latest 15 Papers - September 24, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/waityousea/DailyArXiv/) page for a better reading experience and more papers.**
@@ -11,7 +11,6 @@ labels: documentation
 | **[Evaluating the Limitations of Local LLMs in Solving Complex Programming Challenges](http://arxiv.org/abs/2509.15283v1)** | 2025-09-18 | <details><summary>Comme...</summary><p>Comments: 16 pages, 3 figures, 8 tables, accepted to CCSC Eastern 2025</p></details> |
 | **[Multi-robot Multi-source Localization in Complex Flows with Physics-Preserving Environment Models](http://arxiv.org/abs/2509.14228v1)** | 2025-09-17 |  |
 | **[Physics-informed sensor coverage through structure preserving machine learning](http://arxiv.org/abs/2509.10363v1)** | 2025-09-12 |  |
-| **[Diffusion Graph Neural Networks and Dataset for Robust Olfactory Navigation in Hazard Robotics](http://arxiv.org/abs/2506.00455v4)** | 2025-09-21 | 8 pages, 4 figures |
 | **[On Time Delay Interpolation for Improved Acoustic Reflector Localization](http://arxiv.org/abs/2509.04629v1)** | 2025-09-04 | <details><summary>20 pa...</summary><p>20 pages, 13 figures, 2 tables, submitted to J. Acoust. Soc. Am</p></details> |
 | **[Learning from Silence and Noise for Visual Sound Source Localization](http://arxiv.org/abs/2508.21761v1)** | 2025-08-29 | <details><summary>10 pa...</summary><p>10 pages, 2 figures, 4 tables + Supplementary Material</p></details> |
 | **[Real-Time Tracking Antenna System for Moving Targets](http://arxiv.org/abs/2508.20905v1)** | 2025-08-28 |  |
@@ -22,10 +21,12 @@ labels: documentation
 | **[Beamformed 360° Sound Maps: U-Net-Driven Acoustic Source Segmentation and Localization](http://arxiv.org/abs/2508.00307v1)** | 2025-08-01 |  |
 | **[The Effect of Prior Parameters on Standardized Kalman Filter-Based EEG Source Localization](http://arxiv.org/abs/2507.23450v1)** | 2025-07-31 |  |
 | **[Sound Source Localization for Human-Robot Interaction in Outdoor Environments](http://arxiv.org/abs/2507.21431v1)** | 2025-07-29 |  |
+| **[BleedOrigin: Dynamic Bleeding Source Localization in Endoscopic Submucosal Dissection via Dual-Stage Detection and Tracking](http://arxiv.org/abs/2507.15094v1)** | 2025-07-20 | 27 pages, 14 figures |
 
 ## source detection
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Is It Certainly a Deepfake? Reliability Analysis in Detection & Generation Ecosystem](http://arxiv.org/abs/2509.17550v1)** | 2025-09-22 | <details><summary>Accep...</summary><p>Accepted for publication at the ICCV 2025 STREAM workshop</p></details> |
 | **[Parking Space Ground Truth Test Automation by Artificial Intelligence Using Convolutional Neural Networks](http://arxiv.org/abs/2509.13366v1)** | 2025-09-15 | 10 pages, 5 figures |
 | **[Neural Posterior Estimation for Cataloging Astronomical Images with Spatially Varying Backgrounds and Point Spread Functions](http://arxiv.org/abs/2503.00156v2)** | 2025-08-24 | <details><summary>Publi...</summary><p>Published in the Astronomical Journal</p></details> |
 | **[Two-Stage Framework for Efficient UAV-Based Wildfire Video Analysis with Adaptive Compression and Fire Source Detection](http://arxiv.org/abs/2508.16739v1)** | 2025-08-22 |  |
@@ -40,7 +41,6 @@ labels: documentation
 | **[Replay Attacks Against Audio Deepfake Detection](http://arxiv.org/abs/2505.14862v2)** | 2025-06-01 |  |
 | **[Enhanced RMT estimator for signal number estimation in the presence of colored noise](http://arxiv.org/abs/2211.12942v3)** | 2025-05-05 | 20 pages, 6 figures |
 | **[Transfer Learning Under High-Dimensional Network Convolutional Regression Model](http://arxiv.org/abs/2504.19979v2)** | 2025-04-29 |  |
-| **[PhishLang: A Real-Time, Fully Client-Side Phishing Detection Framework Using MobileBERT](http://arxiv.org/abs/2408.05667v3)** | 2025-04-16 |  |
 
 ## source identification
 | **Title** | **Date** | **Comment** |
