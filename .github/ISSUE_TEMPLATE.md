@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - September 25, 2025
+title: Latest 15 Papers - September 26, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/waityousea/DailyArXiv/) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## source localization
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Geometric Autoencoder Priors for Bayesian Inversion: Learn First Observe Later](http://arxiv.org/abs/2509.19929v1)** | 2025-09-24 |  |
 | **[Structure-prior Informed Diffusion Model for Graph Source Localization with Limited Data](http://arxiv.org/abs/2502.17928v3)** | 2025-09-23 | CIKM 2025 |
 | **[A Steered Response Power Method for Sound Source Localization With Generic Acoustic Models](http://arxiv.org/abs/2509.15702v1)** | 2025-09-19 | <details><summary>Accep...</summary><p>Accepted for publication in IEEE Transactions on Audio, Speech and Language Processing</p></details> |
 | **[Evaluating the Limitations of Local LLMs in Solving Complex Programming Challenges](http://arxiv.org/abs/2509.15283v1)** | 2025-09-18 | <details><summary>Comme...</summary><p>Comments: 16 pages, 3 figures, 8 tables, accepted to CCSC Eastern 2025</p></details> |
@@ -21,7 +22,6 @@ labels: documentation
 | **[AV-SSAN: Audio-Visual Selective DoA Estimation through Explicit Multi-Band Semantic-Spatial Alignment](http://arxiv.org/abs/2507.07384v2)** | 2025-08-06 | 9 pages |
 | **[Beamformed 360° Sound Maps: U-Net-Driven Acoustic Source Segmentation and Localization](http://arxiv.org/abs/2508.00307v1)** | 2025-08-01 |  |
 | **[The Effect of Prior Parameters on Standardized Kalman Filter-Based EEG Source Localization](http://arxiv.org/abs/2507.23450v1)** | 2025-07-31 |  |
-| **[Sound Source Localization for Human-Robot Interaction in Outdoor Environments](http://arxiv.org/abs/2507.21431v1)** | 2025-07-29 |  |
 
 ## source detection
 | **Title** | **Date** | **Comment** |
