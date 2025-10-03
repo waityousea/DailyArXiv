@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - October 02, 2025
+title: Latest 15 Papers - October 03, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/waityousea/DailyArXiv/) page for a better reading experience and more papers.**
@@ -45,6 +45,7 @@ labels: documentation
 ## source identification
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Online Non-convex Optimization with Long-term Non-convex Constraints](http://arxiv.org/abs/2311.02426v4)** | 2025-10-01 |  |
 | **[OmniDFA: A Unified Framework for Open Set Synthesis Image Detection and Few-Shot Attribution](http://arxiv.org/abs/2509.25682v1)** | 2025-09-30 | 19 pages, 5 figures |
 | **[Physics-informed sensor coverage through structure preserving machine learning](http://arxiv.org/abs/2509.10363v1)** | 2025-09-12 |  |
 | **[A Bayesian thinning algorithm for the point source identification of heat equation](http://arxiv.org/abs/2509.14245v1)** | 2025-09-04 | 6 pages |
@@ -59,7 +60,6 @@ labels: documentation
 | **[Bandit on the Hunt: Dynamic Crawling for Cyber Threat Intelligence](http://arxiv.org/abs/2504.18375v1)** | 2025-04-25 | <details><summary>12 pa...</summary><p>12 pages, 1 figure, 3 tables</p></details> |
 | **[Distributed Multi-robot Source Seeking in Unknown Environments with Unknown Number of Sources](http://arxiv.org/abs/2503.11048v1)** | 2025-03-14 | ICRA 2025 |
 | **[Real-time Pollutant Identification through Optical PM Micro-Sensor](http://arxiv.org/abs/2503.10724v1)** | 2025-03-13 | 11 pages, 4 figures |
-| **[Team NYCU at Defactify4: Robust Detection and Source Identification of AI-Generated Images Using CNN and CLIP-Based Models](http://arxiv.org/abs/2503.10718v1)** | 2025-03-13 |  |
 
 ## diffusion source
 | **Title** | **Date** | **Comment** |
