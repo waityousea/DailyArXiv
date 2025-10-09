@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - October 08, 2025
+title: Latest 15 Papers - October 09, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/waityousea/DailyArXiv/) page for a better reading experience and more papers.**
@@ -26,6 +26,7 @@ labels: documentation
 ## source detection
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[StarEmbed: Benchmarking Time Series Foundation Models on Astronomical Observations of Variable Stars](http://arxiv.org/abs/2510.06200v1)** | 2025-10-07 |  |
 | **[Can Indirect Prompt Injection Attacks Be Detected and Removed?](http://arxiv.org/abs/2502.16580v5)** | 2025-10-04 | ACL 2025 Main |
 | **[Is It Certainly a Deepfake? Reliability Analysis in Detection & Generation Ecosystem](http://arxiv.org/abs/2509.17550v2)** | 2025-09-29 | <details><summary>The p...</summary><p>The paper was submitted without the knowledge of co-authors and approval of the co-authors' institutes. It will be resubmitted later when the approvals are taken</p></details> |
 | **[Optimal Stopping for Sequential Bayesian Experimental Design](http://arxiv.org/abs/2509.21734v1)** | 2025-09-26 |  |
@@ -40,7 +41,6 @@ labels: documentation
 | **[SourceDetMamba: A Graph-aware State Space Model for Source Detection in Sequential Hypergraphs](http://arxiv.org/abs/2505.12910v2)** | 2025-06-04 | Accepted by IJCAI25 |
 | **[HyperDet: Source Detection in Hypergraphs via Interactive Relationship Construction and Feature-rich Attention Fusion](http://arxiv.org/abs/2505.12894v2)** | 2025-06-04 | Accepted by IJCAI25 |
 | **[Replay Attacks Against Audio Deepfake Detection](http://arxiv.org/abs/2505.14862v2)** | 2025-06-01 |  |
-| **[Enhanced RMT estimator for signal number estimation in the presence of colored noise](http://arxiv.org/abs/2211.12942v3)** | 2025-05-05 | 20 pages, 6 figures |
 
 ## source identification
 | **Title** | **Date** | **Comment** |
@@ -57,9 +57,6 @@ labels: documentation
 | **[Using Wavelet Domain Fingerprints to Improve Source Camera Identification](http://arxiv.org/abs/2507.01712v1)** | 2025-07-02 |  |
 | **[Dynamic Watermark Generation for Digital Images using Perimeter Gated SPAD Imager PUFs](http://arxiv.org/abs/2506.17134v1)** | 2025-06-20 | <details><summary>5 pag...</summary><p>5 pages, 7 figures, accepted at MWSCAS 2025 Conference</p></details> |
 | **[Multi-agent Systems for Misinformation Lifecycle : Detection, Correction And Source Identification](http://arxiv.org/abs/2505.17511v1)** | 2025-05-23 |  |
-| **[Bandit on the Hunt: Dynamic Crawling for Cyber Threat Intelligence](http://arxiv.org/abs/2504.18375v1)** | 2025-04-25 | <details><summary>12 pa...</summary><p>12 pages, 1 figure, 3 tables</p></details> |
-| **[Distributed Multi-robot Source Seeking in Unknown Environments with Unknown Number of Sources](http://arxiv.org/abs/2503.11048v1)** | 2025-03-14 | ICRA 2025 |
-| **[Real-time Pollutant Identification through Optical PM Micro-Sensor](http://arxiv.org/abs/2503.10724v1)** | 2025-03-13 | 11 pages, 4 figures |
 
 ## diffusion source
 | **Title** | **Date** | **Comment** |
