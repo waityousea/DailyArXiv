@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - October 14, 2025
+title: Latest 15 Papers - October 15, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/waityousea/DailyArXiv/) page for a better reading experience and more papers.**
@@ -7,6 +7,8 @@ labels: documentation
 ## source localization
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[MRSAudio: A Large-Scale Multimodal Recorded Spatial Audio Dataset with Refined Annotations](http://arxiv.org/abs/2510.10396v2)** | 2025-10-14 | 24 pages |
+| **[Observer-Based Source Localization in Tree Infection Networks via Laplace Transforms](http://arxiv.org/abs/2510.09828v1)** | 2025-10-10 | <details><summary>25 pa...</summary><p>25 pages, 9 figures, 1 table</p></details> |
 | **[Direction Estimation of Sound Sources Using Microphone Arrays and Signal Strength](http://arxiv.org/abs/2507.03466v3)** | 2025-10-10 | <details><summary>Accep...</summary><p>Accepted to the 32nd International Conference on Systems Engineering (ICSEng'2025)</p></details> |
 | **[Estimating Brain Activity with High Spatial and Temporal Resolution using a Naturalistic MEG-fMRI Encoding Model](http://arxiv.org/abs/2510.09415v1)** | 2025-10-10 |  |
 | **[Wireless Datasets for Aerial Networks](http://arxiv.org/abs/2510.08752v1)** | 2025-10-09 |  |
@@ -20,8 +22,6 @@ labels: documentation
 | **[Learning from Silence and Noise for Visual Sound Source Localization](http://arxiv.org/abs/2508.21761v1)** | 2025-08-29 | <details><summary>10 pa...</summary><p>10 pages, 2 figures, 4 tables + Supplementary Material</p></details> |
 | **[Real-Time Tracking Antenna System for Moving Targets](http://arxiv.org/abs/2508.20905v1)** | 2025-08-28 |  |
 | **[Take That for Me: Multimodal Exophora Resolution with Interactive Questioning for Ambiguous Out-of-View Instructions](http://arxiv.org/abs/2508.16143v1)** | 2025-08-22 | <details><summary>See w...</summary><p>See website at https://emergentsystemlabstudent.github.io/MIEL/. Accepted at IEEE RO-MAN 2025</p></details> |
-| **[BEASST: Behavioral Entropic Gradient based Adaptive Source Seeking for Mobile Robots](http://arxiv.org/abs/2508.10363v1)** | 2025-08-14 |  |
-| **[AV-SSAN: Audio-Visual Selective DoA Estimation through Explicit Multi-Band Semantic-Spatial Alignment](http://arxiv.org/abs/2507.07384v2)** | 2025-08-06 | 9 pages |
 
 ## source detection
 | **Title** | **Date** | **Comment** |
@@ -31,16 +31,6 @@ labels: documentation
 | **[Is It Certainly a Deepfake? Reliability Analysis in Detection & Generation Ecosystem](http://arxiv.org/abs/2509.17550v2)** | 2025-09-29 | <details><summary>The p...</summary><p>The paper was submitted without the knowledge of co-authors and approval of the co-authors' institutes. It will be resubmitted later when the approvals are taken</p></details> |
 | **[Optimal Stopping for Sequential Bayesian Experimental Design](http://arxiv.org/abs/2509.21734v1)** | 2025-09-26 |  |
 | **[Parking Space Ground Truth Test Automation by Artificial Intelligence Using Convolutional Neural Networks](http://arxiv.org/abs/2509.13366v1)** | 2025-09-15 | 10 pages, 5 figures |
-| **[Neural Posterior Estimation for Cataloging Astronomical Images with Spatially Varying Backgrounds and Point Spread Functions](http://arxiv.org/abs/2503.00156v2)** | 2025-08-24 | <details><summary>Publi...</summary><p>Published in the Astronomical Journal</p></details> |
-| **[Two-Stage Framework for Efficient UAV-Based Wildfire Video Analysis with Adaptive Compression and Fire Source Detection](http://arxiv.org/abs/2508.16739v1)** | 2025-08-22 |  |
-| **[Catch Me If You Can: Finding the Source of Infections in Temporal Networks](http://arxiv.org/abs/2412.10877v2)** | 2025-08-12 | <details><summary>This ...</summary><p>This work is based on the first author's master thesis, which is available at arXiv:2503.13567</p></details> |
-| **[BleedOrigin: Dynamic Bleeding Source Localization in Endoscopic Submucosal Dissection via Dual-Stage Detection and Tracking](http://arxiv.org/abs/2507.15094v1)** | 2025-07-20 | 27 pages, 14 figures |
-| **[Enforcing Speech Content Privacy in Environmental Sound Recordings using Segment-wise Waveform Reversal](http://arxiv.org/abs/2507.08412v1)** | 2025-07-11 |  |
-| **[Addressing overlapping communities in multiple-source detection: An edge clustering approach for complex networks](http://arxiv.org/abs/2507.08265v1)** | 2025-07-11 |  |
-| **[Source Detection in Hypergraph Epidemic Dynamics using a Higher-Order Dynamic Message Passing Algorithm](http://arxiv.org/abs/2507.02523v1)** | 2025-07-03 |  |
-| **[SourceDetMamba: A Graph-aware State Space Model for Source Detection in Sequential Hypergraphs](http://arxiv.org/abs/2505.12910v2)** | 2025-06-04 | Accepted by IJCAI25 |
-| **[HyperDet: Source Detection in Hypergraphs via Interactive Relationship Construction and Feature-rich Attention Fusion](http://arxiv.org/abs/2505.12894v2)** | 2025-06-04 | Accepted by IJCAI25 |
-| **[Replay Attacks Against Audio Deepfake Detection](http://arxiv.org/abs/2505.14862v2)** | 2025-06-01 |  |
 
 ## source identification
 | **Title** | **Date** | **Comment** |
@@ -57,6 +47,9 @@ labels: documentation
 | **[Using Wavelet Domain Fingerprints to Improve Source Camera Identification](http://arxiv.org/abs/2507.01712v1)** | 2025-07-02 |  |
 | **[Dynamic Watermark Generation for Digital Images using Perimeter Gated SPAD Imager PUFs](http://arxiv.org/abs/2506.17134v1)** | 2025-06-20 | <details><summary>5 pag...</summary><p>5 pages, 7 figures, accepted at MWSCAS 2025 Conference</p></details> |
 | **[Multi-agent Systems for Misinformation Lifecycle : Detection, Correction And Source Identification](http://arxiv.org/abs/2505.17511v1)** | 2025-05-23 |  |
+| **[Bandit on the Hunt: Dynamic Crawling for Cyber Threat Intelligence](http://arxiv.org/abs/2504.18375v1)** | 2025-04-25 | <details><summary>12 pa...</summary><p>12 pages, 1 figure, 3 tables</p></details> |
+| **[Distributed Multi-robot Source Seeking in Unknown Environments with Unknown Number of Sources](http://arxiv.org/abs/2503.11048v1)** | 2025-03-14 | ICRA 2025 |
+| **[Real-time Pollutant Identification through Optical PM Micro-Sensor](http://arxiv.org/abs/2503.10724v1)** | 2025-03-13 | 11 pages, 4 figures |
 
 ## diffusion source
 | **Title** | **Date** | **Comment** |
