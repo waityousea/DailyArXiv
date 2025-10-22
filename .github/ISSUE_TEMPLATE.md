@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - October 21, 2025
+title: Latest 15 Papers - October 22, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/waityousea/DailyArXiv/) page for a better reading experience and more papers.**
@@ -47,6 +47,19 @@ labels: documentation
 | --- | --- | --- |
 | **[Online Non-convex Optimization with Long-term Non-convex Constraints](http://arxiv.org/abs/2311.02426v4)** | 2025-10-01 |  |
 | **[OmniDFA: A Unified Framework for Open Set Synthesis Image Detection and Few-Shot Attribution](http://arxiv.org/abs/2509.25682v1)** | 2025-09-30 | 19 pages, 5 figures |
+| **[Physics-informed sensor coverage through structure preserving machine learning](http://arxiv.org/abs/2509.10363v1)** | 2025-09-12 |  |
+| **[A Bayesian thinning algorithm for the point source identification of heat equation](http://arxiv.org/abs/2509.14245v1)** | 2025-09-04 | 6 pages |
+| **[An Unsupervised Deep XAI Framework for Localization of Concurrent Replay Attacks in Nuclear Reactor Signals](http://arxiv.org/abs/2508.09162v2)** | 2025-08-25 | <details><summary>Added...</summary><p>Added references, corrected typos, grammar check, authors updated</p></details> |
+| **[Set-Valued Transformer Network for High-Emission Mobile Source Identification](http://arxiv.org/abs/2508.11976v1)** | 2025-08-16 |  |
+| **[Horizontal and Vertical Federated Causal Structure Learning via Higher-order Cumulants](http://arxiv.org/abs/2507.06888v1)** | 2025-07-09 |  |
+| **[Goal-oriented optimal sensor placement for PDE-constrained inverse problems in crisis management](http://arxiv.org/abs/2507.02500v2)** | 2025-07-08 |  |
+| **[Moments, Time-Inversion and Source Identification for the Heat Equation](http://arxiv.org/abs/2507.02677v1)** | 2025-07-03 | 30 pages |
+| **[Using Wavelet Domain Fingerprints to Improve Source Camera Identification](http://arxiv.org/abs/2507.01712v1)** | 2025-07-02 |  |
+| **[Dynamic Watermark Generation for Digital Images using Perimeter Gated SPAD Imager PUFs](http://arxiv.org/abs/2506.17134v1)** | 2025-06-20 | <details><summary>5 pag...</summary><p>5 pages, 7 figures, accepted at MWSCAS 2025 Conference</p></details> |
+| **[Multi-agent Systems for Misinformation Lifecycle : Detection, Correction And Source Identification](http://arxiv.org/abs/2505.17511v1)** | 2025-05-23 |  |
+| **[Bandit on the Hunt: Dynamic Crawling for Cyber Threat Intelligence](http://arxiv.org/abs/2504.18375v1)** | 2025-04-25 | <details><summary>12 pa...</summary><p>12 pages, 1 figure, 3 tables</p></details> |
+| **[Distributed Multi-robot Source Seeking in Unknown Environments with Unknown Number of Sources](http://arxiv.org/abs/2503.11048v1)** | 2025-03-14 | ICRA 2025 |
+| **[Real-time Pollutant Identification through Optical PM Micro-Sensor](http://arxiv.org/abs/2503.10724v1)** | 2025-03-13 | 11 pages, 4 figures |
 
 ## diffusion source
 | **Title** | **Date** | **Comment** |
