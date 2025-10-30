@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - October 29, 2025
+title: Latest 15 Papers - October 30, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/waityousea/DailyArXiv/) page for a better reading experience and more papers.**
@@ -7,21 +7,30 @@ labels: documentation
 ## source localization
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Sound Source Localization for Spatial Mapping of Surgical Actions in Dynamic Scenes](http://arxiv.org/abs/2510.24332v1)** | 2025-10-28 |  |
 | **[HiFi-HARP: A High-Fidelity 7th-Order Ambisonic Room Impulse Response Dataset](http://arxiv.org/abs/2510.21257v1)** | 2025-10-24 | <details><summary>Under...</summary><p>Under review for ICASSP 2026</p></details> |
 | **[MRSAudio: A Large-Scale Multimodal Recorded Spatial Audio Dataset with Refined Annotations](http://arxiv.org/abs/2510.10396v3)** | 2025-10-17 | 24 pages |
 | **[Multi Agent Switching Mode Controller for Sound Source localization](http://arxiv.org/abs/2510.14849v1)** | 2025-10-16 |  |
 | **[Observer-Based Source Localization in Tree Infection Networks via Laplace Transforms](http://arxiv.org/abs/2510.09828v1)** | 2025-10-10 | <details><summary>25 pa...</summary><p>25 pages, 9 figures, 1 table</p></details> |
 | **[Direction Estimation of Sound Sources Using Microphone Arrays and Signal Strength](http://arxiv.org/abs/2507.03466v3)** | 2025-10-10 | <details><summary>Accep...</summary><p>Accepted to the 32nd International Conference on Systems Engineering (ICSEng'2025)</p></details> |
 | **[Estimating Brain Activity with High Spatial and Temporal Resolution using a Naturalistic MEG-fMRI Encoding Model](http://arxiv.org/abs/2510.09415v1)** | 2025-10-10 |  |
+| **[Wireless Datasets for Aerial Networks](http://arxiv.org/abs/2510.08752v1)** | 2025-10-09 |  |
+| **[Geometric Autoencoder Priors for Bayesian Inversion: Learn First Observe Later](http://arxiv.org/abs/2509.19929v1)** | 2025-09-24 |  |
+| **[Structure-prior Informed Diffusion Model for Graph Source Localization with Limited Data](http://arxiv.org/abs/2502.17928v3)** | 2025-09-23 | CIKM 2025 |
+| **[A Steered Response Power Method for Sound Source Localization With Generic Acoustic Models](http://arxiv.org/abs/2509.15702v1)** | 2025-09-19 | <details><summary>Accep...</summary><p>Accepted for publication in IEEE Transactions on Audio, Speech and Language Processing</p></details> |
+| **[Evaluating the Limitations of Local LLMs in Solving Complex Programming Challenges](http://arxiv.org/abs/2509.15283v1)** | 2025-09-18 | <details><summary>Comme...</summary><p>Comments: 16 pages, 3 figures, 8 tables, accepted to CCSC Eastern 2025</p></details> |
+| **[Multi-robot Multi-source Localization in Complex Flows with Physics-Preserving Environment Models](http://arxiv.org/abs/2509.14228v1)** | 2025-09-17 |  |
+| **[Physics-informed sensor coverage through structure preserving machine learning](http://arxiv.org/abs/2509.10363v1)** | 2025-09-12 |  |
+| **[On Time Delay Interpolation for Improved Acoustic Reflector Localization](http://arxiv.org/abs/2509.04629v1)** | 2025-09-04 | <details><summary>20 pa...</summary><p>20 pages, 13 figures, 2 tables, submitted to J. Acoust. Soc. Am</p></details> |
 
 ## source detection
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Is It Certainly a Deepfake? Reliability Analysis in Detection & Generation Ecosystem](http://arxiv.org/abs/2509.17550v3)** | 2025-10-28 | <details><summary>Accep...</summary><p>Accepted for publication at the ICCV 2025 workshop - STREAM</p></details> |
 | **[Neural Posterior Estimation for Cataloging Astronomical Images from the Legacy Survey of Space and Time](http://arxiv.org/abs/2510.15315v1)** | 2025-10-17 |  |
 | **[Polarization based direction of arrival estimation using a radio interferometric array](http://arxiv.org/abs/2510.15116v1)** | 2025-10-16 |  |
 | **[StarEmbed: Benchmarking Time Series Foundation Models on Astronomical Observations of Variable Stars](http://arxiv.org/abs/2510.06200v1)** | 2025-10-07 |  |
 | **[Can Indirect Prompt Injection Attacks Be Detected and Removed?](http://arxiv.org/abs/2502.16580v5)** | 2025-10-04 | ACL 2025 Main |
-| **[Is It Certainly a Deepfake? Reliability Analysis in Detection & Generation Ecosystem](http://arxiv.org/abs/2509.17550v3)** | 2025-10-28 | <details><summary>Accep...</summary><p>Accepted for publication at the ICCV 2025 workshop - STREAM</p></details> |
 | **[Optimal Stopping for Sequential Bayesian Experimental Design](http://arxiv.org/abs/2509.21734v1)** | 2025-09-26 |  |
 | **[Parking Space Ground Truth Test Automation by Artificial Intelligence Using Convolutional Neural Networks](http://arxiv.org/abs/2509.13366v1)** | 2025-09-15 | 10 pages, 5 figures |
 | **[Neural Posterior Estimation for Cataloging Astronomical Images with Spatially Varying Backgrounds and Point Spread Functions](http://arxiv.org/abs/2503.00156v2)** | 2025-08-24 | <details><summary>Publi...</summary><p>Published in the Astronomical Journal</p></details> |
