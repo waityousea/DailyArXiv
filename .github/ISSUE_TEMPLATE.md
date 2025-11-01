@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - October 31, 2025
+title: Latest 15 Papers - November 01, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/waityousea/DailyArXiv/) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## source localization
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Transcending Sparse Measurement Limits: Operator-Learning-Driven Data Super-Resolution for Inverse Source Problem](http://arxiv.org/abs/2510.26227v1)** | 2025-10-30 | <details><summary>26 pa...</summary><p>26 pages, 14 figures, 4 table</p></details> |
 | **[Sound Source Localization for Spatial Mapping of Surgical Actions in Dynamic Scenes](http://arxiv.org/abs/2510.24332v1)** | 2025-10-28 |  |
 | **[HiFi-HARP: A High-Fidelity 7th-Order Ambisonic Room Impulse Response Dataset](http://arxiv.org/abs/2510.21257v1)** | 2025-10-24 | <details><summary>Under...</summary><p>Under review for ICASSP 2026</p></details> |
 | **[MRSAudio: A Large-Scale Multimodal Recorded Spatial Audio Dataset with Refined Annotations](http://arxiv.org/abs/2510.10396v3)** | 2025-10-17 | 24 pages |
@@ -16,6 +17,11 @@ labels: documentation
 | **[Estimating Brain Activity with High Spatial and Temporal Resolution using a Naturalistic MEG-fMRI Encoding Model](http://arxiv.org/abs/2510.09415v1)** | 2025-10-10 |  |
 | **[Wireless Datasets for Aerial Networks](http://arxiv.org/abs/2510.08752v1)** | 2025-10-09 |  |
 | **[Geometric Autoencoder Priors for Bayesian Inversion: Learn First Observe Later](http://arxiv.org/abs/2509.19929v1)** | 2025-09-24 |  |
+| **[Structure-prior Informed Diffusion Model for Graph Source Localization with Limited Data](http://arxiv.org/abs/2502.17928v3)** | 2025-09-23 | CIKM 2025 |
+| **[A Steered Response Power Method for Sound Source Localization With Generic Acoustic Models](http://arxiv.org/abs/2509.15702v1)** | 2025-09-19 | <details><summary>Accep...</summary><p>Accepted for publication in IEEE Transactions on Audio, Speech and Language Processing</p></details> |
+| **[Evaluating the Limitations of Local LLMs in Solving Complex Programming Challenges](http://arxiv.org/abs/2509.15283v1)** | 2025-09-18 | <details><summary>Comme...</summary><p>Comments: 16 pages, 3 figures, 8 tables, accepted to CCSC Eastern 2025</p></details> |
+| **[Multi-robot Multi-source Localization in Complex Flows with Physics-Preserving Environment Models](http://arxiv.org/abs/2509.14228v1)** | 2025-09-17 |  |
+| **[Physics-informed sensor coverage through structure preserving machine learning](http://arxiv.org/abs/2509.10363v1)** | 2025-09-12 |  |
 
 ## source detection
 | **Title** | **Date** | **Comment** |
