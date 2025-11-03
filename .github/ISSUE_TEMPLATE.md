@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - November 02, 2025
+title: Latest 15 Papers - November 03, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/waityousea/DailyArXiv/) page for a better reading experience and more papers.**
@@ -27,7 +27,7 @@ labels: documentation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
 | **[Is It Certainly a Deepfake? Reliability Analysis in Detection & Generation Ecosystem](http://arxiv.org/abs/2509.17550v3)** | 2025-10-28 | <details><summary>Accep...</summary><p>Accepted for publication at the ICCV 2025 workshop - STREAM</p></details> |
-| **[Neural Posterior Estimation for Cataloging Astronomical Images from the Legacy Survey of Space and Time](http://arxiv.org/abs/2510.15315v1)** | 2025-10-17 |  |
+| **[Neural Posterior Estimation for Cataloging Astronomical Images from the Legacy Survey of Space and Time](http://arxiv.org/abs/2510.15315v2)** | 2025-10-31 |  |
 | **[Polarization based direction of arrival estimation using a radio interferometric array](http://arxiv.org/abs/2510.15116v1)** | 2025-10-16 |  |
 | **[StarEmbed: Benchmarking Time Series Foundation Models on Astronomical Observations of Variable Stars](http://arxiv.org/abs/2510.06200v1)** | 2025-10-07 |  |
 | **[Can Indirect Prompt Injection Attacks Be Detected and Removed?](http://arxiv.org/abs/2502.16580v5)** | 2025-10-04 | ACL 2025 Main |
