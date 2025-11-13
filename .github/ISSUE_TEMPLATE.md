@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - November 11, 2025
+title: Latest 15 Papers - November 13, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/waityousea/DailyArXiv/) page for a better reading experience and more papers.**
@@ -7,85 +7,95 @@ labels: documentation
 ## source localization
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[A DeepONet joint Neural Tangent Kernel Hybrid Framework for Physics-Informed Inverse Source Problems and Robust Image Reconstruction](http://arxiv.org/abs/2511.00338v1)** | 2025-11-01 |  |
-| **[Transcending Sparse Measurement Limits: Operator-Learning-Driven Data Super-Resolution for Inverse Source Problem](http://arxiv.org/abs/2510.26227v1)** | 2025-10-30 | <details><summary>26 pa...</summary><p>26 pages, 14 figures, 4 table</p></details> |
-| **[Sound Source Localization for Spatial Mapping of Surgical Actions in Dynamic Scenes](http://arxiv.org/abs/2510.24332v1)** | 2025-10-28 |  |
-| **[HiFi-HARP: A High-Fidelity 7th-Order Ambisonic Room Impulse Response Dataset](http://arxiv.org/abs/2510.21257v1)** | 2025-10-24 | <details><summary>Under...</summary><p>Under review for ICASSP 2026</p></details> |
-| **[MRSAudio: A Large-Scale Multimodal Recorded Spatial Audio Dataset with Refined Annotations](http://arxiv.org/abs/2510.10396v3)** | 2025-10-17 | 24 pages |
-| **[Multi Agent Switching Mode Controller for Sound Source localization](http://arxiv.org/abs/2510.14849v1)** | 2025-10-16 |  |
-| **[Observer-Based Source Localization in Tree Infection Networks via Laplace Transforms](http://arxiv.org/abs/2510.09828v1)** | 2025-10-10 | <details><summary>25 pa...</summary><p>25 pages, 9 figures, 1 table</p></details> |
-| **[Direction Estimation of Sound Sources Using Microphone Arrays and Signal Strength](http://arxiv.org/abs/2507.03466v3)** | 2025-10-10 | <details><summary>Accep...</summary><p>Accepted to the 32nd International Conference on Systems Engineering (ICSEng'2025)</p></details> |
-| **[Estimating Brain Activity with High Spatial and Temporal Resolution using a Naturalistic MEG-fMRI Encoding Model](http://arxiv.org/abs/2510.09415v1)** | 2025-10-10 |  |
-| **[Wireless Datasets for Aerial Networks](http://arxiv.org/abs/2510.08752v1)** | 2025-10-09 |  |
-| **[Geometric Autoencoder Priors for Bayesian Inversion: Learn First Observe Later](http://arxiv.org/abs/2509.19929v1)** | 2025-09-24 |  |
-| **[Structure-prior Informed Diffusion Model for Graph Source Localization with Limited Data](http://arxiv.org/abs/2502.17928v3)** | 2025-09-23 | CIKM 2025 |
-| **[A Steered Response Power Method for Sound Source Localization With Generic Acoustic Models](http://arxiv.org/abs/2509.15702v1)** | 2025-09-19 | <details><summary>Accep...</summary><p>Accepted for publication in IEEE Transactions on Audio, Speech and Language Processing</p></details> |
-| **[Evaluating the Limitations of Local LLMs in Solving Complex Programming Challenges](http://arxiv.org/abs/2509.15283v1)** | 2025-09-18 | <details><summary>Comme...</summary><p>Comments: 16 pages, 3 figures, 8 tables, accepted to CCSC Eastern 2025</p></details> |
-| **[Multi-robot Multi-source Localization in Complex Flows with Physics-Preserving Environment Models](http://arxiv.org/abs/2509.14228v1)** | 2025-09-17 |  |
+| **[Aeroacoustic Source Localization](https://arxiv.org/pdf/2306.14276v2)** | 2023-07-06 |  |
+| **[Iterative Sound Source Localization for Unknown Number of Sources](https://arxiv.org/pdf/2206.12273v1)** | 2022-06-27 | <details><summary>Accep...</summary><p>Accepted by Interspeech 2022</p></details> |
+| **[Back to the Source: an Online Approach for Sensor Placement and Source Localization](https://arxiv.org/pdf/1702.01056v2)** | 2017-02-07 | <details><summary>Accep...</summary><p>Accepted for presentation at WWW '17</p></details> |
+| **[GraphSL: An Open-Source Library for Graph Source Localization Approaches and Benchmark Datasets](https://arxiv.org/pdf/2405.03724v2)** | 2024-07-30 |  |
+| **[Optimal Localization of Diffusion Sources in Complex Networks](https://arxiv.org/pdf/1703.04915v1)** | 2017-03-16 | 6 figures |
+| **[Reflection-Aware Sound Source Localization](https://arxiv.org/pdf/1711.07791v1)** | 2017-11-22 | <details><summary>Submi...</summary><p>Submitted to ICRA 2018. The working video is available at (https://youtu.be/TkQ36lMEC-M)</p></details> |
+| **[Mix and Localize: Localizing Sound Sources in Mixtures](https://arxiv.org/pdf/2211.15058v1)** | 2022-11-29 | CVPR 2022 |
+| **[Multi-source adversarial transfer learning based on similar source domains with local features](https://arxiv.org/pdf/2305.19067v2)** | 2023-06-30 | <details><summary>Submi...</summary><p>Submitted to Information Fusion</p></details> |
+| **[The LOCATA Challenge: Acoustic Source Localization and Tracking](https://arxiv.org/pdf/1909.01008v3)** | 2020-10-22 | <details><summary>Publi...</summary><p>Published in IEEE/ACM Transactions on Audio, Speech, and Language Processing</p></details> |
+| **[Localization of Sound Sources in a Room with One Microphone](https://arxiv.org/pdf/1707.04504v1)** | 2017-07-17 |  |
+| **[Adjoint-Based Identification of Sound Sources for Sound Reinforcement and Source Localization](https://arxiv.org/pdf/2301.08620v1)** | 2023-01-23 |  |
+| **[Sparse Bayesian Learning for EEG Source Localization](https://arxiv.org/pdf/1501.04621v1)** | 2015-01-21 | <details><summary>arXiv...</summary><p>arXiv admin note: substantial text overlap with arXiv:1406.2434</p></details> |
+| **[Low-Degree Polynomials Extract from Local Sources](https://arxiv.org/pdf/2205.13725v1)** | 2022-05-30 | 44 pages |
+| **[Learning to Localize Sound Source in Visual Scenes](https://arxiv.org/pdf/1803.03849v1)** | 2019-02-18 | <details><summary>To ap...</summary><p>To appear in CVPR 2018. Total 9 pages</p></details> |
+| **[Learning to Visually Localize Sound Sources from Mixtures without Prior Source Knowledge](https://arxiv.org/pdf/2403.17420v1)** | 2024-04-04 | <details><summary>Accep...</summary><p>Accepted at CVPR 2024</p></details> |
 
 ## source detection
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Neural Posterior Estimation for Cataloging Astronomical Images from the Legacy Survey of Space and Time](http://arxiv.org/abs/2510.15315v3)** | 2025-11-05 |  |
-| **[Is It Certainly a Deepfake? Reliability Analysis in Detection & Generation Ecosystem](http://arxiv.org/abs/2509.17550v3)** | 2025-10-28 | <details><summary>Accep...</summary><p>Accepted for publication at the ICCV 2025 workshop - STREAM</p></details> |
-| **[Polarization based direction of arrival estimation using a radio interferometric array](http://arxiv.org/abs/2510.15116v1)** | 2025-10-16 |  |
-| **[StarEmbed: Benchmarking Time Series Foundation Models on Astronomical Observations of Variable Stars](http://arxiv.org/abs/2510.06200v1)** | 2025-10-07 |  |
-| **[Can Indirect Prompt Injection Attacks Be Detected and Removed?](http://arxiv.org/abs/2502.16580v5)** | 2025-10-04 | ACL 2025 Main |
-| **[Optimal Stopping for Sequential Bayesian Experimental Design](http://arxiv.org/abs/2509.21734v1)** | 2025-09-26 |  |
-| **[Parking Space Ground Truth Test Automation by Artificial Intelligence Using Convolutional Neural Networks](http://arxiv.org/abs/2509.13366v1)** | 2025-09-15 | 10 pages, 5 figures |
-| **[Neural Posterior Estimation for Cataloging Astronomical Images with Spatially Varying Backgrounds and Point Spread Functions](http://arxiv.org/abs/2503.00156v2)** | 2025-08-24 | <details><summary>Publi...</summary><p>Published in the Astronomical Journal</p></details> |
-| **[Two-Stage Framework for Efficient UAV-Based Wildfire Video Analysis with Adaptive Compression and Fire Source Detection](http://arxiv.org/abs/2508.16739v1)** | 2025-08-22 |  |
-| **[Catch Me If You Can: Finding the Source of Infections in Temporal Networks](http://arxiv.org/abs/2412.10877v2)** | 2025-08-12 | <details><summary>This ...</summary><p>This work is based on the first author's master thesis, which is available at arXiv:2503.13567</p></details> |
-| **[BleedOrigin: Dynamic Bleeding Source Localization in Endoscopic Submucosal Dissection via Dual-Stage Detection and Tracking](http://arxiv.org/abs/2507.15094v1)** | 2025-07-20 | 27 pages, 14 figures |
-| **[Enforcing Speech Content Privacy in Environmental Sound Recordings using Segment-wise Waveform Reversal](http://arxiv.org/abs/2507.08412v1)** | 2025-07-11 |  |
-| **[Addressing overlapping communities in multiple-source detection: An edge clustering approach for complex networks](http://arxiv.org/abs/2507.08265v1)** | 2025-07-11 |  |
-| **[Source Detection in Hypergraph Epidemic Dynamics using a Higher-Order Dynamic Message Passing Algorithm](http://arxiv.org/abs/2507.02523v1)** | 2025-07-03 |  |
-| **[SourceDetMamba: A Graph-aware State Space Model for Source Detection in Sequential Hypergraphs](http://arxiv.org/abs/2505.12910v2)** | 2025-06-04 | Accepted by IJCAI25 |
+| **[Source-Free Object Detection with Detection Transformer](https://arxiv.org/pdf/2510.11090v1)** | 2025-10-14 | <details><summary>IEEE ...</summary><p>IEEE Transactions on Image Processing</p></details> |
+| **[Adversarial Alignment for Source Free Object Detection](https://arxiv.org/pdf/2301.04265v1)** | 2023-01-12 |  |
+| **[Gun Source and Muzzle Head Detection](https://arxiv.org/pdf/2001.11120v1)** | 2021-05-20 | EI 2020 |
+| **[Malicious Source Code Detection Using Transformer](https://arxiv.org/pdf/2209.07957v1)** | 2022-09-19 |  |
+| **[Social Diffusion Sources Can Escape Detection](https://arxiv.org/pdf/2102.10539v2)** | 2022-09-05 | <details><summary>100 p...</summary><p>100 pages, 80 figures</p></details> |
+| **[SFUOD: Source-Free Unknown Object Detection](https://arxiv.org/pdf/2507.17373v1)** | 2025-07-24 | <details><summary>This ...</summary><p>This paper has been accepted by ICCV 2025</p></details> |
+| **[Conformal Prediction for Multi-Source Detection on a Network](https://arxiv.org/pdf/2511.08867v1)** | 2025-11-13 |  |
+| **[Academic Source Code Plagiarism Detection by Measuring Program Behavioural Similarity](https://arxiv.org/pdf/2102.03995v1)** | 2021-04-23 | 19 pages |
+| **[Vulnerability Detection in Open Source Software: An Introduction](https://arxiv.org/pdf/2203.16428v1)** | 2022-03-31 | <details><summary>This ...</summary><p>This version dated March 26th 2017</p></details> |
+| **[Detection of Rumors and Their Sources in Social Networks: A Comprehensive Survey](https://arxiv.org/pdf/2501.05292v1)** | 2025-01-10 |  |
+| **[Rumor Source Detection under Querying with Untruthful Answers](https://arxiv.org/pdf/1711.05496v5)** | 2020-10-27 |  |
+| **[Harnessing the Power of LLMs in Source Code Vulnerability Detection](https://arxiv.org/pdf/2408.03489v1)** | 2024-08-08 |  |
+| **[Analysis and Detection of Pathological Voice using Glottal Source Features](https://arxiv.org/pdf/2309.14080v2)** | 2023-10-18 | <details><summary>Copyr...</summary><p>Copyright 2020 IEEE. Personal use of this material is permitted. Permission from IEEE must be obtained for all other uses, in any current or future media, including reprinting/republishing this material for advertising or promotional purposes, creating new collective works, for resale or redistribution to servers or lists, or reuse of any copyrighted component of this work in other works</p></details> |
+| **[3D Detection and Characterisation of ALMA Sources through Deep Learning](https://arxiv.org/pdf/2211.11462v1)** | 2022-11-22 |  |
+| **[DECORAS: detection and characterization of radio-astronomical sources using deep learning](https://arxiv.org/pdf/2109.09077v2)** | 2022-07-25 | submitted to MNRAS |
 
 ## source identification
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Sparse Source Identification in Transient Advection-Diffusion Problems with a Primal-Dual-Active-Point Strategy](http://arxiv.org/abs/2511.02552v1)** | 2025-11-04 |  |
-| **[Who Made This? Fake Detection and Source Attribution with Diffusion Features](http://arxiv.org/abs/2510.27602v1)** | 2025-10-31 |  |
-| **[Online Non-convex Optimization with Long-term Non-convex Constraints](http://arxiv.org/abs/2311.02426v4)** | 2025-10-01 |  |
-| **[OmniDFA: A Unified Framework for Open Set Synthesis Image Detection and Few-Shot Attribution](http://arxiv.org/abs/2509.25682v1)** | 2025-09-30 | 19 pages, 5 figures |
-| **[Physics-informed sensor coverage through structure preserving machine learning](http://arxiv.org/abs/2509.10363v1)** | 2025-09-12 |  |
+| **[Adjoint-Based Identification of Sound Sources for Sound Reinforcement and Source Localization](https://arxiv.org/pdf/2301.08620v1)** | 2023-01-23 |  |
+| **[Source Identification for Mixtures of Product Distributions](https://arxiv.org/pdf/2012.14540v1)** | 2021-01-01 |  |
+| **[A Method for Identification and Ranking of Requirements Sources](https://arxiv.org/pdf/2309.17034v1)** | 2023-10-02 |  |
+| **[Diffusion Source Identification on Networks with Statistical Confidence](https://arxiv.org/pdf/2106.04800v2)** | 2021-06-18 |  |
+| **[Identification of Anomalous Diffusion Sources by Unsupervised Learning](https://arxiv.org/pdf/2010.02168v1)** | 2020-10-06 | <details><summary>publi...</summary><p>published in physical review research</p></details> |
+| **[Identification of Source of Rumors in Social Networks with Incomplete Information](https://arxiv.org/pdf/1509.00557v1)** | 2015-09-03 |  |
+| **[Model-Based Active Source Identification in Complex Environments](https://arxiv.org/pdf/1706.01603v3)** | 2019-02-18 | <details><summary>19 pa...</summary><p>19 pages, 10 figures, journal</p></details> |
+| **[Source Camera Identification and Detection in Digital Videos through Blind Forensics](https://arxiv.org/pdf/2309.03353v1)** | 2023-09-08 | <details><summary>Submi...</summary><p>Submitted to IEEE for inclusion in Xplore- Digital Library. Paper presented at the International Conference on Recent Trends in Computational Engineering & Technologies (ICRTCET 18)with Paper Id: ICRTCET-227</p></details> |
+| **[PRNU Based Source Camera Identification for Webcam Videos](https://arxiv.org/pdf/2107.01885v1)** | 2021-07-06 | <details><summary>4 pag...</summary><p>4 pages, 3 figures, 3 tables</p></details> |
+| **[A Hybrid Approach to Video Source Identification](https://arxiv.org/pdf/1705.01854v1)** | 2017-05-05 |  |
+| **[Joint universal lossy coding and identification of stationary mixing sources with general alphabets](https://arxiv.org/pdf/0901.1904v1)** | 2016-11-15 | <details><summary>16 pa...</summary><p>16 pages, 1 figure; accepted to IEEE Transactions on Information Theory</p></details> |
+| **[Subspace Identification for Multi-Source Domain Adaptation](https://arxiv.org/pdf/2310.04723v2)** | 2023-12-15 | <details><summary>NeurI...</summary><p>NeurIPS2023 Spotlight</p></details> |
+| **[Covariance-domain Dictionary Learning for Overcomplete EEG Source Identification](https://arxiv.org/pdf/1512.00156v1)** | 2015-12-02 |  |
+| **[Biometric Identification Systems With Noisy Enrollment for Gaussian Source](https://arxiv.org/pdf/2010.10799v1)** | 2021-09-01 |  |
+| **[PRNU Based Source Camera Identification for Webcam and Smartphone Videos](https://arxiv.org/pdf/2201.11737v1)** | 2022-01-28 | <details><summary>4 pag...</summary><p>4 pages, 5 figures, 4 tables. arXiv admin note: substantial text overlap with arXiv:2107.01885</p></details> |
 
 ## diffusion source
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Kinetic Monte Carlo methods for three-dimensional diffusive capture problems in exterior domains](http://arxiv.org/abs/2406.13644v2)** | 2024-10-27 | 32 pages, 10 figures |
-| **[Radio U-Net: a convolutional neural network to detect diffuse radio sources in galaxy clusters and beyond](http://arxiv.org/abs/2408.10871v1)** | 2024-08-20 | <details><summary>Accep...</summary><p>Accepted by MNRAS, 16 pages, 9 figures, 2 tables</p></details> |
-| **[Source Localization for Cross Network Information Diffusion](http://arxiv.org/abs/2404.14668v1)** | 2024-04-23 | <details><summary>Code ...</summary><p>Code and data are available at: https://github.com/tanmoysr/CNSL/</p></details> |
-| **[3DStyle-Diffusion: Pursuing Fine-grained Text-driven 3D Stylization with 2D Diffusion Models](http://arxiv.org/abs/2311.05464v1)** | 2023-11-09 | ACM Multimedia 2023 |
-| **[Go viral or go broadcast? Characterizing the virality and growth of cascades](http://arxiv.org/abs/2006.01027v3)** | 2022-06-28 | <details><summary>10 pa...</summary><p>10 pages, 15 figures, 2 tables</p></details> |
-| **[Source Localization of Graph Diffusion via Variational Autoencoders for Graph Inverse Problems](http://arxiv.org/abs/2206.12327v1)** | 2022-06-24 | <details><summary>11 pa...</summary><p>11 pages, accepted by SIGKDD 2022</p></details> |
-| **[PrEF: Percolation-based Evolutionary Framework for the diffusion-source-localization problem in large networks](http://arxiv.org/abs/2205.07422v2)** | 2022-05-19 |  |
-| **[Social Diffusion Sources Can Escape Detection](http://arxiv.org/abs/2102.10539v2)** | 2021-11-11 | <details><summary>100 p...</summary><p>100 pages, 80 figures</p></details> |
-| **[Convolutional Deep Denoising Autoencoders for Radio Astronomical Images](http://arxiv.org/abs/2110.08618v1)** | 2021-10-16 | <details><summary>21 pa...</summary><p>21 pages, 14 figures, Accepted for publication by MNRAS</p></details> |
-| **[Diffusion Source Identification on Networks with Statistical Confidence](http://arxiv.org/abs/2106.04800v2)** | 2021-06-17 |  |
-| **[Information Source Finding in Networks: Querying with Budgets](http://arxiv.org/abs/2009.00795v5)** | 2020-10-22 | <details><summary>Part ...</summary><p>Part of this work was presented at the IEEE INFOCOM 2017 (arXiv:1805.03532) and IEEE ISIT 2018 (arXiv:1711.05496)</p></details> |
-| **[Necessary and Sufficient Budgets in Information Source Finding with Querying: Adaptivity Gap](http://arxiv.org/abs/1805.03532v9)** | 2020-10-06 | <details><summary>This ...</summary><p>This is a technical paper of ISIT 2018 and part of this work was presented at the IEEE INFOCOM 2017 (arXiv:1711.05496)</p></details> |
-| **[Identification of Anomalous Diffusion Sources by Unsupervised Learning](http://arxiv.org/abs/2010.02168v1)** | 2020-10-05 | <details><summary>publi...</summary><p>published in physical review research</p></details> |
-| **[Optimal Localization of Diffusion Sources in Complex Networks](http://arxiv.org/abs/1703.04915v1)** | 2017-03-15 | 6 figures |
-| **[Catch'Em All: Locating Multiple Diffusion Sources in Networks with Partial Observations](http://arxiv.org/abs/1611.06963v1)** | 2016-11-21 | 16 figures |
+| **[Source Localization for Cross Network Information Diffusion](https://arxiv.org/pdf/2404.14668v1)** | 2024-04-24 | <details><summary>Code ...</summary><p>Code and data are available at: https://github.com/tanmoysr/CNSL/</p></details> |
+| **[Source-Free Domain Adaptation with Diffusion-Guided Source Data Generation](https://arxiv.org/pdf/2402.04929v3)** | 2024-06-28 | <details><summary>arXiv...</summary><p>arXiv admin note: substantial text overlap with arXiv:2310.01701</p></details> |
+| **[Social Diffusion Sources Can Escape Detection](https://arxiv.org/pdf/2102.10539v2)** | 2022-09-05 | <details><summary>100 p...</summary><p>100 pages, 80 figures</p></details> |
+| **[Multi-Source Music Generation with Latent Diffusion](https://arxiv.org/pdf/2409.06190v4)** | 2025-06-18 |  |
+| **[An Invertible Graph Diffusion Neural Network for Source Localization](https://arxiv.org/pdf/2206.09214v1)** | 2022-06-22 | WWW 2022 |
+| **[Identification of Anomalous Diffusion Sources by Unsupervised Learning](https://arxiv.org/pdf/2010.02168v1)** | 2020-10-06 | <details><summary>publi...</summary><p>published in physical review research</p></details> |
+| **[Source Localization of Graph Diffusion via Variational Autoencoders for Graph Inverse Problems](https://arxiv.org/pdf/2206.12327v1)** | 2022-06-27 | <details><summary>11 pa...</summary><p>11 pages, accepted by SIGKDD 2022</p></details> |
+| **[Confidence Sets for the Source of a Diffusion in Regular Trees](https://arxiv.org/pdf/1510.05461v1)** | 2018-08-08 | 23 pages |
+| **[Diffusion Source Identification on Networks with Statistical Confidence](https://arxiv.org/pdf/2106.04800v2)** | 2021-06-18 |  |
+| **[Diffusion-based Generative Speech Source Separation](https://arxiv.org/pdf/2210.17327v2)** | 2022-11-03 | <details><summary>5 pag...</summary><p>5 pages, 3 figures, 2 tables. Submitted to ICASSP 2023</p></details> |
+| **[Separating diffuse from point-like sources - a Bayesian approach](https://arxiv.org/pdf/1804.05591v3)** | 2018-08-07 |  |
+| **[Who Made This? Fake Detection and Source Attribution with Diffusion Features](https://arxiv.org/pdf/2510.27602v1)** | 2025-11-03 |  |
+| **[Generalized Multi-Source Inference for Text Conditioned Music Diffusion Models](https://arxiv.org/pdf/2403.11706v1)** | 2024-03-19 | <details><summary>Accep...</summary><p>Accepted at ICASSP 2024</p></details> |
+| **[Rumor source detection with multiple observations under adaptive diffusions](https://arxiv.org/pdf/2006.11211v1)** | 2020-06-22 | 30 pages, 3 figures |
+| **[Back to the Source: Diffusion-Driven Test-Time Adaptation](https://arxiv.org/pdf/2207.03442v2)** | 2023-06-22 | <details><summary>publi...</summary><p>published at CVPR 2023</p></details> |
 
 ## rumor source
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[HyperDet: Source Detection in Hypergraphs via Interactive Relationship Construction and Feature-rich Attention Fusion](http://arxiv.org/abs/2505.12894v2)** | 2025-06-04 | Accepted by IJCAI25 |
-| **[Detection of Rumors and Their Sources in Social Networks: A Comprehensive Survey](http://arxiv.org/abs/2501.05292v1)** | 2025-01-09 |  |
-| **[Examining the Limitations of Computational Rumor Detection Models Trained on Static Datasets](http://arxiv.org/abs/2309.11576v2)** | 2024-03-24 | <details><summary>Accep...</summary><p>Accepted at LREC-COLING 2024</p></details> |
-| **[GIN-SD: Source Detection in Graphs with Incomplete Nodes via Positional Encoding and Attentive Fusion](http://arxiv.org/abs/2403.00014v1)** | 2024-02-27 | <details><summary>The p...</summary><p>The paper is accepted by AAAI24</p></details> |
-| **[Inference of a Rumor's Source in the Independent Cascade Model](http://arxiv.org/abs/2205.12125v1)** | 2022-05-24 |  |
-| **[Capturing Dynamics of Information Diffusion in SNS: A Survey of Methodology and Techniques](http://arxiv.org/abs/2110.14245v1)** | 2021-10-27 | <details><summary>Autho...</summary><p>Author version, with 50 pages, 6 figures, 16 tables, and 5 algorithms</p></details> |
-| **[Schemes of Propagation Models and Source Estimators for Rumor Source Detection in Online Social Networks: A Short Survey of a Decade of Research](http://arxiv.org/abs/2101.00753v1)** | 2021-01-04 |  |
-| **[Rumor Source Detection under Querying with Untruthful Answers](http://arxiv.org/abs/1711.05496v5)** | 2020-10-26 |  |
-| **[Rumor source detection with multiple observations under adaptive diffusions](http://arxiv.org/abs/2006.11211v1)** | 2020-06-19 | 30 pages, 3 figures |
-| **[RP-DNN: A Tweet level propagation context based deep neural networks for early rumor detection in Social Media](http://arxiv.org/abs/2002.12683v2)** | 2020-03-02 | <details><summary>Manus...</summary><p>Manuscript accepted for publication at The LREC 2020 Proceedings. The International Conference on Language Resources and Evaluation</p></details> |
-| **[Neural Language Model Based Training Data Augmentation for Weakly Supervised Early Rumor Detection](http://arxiv.org/abs/1907.07033v1)** | 2019-07-16 | 8 pages |
-| **[On the Distance Between the Rumor Source and Its Optimal Estimate in a Regular Tree](http://arxiv.org/abs/1901.03039v2)** | 2019-01-22 | <details><summary>fixed...</summary><p>fixed typos and proofs, 16 pages, 2 figures, a short version of this paper has been submitted to the 2019 IEEE International Symposium on Information Theory (ISIT 2019)</p></details> |
-| **[Identifying Rumor Sources Using Dominant Eigenvalue of Nonbacktracking Matrix](http://arxiv.org/abs/1810.00659v1)** | 2018-09-20 | <details><summary>To ap...</summary><p>To appear at GlobalSIP 2018</p></details> |
-| **[Hiding the Rumor Source](http://arxiv.org/abs/1509.02849v2)** | 2016-08-24 |  |
-| **[Identification of Source of Rumors in Social Networks with Incomplete Information](http://arxiv.org/abs/1509.00557v1)** | 2015-09-02 |  |
+| **[Detection of Rumors and Their Sources in Social Networks: A Comprehensive Survey](https://arxiv.org/pdf/2501.05292v1)** | 2025-01-10 |  |
+| **[Inference of a Rumor's Source in the Independent Cascade Model](https://arxiv.org/pdf/2205.12125v1)** | 2022-05-25 |  |
+| **[Rumor Source Detection under Querying with Untruthful Answers](https://arxiv.org/pdf/1711.05496v5)** | 2020-10-27 |  |
+| **[Schemes of Propagation Models and Source Estimators for Rumor Source Detection in Online Social Networks: A Short Survey of a Decade of Research](https://arxiv.org/pdf/2101.00753v1)** | 2021-05-03 |  |
+| **[Joint Inference on Truth/Rumor and Their Sources in Social Networks](https://arxiv.org/pdf/2001.08472v1)** | 2020-01-24 |  |
+| **[Identification of Source of Rumors in Social Networks with Incomplete Information](https://arxiv.org/pdf/1509.00557v1)** | 2015-09-03 |  |
+| **[Identifying Rumor Sources Using Dominant Eigenvalue of Nonbacktracking Matrix](https://arxiv.org/pdf/1810.00659v1)** | 2018-10-02 | <details><summary>To ap...</summary><p>To appear at GlobalSIP 2018</p></details> |
+| **[On the Distance Between the Rumor Source and Its Optimal Estimate in a Regular Tree](https://arxiv.org/pdf/1901.03039v2)** | 2019-01-23 | <details><summary>fixed...</summary><p>fixed typos and proofs, 16 pages, 2 figures, a short version of this paper has been submitted to the 2019 IEEE International Symposium on Information Theory (ISIT 2019)</p></details> |
+| **[Rumor source detection with multiple observations under adaptive diffusions](https://arxiv.org/pdf/2006.11211v1)** | 2020-06-22 | 30 pages, 3 figures |
+| **[Hiding the Rumor Source](https://arxiv.org/pdf/1509.02849v2)** | 2016-08-25 |  |
+| **[Spy vs. Spy: Rumor Source Obfuscation](https://arxiv.org/pdf/1412.8439v3)** | 2015-04-28 | 14 pages 10 figures |
+| **[Rumors in a Network: Who's the Culprit?](https://arxiv.org/pdf/0909.4370v2)** | 2010-11-03 | 43 pages, 13 figures |
+| **[Examining the Limitations of Computational Rumor Detection Models Trained on Static Datasets](https://arxiv.org/pdf/2309.11576v2)** | 2024-03-26 | <details><summary>Accep...</summary><p>Accepted at LREC-COLING 2024</p></details> |
+| **[Rumor Detection by Multi-task Suffix Learning based on Time-series Dual Sentiments](https://arxiv.org/pdf/2502.14383v2)** | 2025-09-16 | work in progress |
+| **[Rumor Detection with Self-supervised Learning on Texts and Social Graph](https://arxiv.org/pdf/2204.08838v1)** | 2022-04-20 | 22 pages, 8 figures |
 
