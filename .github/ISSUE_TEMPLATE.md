@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - November 19, 2025
+title: Latest 15 Papers - November 20, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/waityousea/DailyArXiv/) page for a better reading experience and more papers.**
@@ -7,44 +7,47 @@ labels: documentation
 ## source localization
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[AdamX: An Adam improvement algorithm based on a novel exponential decay mechanism for the second-order moment estimate](https://arxiv.org/abs/2511.13465v2)** | 2025-11-19 | <details><summary>25 pa...</summary><p>25 pages, 6 figures, 12 tables. Version 2: (1) Clarified i.i.d. assumption on gradient and noise components (implicitly used in v1). See Hypothesis 1 for details. (2) Refined abstract terminology: explicitly states degradation to momentum SGD. The theoretical results and conclusions remain unchanged</p></details> |
+| **[Global Convergence of Adjoint-Optimized Neural PDEs](https://arxiv.org/abs/2506.13633v2)** | 2025-11-19 | 81 pages, 2 figures |
+| **[UGG-ReID: Uncertainty-Guided Graph Model for Multi-Modal Object Re-Identification](https://arxiv.org/abs/2507.04638v3)** | 2025-11-19 |  |
+| **[Anthropic Economic Index report: Uneven geographic and enterprise AI adoption](https://arxiv.org/abs/2511.15080v1)** | 2025-11-19 |  |
+| **[Style Content Decomposition-based Data Augmentation for Domain Generalizable Medical Image Segmentation](https://arxiv.org/abs/2502.20619v3)** | 2025-11-19 |  |
+| **[On-Premise SLMs vs. Commercial LLMs: Prompt Engineering and Incident Classification in SOCs and CSIRTs](https://arxiv.org/abs/2511.14908v1)** | 2025-11-18 | <details><summary>5 pag...</summary><p>5 pages, 3 figures, 3 tables, submitted to ERRC/WRSeg 2025</p></details> |
+| **[PolyKAN: Efficient Fused GPU Operators for Polynomial Kolmogorov-Arnold Network Variants](https://arxiv.org/abs/2511.14852v1)** | 2025-11-18 |  |
+| **[VULPO: Context-Aware Vulnerability Detection via On-Policy LLM Optimization](https://arxiv.org/abs/2511.11896v2)** | 2025-11-18 |  |
+| **[Graphical Model-based Inference on Persistent Homology](https://arxiv.org/abs/2511.11996v2)** | 2025-11-18 | 29 pages, 11 figures |
 | **[FHIRconnect: Towards a seamless integration of openEHR and FHIR](https://arxiv.org/abs/2511.14618v1)** | 2025-11-18 | 27 pages, 4 figures |
 | **[Examining the Metrics for Document-Level Claim Extraction in Czech and Slovak](https://arxiv.org/abs/2511.14566v1)** | 2025-11-18 |  |
 | **[Closed-Form Feedback-Free Learning with Forward Projection](https://arxiv.org/abs/2501.16476v3)** | 2025-11-18 | <details><summary>26 pa...</summary><p>26 pages, 5 figures. Study code available at https://github.com/robertoshea/forward_projection. Study data available at https://data.mendeley.com/datasets/fb7xddyxs4/2</p></details> |
 | **[Aerial Assistance System for Automated Firefighting during Turntable Ladder Operations](https://arxiv.org/abs/2511.14504v1)** | 2025-11-18 | <details><summary>7 pag...</summary><p>7 pages, Presented at IEEE International Symposium on Safety, Security, and Rescue Robotics (SSRR), Galway, Ireland, 2025</p></details> |
 | **[Systematic Evaluation of Time-Frequency Features for Binaural Sound Source Localization](https://arxiv.org/abs/2511.13487v2)** | 2025-11-18 | <details><summary>Submi...</summary><p>Submitted to ICASSP 2026</p></details> |
 | **[Agentic Video Intelligence: A Flexible Framework for Advanced Video Exploration and Understanding](https://arxiv.org/abs/2511.14446v1)** | 2025-11-18 |  |
-| **[Entropy-Guided Reasoning Compression](https://arxiv.org/abs/2511.14258v1)** | 2025-11-18 | 10pages, 4 figures |
-| **[UniDebugger: Hierarchical Multi-Agent Framework for Unified Software Debugging](https://arxiv.org/abs/2404.17153v3)** | 2025-11-18 | <details><summary>Accep...</summary><p>Accepted by EMNLP'25, Main Poster</p></details> |
-| **[Enhancing Generalization of Depth Estimation Foundation Model via Weakly-Supervised Adaptation with Regularization](https://arxiv.org/abs/2511.14238v1)** | 2025-11-18 | <details><summary>Accep...</summary><p>Accepted by AAAI 2026</p></details> |
-| **[$A^2$GC: $A$symmetric $A$ggregation with Geometric Constraints for Locally Aggregated Descriptors](https://arxiv.org/abs/2511.14109v1)** | 2025-11-18 | 8 pages, 4figures |
-| **[SMGeo: Cross-View Object Geo-Localization with Grid-Level Mixture-of-Experts](https://arxiv.org/abs/2511.14093v1)** | 2025-11-18 |  |
-| **[SF-Loc: A Visual Mapping and Geo-Localization System based on Sparse Visual Structure Frames](https://arxiv.org/abs/2412.01500v3)** | 2025-11-18 |  |
-| **[Long Duration Inspection of GNSS-Denied Environments with a Tethered UAV-UGV Marsupial System](https://arxiv.org/abs/2505.23457v2)** | 2025-11-17 | <details><summary>31 pa...</summary><p>31 pages, 17 figures, 6 tables. Published in Drones. https://doi.org/10.3390/drones9110765</p></details> |
-| **[LocalBench: Benchmarking LLMs on County-Level Local Knowledge and Reasoning](https://arxiv.org/abs/2511.10459v2)** | 2025-11-17 |  |
-| **[RATTENTION: Towards the Minimal Sliding Window Size in Local-Global Attention Models](https://arxiv.org/abs/2506.15545v2)** | 2025-11-17 | 9 pages |
 
 ## source detection
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[A Novel CustNetGC Boosted Model with Spectral Features for Parkinson's Disease Prediction](https://arxiv.org/abs/2511.15485v1)** | 2025-11-19 |  |
+| **[Soteria: Efficient Symbolic Execution as a Functional Library](https://arxiv.org/abs/2511.08729v3)** | 2025-11-19 |  |
+| **[ConInstruct: Evaluating Large Language Models on Conflict Detection and Resolution in Instructions](https://arxiv.org/abs/2511.14342v2)** | 2025-11-19 | <details><summary>Accep...</summary><p>Accepted to AAAI 2026</p></details> |
+| **[The Walls Have Ears: Unveiling Cross-Chain Sandwich Attacks in DeFi](https://arxiv.org/abs/2511.15245v1)** | 2025-11-19 |  |
+| **[Testing relevant difference in high-dimensional linear regression with applications to detect transferability](https://arxiv.org/abs/2511.15236v1)** | 2025-11-19 |  |
+| **[NuBench: An Open Benchmark for Deep Learning-Based Event Reconstruction in Neutrino Telescopes](https://arxiv.org/abs/2511.13111v2)** | 2025-11-19 | <details><summary>Prepa...</summary><p>Prepared for JINST. Updated Acknowledgements</p></details> |
+| **[HalluClean: A Unified Framework to Combat Hallucinations in LLMs](https://arxiv.org/abs/2511.08916v2)** | 2025-11-19 |  |
+| **[MedLA: A Logic-Driven Multi-Agent Framework for Complex Medical Reasoning with Large Language Models](https://arxiv.org/abs/2509.23725v2)** | 2025-11-19 | <details><summary>accep...</summary><p>accepted by AAAI-26 (ORAL)</p></details> |
+| **[Towards Classifying Benign And Malicious Packages Using Machine Learning](https://arxiv.org/abs/2511.15033v1)** | 2025-11-19 | <details><summary>5 pag...</summary><p>5 pages, 2 figures, 3 tables</p></details> |
+| **[Latent space analysis and generalization to out-of-distribution data](https://arxiv.org/abs/2511.15010v1)** | 2025-11-19 |  |
+| **[FinCriticalED: A Visual Benchmark for Financial Fact-Level OCR Evaluation](https://arxiv.org/abs/2511.14998v1)** | 2025-11-19 | <details><summary>Yueru...</summary><p>Yueru He, Xueqing Peng: These two authors contributed equally to this work</p></details> |
+| **[VULPO: Context-Aware Vulnerability Detection via On-Policy LLM Optimization](https://arxiv.org/abs/2511.11896v2)** | 2025-11-18 |  |
+| **[Graphical Model-based Inference on Persistent Homology](https://arxiv.org/abs/2511.11996v2)** | 2025-11-18 | 29 pages, 11 figures |
 | **[Aerial Assistance System for Automated Firefighting during Turntable Ladder Operations](https://arxiv.org/abs/2511.14504v1)** | 2025-11-18 | <details><summary>7 pag...</summary><p>7 pages, Presented at IEEE International Symposium on Safety, Security, and Rescue Robotics (SSRR), Galway, Ireland, 2025</p></details> |
-| **[ConInstruct: Evaluating Large Language Models on Conflict Detection and Resolution in Instructions](https://arxiv.org/abs/2511.14342v1)** | 2025-11-18 | <details><summary>Accep...</summary><p>Accepted to AAAI 2026</p></details> |
 | **[DINO-Detect: A Simple yet Effective Framework for Blur-Robust AI-Generated Image Detection](https://arxiv.org/abs/2511.12511v2)** | 2025-11-18 | 12 pages, 5 figures |
-| **[TooBadRL: Trigger Optimization to Boost Effectiveness of Backdoor Attacks on Deep Reinforcement Learning](https://arxiv.org/abs/2506.09562v3)** | 2025-11-18 |  |
-| **[Transfer learning for high-dimensional Factor-augmented sparse linear model](https://arxiv.org/abs/2511.12435v2)** | 2025-11-18 | 52 pages, 2 figures |
-| **[SMGeo: Cross-View Object Geo-Localization with Grid-Level Mixture-of-Experts](https://arxiv.org/abs/2511.14093v1)** | 2025-11-18 |  |
-| **[MRI Plane Orientation Detection using a Context-Aware 2.5D Model](https://arxiv.org/abs/2511.14021v1)** | 2025-11-18 | <details><summary>5 pag...</summary><p>5 pages, 5 figures, 2 tables</p></details> |
-| **[Robust normality transformation for outlier detection in diverse distributions, with application to functional neuroimaging data](https://arxiv.org/abs/2505.11806v2)** | 2025-11-17 |  |
-| **[Link prediction in ecological networks under extreme taxonomic bias](https://arxiv.org/abs/2506.23370v2)** | 2025-11-17 |  |
-| **[Read Between the Lines: A Benchmark for Uncovering Political Bias in Bangla News Articles](https://arxiv.org/abs/2510.03898v2)** | 2025-11-17 | <details><summary>Accep...</summary><p>Accepted to BLP at AACL-IJCNLP 2025</p></details> |
-| **[The Quick Red Fox gets the best Data Driven Classroom Interviews: A manual for an interview app and its associated methodology](https://arxiv.org/abs/2511.13466v1)** | 2025-11-17 |  |
-| **[Delineate Anything Flow: Fast, Country-Level Field Boundary Detection from Any Source](https://arxiv.org/abs/2511.13417v1)** | 2025-11-17 |  |
-| **[FLOWER: Flow-Oriented Entity-Relationship Tool](https://arxiv.org/abs/2511.13357v1)** | 2025-11-17 | 12 pages, 8 figures |
-| **[Deepfake Detection that Generalizes Across Benchmarks](https://arxiv.org/abs/2508.06248v3)** | 2025-11-17 |  |
-| **[Deep Joint Distribution Optimal Transport for Universal Domain Adaptation on Time Series](https://arxiv.org/abs/2503.11217v3)** | 2025-11-17 |  |
 
 ## source identification
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Collision Resolution in RFID Systems Using Antenna Arrays and Mix Source Separation](https://arxiv.org/abs/2511.15490v1)** | 2025-11-19 | 4 pages, 3 figures |
+| **[UGG-ReID: Uncertainty-Guided Graph Model for Multi-Modal Object Re-Identification](https://arxiv.org/abs/2507.04638v3)** | 2025-11-19 |  |
+| **[CKDA: Cross-modality Knowledge Disentanglement and Alignment for Visible-Infrared Lifelong Person Re-identification](https://arxiv.org/abs/2511.15016v1)** | 2025-11-19 |  |
 | **[GraphInstruct: Empowering Large Language Models with Graph Understanding and Reasoning Capability](https://arxiv.org/abs/2403.04483v4)** | 2025-11-18 | <details><summary>The a...</summary><p>The article has been accepted by Frontiers of Computer Science (FCS), with the DOI: {10.1007/s11704-025-51382-0}</p></details> |
 | **[Hierarchical Prompt Learning for Image- and Text-Based Person Re-Identification](https://arxiv.org/abs/2511.13575v1)** | 2025-11-17 | <details><summary>9 pag...</summary><p>9 pages, 4 figures, accepted by AAAI 2026</p></details> |
 | **[Practical Causal Evaluation Metrics for Biological Networks](https://arxiv.org/abs/2511.12805v1)** | 2025-11-16 | 15 pages, 1 figure |
@@ -57,19 +60,17 @@ labels: documentation
 | **[HLPD: Aligning LLMs to Human Language Preference for Machine-Revised Text Detection](https://arxiv.org/abs/2511.06942v2)** | 2025-11-12 | <details><summary>20 pa...</summary><p>20 pages, 10 figures, accepted by AAAI'26</p></details> |
 | **[Exploring The Interaction-Outcome Paradox: Seemingly Richer and More Self-Aware Interactions with LLMs May Not Yet Lead to Better Learning](https://arxiv.org/abs/2511.09458v1)** | 2025-11-12 |  |
 | **[Classifying Histopathologic Glioblastoma Sub-regions with EfficientNet](https://arxiv.org/abs/2511.08896v1)** | 2025-11-12 |  |
-| **[State of the Art in Text Classification for South Slavic Languages: Fine-Tuning or Prompting?](https://arxiv.org/abs/2511.07989v1)** | 2025-11-11 | <details><summary>16 pa...</summary><p>16 pages; 4 figures; 3 tables. Submitted to the LREC 2026 conference</p></details> |
-| **[A Large-Scale Dataset and Reproducible Framework for RF Fingerprinting on IEEE 802.11g Same-Model Devices](https://arxiv.org/abs/2511.07770v1)** | 2025-11-11 |  |
-| **[Uncertainty-Aware Active Source Tracking of Marine Pollution using Unmanned Surface Vehicles](https://arxiv.org/abs/2509.20593v2)** | 2025-11-10 |  |
 
 ## diffusion source
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Capture Stage Matting: Challenges, Approaches, and Solutions for Offline and Real-Time Processing](https://arxiv.org/abs/2507.07623v2)** | 2025-11-19 |  |
+| **[A Style is Worth One Code: Unlocking Code-to-Style Image Generation with Discrete Style Space](https://arxiv.org/abs/2511.10555v4)** | 2025-11-19 | <details><summary>Code:...</summary><p>Code: https://github.com/Kwai-Kolors/CoTyle Demo: https://huggingface.co/spaces/Kwai-Kolors/CoTyle Homepage: https://kwai-kolors.github.io/CoTyle/</p></details> |
 | **[Segmentation-Aware Latent Diffusion for Satellite Image Super-Resolution: Enabling Smallholder Farm Boundary Delineation](https://arxiv.org/abs/2511.14481v1)** | 2025-11-18 |  |
 | **[MiAD: Mirage Atom Diffusion for De Novo Crystal Generation](https://arxiv.org/abs/2511.14426v1)** | 2025-11-18 |  |
 | **[Iterative Diffusion-Refined Neural Attenuation Fields for Multi-Source Stationary CT Reconstruction: NAF Meets Diffusion Model](https://arxiv.org/abs/2511.14310v1)** | 2025-11-18 |  |
 | **[Bridging the Gap Between Bayesian Deep Learning and Ensemble Weather Forecasts](https://arxiv.org/abs/2511.14218v1)** | 2025-11-18 |  |
 | **[MMaDA-Parallel: Multimodal Large Diffusion Language Models for Thinking-Aware Editing and Generation](https://arxiv.org/abs/2511.09611v3)** | 2025-11-18 | <details><summary>Proje...</summary><p>Project Page: https://tyfeld.github.io/mmadaparellel.github.io/</p></details> |
-| **[A Style is Worth One Code: Unlocking Code-to-Style Image Generation with Discrete Style Space](https://arxiv.org/abs/2511.10555v3)** | 2025-11-18 | <details><summary>Homep...</summary><p>Homepage: https://github.com/Kwai-Kolors.github.io/CoTyle Code: https://github.com/Kwai-Kolors/CoTyle Demo: https://huggingface.co/spaces/Kwai-Kolors/CoTyle</p></details> |
 | **[Collaborative QA using Interacting LLMs. Impact of Network Structure, Node Capability and Distributed Data](https://arxiv.org/abs/2511.14098v1)** | 2025-11-18 |  |
 | **[Melodia: Training-Free Music Editing Guided by Attention Probing in Diffusion Models](https://arxiv.org/abs/2511.08252v3)** | 2025-11-18 | AAAI 2026 (Oral) |
 | **[ODE$_t$(ODE$_l$): Shortcutting the Time and the Length in Diffusion and Flow Models for Faster Sampling](https://arxiv.org/abs/2506.21714v3)** | 2025-11-18 | <details><summary>Accep...</summary><p>Accepted to WACV 2026. Preprint. Github page: github.com/gudovskiy/odelt</p></details> |
@@ -78,7 +79,6 @@ labels: documentation
 | **[Audio Palette: A Diffusion Transformer with Multi-Signal Conditioning for Controllable Foley Synthesis](https://arxiv.org/abs/2510.12175v2)** | 2025-11-17 | <details><summary>Accep...</summary><p>Accepted for publication in the Artificial Intelligence Technology Research (AITR), Vol. 3, No. 2, December 2025</p></details> |
 | **[Appreciate the View: A Task-Aware Evaluation Framework for Novel View Synthesis](https://arxiv.org/abs/2511.12675v1)** | 2025-11-16 | <details><summary>3DV 2...</summary><p>3DV 2026. Project page: https://saarst.github.io/appreciate-the-view-website</p></details> |
 | **[See it. Say it. Sorted: Agentic System for Compositional Diagram Generation](https://arxiv.org/abs/2508.15222v2)** | 2025-11-16 |  |
-| **[MONKEY: Masking ON KEY-Value Activation Adapter for Personalization](https://arxiv.org/abs/2510.07656v2)** | 2025-11-15 |  |
 
 ## rumor source
 | **Title** | **Date** | **Comment** |
