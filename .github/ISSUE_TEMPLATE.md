@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - November 23, 2025
+title: Latest 15 Papers - November 24, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/waityousea/DailyArXiv/) page for a better reading experience and more papers.**
@@ -7,26 +7,33 @@ labels: documentation
 ## source localization
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[IndustryNav: Exploring Spatial Reasoning of Embodied Agents in Dynamic Industrial Navigation](https://arxiv.org/abs/2511.17384v1)** | 2025-11-21 |  |
+| **[Estonian WinoGrande Dataset: Comparative Analysis of LLM Performance on Human and Machine Translation](https://arxiv.org/abs/2511.17290v1)** | 2025-11-21 | Preprint |
+| **[A Simple Yet Strong Baseline for Long-Term Conversational Memory of LLM Agents](https://arxiv.org/abs/2511.17208v1)** | 2025-11-21 | Work in progress |
+| **[Reflection-Based Relative Localization for Cooperative UAV Teams Using Active Markers](https://arxiv.org/abs/2511.17166v1)** | 2025-11-21 |  |
+| **[How LLMs Learn to Reason: A Complex Network Perspective](https://arxiv.org/abs/2509.23629v2)** | 2025-11-21 | <details><summary>24 pa...</summary><p>24 pages, 11 figures, 1 table, under review as a conference paper at ICLR 2026</p></details> |
+| **[ReVul-CoT: Towards Effective Software Vulnerability Assessment with Retrieval-Augmented Generation and Chain-of-Thought Prompting](https://arxiv.org/abs/2511.17027v1)** | 2025-11-21 |  |
+| **[KRAL: Knowledge and Reasoning Augmented Learning for LLM-assisted Clinical Antimicrobial Therapy](https://arxiv.org/abs/2511.15974v2)** | 2025-11-21 |  |
+| **[BOP-ASK: Object-Interaction Reasoning for Vision-Language Models](https://arxiv.org/abs/2511.16857v1)** | 2025-11-20 |  |
+| **[DynoSAM: Open-Source Smoothing and Mapping Framework for Dynamic SLAM](https://arxiv.org/abs/2501.11893v3)** | 2025-11-20 | <details><summary>20 pa...</summary><p>20 pages, 10 figures. Submitted to T-RO Visual SLAM SI 2025</p></details> |
+| **[SAM 3: Segment Anything with Concepts](https://arxiv.org/abs/2511.16719v1)** | 2025-11-20 |  |
 | **[SAM2S: Segment Anything in Surgical Videos via Semantic Long-term Tracking](https://arxiv.org/abs/2511.16618v1)** | 2025-11-20 | 11 pages, 4 figures |
 | **[Optimizing Federated Learning in the Era of LLMs: Message Quantization and Streaming](https://arxiv.org/abs/2511.16450v1)** | 2025-11-20 | FLLM 2025 |
 | **[Theoretical Guarantees for AOA-based Localization: Consistency and Asymptotic Efficiency](https://arxiv.org/abs/2507.07647v2)** | 2025-11-20 |  |
 | **[AdamNX: An Adam improvement algorithm based on a novel exponential decay mechanism for the second-order moment estimate](https://arxiv.org/abs/2511.13465v3)** | 2025-11-20 | <details><summary>25 pa...</summary><p>25 pages, 6 figures, 12 tables. v3: The algorithm formerly known as "AdamX" has been renamed to "AdamNX" to avoid confusion with prior work [DOI 10.27272/d.cnki.gshdu.2022.006950]. No changes to methodology</p></details> |
 | **[CSI-Bench: A Large-Scale In-the-Wild Dataset for Multi-task WiFi Sensing](https://arxiv.org/abs/2505.21866v2)** | 2025-11-20 | <details><summary>26 pa...</summary><p>26 pages, 5 figures, accepted by Thirty-Ninth Annual Conference on Neural Information Processing Systems (NeurIPS)</p></details> |
-| **[Zero-Shot Video Translation via Token Warping](https://arxiv.org/abs/2402.12099v3)** | 2025-11-20 |  |
-| **[KRAL: Knowledge and Reasoning Augmented Learning for LLM-assisted Clinical Antimicrobial Therapy](https://arxiv.org/abs/2511.15974v1)** | 2025-11-20 |  |
-| **[AquaSentinel: Next-Generation AI System Integrating Sensor Networks for Urban Underground Water Pipeline Anomaly Detection via Collaborative MoE-LLM Agent Architecture](https://arxiv.org/abs/2511.15870v1)** | 2025-11-19 | <details><summary>7 pag...</summary><p>7 pages, 1 figure, 2 tables, Accepted to the 40th AAAI Conference on Artificial Intelligence (AAAI 2026), IAAI Deployed Applications Track</p></details> |
-| **[GeoVista: Web-Augmented Agentic Visual Reasoning for Geolocalization](https://arxiv.org/abs/2511.15705v1)** | 2025-11-19 |  |
-| **[Global Convergence of Adjoint-Optimized Neural PDEs](https://arxiv.org/abs/2506.13633v2)** | 2025-11-19 | 81 pages, 2 figures |
-| **[UGG-ReID: Uncertainty-Guided Graph Model for Multi-Modal Object Re-Identification](https://arxiv.org/abs/2507.04638v3)** | 2025-11-19 |  |
-| **[Anthropic Economic Index report: Uneven geographic and enterprise AI adoption](https://arxiv.org/abs/2511.15080v1)** | 2025-11-19 |  |
-| **[Style Content Decomposition-based Data Augmentation for Domain Generalizable Medical Image Segmentation](https://arxiv.org/abs/2502.20619v3)** | 2025-11-19 |  |
-| **[On-Premise SLMs vs. Commercial LLMs: Prompt Engineering and Incident Classification in SOCs and CSIRTs](https://arxiv.org/abs/2511.14908v1)** | 2025-11-18 | <details><summary>5 pag...</summary><p>5 pages, 3 figures, 3 tables, submitted to ERRC/WRSeg 2025</p></details> |
-| **[PolyKAN: Efficient Fused GPU Operators for Polynomial Kolmogorov-Arnold Network Variants](https://arxiv.org/abs/2511.14852v1)** | 2025-11-18 |  |
 
 ## source detection
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Supervised Contrastive Learning for Few-Shot AI-Generated Image Detection and Attribution](https://arxiv.org/abs/2511.16541v1)** | 2025-11-20 | <details><summary>17 pa...</summary><p>17 pages, 6 figures, 6 tables</p></details> |
+| **[PUCP-Metrix: A Comprehensive Open-Source Repository of Linguistic Metrics for Spanish](https://arxiv.org/abs/2511.17402v1)** | 2025-11-21 | <details><summary>1 fig...</summary><p>1 figure, to be submitted to EACL Demo track</p></details> |
+| **[Covariate Connectivity Combined Clustering for Weighted Networks](https://arxiv.org/abs/2511.17302v1)** | 2025-11-21 |  |
+| **[When Bias Pretends to Be Truth: How Spurious Correlations Undermine Hallucination Detection in LLMs](https://arxiv.org/abs/2511.07318v2)** | 2025-11-21 |  |
+| **[Supervised Contrastive Learning for Few-Shot AI-Generated Image Detection and Attribution](https://arxiv.org/abs/2511.16541v2)** | 2025-11-21 | <details><summary>17 pa...</summary><p>17 pages, 6 figures, 6 tables</p></details> |
+| **[Avoiding Quality Saturation in UGC Compression Using Denoised References](https://arxiv.org/abs/2511.16876v1)** | 2025-11-21 |  |
+| **[FinCriticalED: A Visual Benchmark for Financial Fact-Level OCR Evaluation](https://arxiv.org/abs/2511.14998v2)** | 2025-11-21 | <details><summary>Yueru...</summary><p>Yueru He, Xueqing Peng: These two authors contributed equally to this work</p></details> |
+| **[ReviewGuard: Enhancing Deficient Peer Review Detection via LLM-Driven Data Augmentation](https://arxiv.org/abs/2510.16549v2)** | 2025-11-20 | <details><summary>Accep...</summary><p>Accepted as a full paper at the 2025 ACM/IEEE Joint Conference on Digital Libraries (JCDL 2025)</p></details> |
+| **[SAM 3: Segment Anything with Concepts](https://arxiv.org/abs/2511.16719v1)** | 2025-11-20 |  |
 | **[False Sense of Security: Why Probing-based Malicious Input Detection Fails to Generalize](https://arxiv.org/abs/2509.03888v2)** | 2025-11-20 | <details><summary>Withd...</summary><p>Withdrawn due to identified errors in the experimental procedure</p></details> |
 | **[ChangeDINO: DINOv3-Driven Building Change Detection in Optical Remote Sensing Imagery](https://arxiv.org/abs/2511.16322v1)** | 2025-11-20 |  |
 | **[HalluClean: A Unified Framework to Combat Hallucinations in LLMs](https://arxiv.org/abs/2511.08916v3)** | 2025-11-20 |  |
@@ -34,17 +41,13 @@ labels: documentation
 | **[UniDGF: A Unified Detection-to-Generation Framework for Hierarchical Object Visual Recognition](https://arxiv.org/abs/2511.15984v1)** | 2025-11-20 |  |
 | **[FATHOMS-RAG: A Framework for the Assessment of Thinking and Observation in Multimodal Systems that use Retrieval Augmented Generation](https://arxiv.org/abs/2510.08945v2)** | 2025-11-19 | <details><summary>Submi...</summary><p>Submitted to 2026 International Conference on Language Resources and Evaluation (LREC2026)</p></details> |
 | **[AquaSentinel: Next-Generation AI System Integrating Sensor Networks for Urban Underground Water Pipeline Anomaly Detection via Collaborative MoE-LLM Agent Architecture](https://arxiv.org/abs/2511.15870v1)** | 2025-11-19 | <details><summary>7 pag...</summary><p>7 pages, 1 figure, 2 tables, Accepted to the 40th AAAI Conference on Artificial Intelligence (AAAI 2026), IAAI Deployed Applications Track</p></details> |
-| **[Efficient Environmental Claim Detection with Hyperbolic Graph Neural Networks](https://arxiv.org/abs/2502.13628v3)** | 2025-11-19 |  |
-| **[The SA-FARI Dataset: Segment Anything in Footage of Animals for Recognition and Identification](https://arxiv.org/abs/2511.15622v1)** | 2025-11-19 |  |
-| **[A Novel CustNetGC Boosted Model with Spectral Features for Parkinson's Disease Prediction](https://arxiv.org/abs/2511.15485v1)** | 2025-11-19 |  |
-| **[Soteria: Efficient Symbolic Execution as a Functional Library](https://arxiv.org/abs/2511.08729v3)** | 2025-11-19 |  |
-| **[ConInstruct: Evaluating Large Language Models on Conflict Detection and Resolution in Instructions](https://arxiv.org/abs/2511.14342v2)** | 2025-11-19 | <details><summary>Accep...</summary><p>Accepted to AAAI 2026</p></details> |
-| **[The Walls Have Ears: Unveiling Cross-Chain Sandwich Attacks in DeFi](https://arxiv.org/abs/2511.15245v1)** | 2025-11-19 |  |
-| **[Testing relevant difference in high-dimensional linear regression with applications to detect transferability](https://arxiv.org/abs/2511.15236v1)** | 2025-11-19 |  |
 
 ## source identification
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Exploring Scientific Debt: Harnessing AI for SATD Identification in Scientific Software](https://arxiv.org/abs/2511.17368v1)** | 2025-11-21 | <details><summary>11 pa...</summary><p>11 pages, 2 figures, 6 tables</p></details> |
+| **[SMoRFFI: A Large-Scale Same-Model 2.4 GHz Wi-Fi Dataset and Reproducible Framework for RF Fingerprinting](https://arxiv.org/abs/2511.07770v2)** | 2025-11-21 |  |
+| **[Colo-ReID: Discriminative Representation Embedding with Meta-learning for Colonoscopic Polyp Re-Identification](https://arxiv.org/abs/2308.00929v3)** | 2025-11-21 |  |
 | **[Bridging VLMs and Embodied Intelligence with Deliberate Practice Policy Optimization](https://arxiv.org/abs/2511.16602v1)** | 2025-11-20 |  |
 | **[Domain-Shared Learning and Gradual Alignment for Unsupervised Domain Adaptation Visible-Infrared Person Re-Identification](https://arxiv.org/abs/2511.16184v1)** | 2025-11-20 |  |
 | **[The SA-FARI Dataset: Segment Anything in Footage of Animals for Recognition and Identification](https://arxiv.org/abs/2511.15622v1)** | 2025-11-19 |  |
@@ -57,13 +60,12 @@ labels: documentation
 | **[ProxyPrints: From Database Breach to Spoof, A Plug-and-Play Defense for Biometric Systems](https://arxiv.org/abs/2511.12739v1)** | 2025-11-16 |  |
 | **[Use of multi-pollutant air sensor data and geometric non-negative matrix factorization for source apportionment of air pollution burden in Curtis Bay, Baltimore, USA](https://arxiv.org/abs/2511.11833v1)** | 2025-11-14 |  |
 | **[YOLO-Drone: An Efficient Object Detection Approach Using the GhostHead Network for Drone Images](https://arxiv.org/abs/2511.10905v1)** | 2025-11-14 | <details><summary>Prepr...</summary><p>Preprint version. Accepted for publication in the Journal of Information Systems Engineering and Management</p></details> |
-| **[ADI-20: Arabic Dialect Identification dataset and models](https://arxiv.org/abs/2511.10070v1)** | 2025-11-13 | <details><summary>Publi...</summary><p>Published in Interspeech 2025</p></details> |
-| **[Caption This, Reason That: VLMs Caught in the Middle](https://arxiv.org/abs/2505.21538v2)** | 2025-11-12 | <details><summary>Paper...</summary><p>Paper accepted by nips 2025</p></details> |
-| **[How Can We Effectively Use LLMs for Phishing Detection?: Evaluating the Effectiveness of Large Language Model-based Phishing Detection Models](https://arxiv.org/abs/2511.09606v1)** | 2025-11-12 |  |
 
 ## diffusion source
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Text-guided multi-property molecular optimization with a diffusion language model](https://arxiv.org/abs/2410.13597v3)** | 2025-11-21 |  |
+| **[Diffusion-Inversion-Net (DIN): An End-to-End Direct Probabilistic Framework for Characterizing Hydraulic Conductivities and Quantifying Uncertainty](https://arxiv.org/abs/2511.16926v1)** | 2025-11-21 |  |
 | **[TRIM: Scalable 3D Gaussian Diffusion Inference with Temporal and Spatial Trimming](https://arxiv.org/abs/2511.16642v1)** | 2025-11-20 | NeurIPS 2025 |
 | **[TRADES: Generating Realistic Market Simulations with Diffusion Models](https://arxiv.org/abs/2502.07071v3)** | 2025-11-20 | 8 pages |
 | **[Mantis: A Versatile Vision-Language-Action Model with Disentangled Visual Foresight](https://arxiv.org/abs/2511.16175v1)** | 2025-11-20 |  |
@@ -77,8 +79,6 @@ labels: documentation
 | **[Bridging the Gap Between Bayesian Deep Learning and Ensemble Weather Forecasts](https://arxiv.org/abs/2511.14218v1)** | 2025-11-18 |  |
 | **[MMaDA-Parallel: Multimodal Large Diffusion Language Models for Thinking-Aware Editing and Generation](https://arxiv.org/abs/2511.09611v3)** | 2025-11-18 | <details><summary>Proje...</summary><p>Project Page: https://tyfeld.github.io/mmadaparellel.github.io/</p></details> |
 | **[Collaborative QA using Interacting LLMs. Impact of Network Structure, Node Capability and Distributed Data](https://arxiv.org/abs/2511.14098v1)** | 2025-11-18 |  |
-| **[Melodia: Training-Free Music Editing Guided by Attention Probing in Diffusion Models](https://arxiv.org/abs/2511.08252v3)** | 2025-11-18 | AAAI 2026 (Oral) |
-| **[ODE$_t$(ODE$_l$): Shortcutting the Time and the Length in Diffusion and Flow Models for Faster Sampling](https://arxiv.org/abs/2506.21714v3)** | 2025-11-18 | <details><summary>Accep...</summary><p>Accepted to WACV 2026. Preprint. Github page: github.com/gudovskiy/odelt</p></details> |
 
 ## rumor source
 | **Title** | **Date** | **Comment** |
