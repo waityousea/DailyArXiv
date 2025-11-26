@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - November 25, 2025
+title: Latest 15 Papers - November 26, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/waityousea/DailyArXiv/) page for a better reading experience and more papers.**
@@ -7,78 +7,78 @@ labels: documentation
 ## source localization
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Hierarchical Deep Research with Local-Web RAG: Toward Automated System-Level Materials Discovery](https://arxiv.org/abs/2511.18303v1)** | 2025-11-23 | <details><summary>A pre...</summary><p>A preliminary version appeared in The AI for Accelerated Materials Discovery (AI4Mat) Workshop at NeurIPS 2025</p></details> |
-| **[CADTrack: Learning Contextual Aggregation with Deformable Alignment for Robust RGBT Tracking](https://arxiv.org/abs/2511.17967v1)** | 2025-11-22 | <details><summary>Accep...</summary><p>Accepted by AAAI2026. More modifications may be performed</p></details> |
-| **[Signal: Selective Interaction and Global-local Alignment for Multi-Modal Object Re-Identification](https://arxiv.org/abs/2511.17965v1)** | 2025-11-22 | <details><summary>Accep...</summary><p>Accepted by AAAI2026. More modifications may be performed</p></details> |
-| **[V2X-RECT: An Efficient V2X Trajectory Prediction Framework via Redundant Interaction Filtering and Tracking Error Correction](https://arxiv.org/abs/2511.17941v1)** | 2025-11-22 |  |
-| **[IndustryNav: Exploring Spatial Reasoning of Embodied Agents in Dynamic Industrial Navigation](https://arxiv.org/abs/2511.17384v1)** | 2025-11-21 |  |
-| **[Estonian WinoGrande Dataset: Comparative Analysis of LLM Performance on Human and Machine Translation](https://arxiv.org/abs/2511.17290v1)** | 2025-11-21 | Preprint |
-| **[A Simple Yet Strong Baseline for Long-Term Conversational Memory of LLM Agents](https://arxiv.org/abs/2511.17208v1)** | 2025-11-21 | Work in progress |
-| **[Reflection-Based Relative Localization for Cooperative UAV Teams Using Active Markers](https://arxiv.org/abs/2511.17166v1)** | 2025-11-21 |  |
-| **[How LLMs Learn to Reason: A Complex Network Perspective](https://arxiv.org/abs/2509.23629v2)** | 2025-11-21 | <details><summary>24 pa...</summary><p>24 pages, 11 figures, 1 table, under review as a conference paper at ICLR 2026</p></details> |
-| **[ReVul-CoT: Towards Effective Software Vulnerability Assessment with Retrieval-Augmented Generation and Chain-of-Thought Prompting](https://arxiv.org/abs/2511.17027v1)** | 2025-11-21 |  |
-| **[KRAL: Knowledge and Reasoning Augmented Learning for LLM-assisted Clinical Antimicrobial Therapy](https://arxiv.org/abs/2511.15974v2)** | 2025-11-21 |  |
-| **[CubeletWorld: A New Abstraction for Scalable 3D Modeling](https://arxiv.org/abs/2511.17664v1)** | 2025-11-21 | 10 pages, 5 figures |
-| **[BOP-ASK: Object-Interaction Reasoning for Vision-Language Models](https://arxiv.org/abs/2511.16857v1)** | 2025-11-20 |  |
-| **[DynoSAM: Open-Source Smoothing and Mapping Framework for Dynamic SLAM](https://arxiv.org/abs/2501.11893v3)** | 2025-11-20 | <details><summary>20 pa...</summary><p>20 pages, 10 figures. Submitted to T-RO Visual SLAM SI 2025</p></details> |
-| **[SAM 3: Segment Anything with Concepts](https://arxiv.org/abs/2511.16719v1)** | 2025-11-20 |  |
+| **[DAPointMamba: Domain Adaptive Point Mamba for Point Cloud Completion](https://arxiv.org/abs/2511.20278v1)** | 2025-11-25 | <details><summary>Accep...</summary><p>Accepted to AAAI 2026</p></details> |
+| **[V-Attack: Targeting Disentangled Value Features for Controllable Adversarial Attacks on LVLMs](https://arxiv.org/abs/2511.20223v1)** | 2025-11-25 | 21 pages |
+| **[Multi-Context Fusion Transformer for Pedestrian Crossing Intention Prediction in Urban Environments](https://arxiv.org/abs/2511.20011v1)** | 2025-11-25 |  |
+| **[OmniRefiner: Reinforcement-Guided Local Diffusion Refinement](https://arxiv.org/abs/2511.19990v1)** | 2025-11-25 |  |
+| **[ChessMamba: Structure-Aware Interleaving of State Spaces for Change Detection in Remote Sensing Images](https://arxiv.org/abs/2511.19882v1)** | 2025-11-25 |  |
+| **[Zero-Shot Video Translation via Token Warping](https://arxiv.org/abs/2402.12099v4)** | 2025-11-25 | <details><summary>Code ...</summary><p>Code is available at: https://github.com/Alex-Zhu1/TokenWarping</p></details> |
+| **[KRAL: Knowledge and Reasoning Augmented Learning for LLM-assisted Clinical Antimicrobial Therapy](https://arxiv.org/abs/2511.15974v3)** | 2025-11-25 |  |
+| **[DISCO: A Browser-Based Privacy-Preserving Framework for Distributed Collaborative Learning](https://arxiv.org/abs/2511.19750v1)** | 2025-11-24 |  |
+| **[Frequency-Invariant Beamforming in Elevation and Azimuth via Autograd and Concentric Circular Microphone Arrays](https://arxiv.org/abs/2511.19403v1)** | 2025-11-24 |  |
+| **[Real-Time Object Tracking with On-Device Deep Learning for Adaptive Beamforming in Dynamic Acoustic Environments](https://arxiv.org/abs/2511.19396v1)** | 2025-11-24 |  |
+| **[An Invariant Latent Space Perspective on Language Model Inversion](https://arxiv.org/abs/2511.19569v1)** | 2025-11-24 | <details><summary>The F...</summary><p>The Fortieth AAAI Conference on Artificial Intelligence (AAAI-26)</p></details> |
+| **[ReefNet: A Large scale, Taxonomically Enriched Dataset and Benchmark for Hard Coral Classification](https://arxiv.org/abs/2510.16822v2)** | 2025-11-24 |  |
+| **[Collaborative Learning with Multiple Foundation Models for Source-Free Domain Adaptation](https://arxiv.org/abs/2511.19147v1)** | 2025-11-24 | 15 pages, 8 figures |
+| **[Graph-based 3D Human Pose Estimation using WiFi Signals](https://arxiv.org/abs/2511.19105v1)** | 2025-11-24 |  |
+| **[Mitigating Participation Imbalance Bias in Asynchronous Federated Learning](https://arxiv.org/abs/2511.19066v1)** | 2025-11-24 |  |
 
 ## source detection
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[MASS: Motion-Aware Spatial-Temporal Grounding for Physics Reasoning and Comprehension in Vision-Language Models](https://arxiv.org/abs/2511.18373v1)** | 2025-11-23 |  |
-| **[IntelliRadar: A Comprehensive Platform to Pinpoint Malicious Package Information from Cyber Intelligence](https://arxiv.org/abs/2409.15049v6)** | 2025-11-23 |  |
-| **[Video-RAG: Visually-aligned Retrieval-Augmented Long Video Comprehension](https://arxiv.org/abs/2411.13093v4)** | 2025-11-23 | <details><summary>Accep...</summary><p>Accepted at NeurIPS 2025. Camera-ready version</p></details> |
-| **[How do data owners say no? A case study of data consent mechanisms in web-scraped vision-language AI training datasets](https://arxiv.org/abs/2511.08637v2)** | 2025-11-23 |  |
-| **[Towards Effective, Stealthy, and Persistent Backdoor Attacks Targeting Graph Foundation Models](https://arxiv.org/abs/2511.17982v1)** | 2025-11-22 | <details><summary>Accep...</summary><p>Accepted by AAAI 2026</p></details> |
-| **[MTikGuard System: A Transformer-Based Multimodal System for Child-Safe Content Moderation on TikTok](https://arxiv.org/abs/2511.17955v1)** | 2025-11-22 | Accepted at PACLIC39 |
-| **[Optimized Memory Tagging on AmpereOne Processors](https://arxiv.org/abs/2511.17773v1)** | 2025-11-21 | 12 pages, 8 figures |
-| **[StealthCup: Realistic, Multi-Stage, Evasion-Focused CTF for Benchmarking IDS](https://arxiv.org/abs/2511.17761v1)** | 2025-11-21 |  |
-| **[PUCP-Metrix: A Comprehensive Open-Source Repository of Linguistic Metrics for Spanish](https://arxiv.org/abs/2511.17402v1)** | 2025-11-21 | <details><summary>1 fig...</summary><p>1 figure, to be submitted to EACL Demo track</p></details> |
-| **[Covariate Connectivity Combined Clustering for Weighted Networks](https://arxiv.org/abs/2511.17302v1)** | 2025-11-21 |  |
-| **[When Bias Pretends to Be Truth: How Spurious Correlations Undermine Hallucination Detection in LLMs](https://arxiv.org/abs/2511.07318v2)** | 2025-11-21 |  |
-| **[A Cross-Cultural Assessment of Human Ability to Detect LLM-Generated Fake News about South Africa](https://arxiv.org/abs/2511.17682v1)** | 2025-11-21 |  |
-| **[Supervised Contrastive Learning for Few-Shot AI-Generated Image Detection and Attribution](https://arxiv.org/abs/2511.16541v2)** | 2025-11-21 | <details><summary>17 pa...</summary><p>17 pages, 6 figures, 6 tables</p></details> |
-| **[Avoiding Quality Saturation in UGC Compression Using Denoised References](https://arxiv.org/abs/2511.16876v1)** | 2025-11-21 |  |
-| **[FinCriticalED: A Visual Benchmark for Financial Fact-Level OCR Evaluation](https://arxiv.org/abs/2511.14998v2)** | 2025-11-21 | <details><summary>Yueru...</summary><p>Yueru He, Xueqing Peng: These two authors contributed equally to this work</p></details> |
+| **[Detecting Cultural Differences in News Video Thumbnails via Computational Aesthetics](https://arxiv.org/abs/2505.21912v2)** | 2025-11-25 | ICWSM'24 Workshop |
+| **[Multiple-Input Auto-Encoder Guided Feature Selection for IoT Intrusion Detection Systems](https://arxiv.org/abs/2403.15511v2)** | 2025-11-25 |  |
+| **[Panoptic Captioning: An Equivalence Bridge for Image and Text](https://arxiv.org/abs/2505.16334v3)** | 2025-11-25 | <details><summary>NeurI...</summary><p>NeurIPS 2025; Project page: https://visual-ai.github.io/pancap/</p></details> |
+| **[VULSOLVER: Vulnerability Detection via LLM-Driven Constraint Solving](https://arxiv.org/abs/2509.00882v5)** | 2025-11-25 |  |
+| **[An experimental study of existing tools for outlier detection and cleaning in trajectories](https://arxiv.org/abs/2511.20139v1)** | 2025-11-25 |  |
+| **[Leveraging Unlabeled Data from Unknown Sources via Dual-Path Guidance for Deepfake Face Detection](https://arxiv.org/abs/2508.09022v3)** | 2025-11-25 | 11pages,4figures |
+| **[PRADA: Probability-Ratio-Based Attribution and Detection of Autoregressive-Generated Images](https://arxiv.org/abs/2511.20068v1)** | 2025-11-25 |  |
+| **[Transfer Learning for High-dimensional Quantile Regression with Distribution Shift](https://arxiv.org/abs/2411.19933v2)** | 2025-11-25 | 61 pages |
+| **[ShapeForce: Low-Cost Soft Robotic Wrist for Contact-Rich Manipulation](https://arxiv.org/abs/2511.19955v1)** | 2025-11-25 |  |
+| **[ChessMamba: Structure-Aware Interleaving of State Spaces for Change Detection in Remote Sensing Images](https://arxiv.org/abs/2511.19882v1)** | 2025-11-25 |  |
+| **[Realizing Quantum Wireless Sensing Without Extra Reference Sources: Architecture, Algorithm, and Sensitivity Maximization](https://arxiv.org/abs/2504.21234v2)** | 2025-11-25 | <details><summary>A sel...</summary><p>A self-heterodyne sensing approach, which equivalents to an atomic autocorrelator, is proposed to enable high-resolution quantum wireless sensing</p></details> |
+| **[CodeFuse-CommitEval: Towards Benchmarking LLM's Power on Commit Message and Code Change Inconsistency Detection](https://arxiv.org/abs/2511.19875v1)** | 2025-11-25 |  |
+| **[Reading Between the Lines: Abstaining from VLM-Generated OCR Errors via Latent Representation Probes](https://arxiv.org/abs/2511.19806v1)** | 2025-11-25 |  |
+| **[Soteria: Efficient Symbolic Execution as a Functional Library](https://arxiv.org/abs/2511.08729v4)** | 2025-11-24 |  |
+| **[The SA-FARI Dataset: Segment Anything in Footage of Animals for Recognition and Identification](https://arxiv.org/abs/2511.15622v2)** | 2025-11-24 |  |
 
 ## source identification
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[X-ReID: Multi-granularity Information Interaction for Video-Based Visible-Infrared Person Re-Identification](https://arxiv.org/abs/2511.17964v2)** | 2025-11-25 | <details><summary>Accep...</summary><p>Accepted by AAAI2026. More modifications may be performed</p></details> |
+| **[The SA-FARI Dataset: Segment Anything in Footage of Animals for Recognition and Identification](https://arxiv.org/abs/2511.15622v2)** | 2025-11-24 |  |
+| **[Evaluating Deep Learning and Traditional Approaches Used in Source Camera Identification](https://arxiv.org/abs/2511.19180v1)** | 2025-11-24 | 4 figures |
+| **[Multidimensional Music Aesthetic Evaluation via Semantically Consistent C-Mixup Augmentation](https://arxiv.org/abs/2511.18869v1)** | 2025-11-24 |  |
+| **[Preprint: Exploring Inevitable Waypoints for Unsolvability Explanation in Hybrid Planning Problems](https://arxiv.org/abs/2504.15668v2)** | 2025-11-24 |  |
+| **[A Theory-Inspired Framework for Few-Shot Cross-Modal Sketch Person Re-Identification](https://arxiv.org/abs/2511.18677v1)** | 2025-11-24 | Accepted by AAAI2026 |
+| **[From Reviewers' Lens: Understanding Bug Bounty Report Invalid Reasons with LLMs](https://arxiv.org/abs/2511.18608v1)** | 2025-11-23 | 10 pages, 4 figures |
 | **[Signal: Selective Interaction and Global-local Alignment for Multi-Modal Object Re-Identification](https://arxiv.org/abs/2511.17965v1)** | 2025-11-22 | <details><summary>Accep...</summary><p>Accepted by AAAI2026. More modifications may be performed</p></details> |
-| **[X-ReID: Multi-granularity Information Interaction for Video-Based Visible-Infrared Person Re-Identification](https://arxiv.org/abs/2511.17964v1)** | 2025-11-22 | <details><summary>Accep...</summary><p>Accepted by AAAI2026. More modifications may be performed</p></details> |
 | **[Statistically-Guided Dual-Domain Meta-Learning with Adaptive Multi-Prototype Aggregation for Distributed Fiber Optic Sensing](https://arxiv.org/abs/2511.17902v1)** | 2025-11-22 |  |
 | **[Exploring Scientific Debt: Harnessing AI for SATD Identification in Scientific Software](https://arxiv.org/abs/2511.17368v1)** | 2025-11-21 | <details><summary>11 pa...</summary><p>11 pages, 2 figures, 6 tables</p></details> |
 | **[SMoRFFI: A Large-Scale Same-Model 2.4 GHz Wi-Fi Dataset and Reproducible Framework for RF Fingerprinting](https://arxiv.org/abs/2511.07770v2)** | 2025-11-21 |  |
 | **[Colo-ReID: Discriminative Representation Embedding with Meta-learning for Colonoscopic Polyp Re-Identification](https://arxiv.org/abs/2308.00929v3)** | 2025-11-21 |  |
 | **[Bridging VLMs and Embodied Intelligence with Deliberate Practice Policy Optimization](https://arxiv.org/abs/2511.16602v1)** | 2025-11-20 |  |
 | **[Domain-Shared Learning and Gradual Alignment for Unsupervised Domain Adaptation Visible-Infrared Person Re-Identification](https://arxiv.org/abs/2511.16184v1)** | 2025-11-20 |  |
-| **[The SA-FARI Dataset: Segment Anything in Footage of Animals for Recognition and Identification](https://arxiv.org/abs/2511.15622v1)** | 2025-11-19 |  |
 | **[Collision Resolution in RFID Systems Using Antenna Arrays and Mix Source Separation](https://arxiv.org/abs/2511.15490v1)** | 2025-11-19 | 4 pages, 3 figures |
-| **[UGG-ReID: Uncertainty-Guided Graph Model for Multi-Modal Object Re-Identification](https://arxiv.org/abs/2507.04638v3)** | 2025-11-19 |  |
-| **[CKDA: Cross-modality Knowledge Disentanglement and Alignment for Visible-Infrared Lifelong Person Re-identification](https://arxiv.org/abs/2511.15016v1)** | 2025-11-19 |  |
-| **[GraphInstruct: Empowering Large Language Models with Graph Understanding and Reasoning Capability](https://arxiv.org/abs/2403.04483v4)** | 2025-11-18 | <details><summary>The a...</summary><p>The article has been accepted by Frontiers of Computer Science (FCS), with the DOI: {10.1007/s11704-025-51382-0}</p></details> |
-| **[Hierarchical Prompt Learning for Image- and Text-Based Person Re-Identification](https://arxiv.org/abs/2511.13575v1)** | 2025-11-17 | <details><summary>9 pag...</summary><p>9 pages, 4 figures, accepted by AAAI 2026</p></details> |
-| **[Practical Causal Evaluation Metrics for Biological Networks](https://arxiv.org/abs/2511.12805v1)** | 2025-11-16 | 15 pages, 1 figure |
 
 ## diffusion source
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[DUO-TOK: Dual-Track Semantic Music Tokenizer for Vocal-Accompaniment Generation](https://arxiv.org/abs/2511.20224v1)** | 2025-11-25 | <details><summary>17 pa...</summary><p>17 pages, 5 figures, 8 tables. Project page: https://eps-acoustic-revolution-lab.github.io/DUO_TOK/</p></details> |
+| **[OmniRefiner: Reinforcement-Guided Local Diffusion Refinement](https://arxiv.org/abs/2511.19990v1)** | 2025-11-25 |  |
+| **[Zero-Shot Video Translation via Token Warping](https://arxiv.org/abs/2402.12099v4)** | 2025-11-25 | <details><summary>Code ...</summary><p>Code is available at: https://github.com/Alex-Zhu1/TokenWarping</p></details> |
+| **[A Survey on Diffusion Models for Time Series and Spatio-Temporal Data](https://arxiv.org/abs/2404.18886v4)** | 2025-11-25 | <details><summary>Accep...</summary><p>Accepted by ACM Computing Surveys; 40 pages; Github Repo: https://github.com/yyysjz1997/Awesome-TimeSeries-SpatioTemporal-Diffusion-Model</p></details> |
+| **[Rectified SpaAttn: Revisiting Attention Sparsity for Efficient Video Generation](https://arxiv.org/abs/2511.19835v1)** | 2025-11-25 | <details><summary>Code ...</summary><p>Code at https://github.com/BienLuky/Rectified-SpaAttn</p></details> |
+| **[One Attention, One Scale: Phase-Aligned Rotary Positional Embeddings for Mixed-Resolution Diffusion Transformer](https://arxiv.org/abs/2511.19778v1)** | 2025-11-24 |  |
+| **[Adjoint Schrödinger Bridge Sampler](https://arxiv.org/abs/2506.22565v2)** | 2025-11-24 | <details><summary>NeurI...</summary><p>NeurIPS 2025 (Oral presentation)</p></details> |
+| **[Audio Palette: A Diffusion Transformer with Multi-Signal Conditioning for Controllable Foley Synthesis](https://arxiv.org/abs/2510.12175v3)** | 2025-11-24 | <details><summary>Accep...</summary><p>Accepted for publication in the Artificial Intelligence Technology Research (AITR), Vol. 3, No. 2, December 2025</p></details> |
+| **[Matrix-game 2.0: An open-source real-time and streaming interactive world model](https://arxiv.org/abs/2508.13009v2)** | 2025-11-24 | <details><summary>Proje...</summary><p>Project Page: https://matrix-game-v2.github.io</p></details> |
+| **[ProxT2I: Efficient Reward-Guided Text-to-Image Generation via Proximal Diffusion](https://arxiv.org/abs/2511.18742v1)** | 2025-11-24 |  |
+| **[Object-centric Task Representation and Transfer using Diffused Orientation Fields](https://arxiv.org/abs/2511.18563v1)** | 2025-11-23 |  |
 | **[Backdoors in Conditional Diffusion: Threats to Responsible Synthetic Data Pipelines](https://arxiv.org/abs/2507.04726v2)** | 2025-11-23 | <details><summary>Accep...</summary><p>Accepted at RDS @ AAAI 2026</p></details> |
 | **[MultiDiffNet: A Multi-Objective Diffusion Framework for Generalizable Brain Decoding](https://arxiv.org/abs/2511.18294v1)** | 2025-11-23 |  |
 | **[Uni-DAD: Unified Distillation and Adaptation of Diffusion Models for Few-step Few-shot Image Generation](https://arxiv.org/abs/2511.18281v1)** | 2025-11-23 | <details><summary>Under...</summary><p>Under review paper at CVPR 2026</p></details> |
 | **[Perceptogram: Reconstructing Visual Percepts and Presumptive Electrode Preference from EEG](https://arxiv.org/abs/2404.01250v3)** | 2025-11-22 |  |
-| **[Bringing Stability to Diffusion: Decomposing and Reducing Variance of Training Masked Diffusion Models](https://arxiv.org/abs/2511.18159v1)** | 2025-11-22 |  |
-| **[Video4Edit: Viewing Image Editing as a Degenerate Temporal Process](https://arxiv.org/abs/2511.18131v1)** | 2025-11-22 | 10 pages, 5 figures |
-| **[UltraFlux: Data-Model Co-Design for High-quality Native 4K Text-to-Image Generation across Diverse Aspect Ratios](https://arxiv.org/abs/2511.18050v1)** | 2025-11-22 | <details><summary>Proje...</summary><p>Project Page: https://w2genai-lab.github.io/UltraFlux/</p></details> |
-| **[Text-guided multi-property molecular optimization with a diffusion language model](https://arxiv.org/abs/2410.13597v3)** | 2025-11-21 |  |
-| **[Diffusion-Inversion-Net (DIN): An End-to-End Direct Probabilistic Framework for Characterizing Hydraulic Conductivities and Quantifying Uncertainty](https://arxiv.org/abs/2511.16926v1)** | 2025-11-21 |  |
-| **[TRIM: Scalable 3D Gaussian Diffusion Inference with Temporal and Spatial Trimming](https://arxiv.org/abs/2511.16642v1)** | 2025-11-20 | NeurIPS 2025 |
-| **[TRADES: Generating Realistic Market Simulations with Diffusion Models](https://arxiv.org/abs/2502.07071v3)** | 2025-11-20 | 8 pages |
-| **[Mantis: A Versatile Vision-Language-Action Model with Disentangled Visual Foresight](https://arxiv.org/abs/2511.16175v1)** | 2025-11-20 |  |
-| **[Pluggable Pruning with Contiguous Layer Distillation for Diffusion Transformers](https://arxiv.org/abs/2511.16156v1)** | 2025-11-20 | <details><summary>https...</summary><p>https://github.com/OPPO-Mente-Lab/Qwen-Image-Pruning</p></details> |
-| **[Zero-Shot Video Translation via Token Warping](https://arxiv.org/abs/2402.12099v3)** | 2025-11-20 |  |
-| **[Capture Stage Matting: Challenges, Approaches, and Solutions for Offline and Real-Time Processing](https://arxiv.org/abs/2507.07623v2)** | 2025-11-19 |  |
 
 ## rumor source
 | **Title** | **Date** | **Comment** |
