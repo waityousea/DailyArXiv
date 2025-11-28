@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - November 27, 2025
+title: Latest 15 Papers - November 28, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/waityousea/DailyArXiv/) page for a better reading experience and more papers.**
@@ -26,6 +26,7 @@ labels: documentation
 ## source detection
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[EvilGenie: A Reward Hacking Benchmark](https://arxiv.org/abs/2511.21654v1)** | 2025-11-26 |  |
 | **[Context-Specific Causal Graph Discovery with Unobserved Contexts: Non-Stationarity, Regimes and Spatio-Temporal Patterns](https://arxiv.org/abs/2511.21537v1)** | 2025-11-26 |  |
 | **[Self-Paced Learning for Images of Antinuclear Antibodies](https://arxiv.org/abs/2511.21519v1)** | 2025-11-26 | <details><summary>IEEE ...</summary><p>IEEE Transactions on Medical Imaging</p></details> |
 | **[Can LLMs extract human-like fine-grained evidence for evidence-based fact-checking?](https://arxiv.org/abs/2511.21401v1)** | 2025-11-26 |  |
@@ -40,7 +41,6 @@ labels: documentation
 | **[Copyright Detection in Large Language Models: An Ethical Approach to Generative AI Development](https://arxiv.org/abs/2511.20623v1)** | 2025-11-25 | 4 pages, 3 figures |
 | **[DiFR: Inference Verification Despite Nondeterminism](https://arxiv.org/abs/2511.20621v1)** | 2025-11-25 |  |
 | **[From One Attack Domain to Another: Contrastive Transfer Learning with Siamese Networks for APT Detection](https://arxiv.org/abs/2511.20500v1)** | 2025-11-25 |  |
-| **[Detecting Cultural Differences in News Video Thumbnails via Computational Aesthetics](https://arxiv.org/abs/2505.21912v2)** | 2025-11-25 | ICWSM'24 Workshop |
 
 ## source identification
 | **Title** | **Date** | **Comment** |
