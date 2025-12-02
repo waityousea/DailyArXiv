@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - December 01, 2025
+title: Latest 15 Papers - December 02, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/waityousea/DailyArXiv/) page for a better reading experience and more papers.**
@@ -7,40 +7,40 @@ labels: documentation
 ## source localization
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[3D MedDiffusion: A 3D Medical Latent Diffusion Model for Controllable and High-quality Medical Image Generation](https://arxiv.org/abs/2412.13059v2)** | 2025-11-30 |  |
+| **[Audio-Visual World Models: Towards Multisensory Imagination in Sight and Sound](https://arxiv.org/abs/2512.00883v1)** | 2025-11-30 |  |
+| **[Cross-Domain Federated Semantic Communication with Global Representation Alignment and Domain-Aware Aggregation](https://arxiv.org/abs/2512.00711v1)** | 2025-11-30 | <details><summary>13 pa...</summary><p>13 pages, 7 figures, 6 tables</p></details> |
+| **[Dynamic-eDiTor: Training-Free Text-Driven 4D Scene Editing with Multimodal Diffusion Transformer](https://arxiv.org/abs/2512.00677v1)** | 2025-11-30 | 4D Scene Editing |
+| **[Describe Anything Anywhere At Any Moment](https://arxiv.org/abs/2512.00565v1)** | 2025-11-29 | <details><summary>14 pa...</summary><p>14 pages, 5 figures, 6 tables</p></details> |
+| **[PORTAL: Controllable Landscape Generator for Continuous Optimization-Part I: Framework](https://arxiv.org/abs/2512.00288v1)** | 2025-11-29 | 15 pages, 1 figure |
 | **[Towards Improving Interpretability of Language Model Generation through a Structured Knowledge Discovery Approach](https://arxiv.org/abs/2511.23335v1)** | 2025-11-28 |  |
 | **[STAR-Bench: Probing Deep Spatio-Temporal Reasoning as Audio 4D Intelligence](https://arxiv.org/abs/2510.24693v2)** | 2025-11-28 | <details><summary>Homep...</summary><p>Homepage: https://internlm.github.io/StarBench/</p></details> |
 | **[Harmony: Harmonizing Audio and Video Generation through Cross-Task Synergy](https://arxiv.org/abs/2511.21579v2)** | 2025-11-28 |  |
+| **[Local and Global Context-and-Object-part-Aware Superpixel-based Data Augmentation for Deep Visual Recognition](https://arxiv.org/abs/2512.00130v1)** | 2025-11-28 |  |
 | **[GazeTrack: High-Precision Eye Tracking Based on Regularization and Spatial Computing](https://arxiv.org/abs/2511.22607v1)** | 2025-11-27 | 10 pages, 7 figures |
 | **[VinciCoder: Unifying Multimodal Code Generation via Coarse-to-fine Visual Reinforcement Learning](https://arxiv.org/abs/2511.00391v2)** | 2025-11-27 | 15 pages, 11 figures |
 | **[ITS3D: Inference-Time Scaling for Text-Guided 3D Diffusion Models](https://arxiv.org/abs/2511.22456v1)** | 2025-11-27 | 25 pages, 11 figures |
 | **[Nonholonomic Narrow Dead-End Escape with Deep Reinforcement Learning](https://arxiv.org/abs/2511.22338v1)** | 2025-11-27 | <details><summary>14 pa...</summary><p>14 pages, 5 figures, 1 table, submitted to arXiv</p></details> |
 | **[Match-and-Fuse: Consistent Generation from Unstructured Image Sets](https://arxiv.org/abs/2511.22287v1)** | 2025-11-27 | <details><summary>Proje...</summary><p>Project page: https://match-and-fuse.github.io/</p></details> |
-| **[IVY-FAKE: A Unified Explainable Framework and Benchmark for Image and Video AIGC Detection](https://arxiv.org/abs/2506.00979v4)** | 2025-11-27 | 30 pages |
-| **[Guiding the Inner Eye: A Framework for Hierarchical and Flexible Visual Grounded Reasoning](https://arxiv.org/abs/2511.22172v1)** | 2025-11-27 | 9pages |
-| **[AfriStereo: A Culturally Grounded Dataset for Evaluating Stereotypical Bias in Large Language Models](https://arxiv.org/abs/2511.22016v1)** | 2025-11-27 |  |
-| **[Adapting Segment Anything Model for Power Transmission Corridor Hazard Segmentation](https://arxiv.org/abs/2505.22105v2)** | 2025-11-26 |  |
-| **[Force Prompting: Video Generation Models Can Learn and Generalize Physics-based Control Signals](https://arxiv.org/abs/2505.19386v2)** | 2025-11-26 | <details><summary>Camer...</summary><p>Camera ready version (NeurIPS 2025). Code and interactive demos at https://force-prompting.github.io/</p></details> |
-| **[Resolution Where It Counts: Hash-based GPU-Accelerated 3D Reconstruction via Variance-Adaptive Voxel Grids](https://arxiv.org/abs/2511.21459v1)** | 2025-11-26 | <details><summary>Accep...</summary><p>Accepted for publication in ACM Transaction on Graphics. Project site: https://rvp-group.github.io/mrhash/</p></details> |
-| **[Learning Normals of Noisy Points by Local Gradient-Aware Surface Filtering](https://arxiv.org/abs/2507.03394v2)** | 2025-11-26 | <details><summary>Accep...</summary><p>Accepted by ICCV 2025. Project page: https://leoqli.github.io/LGSF/</p></details> |
 
 ## source detection
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[CycliST: A Video Language Model Benchmark for Reasoning on Cyclical State Transitions](https://arxiv.org/abs/2512.01095v1)** | 2025-11-30 |  |
+| **[Conformal Prediction for Multi-Source Detection on a Network](https://arxiv.org/abs/2511.08867v2)** | 2025-11-30 |  |
+| **[ANSR-DT: An Adaptive Neuro-Symbolic Learning and Reasoning Framework for Digital Twins](https://arxiv.org/abs/2501.08561v3)** | 2025-11-30 | <details><summary>Code ...</summary><p>Code available at https://github.com/sbhakim/ansr-dt</p></details> |
+| **[Med-CMR: A Fine-Grained Benchmark Integrating Visual Evidence and Clinical Logic for Medical Complex Multimodal Reasoning](https://arxiv.org/abs/2512.00818v1)** | 2025-11-30 |  |
+| **[DEJIMA: A Novel Large-scale Japanese Dataset for Image Captioning and Visual Question Answering](https://arxiv.org/abs/2512.00773v1)** | 2025-11-30 |  |
+| **[Melody or Machine: Detecting Synthetic Music with Dual-Stream Contrastive Learning](https://arxiv.org/abs/2512.00621v1)** | 2025-11-29 | <details><summary>Accep...</summary><p>Accepted at Transactions on Machine Learning Research (TMLR)</p></details> |
+| **[SAGE: Semantic-Aware Gray-Box Game Regression Testing with Large Language Models](https://arxiv.org/abs/2512.00560v1)** | 2025-11-29 | <details><summary>This ...</summary><p>This paper has been submitted to the Automated Software Engineering journal</p></details> |
+| **[Bias Testing and Mitigation in Black Box LLMs using Metamorphic Relations](https://arxiv.org/abs/2512.00556v1)** | 2025-11-29 |  |
+| **[CausalAffect: Causal Discovery for Facial Affective Understanding](https://arxiv.org/abs/2512.00456v1)** | 2025-11-29 |  |
+| **[Predicting the Performance of Black-box LLMs through Follow-up Queries](https://arxiv.org/abs/2501.01558v4)** | 2025-11-29 | NeurIPS 2025 |
 | **[A Hierarchical Computer Vision Pipeline for Physiological Data Extraction from Bedside Monitors](https://arxiv.org/abs/2511.23355v1)** | 2025-11-28 | 11 pages, 3 figures |
 | **[AgriCoT: A Chain-of-Thought Benchmark for Evaluating Reasoning in Vision-Language Models for Agriculture](https://arxiv.org/abs/2511.23253v1)** | 2025-11-28 |  |
 | **[Identification of Malicious Posts on the Dark Web Using Supervised Machine Learning](https://arxiv.org/abs/2511.23183v1)** | 2025-11-28 | <details><summary>Manus...</summary><p>Manuscript under review (SN Computer Science)</p></details> |
 | **[Mind Reading or Misreading? LLMs on the Big Five Personality Test](https://arxiv.org/abs/2511.23101v1)** | 2025-11-28 | <details><summary>Fundi...</summary><p>Funding: SoBigDatait (IR0000013), FAIR (PE00000013), ICSC (CN00000013)</p></details> |
 | **[Bharat Scene Text: A Novel Comprehensive Dataset and Benchmark for Indian Language Scene Text Understanding](https://arxiv.org/abs/2511.23071v1)** | 2025-11-28 | Under Peer Review |
-| **[Fusion or Confusion? Assessing the impact of visible-thermal image fusion for automated wildlife detection](https://arxiv.org/abs/2511.22768v1)** | 2025-11-27 | <details><summary>19 pa...</summary><p>19 pages, 9 figures, submitted to Remote Sensing in Ecology and Conservation</p></details> |
-| **[An Empirical Study of Self-Admitted Technical Debt in Machine Learning Software](https://arxiv.org/abs/2311.12019v3)** | 2025-11-27 |  |
-| **[HumaniBench: A Human-Centric Framework for Large Multimodal Models Evaluation](https://arxiv.org/abs/2505.11454v6)** | 2025-11-27 |  |
-| **[SAMChat: Introducing Chain of Thought Reasoning and GRPO to a Multimodal Small Language Model for Small Scale Remote Sensing](https://arxiv.org/abs/2505.07984v2)** | 2025-11-27 | <details><summary>Accep...</summary><p>Accepted to Journal of Selected Topics in Applied Earth Observations and Remote Sensing (JSTARS) Special Issue on Foundation and Large Vision Models for Remote Sensing. Code and dataset are available at https://github.com/aybora/SAMChat</p></details> |
-| **[UniBOM -- A Unified SBOM Analysis and Visualisation Tool for IoT Systems and Beyond](https://arxiv.org/abs/2511.22359v1)** | 2025-11-27 | <details><summary>This ...</summary><p>This paper has been accepted at the ACM 15th International Conference on the Internet of Things (ACM IoT 2025)</p></details> |
-| **[Bridging 3D Deep Learning and Curation for Analysis and High-Quality Segmentation in Practice](https://arxiv.org/abs/2511.22236v1)** | 2025-11-27 |  |
-| **[WaveC2R: Wavelet-Driven Coarse-to-Refined Hierarchical Learning for Radar Retrieval](https://arxiv.org/abs/2511.17558v2)** | 2025-11-27 | <details><summary>This ...</summary><p>This work has been accepted by AAAI2026, AAAI2026 Project's webpage at this URL:https://spring-lovely.github.io/WaveC2R/</p></details> |
-| **[IVY-FAKE: A Unified Explainable Framework and Benchmark for Image and Video AIGC Detection](https://arxiv.org/abs/2506.00979v4)** | 2025-11-27 | 30 pages |
-| **[PAGen: Phase-guided Amplitude Generation for Domain-adaptive Object Detection](https://arxiv.org/abs/2511.22029v1)** | 2025-11-27 |  |
-| **[PRO-V-R1: Reasoning Enhanced Programming Agent for RTL Verification](https://arxiv.org/abs/2506.12200v2)** | 2025-11-26 |  |
 
 ## source identification
 | **Title** | **Date** | **Comment** |
@@ -64,21 +64,21 @@ labels: documentation
 ## diffusion source
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Blind Inverse Problem Solving Made Easy by Text-to-Image Latent Diffusion](https://arxiv.org/abs/2412.00557v2)** | 2025-11-30 |  |
+| **[Conformal Prediction for Multi-Source Detection on a Network](https://arxiv.org/abs/2511.08867v2)** | 2025-11-30 |  |
+| **[3D MedDiffusion: A 3D Medical Latent Diffusion Model for Controllable and High-quality Medical Image Generation](https://arxiv.org/abs/2412.13059v2)** | 2025-11-30 |  |
+| **[Audio-Visual World Models: Towards Multisensory Imagination in Sight and Sound](https://arxiv.org/abs/2512.00883v1)** | 2025-11-30 |  |
+| **[MeanVC: Lightweight and Streaming Zero-Shot Voice Conversion via Mean Flows](https://arxiv.org/abs/2510.08392v2)** | 2025-11-30 |  |
+| **[Hallo4: High-Fidelity Dynamic Portrait Animation via Direct Preference Optimization](https://arxiv.org/abs/2505.23525v4)** | 2025-11-30 |  |
+| **[Dynamic-eDiTor: Training-Free Text-Driven 4D Scene Editing with Multimodal Diffusion Transformer](https://arxiv.org/abs/2512.00677v1)** | 2025-11-30 | 4D Scene Editing |
+| **[Low-Bitrate Video Compression through Semantic-Conditioned Diffusion](https://arxiv.org/abs/2512.00408v1)** | 2025-11-29 |  |
+| **[M3DLayout: A Multi-Source Dataset of 3D Indoor Layouts and Structured Descriptions for 3D Generation](https://arxiv.org/abs/2509.23728v2)** | 2025-11-29 | <details><summary>https...</summary><p>https://graphic-kiliani.github.io/M3DLayout/</p></details> |
+| **[A Survey on Bridging EEG Signals and Generative AI: From Image and Text to Beyond](https://arxiv.org/abs/2502.12048v3)** | 2025-11-28 |  |
 | **[A Style is Worth One Code: Unlocking Code-to-Style Image Generation with Discrete Style Space](https://arxiv.org/abs/2511.10555v5)** | 2025-11-28 | <details><summary>Code:...</summary><p>Code: https://github.com/Kwai-Kolors/CoTyle Demo: https://huggingface.co/spaces/Kwai-Kolors/CoTyle Homepage: https://kwai-kolors.github.io/CoTyle/</p></details> |
 | **[Harmony: Harmonizing Audio and Video Generation through Cross-Task Synergy](https://arxiv.org/abs/2511.21579v2)** | 2025-11-28 |  |
 | **[NumeriKontrol: Adding Numeric Control to Diffusion Transformers for Instruction-based Image Editing](https://arxiv.org/abs/2511.23105v1)** | 2025-11-28 | 13 pages, 10 figures |
 | **[The impact of anticonformity on the diffusion of innovation -- insights from the q-voter model](https://arxiv.org/abs/2511.23061v1)** | 2025-11-28 | 7 pages, 2 figures |
 | **[Ovis-Image Technical Report](https://arxiv.org/abs/2511.22982v1)** | 2025-11-28 | <details><summary>Code ...</summary><p>Code is released at https://github.com/AIDC-AI/Ovis-Image</p></details> |
-| **[Video Echoed in Music: Semantic, Temporal, and Rhythmic Alignment for Video-to-Music Generation](https://arxiv.org/abs/2511.09585v3)** | 2025-11-28 |  |
-| **[MammoRGB: Dual-View Mammogram Synthesis Using Denoising Diffusion Probabilistic Models](https://arxiv.org/abs/2511.22759v1)** | 2025-11-27 |  |
-| **[Z-Image: An Efficient Image Generation Foundation Model with Single-Stream Diffusion Transformer](https://arxiv.org/abs/2511.22699v1)** | 2025-11-27 |  |
-| **[REASONEDIT: Towards Reasoning-Enhanced Image Editing Models](https://arxiv.org/abs/2511.22625v1)** | 2025-11-27 | <details><summary>code:...</summary><p>code: https://github.com/stepfun-ai/Step1X-Edit</p></details> |
-| **[ITS3D: Inference-Time Scaling for Text-Guided 3D Diffusion Models](https://arxiv.org/abs/2511.22456v1)** | 2025-11-27 | 25 pages, 11 figures |
-| **[Visual-Geometry Diffusion Policy: Robust Generalization via Complementarity-Aware Multimodal Fusion](https://arxiv.org/abs/2511.22445v1)** | 2025-11-27 |  |
-| **[AnchorFlow: Training-Free 3D Editing via Latent Anchor-Aligned Flows](https://arxiv.org/abs/2511.22357v1)** | 2025-11-27 | 20 pages, 10 figures |
-| **[Foundation Models in Autonomous Driving: A Survey on Scenario Generation and Scenario Analysis](https://arxiv.org/abs/2506.11526v2)** | 2025-11-27 | <details><summary>Revis...</summary><p>Revised manuscript with separate evaluation metrics table</p></details> |
-| **[Odin: Oriented Dual-module Integration for Text-rich Network Representation Learning](https://arxiv.org/abs/2511.21416v2)** | 2025-11-27 | 32 pages, 2 figures |
-| **[WaveC2R: Wavelet-Driven Coarse-to-Refined Hierarchical Learning for Radar Retrieval](https://arxiv.org/abs/2511.17558v2)** | 2025-11-27 | <details><summary>This ...</summary><p>This work has been accepted by AAAI2026, AAAI2026 Project's webpage at this URL:https://spring-lovely.github.io/WaveC2R/</p></details> |
 
 ## rumor source
 | **Title** | **Date** | **Comment** |
