@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - December 07, 2025
+title: Latest 15 Papers - December 08, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/waityousea/DailyArXiv/) page for a better reading experience and more papers.**
@@ -7,6 +7,13 @@ labels: documentation
 ## source localization
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Natural Language Summarization Enables Multi-Repository Bug Localization by LLMs in Microservice Architectures](https://arxiv.org/abs/2512.05908v1)** | 2025-12-05 | <details><summary>Accep...</summary><p>Accepted at LLM4Code Workshop, ICSE 2026</p></details> |
+| **[2K-Characters-10K-Stories: A Quality-Gated Stylized Narrative Dataset with Disentangled Control and Sequence Consistency](https://arxiv.org/abs/2512.05557v1)** | 2025-12-05 |  |
+| **[Experiments with Large Language Models on Retrieval-Augmented Generation for Closed-Source Simulation Software](https://arxiv.org/abs/2502.03916v2)** | 2025-12-05 | <details><summary>16 pa...</summary><p>16 pages, 6 tables, 2 figures</p></details> |
+| **[Delving into Latent Spectral Biasing of Video VAEs for Superior Diffusability](https://arxiv.org/abs/2512.05394v1)** | 2025-12-05 |  |
+| **[OpenSQP: A Reconfigurable Open-Source SQP Algorithm in Python for Nonlinear Optimization](https://arxiv.org/abs/2512.05392v1)** | 2025-12-05 | <details><summary>17 pa...</summary><p>17 pages with 1 figure. For associated code, see https://github.com/LSDOlab/modopt/blob/main/modopt/core/optimization_algorithms/opensqp.py</p></details> |
+| **[Exposing Pink Slime Journalism: Linguistic Signatures and Robust Detection Against LLM-Generated Threats](https://arxiv.org/abs/2512.05331v1)** | 2025-12-05 | <details><summary>Publi...</summary><p>Published in RANLP 2025</p></details> |
+| **[Learning to Code with Context: A Study-Based Approach](https://arxiv.org/abs/2512.05242v1)** | 2025-12-04 | <details><summary>36 pa...</summary><p>36 pages, 7 figures, 5 tables</p></details> |
 | **[MORPH: PDE Foundation Models with Arbitrary Data Modality](https://arxiv.org/abs/2509.21670v3)** | 2025-12-04 |  |
 | **[TreeRare: Syntax Tree-Guided Retrieval and Reasoning for Knowledge-Intensive Question Answering](https://arxiv.org/abs/2506.00331v2)** | 2025-12-04 |  |
 | **[A dynamic memory assignment strategy for dilation-based ICP algorithm on embedded GPUs](https://arxiv.org/abs/2512.04996v1)** | 2025-12-04 |  |
@@ -15,32 +22,25 @@ labels: documentation
 | **[BOP-ASK: Object-Interaction Reasoning for Vision-Language Models](https://arxiv.org/abs/2511.16857v2)** | 2025-12-04 |  |
 | **[NITRO-D: Native Integer-only Training of Deep Convolutional Neural Networks](https://arxiv.org/abs/2407.11698v3)** | 2025-12-03 | 15 pages, 3 figures |
 | **[BEP: A Binary Error Propagation Algorithm for Binary Neural Networks Training](https://arxiv.org/abs/2512.04189v1)** | 2025-12-03 |  |
-| **[A Common Pipeline for Harmonizing Electronic Health Record Data for Translational Research](https://arxiv.org/abs/2509.08553v3)** | 2025-12-03 |  |
-| **[ToG-Bench: Task-Oriented Spatio-Temporal Grounding in Egocentric Videos](https://arxiv.org/abs/2512.03666v1)** | 2025-12-03 | 26 pages |
-| **[Can VLMs Detect and Localize Fine-Grained AI-Edited Images?](https://arxiv.org/abs/2505.15644v2)** | 2025-12-03 | 14pages,19 figures |
-| **[Reason-Plan-ReAct: A Reasoner-Planner Supervising a ReAct Executor for Complex Enterprise Tasks](https://arxiv.org/abs/2512.03560v1)** | 2025-12-03 | <details><summary>11 pa...</summary><p>11 pages, 1 figure, 2 tables, Workshop AAAI 2026 agentic AI Benchmarks and Applications for Enterprise Tasks</p></details> |
-| **[Think Before You Drive: World Model-Inspired Multimodal Grounding for Autonomous Vehicles](https://arxiv.org/abs/2512.03454v1)** | 2025-12-03 |  |
-| **[COGNITION: From Evaluation to Defense against Multimodal LLM CAPTCHA Solvers](https://arxiv.org/abs/2512.02318v2)** | 2025-12-03 |  |
-| **[What Is The Best 3D Scene Representation for Robotics? From Geometric to Foundation Models](https://arxiv.org/abs/2512.03422v1)** | 2025-12-03 |  |
 
 ## source detection
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[MicroRacer: Detecting Concurrency Bugs for Cloud Service Systems](https://arxiv.org/abs/2512.05716v1)** | 2025-12-05 |  |
+| **[Deep Learning-Based Real-Time Sequential Facial Expression Analysis Using Geometric Features](https://arxiv.org/abs/2512.05669v1)** | 2025-12-05 |  |
+| **[HalluClean: A Unified Framework to Combat Hallucinations in LLMs](https://arxiv.org/abs/2511.08916v4)** | 2025-12-05 |  |
+| **[Bita: A Conversational Assistant for Fairness Testing](https://arxiv.org/abs/2512.05428v1)** | 2025-12-05 |  |
+| **[Moving object detection from multi-depth images with an attention-enhanced CNN](https://arxiv.org/abs/2512.05415v1)** | 2025-12-05 | <details><summary>14 pa...</summary><p>14 pages, 22 figures, submitted to PASJ</p></details> |
+| **[Smart Timing for Mining: A Deep Learning Framework for Bitcoin Hardware ROI Prediction](https://arxiv.org/abs/2512.05402v1)** | 2025-12-05 |  |
+| **[VERIRAG: A Post-Retrieval Auditing of Scientific Study Summaries](https://arxiv.org/abs/2507.17948v2)** | 2025-12-05 |  |
+| **[Exposing Pink Slime Journalism: Linguistic Signatures and Robust Detection Against LLM-Generated Threats](https://arxiv.org/abs/2512.05331v1)** | 2025-12-05 | <details><summary>Publi...</summary><p>Published in RANLP 2025</p></details> |
+| **[The Erosion of LLM Signatures: Can We Still Distinguish Human and LLM-Generated Scientific Ideas After Iterative Paraphrasing?](https://arxiv.org/abs/2512.05311v1)** | 2025-12-04 | <details><summary>Publi...</summary><p>Published in RANLP 2025</p></details> |
 | **[Configuration Defects in Kubernetes](https://arxiv.org/abs/2512.05062v1)** | 2025-12-04 |  |
 | **[PUCP-Metrix: An Open-source and Comprehensive Toolkit for Linguistic Analysis of Spanish Texts](https://arxiv.org/abs/2511.17402v2)** | 2025-12-04 | <details><summary>1 fig...</summary><p>1 figure, Submitted to EACL Demo track (under review)</p></details> |
 | **[SeSE: A Structural Information-Guided Uncertainty Quantification Framework for Hallucination Detection in LLMs](https://arxiv.org/abs/2511.16275v2)** | 2025-12-04 | <details><summary>14 pa...</summary><p>14 pages of main text and 10 pages of appendices;Submit to IEEE TKDE</p></details> |
 | **[LLM-SrcLog: Towards Proactive and Unified Log Template Extraction via Large Language Models](https://arxiv.org/abs/2512.04474v1)** | 2025-12-04 |  |
 | **[Dual-Stream Spectral Decoupling Distillation for Remote Sensing Object Detection](https://arxiv.org/abs/2512.04413v1)** | 2025-12-04 | <details><summary>12 pa...</summary><p>12 pages, 8 figures, 11 tables</p></details> |
 | **[Performance Evaluation of Transfer Learning Based Medical Image Classification Techniques for Disease Detection](https://arxiv.org/abs/2512.04397v1)** | 2025-12-04 |  |
-| **[One Detector Fits All: Robust and Adaptive Detection of Malicious Packages from PyPI to Enterprises](https://arxiv.org/abs/2512.04338v1)** | 2025-12-03 | <details><summary>Proce...</summary><p>Proceedings of the 2025 Annual Computer Security Applications Conference (ACSAC' 25), December 8-12, 2025, Honolulu, Hawaii, USA</p></details> |
-| **[A Retrieval-Augmented Generation Approach to Extracting Algorithmic Logic from Neural Networks](https://arxiv.org/abs/2512.04329v1)** | 2025-12-03 |  |
-| **[Real-time Cricket Sorting By Sex](https://arxiv.org/abs/2512.04311v1)** | 2025-12-03 | 13 pages, 14 figures |
-| **[PRO-V-R1: Reasoning Enhanced Programming Agent for RTL Verification](https://arxiv.org/abs/2506.12200v3)** | 2025-12-03 |  |
-| **[Let the Trial Begin: A Mock-Court Approach to Vulnerability Detection using LLM-Based Agents](https://arxiv.org/abs/2505.10961v2)** | 2025-12-03 |  |
-| **[Catching UX Flaws in Code: Leveraging LLMs to Identify Usability Flaws at the Development Stage](https://arxiv.org/abs/2512.04262v1)** | 2025-12-03 | <details><summary>7 pag...</summary><p>7 pages. Published in Proceedings of the 2025 IEEE Symposium on Visual Languages and Human-Centric Computing (VL/HCC). DOI: 10.1109/VL-HCC65237.2025.00024</p></details> |
-| **[Decentralized Social Media and Artificial Intelligence in Digital Public Health Monitoring](https://arxiv.org/abs/2512.04232v1)** | 2025-12-03 |  |
-| **[Can VLMs Detect and Localize Fine-Grained AI-Edited Images?](https://arxiv.org/abs/2505.15644v2)** | 2025-12-03 | 14pages,19 figures |
-| **[LargeAD: Large-Scale Cross-Sensor Data Pretraining for Autonomous Driving](https://arxiv.org/abs/2501.04005v3)** | 2025-12-03 | <details><summary>IEEE ...</summary><p>IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)</p></details> |
 
 ## source identification
 | **Title** | **Date** | **Comment** |
@@ -64,6 +64,11 @@ labels: documentation
 ## diffusion source
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[SustainDiffusion: Optimising the Social and Environmental Sustainability of Stable Diffusion Models](https://arxiv.org/abs/2507.15663v2)** | 2025-12-05 |  |
+| **[ZQBA: Zero Query Black-box Adversarial Attack](https://arxiv.org/abs/2510.00769v2)** | 2025-12-05 | <details><summary>Accep...</summary><p>Accepted in ICAART 2026 Conference</p></details> |
+| **[USV: Unified Sparsification for Accelerating Video Diffusion Models](https://arxiv.org/abs/2512.05754v1)** | 2025-12-05 |  |
+| **[Taylor Approximation Variance Reduction for Approximation Errors in PDE-constrained Bayesian Inverse Problems](https://arxiv.org/abs/2512.05723v1)** | 2025-12-05 |  |
+| **[Delving into Latent Spectral Biasing of Video VAEs for Superior Diffusability](https://arxiv.org/abs/2512.05394v1)** | 2025-12-05 |  |
 | **[Reflection Removal through Efficient Adaptation of Diffusion Transformers](https://arxiv.org/abs/2512.05000v1)** | 2025-12-04 |  |
 | **[Order Matters: 3D Shape Generation from Sequential VR Sketches](https://arxiv.org/abs/2512.04761v1)** | 2025-12-04 |  |
 | **[Refaçade: Editing Object with Given Reference Texture](https://arxiv.org/abs/2512.04534v1)** | 2025-12-04 |  |
@@ -74,11 +79,6 @@ labels: documentation
 | **[Can VLMs Detect and Localize Fine-Grained AI-Edited Images?](https://arxiv.org/abs/2505.15644v2)** | 2025-12-03 | 14pages,19 figures |
 | **[In-Context Sync-LoRA for Portrait Video Editing](https://arxiv.org/abs/2512.03013v1)** | 2025-12-02 | <details><summary>Proje...</summary><p>Project page: https://sagipolaczek.github.io/Sync-LoRA/</p></details> |
 | **[BEVDilation: LiDAR-Centric Multi-Modal Fusion for 3D Object Detection](https://arxiv.org/abs/2512.02972v1)** | 2025-12-02 | Accept by AAAI26 |
-| **[Aligning Diffusion Models with Noise-Conditioned Perception](https://arxiv.org/abs/2406.17636v2)** | 2025-12-02 |  |
-| **[Z-Image: An Efficient Image Generation Foundation Model with Single-Stream Diffusion Transformer](https://arxiv.org/abs/2511.22699v2)** | 2025-12-02 |  |
-| **[WARPD: World model Assisted Reactive Policy Diffusion](https://arxiv.org/abs/2410.14040v3)** | 2025-12-01 |  |
-| **[Deconstructing Generative Diversity: An Information Bottleneck Analysis of Discrete Latent Generative Models](https://arxiv.org/abs/2512.01831v1)** | 2025-12-01 |  |
-| **[Dimension-free error estimate for diffusion model and optimal scheduling](https://arxiv.org/abs/2512.01820v1)** | 2025-12-01 |  |
 
 ## rumor source
 | **Title** | **Date** | **Comment** |
