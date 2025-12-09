@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - December 08, 2025
+title: Latest 15 Papers - December 09, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/waityousea/DailyArXiv/) page for a better reading experience and more papers.**
@@ -7,95 +7,94 @@ labels: documentation
 ## source localization
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Natural Language Summarization Enables Multi-Repository Bug Localization by LLMs in Microservice Architectures](https://arxiv.org/abs/2512.05908v1)** | 2025-12-05 | <details><summary>Accep...</summary><p>Accepted at LLM4Code Workshop, ICSE 2026</p></details> |
-| **[2K-Characters-10K-Stories: A Quality-Gated Stylized Narrative Dataset with Disentangled Control and Sequence Consistency](https://arxiv.org/abs/2512.05557v1)** | 2025-12-05 |  |
-| **[Experiments with Large Language Models on Retrieval-Augmented Generation for Closed-Source Simulation Software](https://arxiv.org/abs/2502.03916v2)** | 2025-12-05 | <details><summary>16 pa...</summary><p>16 pages, 6 tables, 2 figures</p></details> |
-| **[Delving into Latent Spectral Biasing of Video VAEs for Superior Diffusability](https://arxiv.org/abs/2512.05394v1)** | 2025-12-05 |  |
-| **[OpenSQP: A Reconfigurable Open-Source SQP Algorithm in Python for Nonlinear Optimization](https://arxiv.org/abs/2512.05392v1)** | 2025-12-05 | <details><summary>17 pa...</summary><p>17 pages with 1 figure. For associated code, see https://github.com/LSDOlab/modopt/blob/main/modopt/core/optimization_algorithms/opensqp.py</p></details> |
-| **[Exposing Pink Slime Journalism: Linguistic Signatures and Robust Detection Against LLM-Generated Threats](https://arxiv.org/abs/2512.05331v1)** | 2025-12-05 | <details><summary>Publi...</summary><p>Published in RANLP 2025</p></details> |
-| **[Learning to Code with Context: A Study-Based Approach](https://arxiv.org/abs/2512.05242v1)** | 2025-12-04 | <details><summary>36 pa...</summary><p>36 pages, 7 figures, 5 tables</p></details> |
-| **[MORPH: PDE Foundation Models with Arbitrary Data Modality](https://arxiv.org/abs/2509.21670v3)** | 2025-12-04 |  |
-| **[TreeRare: Syntax Tree-Guided Retrieval and Reasoning for Knowledge-Intensive Question Answering](https://arxiv.org/abs/2506.00331v2)** | 2025-12-04 |  |
-| **[A dynamic memory assignment strategy for dilation-based ICP algorithm on embedded GPUs](https://arxiv.org/abs/2512.04996v1)** | 2025-12-04 |  |
-| **[Are Your Agents Upward Deceivers?](https://arxiv.org/abs/2512.04864v1)** | 2025-12-04 |  |
-| **[Refaçade: Editing Object with Given Reference Texture](https://arxiv.org/abs/2512.04534v1)** | 2025-12-04 |  |
-| **[BOP-ASK: Object-Interaction Reasoning for Vision-Language Models](https://arxiv.org/abs/2511.16857v2)** | 2025-12-04 |  |
-| **[NITRO-D: Native Integer-only Training of Deep Convolutional Neural Networks](https://arxiv.org/abs/2407.11698v3)** | 2025-12-03 | 15 pages, 3 figures |
-| **[BEP: A Binary Error Propagation Algorithm for Binary Neural Networks Training](https://arxiv.org/abs/2512.04189v1)** | 2025-12-03 |  |
+| **[EgoLog: Ego-Centric Fine-Grained Daily Log with Ubiquitous Wearables](https://arxiv.org/abs/2504.02624v2)** | 2025-12-03 | <details><summary>Submi...</summary><p>Submitted to SenSys 2026</p></details> |
+| **[Audio-Visual World Models: Towards Multisensory Imagination in Sight and Sound](https://arxiv.org/abs/2512.00883v1)** | 2025-11-30 |  |
+| **[Frequency-Invariant Beamforming in Elevation and Azimuth via Autograd and Concentric Circular Microphone Arrays](https://arxiv.org/abs/2511.19403v1)** | 2025-11-24 |  |
+| **[Real-Time Object Tracking with On-Device Deep Learning for Adaptive Beamforming in Dynamic Acoustic Environments](https://arxiv.org/abs/2511.19396v1)** | 2025-11-24 |  |
+| **[Theoretical Guarantees for AOA-based Localization: Consistency and Asymptotic Efficiency](https://arxiv.org/abs/2507.07647v2)** | 2025-11-20 |  |
+| **[Closed-Form Feedback-Free Learning with Forward Projection](https://arxiv.org/abs/2501.16476v3)** | 2025-11-18 | <details><summary>26 pa...</summary><p>26 pages, 5 figures. Study code available at https://github.com/robertoshea/forward_projection. Study data available at https://data.mendeley.com/datasets/fb7xddyxs4/2</p></details> |
+| **[Systematic Evaluation of Time-Frequency Features for Binaural Sound Source Localization](https://arxiv.org/abs/2511.13487v2)** | 2025-11-18 | <details><summary>Submi...</summary><p>Submitted to ICASSP 2026</p></details> |
+| **[A DeepONet joint Neural Tangent Kernel Hybrid Framework for Physics-Informed Inverse Source Problems and Robust Image Reconstruction](https://arxiv.org/abs/2511.00338v1)** | 2025-11-01 |  |
+| **[Sound Source Localization for Spatial Mapping of Surgical Actions in Dynamic Scenes](https://arxiv.org/abs/2510.24332v1)** | 2025-10-28 |  |
+| **[HiFi-HARP: A High-Fidelity 7th-Order Ambisonic Room Impulse Response Dataset](https://arxiv.org/abs/2510.21257v1)** | 2025-10-24 | <details><summary>Under...</summary><p>Under review for ICASSP 2026</p></details> |
+| **[MRSAudio: A Large-Scale Multimodal Recorded Spatial Audio Dataset with Refined Annotations](https://arxiv.org/abs/2510.10396v3)** | 2025-10-17 | 24 pages |
+| **[Multi Agent Switching Mode Controller for Sound Source localization](https://arxiv.org/abs/2510.14849v1)** | 2025-10-16 |  |
+| **[Observer-Based Source Localization in Tree Infection Networks via Laplace Transforms](https://arxiv.org/abs/2510.09828v1)** | 2025-10-10 | <details><summary>25 pa...</summary><p>25 pages, 9 figures, 1 table</p></details> |
+| **[Direction Estimation of Sound Sources Using Microphone Arrays and Signal Strength](https://arxiv.org/abs/2507.03466v3)** | 2025-10-10 | <details><summary>Accep...</summary><p>Accepted to the 32nd International Conference on Systems Engineering (ICSEng'2025)</p></details> |
+| **[Estimating Brain Activity with High Spatial and Temporal Resolution using a Naturalistic MEG-fMRI Encoding Model](https://arxiv.org/abs/2510.09415v1)** | 2025-10-10 |  |
 
 ## source detection
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[MicroRacer: Detecting Concurrency Bugs for Cloud Service Systems](https://arxiv.org/abs/2512.05716v1)** | 2025-12-05 |  |
-| **[Deep Learning-Based Real-Time Sequential Facial Expression Analysis Using Geometric Features](https://arxiv.org/abs/2512.05669v1)** | 2025-12-05 |  |
-| **[HalluClean: A Unified Framework to Combat Hallucinations in LLMs](https://arxiv.org/abs/2511.08916v4)** | 2025-12-05 |  |
-| **[Bita: A Conversational Assistant for Fairness Testing](https://arxiv.org/abs/2512.05428v1)** | 2025-12-05 |  |
-| **[Moving object detection from multi-depth images with an attention-enhanced CNN](https://arxiv.org/abs/2512.05415v1)** | 2025-12-05 | <details><summary>14 pa...</summary><p>14 pages, 22 figures, submitted to PASJ</p></details> |
-| **[Smart Timing for Mining: A Deep Learning Framework for Bitcoin Hardware ROI Prediction](https://arxiv.org/abs/2512.05402v1)** | 2025-12-05 |  |
-| **[VERIRAG: A Post-Retrieval Auditing of Scientific Study Summaries](https://arxiv.org/abs/2507.17948v2)** | 2025-12-05 |  |
-| **[Exposing Pink Slime Journalism: Linguistic Signatures and Robust Detection Against LLM-Generated Threats](https://arxiv.org/abs/2512.05331v1)** | 2025-12-05 | <details><summary>Publi...</summary><p>Published in RANLP 2025</p></details> |
-| **[The Erosion of LLM Signatures: Can We Still Distinguish Human and LLM-Generated Scientific Ideas After Iterative Paraphrasing?](https://arxiv.org/abs/2512.05311v1)** | 2025-12-04 | <details><summary>Publi...</summary><p>Published in RANLP 2025</p></details> |
-| **[Configuration Defects in Kubernetes](https://arxiv.org/abs/2512.05062v1)** | 2025-12-04 |  |
-| **[PUCP-Metrix: An Open-source and Comprehensive Toolkit for Linguistic Analysis of Spanish Texts](https://arxiv.org/abs/2511.17402v2)** | 2025-12-04 | <details><summary>1 fig...</summary><p>1 figure, Submitted to EACL Demo track (under review)</p></details> |
-| **[SeSE: A Structural Information-Guided Uncertainty Quantification Framework for Hallucination Detection in LLMs](https://arxiv.org/abs/2511.16275v2)** | 2025-12-04 | <details><summary>14 pa...</summary><p>14 pages of main text and 10 pages of appendices;Submit to IEEE TKDE</p></details> |
-| **[LLM-SrcLog: Towards Proactive and Unified Log Template Extraction via Large Language Models](https://arxiv.org/abs/2512.04474v1)** | 2025-12-04 |  |
-| **[Dual-Stream Spectral Decoupling Distillation for Remote Sensing Object Detection](https://arxiv.org/abs/2512.04413v1)** | 2025-12-04 | <details><summary>12 pa...</summary><p>12 pages, 8 figures, 11 tables</p></details> |
-| **[Performance Evaluation of Transfer Learning Based Medical Image Classification Techniques for Disease Detection](https://arxiv.org/abs/2512.04397v1)** | 2025-12-04 |  |
+| **[Conformal Prediction for Multi-Source Detection on a Network](https://arxiv.org/abs/2511.08867v2)** | 2025-11-30 |  |
+| **[Transfer Learning for High-dimensional Quantile Regression with Distribution Shift](https://arxiv.org/abs/2411.19933v2)** | 2025-11-25 | 61 pages |
+| **[Transfer learning for high-dimensional Factor-augmented sparse linear model](https://arxiv.org/abs/2511.12435v2)** | 2025-11-18 | 52 pages, 2 figures |
+| **[Neural Posterior Estimation for Cataloging Astronomical Images from the Legacy Survey of Space and Time](https://arxiv.org/abs/2510.15315v3)** | 2025-11-05 |  |
+| **[Is It Certainly a Deepfake? Reliability Analysis in Detection & Generation Ecosystem](https://arxiv.org/abs/2509.17550v3)** | 2025-10-28 | <details><summary>Accep...</summary><p>Accepted for publication at the ICCV 2025 workshop - STREAM</p></details> |
+| **[Polarization based direction of arrival estimation using a radio interferometric array](https://arxiv.org/abs/2510.15116v1)** | 2025-10-16 |  |
+| **[StarEmbed: Benchmarking Time Series Foundation Models on Astronomical Observations of Variable Stars](https://arxiv.org/abs/2510.06200v1)** | 2025-10-07 |  |
+| **[Can Indirect Prompt Injection Attacks Be Detected and Removed?](https://arxiv.org/abs/2502.16580v5)** | 2025-10-04 | ACL 2025 Main |
+| **[Optimal Stopping for Sequential Bayesian Experimental Design](https://arxiv.org/abs/2509.21734v1)** | 2025-09-26 |  |
+| **[Parking Space Ground Truth Test Automation by Artificial Intelligence Using Convolutional Neural Networks](https://arxiv.org/abs/2509.13366v1)** | 2025-09-15 | 10 pages, 5 figures |
+| **[Neural Posterior Estimation for Cataloging Astronomical Images with Spatially Varying Backgrounds and Point Spread Functions](https://arxiv.org/abs/2503.00156v2)** | 2025-08-24 | <details><summary>Publi...</summary><p>Published in the Astronomical Journal</p></details> |
+| **[Two-Stage Framework for Efficient UAV-Based Wildfire Video Analysis with Adaptive Compression and Fire Source Detection](https://arxiv.org/abs/2508.16739v1)** | 2025-08-22 |  |
+| **[Catch Me If You Can: Finding the Source of Infections in Temporal Networks](https://arxiv.org/abs/2412.10877v2)** | 2025-08-12 | <details><summary>This ...</summary><p>This work is based on the first author's master thesis, which is available at arXiv:2503.13567</p></details> |
+| **[BleedOrigin: Dynamic Bleeding Source Localization in Endoscopic Submucosal Dissection via Dual-Stage Detection and Tracking](https://arxiv.org/abs/2507.15094v1)** | 2025-07-20 | 27 pages, 14 figures |
+| **[Enforcing Speech Content Privacy in Environmental Sound Recordings using Segment-wise Waveform Reversal](https://arxiv.org/abs/2507.08412v1)** | 2025-07-11 |  |
 
 ## source identification
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Cataloguing Hugging Face Models to Software Engineering Activities: Automation and Findings](https://arxiv.org/abs/2506.03013v2)** | 2025-12-03 |  |
-| **[HLPD: Aligning LLMs to Human Language Preference for Machine-Revised Text Detection](https://arxiv.org/abs/2511.06942v3)** | 2025-12-02 | <details><summary>20 pa...</summary><p>20 pages, 10 figures, accepted by AAAI'26</p></details> |
-| **[OmniPerson: Unified Identity-Preserving Pedestrian Generation](https://arxiv.org/abs/2512.02554v1)** | 2025-12-02 |  |
-| **[scCluBench: Comprehensive Benchmarking of Clustering Algorithms for Single-Cell RNA Sequencing](https://arxiv.org/abs/2512.02471v1)** | 2025-12-02 |  |
-| **[HoWDe: a validated algorithm for Home and Work location Detection](https://arxiv.org/abs/2506.20679v2)** | 2025-12-01 |  |
-| **[Rice-VL: Evaluating Vision-Language Models for Cultural Understanding Across ASEAN Countries](https://arxiv.org/abs/2512.01419v1)** | 2025-12-01 | 14 pages |
-| **[Precise Static Identification of Ethereum Storage Variables (Extended Version)](https://arxiv.org/abs/2503.20690v2)** | 2025-11-28 | <details><summary>Exten...</summary><p>Extended Version of ICSE 2026 paper</p></details> |
-| **[Bharat Scene Text: A Novel Comprehensive Dataset and Benchmark for Indian Language Scene Text Understanding](https://arxiv.org/abs/2511.23071v1)** | 2025-11-28 | Under Peer Review |
-| **[Advanced Data Collection Techniques in Cloud Security: A Multi-Modal Deep Learning Autoencoder Approach](https://arxiv.org/abs/2511.21795v1)** | 2025-11-26 | 13 pages |
-| **[UniChange: Unifying Change Detection with Multimodal Large Language Model](https://arxiv.org/abs/2511.02607v2)** | 2025-11-26 |  |
-| **[How Can We Effectively Use LLMs for Phishing Detection?: Evaluating the Effectiveness of Large Language Model-based Phishing Detection Models](https://arxiv.org/abs/2511.09606v2)** | 2025-11-25 |  |
-| **[X-ReID: Multi-granularity Information Interaction for Video-Based Visible-Infrared Person Re-Identification](https://arxiv.org/abs/2511.17964v2)** | 2025-11-25 | <details><summary>Accep...</summary><p>Accepted by AAAI2026. More modifications may be performed</p></details> |
-| **[The SA-FARI Dataset: Segment Anything in Footage of Animals for Recognition and Identification](https://arxiv.org/abs/2511.15622v2)** | 2025-11-24 |  |
-| **[Evaluating Deep Learning and Traditional Approaches Used in Source Camera Identification](https://arxiv.org/abs/2511.19180v1)** | 2025-11-24 | 4 figures |
-| **[Multidimensional Music Aesthetic Evaluation via Semantically Consistent C-Mixup Augmentation](https://arxiv.org/abs/2511.18869v1)** | 2025-11-24 |  |
+| **[Conditionally adaptive augmented Lagrangian method for physics-informed learning of forward and inverse problems](https://arxiv.org/abs/2508.15695v2)** | 2025-12-07 | 37 pages, 22 figures |
+| **[Who Made This? Fake Detection and Source Attribution with Diffusion Features](https://arxiv.org/abs/2510.27602v1)** | 2025-10-31 |  |
+| **[Online Non-convex Optimization with Long-term Non-convex Constraints](https://arxiv.org/abs/2311.02426v4)** | 2025-10-01 |  |
+| **[OmniDFA: A Unified Framework for Open Set Synthesis Image Detection and Few-Shot Attribution](https://arxiv.org/abs/2509.25682v1)** | 2025-09-30 | 19 pages, 5 figures |
+| **[Physics-informed sensor coverage through structure preserving machine learning](https://arxiv.org/abs/2509.10363v1)** | 2025-09-12 |  |
+| **[A Bayesian thinning algorithm for the point source identification of heat equation](https://arxiv.org/abs/2509.14245v1)** | 2025-09-04 | 6 pages |
+| **[An Unsupervised Deep XAI Framework for Localization of Concurrent Replay Attacks in Nuclear Reactor Signals](https://arxiv.org/abs/2508.09162v2)** | 2025-08-25 | <details><summary>Added...</summary><p>Added references, corrected typos, grammar check, authors updated</p></details> |
+| **[Set-Valued Transformer Network for High-Emission Mobile Source Identification](https://arxiv.org/abs/2508.11976v1)** | 2025-08-16 |  |
+| **[Horizontal and Vertical Federated Causal Structure Learning via Higher-order Cumulants](https://arxiv.org/abs/2507.06888v1)** | 2025-07-09 |  |
+| **[Using Wavelet Domain Fingerprints to Improve Source Camera Identification](https://arxiv.org/abs/2507.01712v1)** | 2025-07-02 |  |
+| **[Dynamic Watermark Generation for Digital Images using Perimeter Gated SPAD Imager PUFs](https://arxiv.org/abs/2506.17134v1)** | 2025-06-20 | <details><summary>5 pag...</summary><p>5 pages, 7 figures, accepted at MWSCAS 2025 Conference</p></details> |
+| **[Multi-agent Systems for Misinformation Lifecycle : Detection, Correction And Source Identification](https://arxiv.org/abs/2505.17511v1)** | 2025-05-23 |  |
+| **[Bandit on the Hunt: Dynamic Crawling for Cyber Threat Intelligence](https://arxiv.org/abs/2504.18375v1)** | 2025-04-25 | <details><summary>12 pa...</summary><p>12 pages, 1 figure, 3 tables</p></details> |
+| **[Distributed Multi-robot Source Seeking in Unknown Environments with Unknown Number of Sources](https://arxiv.org/abs/2503.11048v1)** | 2025-03-14 | ICRA 2025 |
+| **[Real-time Pollutant Identification through Optical PM Micro-Sensor](https://arxiv.org/abs/2503.10724v1)** | 2025-03-13 | 11 pages, 4 figures |
 
 ## diffusion source
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[SustainDiffusion: Optimising the Social and Environmental Sustainability of Stable Diffusion Models](https://arxiv.org/abs/2507.15663v2)** | 2025-12-05 |  |
-| **[ZQBA: Zero Query Black-box Adversarial Attack](https://arxiv.org/abs/2510.00769v2)** | 2025-12-05 | <details><summary>Accep...</summary><p>Accepted in ICAART 2026 Conference</p></details> |
-| **[USV: Unified Sparsification for Accelerating Video Diffusion Models](https://arxiv.org/abs/2512.05754v1)** | 2025-12-05 |  |
-| **[Taylor Approximation Variance Reduction for Approximation Errors in PDE-constrained Bayesian Inverse Problems](https://arxiv.org/abs/2512.05723v1)** | 2025-12-05 |  |
-| **[Delving into Latent Spectral Biasing of Video VAEs for Superior Diffusability](https://arxiv.org/abs/2512.05394v1)** | 2025-12-05 |  |
-| **[Reflection Removal through Efficient Adaptation of Diffusion Transformers](https://arxiv.org/abs/2512.05000v1)** | 2025-12-04 |  |
-| **[Order Matters: 3D Shape Generation from Sequential VR Sketches](https://arxiv.org/abs/2512.04761v1)** | 2025-12-04 |  |
-| **[Refaçade: Editing Object with Given Reference Texture](https://arxiv.org/abs/2512.04534v1)** | 2025-12-04 |  |
-| **[Dual-branch Prompting for Multimodal Machine Translation](https://arxiv.org/abs/2507.17588v2)** | 2025-12-04 | <details><summary>This ...</summary><p>This manuscript is currently under review at the ACM Transactions on Multimedia Computing, Communications, and Applications</p></details> |
-| **[BlurDM: A Blur Diffusion Model for Image Deblurring](https://arxiv.org/abs/2512.03979v1)** | 2025-12-03 | NeurIPS 2025 |
-| **[Universal Multi-Domain Translation via Diffusion Routers](https://arxiv.org/abs/2510.03252v2)** | 2025-12-03 |  |
-| **[PipeFusion: Patch-level Pipeline Parallelism for Diffusion Transformers Inference](https://arxiv.org/abs/2405.14430v4)** | 2025-12-03 |  |
-| **[Can VLMs Detect and Localize Fine-Grained AI-Edited Images?](https://arxiv.org/abs/2505.15644v2)** | 2025-12-03 | 14pages,19 figures |
-| **[In-Context Sync-LoRA for Portrait Video Editing](https://arxiv.org/abs/2512.03013v1)** | 2025-12-02 | <details><summary>Proje...</summary><p>Project page: https://sagipolaczek.github.io/Sync-LoRA/</p></details> |
-| **[BEVDilation: LiDAR-Centric Multi-Modal Fusion for 3D Object Detection](https://arxiv.org/abs/2512.02972v1)** | 2025-12-02 | Accept by AAAI26 |
+| **[Radio U-Net: a convolutional neural network to detect diffuse radio sources in galaxy clusters and beyond](https://arxiv.org/abs/2408.10871v1)** | 2024-08-20 | <details><summary>Accep...</summary><p>Accepted by MNRAS, 16 pages, 9 figures, 2 tables</p></details> |
+| **[Source Localization for Cross Network Information Diffusion](https://arxiv.org/abs/2404.14668v1)** | 2024-04-23 | <details><summary>Code ...</summary><p>Code and data are available at: https://github.com/tanmoysr/CNSL/</p></details> |
+| **[3DStyle-Diffusion: Pursuing Fine-grained Text-driven 3D Stylization with 2D Diffusion Models](https://arxiv.org/abs/2311.05464v1)** | 2023-11-09 | ACM Multimedia 2023 |
+| **[Go viral or go broadcast? Characterizing the virality and growth of cascades](https://arxiv.org/abs/2006.01027v3)** | 2022-06-28 | <details><summary>10 pa...</summary><p>10 pages, 15 figures, 2 tables</p></details> |
+| **[Source Localization of Graph Diffusion via Variational Autoencoders for Graph Inverse Problems](https://arxiv.org/abs/2206.12327v1)** | 2022-06-24 | <details><summary>11 pa...</summary><p>11 pages, accepted by SIGKDD 2022</p></details> |
+| **[PrEF: Percolation-based Evolutionary Framework for the diffusion-source-localization problem in large networks](https://arxiv.org/abs/2205.07422v2)** | 2022-05-19 |  |
+| **[Social Diffusion Sources Can Escape Detection](https://arxiv.org/abs/2102.10539v2)** | 2021-11-11 | <details><summary>100 p...</summary><p>100 pages, 80 figures</p></details> |
+| **[Convolutional Deep Denoising Autoencoders for Radio Astronomical Images](https://arxiv.org/abs/2110.08618v1)** | 2021-10-16 | <details><summary>21 pa...</summary><p>21 pages, 14 figures, Accepted for publication by MNRAS</p></details> |
+| **[Diffusion Source Identification on Networks with Statistical Confidence](https://arxiv.org/abs/2106.04800v2)** | 2021-06-17 |  |
+| **[Information Source Finding in Networks: Querying with Budgets](https://arxiv.org/abs/2009.00795v5)** | 2020-10-22 | <details><summary>Part ...</summary><p>Part of this work was presented at the IEEE INFOCOM 2017 (arXiv:1805.03532) and IEEE ISIT 2018 (arXiv:1711.05496)</p></details> |
+| **[Necessary and Sufficient Budgets in Information Source Finding with Querying: Adaptivity Gap](https://arxiv.org/abs/1805.03532v9)** | 2020-10-06 | <details><summary>This ...</summary><p>This is a technical paper of ISIT 2018 and part of this work was presented at the IEEE INFOCOM 2017 (arXiv:1711.05496)</p></details> |
+| **[Identification of Anomalous Diffusion Sources by Unsupervised Learning](https://arxiv.org/abs/2010.02168v1)** | 2020-10-05 | <details><summary>publi...</summary><p>published in physical review research</p></details> |
+| **[Optimal Localization of Diffusion Sources in Complex Networks](https://arxiv.org/abs/1703.04915v1)** | 2017-03-15 | 6 figures |
+| **[Catch'Em All: Locating Multiple Diffusion Sources in Networks with Partial Observations](https://arxiv.org/abs/1611.06963v1)** | 2016-11-21 | 16 figures |
 
 ## rumor source
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Rumor Detection by Multi-task Suffix Learning based on Time-series Dual Sentiments](https://arxiv.org/abs/2502.14383v2)** | 2025-09-14 | work in progress |
-| **[The Role of Follow Networks and Twitter's Content Recommender on Partisan Skew and Rumor Exposure during the 2022 U.S. Midterm Election](https://arxiv.org/abs/2509.09826v1)** | 2025-09-11 | <details><summary>Accep...</summary><p>Accepted at the AAAI International Conference on Web and Social Media (ICWSM) 2026</p></details> |
-| **[Epidemiology-informed Network for Robust Rumor Detection](https://arxiv.org/abs/2411.12949v3)** | 2025-07-25 | <details><summary>Accep...</summary><p>Accepted by The Web Conference 2025 (WWW2025)</p></details> |
-| **[RealFactBench: A Benchmark for Evaluating Large Language Models in Real-World Fact-Checking](https://arxiv.org/abs/2506.12538v1)** | 2025-06-14 |  |
-| **[SourceDetMamba: A Graph-aware State Space Model for Source Detection in Sequential Hypergraphs](https://arxiv.org/abs/2505.12910v2)** | 2025-06-04 | Accepted by IJCAI25 |
 | **[HyperDet: Source Detection in Hypergraphs via Interactive Relationship Construction and Feature-rich Attention Fusion](https://arxiv.org/abs/2505.12894v2)** | 2025-06-04 | Accepted by IJCAI25 |
-| **[Deepfake Detection with Optimized Hybrid Model: EAR Biometric Descriptor via Improved RCNN](https://arxiv.org/abs/2503.12381v1)** | 2025-03-16 | Submiited to journal |
-| **[Bangla Fake News Detection Based On Multichannel Combined CNN-LSTM](https://arxiv.org/abs/2503.04781v1)** | 2025-02-24 | <details><summary>5 pag...</summary><p>5 pages, 2 figures, 2 tables. THE 12th International Conference on Computing, Communication and Networking Technologies, 2021</p></details> |
 | **[Detection of Rumors and Their Sources in Social Networks: A Comprehensive Survey](https://arxiv.org/abs/2501.05292v1)** | 2025-01-09 |  |
-| **[Unraveling the Viral Spread of Misinformation: Maximum-Likelihood Estimation and Starlike Tree Approximation in Markovian Spreading Models](https://arxiv.org/abs/2403.14890v2)** | 2024-10-09 |  |
-| **[HRDE: Retrieval-Augmented Large Language Models for Chinese Health Rumor Detection and Explainability](https://arxiv.org/abs/2407.00668v2)** | 2024-07-03 |  |
-| **[Rumor Detection with a novel graph neural network approach](https://arxiv.org/abs/2403.16206v3)** | 2024-04-02 | 10 pages, 5 figures |
 | **[Examining the Limitations of Computational Rumor Detection Models Trained on Static Datasets](https://arxiv.org/abs/2309.11576v2)** | 2024-03-24 | <details><summary>Accep...</summary><p>Accepted at LREC-COLING 2024</p></details> |
 | **[GIN-SD: Source Detection in Graphs with Incomplete Nodes via Positional Encoding and Attentive Fusion](https://arxiv.org/abs/2403.00014v1)** | 2024-02-27 | <details><summary>The p...</summary><p>The paper is accepted by AAAI24</p></details> |
-| **[Propagation Dynamics of Rumor vs. Non-rumor across Multiple Social Media Platforms Driven by User Characteristics](https://arxiv.org/abs/2401.17840v1)** | 2024-01-31 |  |
+| **[Inference of a Rumor's Source in the Independent Cascade Model](https://arxiv.org/abs/2205.12125v1)** | 2022-05-24 |  |
+| **[Capturing Dynamics of Information Diffusion in SNS: A Survey of Methodology and Techniques](https://arxiv.org/abs/2110.14245v1)** | 2021-10-27 | <details><summary>Autho...</summary><p>Author version, with 50 pages, 6 figures, 16 tables, and 5 algorithms</p></details> |
+| **[Schemes of Propagation Models and Source Estimators for Rumor Source Detection in Online Social Networks: A Short Survey of a Decade of Research](https://arxiv.org/abs/2101.00753v1)** | 2021-01-04 |  |
+| **[Rumor Source Detection under Querying with Untruthful Answers](https://arxiv.org/abs/1711.05496v5)** | 2020-10-26 |  |
+| **[Rumor source detection with multiple observations under adaptive diffusions](https://arxiv.org/abs/2006.11211v1)** | 2020-06-19 | 30 pages, 3 figures |
+| **[RP-DNN: A Tweet level propagation context based deep neural networks for early rumor detection in Social Media](https://arxiv.org/abs/2002.12683v2)** | 2020-03-02 | <details><summary>Manus...</summary><p>Manuscript accepted for publication at The LREC 2020 Proceedings. The International Conference on Language Resources and Evaluation</p></details> |
+| **[Neural Language Model Based Training Data Augmentation for Weakly Supervised Early Rumor Detection](https://arxiv.org/abs/1907.07033v1)** | 2019-07-16 | 8 pages |
+| **[On the Distance Between the Rumor Source and Its Optimal Estimate in a Regular Tree](https://arxiv.org/abs/1901.03039v2)** | 2019-01-22 | <details><summary>fixed...</summary><p>fixed typos and proofs, 16 pages, 2 figures, a short version of this paper has been submitted to the 2019 IEEE International Symposium on Information Theory (ISIT 2019)</p></details> |
+| **[Identifying Rumor Sources Using Dominant Eigenvalue of Nonbacktracking Matrix](https://arxiv.org/abs/1810.00659v1)** | 2018-09-20 | <details><summary>To ap...</summary><p>To appear at GlobalSIP 2018</p></details> |
+| **[Hiding the Rumor Source](https://arxiv.org/abs/1509.02849v2)** | 2016-08-24 |  |
+| **[Identification of Source of Rumors in Social Networks with Incomplete Information](https://arxiv.org/abs/1509.00557v1)** | 2015-09-02 |  |
 
