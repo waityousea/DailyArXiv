@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - December 15, 2025
+title: Latest 15 Papers - December 16, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/waityousea/DailyArXiv/) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## source localization
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[BEASST: Behavioral Entropic Gradient based Adaptive Source Seeking for Mobile Robots](https://arxiv.org/abs/2508.10363v2)** | 2025-12-13 |  |
 | **[EgoLog: Ego-Centric Fine-Grained Daily Log with Ubiquitous Wearables](https://arxiv.org/abs/2504.02624v2)** | 2025-12-03 | <details><summary>Submi...</summary><p>Submitted to SenSys 2026</p></details> |
 | **[Audio-Visual World Models: Towards Multisensory Imagination in Sight and Sound](https://arxiv.org/abs/2512.00883v1)** | 2025-11-30 |  |
 | **[Frequency-Invariant Beamforming in Elevation and Azimuth via Autograd and Concentric Circular Microphone Arrays](https://arxiv.org/abs/2511.19403v1)** | 2025-11-24 |  |
@@ -21,7 +22,6 @@ labels: documentation
 | **[Multi Agent Switching Mode Controller for Sound Source localization](https://arxiv.org/abs/2510.14849v1)** | 2025-10-16 |  |
 | **[Observer-Based Source Localization in Tree Infection Networks via Laplace Transforms](https://arxiv.org/abs/2510.09828v1)** | 2025-10-10 | <details><summary>25 pa...</summary><p>25 pages, 9 figures, 1 table</p></details> |
 | **[Direction Estimation of Sound Sources Using Microphone Arrays and Signal Strength](https://arxiv.org/abs/2507.03466v3)** | 2025-10-10 | <details><summary>Accep...</summary><p>Accepted to the 32nd International Conference on Systems Engineering (ICSEng'2025)</p></details> |
-| **[Estimating Brain Activity with High Spatial and Temporal Resolution using a Naturalistic MEG-fMRI Encoding Model](https://arxiv.org/abs/2510.09415v1)** | 2025-10-10 |  |
 
 ## source detection
 | **Title** | **Date** | **Comment** |
