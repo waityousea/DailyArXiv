@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - December 16, 2025
+title: Latest 15 Papers - December 17, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/waityousea/DailyArXiv/) page for a better reading experience and more papers.**
@@ -45,13 +45,13 @@ labels: documentation
 ## source identification
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[An Unsupervised Deep Explainable AI Framework for Localization of Concurrent Replay Attacks in Nuclear Reactor Signals](https://arxiv.org/abs/2508.09162v3)** | 2025-12-16 | <details><summary>Added...</summary><p>Added references, corrected typos, grammar check, authors updated</p></details> |
 | **[Conditionally adaptive augmented Lagrangian method for physics-informed learning of forward and inverse problems](https://arxiv.org/abs/2508.15695v2)** | 2025-12-07 | 37 pages, 22 figures |
 | **[Who Made This? Fake Detection and Source Attribution with Diffusion Features](https://arxiv.org/abs/2510.27602v1)** | 2025-10-31 |  |
 | **[Online Non-convex Optimization with Long-term Non-convex Constraints](https://arxiv.org/abs/2311.02426v4)** | 2025-10-01 |  |
 | **[OmniDFA: A Unified Framework for Open Set Synthesis Image Detection and Few-Shot Attribution](https://arxiv.org/abs/2509.25682v1)** | 2025-09-30 | 19 pages, 5 figures |
 | **[Physics-informed sensor coverage through structure preserving machine learning](https://arxiv.org/abs/2509.10363v1)** | 2025-09-12 |  |
 | **[A Bayesian thinning algorithm for the point source identification of heat equation](https://arxiv.org/abs/2509.14245v1)** | 2025-09-04 | 6 pages |
-| **[An Unsupervised Deep XAI Framework for Localization of Concurrent Replay Attacks in Nuclear Reactor Signals](https://arxiv.org/abs/2508.09162v2)** | 2025-08-25 | <details><summary>Added...</summary><p>Added references, corrected typos, grammar check, authors updated</p></details> |
 | **[Set-Valued Transformer Network for High-Emission Mobile Source Identification](https://arxiv.org/abs/2508.11976v1)** | 2025-08-16 |  |
 | **[Horizontal and Vertical Federated Causal Structure Learning via Higher-order Cumulants](https://arxiv.org/abs/2507.06888v1)** | 2025-07-09 |  |
 | **[Using Wavelet Domain Fingerprints to Improve Source Camera Identification](https://arxiv.org/abs/2507.01712v1)** | 2025-07-02 |  |
