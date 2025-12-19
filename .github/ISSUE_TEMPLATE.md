@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - December 18, 2025
+title: Latest 15 Papers - December 19, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/waityousea/DailyArXiv/) page for a better reading experience and more papers.**
@@ -13,7 +13,6 @@ labels: documentation
 | **[Frequency-Invariant Beamforming in Elevation and Azimuth via Autograd and Concentric Circular Microphone Arrays](https://arxiv.org/abs/2511.19403v1)** | 2025-11-24 |  |
 | **[Real-Time Object Tracking with On-Device Deep Learning for Adaptive Beamforming in Dynamic Acoustic Environments](https://arxiv.org/abs/2511.19396v1)** | 2025-11-24 |  |
 | **[Theoretical Guarantees for AOA-based Localization: Consistency and Asymptotic Efficiency](https://arxiv.org/abs/2507.07647v2)** | 2025-11-20 |  |
-| **[Closed-Form Feedback-Free Learning with Forward Projection](https://arxiv.org/abs/2501.16476v3)** | 2025-11-18 | <details><summary>26 pa...</summary><p>26 pages, 5 figures. Study code available at https://github.com/robertoshea/forward_projection. Study data available at https://data.mendeley.com/datasets/fb7xddyxs4/2</p></details> |
 | **[Systematic Evaluation of Time-Frequency Features for Binaural Sound Source Localization](https://arxiv.org/abs/2511.13487v2)** | 2025-11-18 | <details><summary>Submi...</summary><p>Submitted to ICASSP 2026</p></details> |
 | **[A DeepONet joint Neural Tangent Kernel Hybrid Framework for Physics-Informed Inverse Source Problems and Robust Image Reconstruction](https://arxiv.org/abs/2511.00338v1)** | 2025-11-01 |  |
 | **[Sound Source Localization for Spatial Mapping of Surgical Actions in Dynamic Scenes](https://arxiv.org/abs/2510.24332v1)** | 2025-10-28 |  |
@@ -22,6 +21,7 @@ labels: documentation
 | **[Multi Agent Switching Mode Controller for Sound Source localization](https://arxiv.org/abs/2510.14849v1)** | 2025-10-16 |  |
 | **[Observer-Based Source Localization in Tree Infection Networks via Laplace Transforms](https://arxiv.org/abs/2510.09828v1)** | 2025-10-10 | <details><summary>25 pa...</summary><p>25 pages, 9 figures, 1 table</p></details> |
 | **[Direction Estimation of Sound Sources Using Microphone Arrays and Signal Strength](https://arxiv.org/abs/2507.03466v3)** | 2025-10-10 | <details><summary>Accep...</summary><p>Accepted to the 32nd International Conference on Systems Engineering (ICSEng'2025)</p></details> |
+| **[Estimating Brain Activity with High Spatial and Temporal Resolution using a Naturalistic MEG-fMRI Encoding Model](https://arxiv.org/abs/2510.09415v1)** | 2025-10-10 |  |
 
 ## source detection
 | **Title** | **Date** | **Comment** |
