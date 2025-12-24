@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - December 23, 2025
+title: Latest 15 Papers - December 24, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/waityousea/DailyArXiv/) page for a better reading experience and more papers.**
@@ -64,7 +64,7 @@ labels: documentation
 ## diffusion source
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Unsupervised Single-Channel Audio Separation with Diffusion Source Priors](https://arxiv.org/abs/2512.07226v1)** | 2025-12-08 | <details><summary>15 pa...</summary><p>15 pages, 31 figures, accepted by The 40th Annual AAAI Conference on Artificial Intelligence (AAAI 2026)</p></details> |
+| **[Unsupervised Single-Channel Audio Separation with Diffusion Source Priors](https://arxiv.org/abs/2512.07226v2)** | 2025-12-23 |  |
 | **[Radio U-Net: a convolutional neural network to detect diffuse radio sources in galaxy clusters and beyond](https://arxiv.org/abs/2408.10871v1)** | 2024-08-20 | <details><summary>Accep...</summary><p>Accepted by MNRAS, 16 pages, 9 figures, 2 tables</p></details> |
 | **[Source Localization for Cross Network Information Diffusion](https://arxiv.org/abs/2404.14668v1)** | 2024-04-23 | <details><summary>Code ...</summary><p>Code and data are available at: https://github.com/tanmoysr/CNSL/</p></details> |
 | **[3DStyle-Diffusion: Pursuing Fine-grained Text-driven 3D Stylization with 2D Diffusion Models](https://arxiv.org/abs/2311.05464v1)** | 2023-11-09 | ACM Multimedia 2023 |
