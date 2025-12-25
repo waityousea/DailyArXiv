@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - December 24, 2025
+title: Latest 15 Papers - December 25, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/waityousea/DailyArXiv/) page for a better reading experience and more papers.**
@@ -7,7 +7,7 @@ labels: documentation
 ## source localization
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[BeamformNet: Deep Learning-Based Beamforming Method for DoA Estimation via Implicit Spatial Signal Focusing and Noise Suppression](https://arxiv.org/abs/2512.18647v1)** | 2025-12-21 |  |
+| **[BeamformNet: Deep Learning-Based Beamforming Method for DoA Estimation via Implicit Spatial Signal Focusing and Noise Suppression](https://arxiv.org/abs/2512.18647v2)** | 2025-12-24 |  |
 | **[BEASST: Behavioral Entropic Gradient based Adaptive Source Seeking for Mobile Robots](https://arxiv.org/abs/2508.10363v2)** | 2025-12-13 |  |
 | **[EgoLog: Ego-Centric Fine-Grained Daily Log with Ubiquitous Wearables](https://arxiv.org/abs/2504.02624v2)** | 2025-12-03 | <details><summary>Submi...</summary><p>Submitted to SenSys 2026</p></details> |
 | **[Audio-Visual World Models: Towards Multisensory Imagination in Sight and Sound](https://arxiv.org/abs/2512.00883v1)** | 2025-11-30 |  |
@@ -27,6 +27,7 @@ labels: documentation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
 | **[Polarization based direction of arrival estimation using a radio interferometric array](https://arxiv.org/abs/2510.15116v2)** | 2025-12-20 | <details><summary>Accep...</summary><p>Accepted; Astronomy and Computing</p></details> |
+| **[Graph Neural Networks for Source Detection: A Review and Benchmark Study](https://arxiv.org/abs/2512.20657v1)** | 2025-12-18 |  |
 | **[Conformal Prediction for Multi-Source Detection on a Network](https://arxiv.org/abs/2511.08867v2)** | 2025-11-30 |  |
 | **[Transfer Learning for High-dimensional Quantile Regression with Distribution Shift](https://arxiv.org/abs/2411.19933v2)** | 2025-11-25 | 61 pages |
 | **[Transfer learning for high-dimensional Factor-augmented sparse linear model](https://arxiv.org/abs/2511.12435v2)** | 2025-11-18 | 52 pages, 2 figures |
@@ -40,11 +41,11 @@ labels: documentation
 | **[Two-Stage Framework for Efficient UAV-Based Wildfire Video Analysis with Adaptive Compression and Fire Source Detection](https://arxiv.org/abs/2508.16739v1)** | 2025-08-22 |  |
 | **[Catch Me If You Can: Finding the Source of Infections in Temporal Networks](https://arxiv.org/abs/2412.10877v2)** | 2025-08-12 | <details><summary>This ...</summary><p>This work is based on the first author's master thesis, which is available at arXiv:2503.13567</p></details> |
 | **[BleedOrigin: Dynamic Bleeding Source Localization in Endoscopic Submucosal Dissection via Dual-Stage Detection and Tracking](https://arxiv.org/abs/2507.15094v1)** | 2025-07-20 | 27 pages, 14 figures |
-| **[Enforcing Speech Content Privacy in Environmental Sound Recordings using Segment-wise Waveform Reversal](https://arxiv.org/abs/2507.08412v1)** | 2025-07-11 |  |
 
 ## source identification
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[On the Inherent Anonymity of Gossiping](https://arxiv.org/abs/2308.02477v2)** | 2025-12-24 | <details><summary>Full ...</summary><p>Full version of DISC2023 paper</p></details> |
 | **[An Unsupervised Deep Explainable AI Framework for Localization of Concurrent Replay Attacks in Nuclear Reactor Signals](https://arxiv.org/abs/2508.09162v4)** | 2025-12-19 | <details><summary>Added...</summary><p>Added references, corrected typos, grammar check, authors updated</p></details> |
 | **[Conditionally adaptive augmented Lagrangian method for physics-informed learning of forward and inverse problems](https://arxiv.org/abs/2508.15695v2)** | 2025-12-07 | 37 pages, 22 figures |
 | **[Who Made This? Fake Detection and Source Attribution with Diffusion Features](https://arxiv.org/abs/2510.27602v1)** | 2025-10-31 |  |
@@ -59,7 +60,6 @@ labels: documentation
 | **[Multi-agent Systems for Misinformation Lifecycle : Detection, Correction And Source Identification](https://arxiv.org/abs/2505.17511v1)** | 2025-05-23 |  |
 | **[Bandit on the Hunt: Dynamic Crawling for Cyber Threat Intelligence](https://arxiv.org/abs/2504.18375v1)** | 2025-04-25 | <details><summary>12 pa...</summary><p>12 pages, 1 figure, 3 tables</p></details> |
 | **[Distributed Multi-robot Source Seeking in Unknown Environments with Unknown Number of Sources](https://arxiv.org/abs/2503.11048v1)** | 2025-03-14 | ICRA 2025 |
-| **[Real-time Pollutant Identification through Optical PM Micro-Sensor](https://arxiv.org/abs/2503.10724v1)** | 2025-03-13 | 11 pages, 4 figures |
 
 ## diffusion source
 | **Title** | **Date** | **Comment** |
