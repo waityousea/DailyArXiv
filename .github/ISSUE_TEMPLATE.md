@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - January 06, 2026
+title: Latest 15 Papers - January 07, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/waityousea/DailyArXiv/) page for a better reading experience and more papers.**
@@ -7,9 +7,9 @@ labels: documentation
 ## source localization
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[EgoLog: Ego-Centric Fine-Grained Daily Log with Ubiquitous Wearables](https://arxiv.org/abs/2504.02624v3)** | 2026-01-06 |  |
 | **[BeamformNet: Deep Learning-Based Beamforming Method for DoA Estimation via Implicit Spatial Signal Focusing and Noise Suppression](https://arxiv.org/abs/2512.18647v2)** | 2025-12-24 |  |
 | **[BEASST: Behavioral Entropic Gradient based Adaptive Source Seeking for Mobile Robots](https://arxiv.org/abs/2508.10363v2)** | 2025-12-13 |  |
-| **[EgoLog: Ego-Centric Fine-Grained Daily Log with Ubiquitous Wearables](https://arxiv.org/abs/2504.02624v2)** | 2025-12-03 | <details><summary>Submi...</summary><p>Submitted to SenSys 2026</p></details> |
 | **[Audio-Visual World Models: Towards Multisensory Imagination in Sight and Sound](https://arxiv.org/abs/2512.00883v1)** | 2025-11-30 |  |
 | **[Frequency-Invariant Beamforming in Elevation and Azimuth via Autograd and Concentric Circular Microphone Arrays](https://arxiv.org/abs/2511.19403v1)** | 2025-11-24 |  |
 | **[Real-Time Object Tracking with On-Device Deep Learning for Adaptive Beamforming in Dynamic Acoustic Environments](https://arxiv.org/abs/2511.19396v1)** | 2025-11-24 |  |
