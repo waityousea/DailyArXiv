@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - January 14, 2026
+title: Latest 15 Papers - January 15, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/waityousea/DailyArXiv/) page for a better reading experience and more papers.**
@@ -77,7 +77,6 @@ labels: documentation
 | **[Information Source Finding in Networks: Querying with Budgets](https://arxiv.org/abs/2009.00795v5)** | 2020-10-22 | <details><summary>Part ...</summary><p>Part of this work was presented at the IEEE INFOCOM 2017 (arXiv:1805.03532) and IEEE ISIT 2018 (arXiv:1711.05496)</p></details> |
 | **[Necessary and Sufficient Budgets in Information Source Finding with Querying: Adaptivity Gap](https://arxiv.org/abs/1805.03532v9)** | 2020-10-06 | <details><summary>This ...</summary><p>This is a technical paper of ISIT 2018 and part of this work was presented at the IEEE INFOCOM 2017 (arXiv:1711.05496)</p></details> |
 | **[Identification of Anomalous Diffusion Sources by Unsupervised Learning](https://arxiv.org/abs/2010.02168v1)** | 2020-10-05 | <details><summary>publi...</summary><p>published in physical review research</p></details> |
-| **[Optimal Localization of Diffusion Sources in Complex Networks](https://arxiv.org/abs/1703.04915v1)** | 2017-03-15 | 6 figures |
 
 ## rumor source
 | **Title** | **Date** | **Comment** |
