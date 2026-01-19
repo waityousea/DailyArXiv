@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - January 18, 2026
+title: Latest 15 Papers - January 19, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/waityousea/DailyArXiv/) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## source localization
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[SAMannot: A Memory-Efficient, Local, Open-source Framework for Interactive Video Instance Segmentation based on SAM2](https://arxiv.org/abs/2601.11301v1)** | 2026-01-16 |  |
 | **[EgoLog: Ego-Centric Fine-Grained Daily Log with Ubiquitous Wearables](https://arxiv.org/abs/2504.02624v3)** | 2026-01-06 |  |
 | **[BeamformNet: Deep Learning-Based Beamforming Method for DoA Estimation via Implicit Spatial Signal Focusing and Noise Suppression](https://arxiv.org/abs/2512.18647v2)** | 2025-12-24 |  |
 | **[BEASST: Behavioral Entropic Gradient based Adaptive Source Seeking for Mobile Robots](https://arxiv.org/abs/2508.10363v2)** | 2025-12-13 |  |
@@ -21,7 +22,6 @@ labels: documentation
 | **[MRSAudio: A Large-Scale Multimodal Recorded Spatial Audio Dataset with Refined Annotations](https://arxiv.org/abs/2510.10396v3)** | 2025-10-17 | 24 pages |
 | **[Multi Agent Switching Mode Controller for Sound Source localization](https://arxiv.org/abs/2510.14849v1)** | 2025-10-16 |  |
 | **[Observer-Based Source Localization in Tree Infection Networks via Laplace Transforms](https://arxiv.org/abs/2510.09828v1)** | 2025-10-10 | <details><summary>25 pa...</summary><p>25 pages, 9 figures, 1 table</p></details> |
-| **[Direction Estimation of Sound Sources Using Microphone Arrays and Signal Strength](https://arxiv.org/abs/2507.03466v3)** | 2025-10-10 | <details><summary>Accep...</summary><p>Accepted to the 32nd International Conference on Systems Engineering (ICSEng'2025)</p></details> |
 
 ## source detection
 | **Title** | **Date** | **Comment** |
