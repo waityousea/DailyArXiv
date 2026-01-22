@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - January 21, 2026
+title: Latest 15 Papers - January 22, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/waityousea/DailyArXiv/) page for a better reading experience and more papers.**
@@ -7,7 +7,7 @@ labels: documentation
 ## source localization
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[SAMannot: A Memory-Efficient, Local, Open-source Framework for Interactive Video Instance Segmentation based on SAM2](https://arxiv.org/abs/2601.11301v1)** | 2026-01-16 |  |
+| **[SAMannot: A Memory-Efficient, Local, Open-source Framework for Interactive Video Instance Segmentation based on SAM2](https://arxiv.org/abs/2601.11301v2)** | 2026-01-19 |  |
 | **[EgoLog: Ego-Centric Fine-Grained Daily Log with Ubiquitous Wearables](https://arxiv.org/abs/2504.02624v3)** | 2026-01-06 |  |
 | **[BeamformNet: Deep Learning-Based Beamforming Method for DoA Estimation via Implicit Spatial Signal Focusing and Noise Suppression](https://arxiv.org/abs/2512.18647v2)** | 2025-12-24 |  |
 | **[BEASST: Behavioral Entropic Gradient based Adaptive Source Seeking for Mobile Robots](https://arxiv.org/abs/2508.10363v2)** | 2025-12-13 |  |
