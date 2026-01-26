@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - January 25, 2026
+title: Latest 15 Papers - January 26, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/waityousea/DailyArXiv/) page for a better reading experience and more papers.**
@@ -26,6 +26,7 @@ labels: documentation
 ## source detection
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[StarEmbed: Benchmarking Time Series Foundation Models on Astronomical Observations of Variable Stars](https://arxiv.org/abs/2510.06200v2)** | 2026-01-23 |  |
 | **[Large-Scale Autonomous Gas Monitoring for Volcanic Environments: A Legged Robot on Mount Etna](https://arxiv.org/abs/2601.07362v1)** | 2026-01-12 | <details><summary>12 pa...</summary><p>12 pages, 7 figures, submitted to IEEE Robotics & Automation Magazine (RAM)</p></details> |
 | **[Polarization based direction of arrival estimation using a radio interferometric array](https://arxiv.org/abs/2510.15116v2)** | 2025-12-20 | <details><summary>Accep...</summary><p>Accepted; Astronomy and Computing</p></details> |
 | **[Graph Neural Networks for Source Detection: A Review and Benchmark Study](https://arxiv.org/abs/2512.20657v1)** | 2025-12-18 |  |
@@ -34,7 +35,6 @@ labels: documentation
 | **[Transfer learning for high-dimensional Factor-augmented sparse linear model](https://arxiv.org/abs/2511.12435v2)** | 2025-11-18 | 52 pages, 2 figures |
 | **[Neural Posterior Estimation for Cataloging Astronomical Images from the Legacy Survey of Space and Time](https://arxiv.org/abs/2510.15315v3)** | 2025-11-05 |  |
 | **[Is It Certainly a Deepfake? Reliability Analysis in Detection & Generation Ecosystem](https://arxiv.org/abs/2509.17550v3)** | 2025-10-28 | <details><summary>Accep...</summary><p>Accepted for publication at the ICCV 2025 workshop - STREAM</p></details> |
-| **[StarEmbed: Benchmarking Time Series Foundation Models on Astronomical Observations of Variable Stars](https://arxiv.org/abs/2510.06200v1)** | 2025-10-07 |  |
 | **[Can Indirect Prompt Injection Attacks Be Detected and Removed?](https://arxiv.org/abs/2502.16580v5)** | 2025-10-04 | ACL 2025 Main |
 | **[Optimal Stopping for Sequential Bayesian Experimental Design](https://arxiv.org/abs/2509.21734v1)** | 2025-09-26 |  |
 | **[Parking Space Ground Truth Test Automation by Artificial Intelligence Using Convolutional Neural Networks](https://arxiv.org/abs/2509.13366v1)** | 2025-09-15 | 10 pages, 5 figures |
