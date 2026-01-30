@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - January 29, 2026
+title: Latest 15 Papers - January 30, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/waityousea/DailyArXiv/) page for a better reading experience and more papers.**
@@ -7,6 +7,8 @@ labels: documentation
 ## source localization
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[RedSage: A Cybersecurity Generalist LLM](https://arxiv.org/abs/2601.22159v1)** | 2026-01-29 | <details><summary>Accep...</summary><p>Accepted on ICLR 2026; Project page: https://risys-lab.github.io/RedSage/</p></details> |
+| **[DNN-Based Online Source Counting Based on Spatial Generalized Magnitude Squared Coherence](https://arxiv.org/abs/2601.21114v1)** | 2026-01-28 | <details><summary>in Pr...</summary><p>in Proc. IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP) 2026, Barcelona, Spain</p></details> |
 | **[Analytic Incremental Learning For Sound Source Localization With Imbalance Rectification](https://arxiv.org/abs/2601.18335v1)** | 2026-01-26 | Accepted by ICASSP26 |
 | **[Sound event localization and classification using WASN in Outdoor Environment](https://arxiv.org/abs/2403.20130v2)** | 2026-01-24 |  |
 | **[SAMannot: A Memory-Efficient, Local, Open-source Framework for Interactive Video Instance Segmentation based on SAM2](https://arxiv.org/abs/2601.11301v2)** | 2026-01-19 |  |
@@ -20,14 +22,13 @@ labels: documentation
 | **[Systematic Evaluation of Time-Frequency Features for Binaural Sound Source Localization](https://arxiv.org/abs/2511.13487v2)** | 2025-11-18 | <details><summary>Submi...</summary><p>Submitted to ICASSP 2026</p></details> |
 | **[A DeepONet joint Neural Tangent Kernel Hybrid Framework for Physics-Informed Inverse Source Problems and Robust Image Reconstruction](https://arxiv.org/abs/2511.00338v1)** | 2025-11-01 |  |
 | **[Sound Source Localization for Spatial Mapping of Surgical Actions in Dynamic Scenes](https://arxiv.org/abs/2510.24332v1)** | 2025-10-28 |  |
-| **[HiFi-HARP: A High-Fidelity 7th-Order Ambisonic Room Impulse Response Dataset](https://arxiv.org/abs/2510.21257v1)** | 2025-10-24 | <details><summary>Under...</summary><p>Under review for ICASSP 2026</p></details> |
-| **[MRSAudio: A Large-Scale Multimodal Recorded Spatial Audio Dataset with Refined Annotations](https://arxiv.org/abs/2510.10396v3)** | 2025-10-17 | 24 pages |
 
 ## source detection
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[CORDS: Continuous Representations of Discrete Structures](https://arxiv.org/abs/2601.21583v1)** | 2026-01-29 | <details><summary>Prepr...</summary><p>Preprint, accepted at ICLR 2026</p></details> |
+| **[Large-Scale Autonomous Gas Monitoring for Volcanic Environments: A Legged Robot on Mount Etna](https://arxiv.org/abs/2601.07362v2)** | 2026-01-29 | <details><summary>This ...</summary><p>This work has been submitted to the IEEE for possible publication. Submitted to IEEE Robotics & Automation Magazine (RAM)</p></details> |
 | **[StarEmbed: Benchmarking Time Series Foundation Models on Astronomical Observations of Variable Stars](https://arxiv.org/abs/2510.06200v2)** | 2026-01-23 |  |
-| **[Large-Scale Autonomous Gas Monitoring for Volcanic Environments: A Legged Robot on Mount Etna](https://arxiv.org/abs/2601.07362v1)** | 2026-01-12 | <details><summary>12 pa...</summary><p>12 pages, 7 figures, submitted to IEEE Robotics & Automation Magazine (RAM)</p></details> |
 | **[Polarization based direction of arrival estimation using a radio interferometric array](https://arxiv.org/abs/2510.15116v2)** | 2025-12-20 | <details><summary>Accep...</summary><p>Accepted; Astronomy and Computing</p></details> |
 | **[Graph Neural Networks for Source Detection: A Review and Benchmark Study](https://arxiv.org/abs/2512.20657v1)** | 2025-12-18 |  |
 | **[Conformal Prediction for Multi-Source Detection on a Network](https://arxiv.org/abs/2511.08867v2)** | 2025-11-30 |  |
@@ -40,11 +41,11 @@ labels: documentation
 | **[Parking Space Ground Truth Test Automation by Artificial Intelligence Using Convolutional Neural Networks](https://arxiv.org/abs/2509.13366v1)** | 2025-09-15 | 10 pages, 5 figures |
 | **[Neural Posterior Estimation for Cataloging Astronomical Images with Spatially Varying Backgrounds and Point Spread Functions](https://arxiv.org/abs/2503.00156v2)** | 2025-08-24 | <details><summary>Publi...</summary><p>Published in the Astronomical Journal</p></details> |
 | **[Two-Stage Framework for Efficient UAV-Based Wildfire Video Analysis with Adaptive Compression and Fire Source Detection](https://arxiv.org/abs/2508.16739v1)** | 2025-08-22 |  |
-| **[Catch Me If You Can: Finding the Source of Infections in Temporal Networks](https://arxiv.org/abs/2412.10877v2)** | 2025-08-12 | <details><summary>This ...</summary><p>This work is based on the first author's master thesis, which is available at arXiv:2503.13567</p></details> |
 
 ## source identification
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[DataCross: A Unified Benchmark and Agent Framework for Cross-Modal Heterogeneous Data Analysis](https://arxiv.org/abs/2601.21403v1)** | 2026-01-29 |  |
 | **[Breadcrumbs in the Digital Forest: Tracing Criminals through Torrent Metadata with OSINT](https://arxiv.org/abs/2601.01492v1)** | 2026-01-04 |  |
 | **[On the Inherent Anonymity of Gossiping](https://arxiv.org/abs/2308.02477v2)** | 2025-12-24 | <details><summary>Full ...</summary><p>Full version of DISC2023 paper</p></details> |
 | **[An Unsupervised Deep Explainable AI Framework for Localization of Concurrent Replay Attacks in Nuclear Reactor Signals](https://arxiv.org/abs/2508.09162v4)** | 2025-12-19 | <details><summary>Added...</summary><p>Added references, corrected typos, grammar check, authors updated</p></details> |
@@ -59,7 +60,6 @@ labels: documentation
 | **[Using Wavelet Domain Fingerprints to Improve Source Camera Identification](https://arxiv.org/abs/2507.01712v1)** | 2025-07-02 |  |
 | **[Dynamic Watermark Generation for Digital Images using Perimeter Gated SPAD Imager PUFs](https://arxiv.org/abs/2506.17134v1)** | 2025-06-20 | <details><summary>5 pag...</summary><p>5 pages, 7 figures, accepted at MWSCAS 2025 Conference</p></details> |
 | **[Multi-agent Systems for Misinformation Lifecycle : Detection, Correction And Source Identification](https://arxiv.org/abs/2505.17511v1)** | 2025-05-23 |  |
-| **[Bandit on the Hunt: Dynamic Crawling for Cyber Threat Intelligence](https://arxiv.org/abs/2504.18375v1)** | 2025-04-25 | <details><summary>12 pa...</summary><p>12 pages, 1 figure, 3 tables</p></details> |
 
 ## diffusion source
 | **Title** | **Date** | **Comment** |
