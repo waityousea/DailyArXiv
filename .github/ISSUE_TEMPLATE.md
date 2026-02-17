@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - February 16, 2026
+title: Latest 15 Papers - February 17, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/waityousea/DailyArXiv/) page for a better reading experience and more papers.**
@@ -45,6 +45,7 @@ labels: documentation
 ## source identification
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[One Good Source is All You Need: Near-Optimal Regret for Bandits under Heterogeneous Noise](https://arxiv.org/abs/2602.14474v1)** | 2026-02-16 |  |
 | **[DataCross: A Unified Benchmark and Agent Framework for Cross-Modal Heterogeneous Data Analysis](https://arxiv.org/abs/2601.21403v1)** | 2026-01-29 |  |
 | **[Breadcrumbs in the Digital Forest: Tracing Criminals through Torrent Metadata with OSINT](https://arxiv.org/abs/2601.01492v1)** | 2026-01-04 |  |
 | **[On the Inherent Anonymity of Gossiping](https://arxiv.org/abs/2308.02477v2)** | 2025-12-24 | <details><summary>Full ...</summary><p>Full version of DISC2023 paper</p></details> |
@@ -59,7 +60,6 @@ labels: documentation
 | **[Horizontal and Vertical Federated Causal Structure Learning via Higher-order Cumulants](https://arxiv.org/abs/2507.06888v1)** | 2025-07-09 |  |
 | **[Using Wavelet Domain Fingerprints to Improve Source Camera Identification](https://arxiv.org/abs/2507.01712v1)** | 2025-07-02 |  |
 | **[Dynamic Watermark Generation for Digital Images using Perimeter Gated SPAD Imager PUFs](https://arxiv.org/abs/2506.17134v1)** | 2025-06-20 | <details><summary>5 pag...</summary><p>5 pages, 7 figures, accepted at MWSCAS 2025 Conference</p></details> |
-| **[Multi-agent Systems for Misinformation Lifecycle : Detection, Correction And Source Identification](https://arxiv.org/abs/2505.17511v1)** | 2025-05-23 |  |
 
 ## diffusion source
 | **Title** | **Date** | **Comment** |
