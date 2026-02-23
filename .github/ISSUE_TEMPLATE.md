@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - February 22, 2026
+title: Latest 15 Papers - February 23, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/waityousea/DailyArXiv/) page for a better reading experience and more papers.**
@@ -7,6 +7,8 @@ labels: documentation
 ## source localization
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Lend me an Ear: Speech Enhancement Using a Robotic Arm with a Microphone Array](https://arxiv.org/abs/2602.17818v1)** | 2026-02-19 |  |
+| **[SIRUP: A diffusion-based virtual upmixer of steering vectors for highly-directive spatialization with first-order ambisonics](https://arxiv.org/abs/2602.17732v1)** | 2026-02-18 |  |
 | **[Collision-free Source Seeking and Flocking Control of Multi-agents with Connectivity Preservation](https://arxiv.org/abs/2301.04576v3)** | 2026-01-30 | <details><summary>Publi...</summary><p>Published in IEEE Transactions on Automatic Control</p></details> |
 | **[RedSage: A Cybersecurity Generalist LLM](https://arxiv.org/abs/2601.22159v1)** | 2026-01-29 | <details><summary>Accep...</summary><p>Accepted on ICLR 2026; Project page: https://risys-lab.github.io/RedSage/</p></details> |
 | **[DNN-Based Online Source Counting Based on Spatial Generalized Magnitude Squared Coherence](https://arxiv.org/abs/2601.21114v1)** | 2026-01-28 | <details><summary>in Pr...</summary><p>in Proc. IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP) 2026, Barcelona, Spain</p></details> |
@@ -20,12 +22,11 @@ labels: documentation
 | **[Frequency-Invariant Beamforming in Elevation and Azimuth via Autograd and Concentric Circular Microphone Arrays](https://arxiv.org/abs/2511.19403v1)** | 2025-11-24 |  |
 | **[Real-Time Object Tracking with On-Device Deep Learning for Adaptive Beamforming in Dynamic Acoustic Environments](https://arxiv.org/abs/2511.19396v1)** | 2025-11-24 |  |
 | **[Theoretical Guarantees for AOA-based Localization: Consistency and Asymptotic Efficiency](https://arxiv.org/abs/2507.07647v2)** | 2025-11-20 |  |
-| **[Systematic Evaluation of Time-Frequency Features for Binaural Sound Source Localization](https://arxiv.org/abs/2511.13487v2)** | 2025-11-18 | <details><summary>Submi...</summary><p>Submitted to ICASSP 2026</p></details> |
-| **[A DeepONet joint Neural Tangent Kernel Hybrid Framework for Physics-Informed Inverse Source Problems and Robust Image Reconstruction](https://arxiv.org/abs/2511.00338v1)** | 2025-11-01 |  |
 
 ## source detection
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Identifying the Source of Information Spread in Networks via Markov Chains](https://arxiv.org/abs/2401.11330v2)** | 2026-02-19 |  |
 | **[StarEmbed: Benchmarking Time Series Foundation Models on Astronomical Observations of Variable Stars](https://arxiv.org/abs/2510.06200v3)** | 2026-02-18 |  |
 | **[Overview of PAN 2026: Voight-Kampff Generative AI Detection, Text Watermarking, Multi-Author Writing Style Analysis, Generative Plagiarism Detection, and Reasoning Trajectory Detection](https://arxiv.org/abs/2602.09147v1)** | 2026-02-09 |  |
 | **[CORDS: Continuous Representations of Discrete Structures](https://arxiv.org/abs/2601.21583v1)** | 2026-01-29 | <details><summary>Prepr...</summary><p>Preprint, accepted at ICLR 2026</p></details> |
@@ -40,7 +41,6 @@ labels: documentation
 | **[Can Indirect Prompt Injection Attacks Be Detected and Removed?](https://arxiv.org/abs/2502.16580v5)** | 2025-10-04 | ACL 2025 Main |
 | **[Optimal Stopping for Sequential Bayesian Experimental Design](https://arxiv.org/abs/2509.21734v1)** | 2025-09-26 |  |
 | **[Parking Space Ground Truth Test Automation by Artificial Intelligence Using Convolutional Neural Networks](https://arxiv.org/abs/2509.13366v1)** | 2025-09-15 | 10 pages, 5 figures |
-| **[Neural Posterior Estimation for Cataloging Astronomical Images with Spatially Varying Backgrounds and Point Spread Functions](https://arxiv.org/abs/2503.00156v2)** | 2025-08-24 | <details><summary>Publi...</summary><p>Published in the Astronomical Journal</p></details> |
 
 ## source identification
 | **Title** | **Date** | **Comment** |
