@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - February 23, 2026
+title: Latest 15 Papers - February 24, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/waityousea/DailyArXiv/) page for a better reading experience and more papers.**
@@ -7,6 +7,8 @@ labels: documentation
 ## source localization
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Chasing Ghosts: A Simulation-to-Real Olfactory Navigation Stack with Optional Vision Augmentation](https://arxiv.org/abs/2602.19577v1)** | 2026-02-23 |  |
+| **[JAEGER: Joint 3D Audio-Visual Grounding and Reasoning in Simulated Physical Environments](https://arxiv.org/abs/2602.18527v1)** | 2026-02-20 |  |
 | **[Lend me an Ear: Speech Enhancement Using a Robotic Arm with a Microphone Array](https://arxiv.org/abs/2602.17818v1)** | 2026-02-19 |  |
 | **[SIRUP: A diffusion-based virtual upmixer of steering vectors for highly-directive spatialization with first-order ambisonics](https://arxiv.org/abs/2602.17732v1)** | 2026-02-18 |  |
 | **[Collision-free Source Seeking and Flocking Control of Multi-agents with Connectivity Preservation](https://arxiv.org/abs/2301.04576v3)** | 2026-01-30 | <details><summary>Publi...</summary><p>Published in IEEE Transactions on Automatic Control</p></details> |
@@ -20,8 +22,6 @@ labels: documentation
 | **[BEASST: Behavioral Entropic Gradient based Adaptive Source Seeking for Mobile Robots](https://arxiv.org/abs/2508.10363v2)** | 2025-12-13 |  |
 | **[Audio-Visual World Models: Towards Multisensory Imagination in Sight and Sound](https://arxiv.org/abs/2512.00883v1)** | 2025-11-30 |  |
 | **[Frequency-Invariant Beamforming in Elevation and Azimuth via Autograd and Concentric Circular Microphone Arrays](https://arxiv.org/abs/2511.19403v1)** | 2025-11-24 |  |
-| **[Real-Time Object Tracking with On-Device Deep Learning for Adaptive Beamforming in Dynamic Acoustic Environments](https://arxiv.org/abs/2511.19396v1)** | 2025-11-24 |  |
-| **[Theoretical Guarantees for AOA-based Localization: Consistency and Asymptotic Efficiency](https://arxiv.org/abs/2507.07647v2)** | 2025-11-20 |  |
 
 ## source detection
 | **Title** | **Date** | **Comment** |
