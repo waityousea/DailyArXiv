@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - March 09, 2026
+title: Latest 15 Papers - March 10, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/waityousea/DailyArXiv/) page for a better reading experience and more papers.**
@@ -7,9 +7,11 @@ labels: documentation
 ## source localization
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[RedSage: A Cybersecurity Generalist LLM](https://arxiv.org/abs/2601.22159v2)** | 2026-03-09 | <details><summary>Publi...</summary><p>Published at ICLR 2026; Project page: https://risys-lab.github.io/RedSage/</p></details> |
+| **[A Primer on Evolutionary Frameworks for Near-Field Multi-Source Localization](https://arxiv.org/abs/2603.07676v1)** | 2026-03-08 | <details><summary>This ...</summary><p>This paper is submitted to a related Journal</p></details> |
+| **[Non-Invasive Reconstruction of Intracranial EEG Across the Deep Temporal Lobe from Scalp EEG based on Conditional Normalizing Flow](https://arxiv.org/abs/2603.03354v2)** | 2026-03-08 |  |
 | **[Geometric Autoencoder Priors for Bayesian Inversion: Learn First Observe Later](https://arxiv.org/abs/2509.19929v3)** | 2026-02-27 |  |
 | **[On the Uniqueness of Solutions in GPS Source Localization: Distance and Squared-Distance Minimization under Limited Measurements in Two and Three Dimensions](https://arxiv.org/abs/2602.23741v1)** | 2026-02-27 |  |
-| **[Non-Invasive Reconstruction of Intracranial EEG Across the Deep Temporal Lobe from Scalp EEG based on Conditional Normalizing Flow](https://arxiv.org/abs/2603.03354v1)** | 2026-02-27 |  |
 | **[Cyber Attacks Detection, Prevention, and Source Localization in Digital Substation Communication using Hybrid Statistical-Deep Learning](https://arxiv.org/abs/2507.00522v2)** | 2026-02-26 | <details><summary>11 pa...</summary><p>11 pages, 7 figures. This work has been submitted to the IEEE for possible publication</p></details> |
 | **[Sound Source Localization for Spatial Mapping of Surgical Actions in Dynamic Scenes](https://arxiv.org/abs/2510.24332v2)** | 2026-02-24 |  |
 | **[Chasing Ghosts: A Simulation-to-Real Olfactory Navigation Stack with Optional Vision Augmentation](https://arxiv.org/abs/2602.19577v1)** | 2026-02-23 |  |
@@ -18,10 +20,8 @@ labels: documentation
 | **[SIRUP: A diffusion-based virtual upmixer of steering vectors for highly-directive spatialization with first-order ambisonics](https://arxiv.org/abs/2602.17732v1)** | 2026-02-18 |  |
 | **[VISION-ICE: Video-based Interpretation and Spatial Identification of Arrhythmia Origins via Neural Networks in Intracardiac Echocardiography](https://arxiv.org/abs/2602.20165v1)** | 2026-02-04 | <details><summary>8 pag...</summary><p>8 pages, 3 figures, 3 tabels</p></details> |
 | **[Collision-free Source Seeking and Flocking Control of Multi-agents with Connectivity Preservation](https://arxiv.org/abs/2301.04576v3)** | 2026-01-30 | <details><summary>Publi...</summary><p>Published in IEEE Transactions on Automatic Control</p></details> |
-| **[RedSage: A Cybersecurity Generalist LLM](https://arxiv.org/abs/2601.22159v1)** | 2026-01-29 | <details><summary>Accep...</summary><p>Accepted on ICLR 2026; Project page: https://risys-lab.github.io/RedSage/</p></details> |
 | **[DNN-Based Online Source Counting Based on Spatial Generalized Magnitude Squared Coherence](https://arxiv.org/abs/2601.21114v1)** | 2026-01-28 | <details><summary>in Pr...</summary><p>in Proc. IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP) 2026, Barcelona, Spain</p></details> |
 | **[Analytic Incremental Learning For Sound Source Localization With Imbalance Rectification](https://arxiv.org/abs/2601.18335v1)** | 2026-01-26 | Accepted by ICASSP26 |
-| **[Sound event localization and classification using WASN in Outdoor Environment](https://arxiv.org/abs/2403.20130v2)** | 2026-01-24 |  |
 
 ## source detection
 | **Title** | **Date** | **Comment** |
