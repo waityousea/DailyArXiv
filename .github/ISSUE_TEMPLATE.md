@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - March 10, 2026
+title: Latest 15 Papers - March 11, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/waityousea/DailyArXiv/) page for a better reading experience and more papers.**
@@ -7,6 +7,10 @@ labels: documentation
 ## source localization
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[RA-SSU: Towards Fine-Grained Audio-Visual Learning with Region-Aware Sound Source Understanding](https://arxiv.org/abs/2603.09809v1)** | 2026-03-10 | Accepted by IEEE TMM |
+| **[Tracking Cancer Through Text: Longitudinal Extraction From Radiology Reports Using Open-Source Large Language Models](https://arxiv.org/abs/2603.09638v1)** | 2026-03-10 | 6 pages, 2 figures |
+| **[Audio-Visual World Models: Towards Multisensory Imagination in Sight and Sound](https://arxiv.org/abs/2512.00883v2)** | 2026-03-10 |  |
+| **[AgentOS: From Application Silos to a Natural Language-Driven Data Ecosystem](https://arxiv.org/abs/2603.08938v1)** | 2026-03-09 |  |
 | **[RedSage: A Cybersecurity Generalist LLM](https://arxiv.org/abs/2601.22159v2)** | 2026-03-09 | <details><summary>Publi...</summary><p>Published at ICLR 2026; Project page: https://risys-lab.github.io/RedSage/</p></details> |
 | **[A Primer on Evolutionary Frameworks for Near-Field Multi-Source Localization](https://arxiv.org/abs/2603.07676v1)** | 2026-03-08 | <details><summary>This ...</summary><p>This paper is submitted to a related Journal</p></details> |
 | **[Non-Invasive Reconstruction of Intracranial EEG Across the Deep Temporal Lobe from Scalp EEG based on Conditional Normalizing Flow](https://arxiv.org/abs/2603.03354v2)** | 2026-03-08 |  |
@@ -18,10 +22,6 @@ labels: documentation
 | **[JAEGER: Joint 3D Audio-Visual Grounding and Reasoning in Simulated Physical Environments](https://arxiv.org/abs/2602.18527v1)** | 2026-02-20 |  |
 | **[Lend me an Ear: Speech Enhancement Using a Robotic Arm with a Microphone Array](https://arxiv.org/abs/2602.17818v1)** | 2026-02-19 |  |
 | **[SIRUP: A diffusion-based virtual upmixer of steering vectors for highly-directive spatialization with first-order ambisonics](https://arxiv.org/abs/2602.17732v1)** | 2026-02-18 |  |
-| **[VISION-ICE: Video-based Interpretation and Spatial Identification of Arrhythmia Origins via Neural Networks in Intracardiac Echocardiography](https://arxiv.org/abs/2602.20165v1)** | 2026-02-04 | <details><summary>8 pag...</summary><p>8 pages, 3 figures, 3 tabels</p></details> |
-| **[Collision-free Source Seeking and Flocking Control of Multi-agents with Connectivity Preservation](https://arxiv.org/abs/2301.04576v3)** | 2026-01-30 | <details><summary>Publi...</summary><p>Published in IEEE Transactions on Automatic Control</p></details> |
-| **[DNN-Based Online Source Counting Based on Spatial Generalized Magnitude Squared Coherence](https://arxiv.org/abs/2601.21114v1)** | 2026-01-28 | <details><summary>in Pr...</summary><p>in Proc. IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP) 2026, Barcelona, Spain</p></details> |
-| **[Analytic Incremental Learning For Sound Source Localization With Imbalance Rectification](https://arxiv.org/abs/2601.18335v1)** | 2026-01-26 | Accepted by ICASSP26 |
 
 ## source detection
 | **Title** | **Date** | **Comment** |
@@ -45,13 +45,13 @@ labels: documentation
 ## source identification
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Who Made This? Fake Detection and Source Attribution with Diffusion Features](https://arxiv.org/abs/2510.27602v2)** | 2026-03-10 |  |
 | **[One Good Source is All You Need: Near-Optimal Regret for Bandits under Heterogeneous Noise](https://arxiv.org/abs/2602.14474v1)** | 2026-02-16 |  |
 | **[DataCross: A Unified Benchmark and Agent Framework for Cross-Modal Heterogeneous Data Analysis](https://arxiv.org/abs/2601.21403v1)** | 2026-01-29 |  |
 | **[Breadcrumbs in the Digital Forest: Tracing Criminals through Torrent Metadata with OSINT](https://arxiv.org/abs/2601.01492v1)** | 2026-01-04 |  |
 | **[On the Inherent Anonymity of Gossiping](https://arxiv.org/abs/2308.02477v2)** | 2025-12-24 | <details><summary>Full ...</summary><p>Full version of DISC2023 paper</p></details> |
 | **[An Unsupervised Deep Explainable AI Framework for Localization of Concurrent Replay Attacks in Nuclear Reactor Signals](https://arxiv.org/abs/2508.09162v4)** | 2025-12-19 | <details><summary>Added...</summary><p>Added references, corrected typos, grammar check, authors updated</p></details> |
 | **[Conditionally adaptive augmented Lagrangian method for physics-informed learning of forward and inverse problems](https://arxiv.org/abs/2508.15695v2)** | 2025-12-07 | 37 pages, 22 figures |
-| **[Who Made This? Fake Detection and Source Attribution with Diffusion Features](https://arxiv.org/abs/2510.27602v1)** | 2025-10-31 |  |
 | **[Online Non-convex Optimization with Long-term Non-convex Constraints](https://arxiv.org/abs/2311.02426v4)** | 2025-10-01 |  |
 | **[OmniDFA: A Unified Framework for Open Set Synthesis Image Detection and Few-Shot Attribution](https://arxiv.org/abs/2509.25682v1)** | 2025-09-30 | 19 pages, 5 figures |
 | **[Physics-informed sensor coverage through structure preserving machine learning](https://arxiv.org/abs/2509.10363v1)** | 2025-09-12 |  |
