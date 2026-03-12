@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - March 11, 2026
+title: Latest 15 Papers - March 12, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/waityousea/DailyArXiv/) page for a better reading experience and more papers.**
@@ -7,8 +7,9 @@ labels: documentation
 ## source localization
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Enhancing Brain Source Reconstruction by Initializing 3D Neural Networks with Physical Inverse Solutions](https://arxiv.org/abs/2411.00143v2)** | 2026-03-11 | <details><summary>Accep...</summary><p>Accepted in IEEE Transactions on Medical Imaging</p></details> |
+| **[Tracking Cancer Through Text: Longitudinal Extraction From Radiology Reports Using Open-Source Large Language Models](https://arxiv.org/abs/2603.09638v2)** | 2026-03-11 | 6 pages, 2 figures |
 | **[RA-SSU: Towards Fine-Grained Audio-Visual Learning with Region-Aware Sound Source Understanding](https://arxiv.org/abs/2603.09809v1)** | 2026-03-10 | Accepted by IEEE TMM |
-| **[Tracking Cancer Through Text: Longitudinal Extraction From Radiology Reports Using Open-Source Large Language Models](https://arxiv.org/abs/2603.09638v1)** | 2026-03-10 | 6 pages, 2 figures |
 | **[Audio-Visual World Models: Towards Multisensory Imagination in Sight and Sound](https://arxiv.org/abs/2512.00883v2)** | 2026-03-10 |  |
 | **[AgentOS: From Application Silos to a Natural Language-Driven Data Ecosystem](https://arxiv.org/abs/2603.08938v1)** | 2026-03-09 |  |
 | **[RedSage: A Cybersecurity Generalist LLM](https://arxiv.org/abs/2601.22159v2)** | 2026-03-09 | <details><summary>Publi...</summary><p>Published at ICLR 2026; Project page: https://risys-lab.github.io/RedSage/</p></details> |
@@ -21,7 +22,6 @@ labels: documentation
 | **[Chasing Ghosts: A Simulation-to-Real Olfactory Navigation Stack with Optional Vision Augmentation](https://arxiv.org/abs/2602.19577v1)** | 2026-02-23 |  |
 | **[JAEGER: Joint 3D Audio-Visual Grounding and Reasoning in Simulated Physical Environments](https://arxiv.org/abs/2602.18527v1)** | 2026-02-20 |  |
 | **[Lend me an Ear: Speech Enhancement Using a Robotic Arm with a Microphone Array](https://arxiv.org/abs/2602.17818v1)** | 2026-02-19 |  |
-| **[SIRUP: A diffusion-based virtual upmixer of steering vectors for highly-directive spatialization with first-order ambisonics](https://arxiv.org/abs/2602.17732v1)** | 2026-02-18 |  |
 
 ## source detection
 | **Title** | **Date** | **Comment** |
