@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - March 12, 2026
+title: Latest 15 Papers - March 13, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/waityousea/DailyArXiv/) page for a better reading experience and more papers.**
@@ -7,11 +7,12 @@ labels: documentation
 ## source localization
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Multi-Agent Reinforcement Learning for UAV-Based Chemical Plume Source Localization](https://arxiv.org/abs/2603.11582v1)** | 2026-03-12 |  |
+| **[AgentOS: From Application Silos to a Natural Language-Driven Data Ecosystem](https://arxiv.org/abs/2603.08938v2)** | 2026-03-11 |  |
 | **[Enhancing Brain Source Reconstruction by Initializing 3D Neural Networks with Physical Inverse Solutions](https://arxiv.org/abs/2411.00143v2)** | 2026-03-11 | <details><summary>Accep...</summary><p>Accepted in IEEE Transactions on Medical Imaging</p></details> |
 | **[Tracking Cancer Through Text: Longitudinal Extraction From Radiology Reports Using Open-Source Large Language Models](https://arxiv.org/abs/2603.09638v2)** | 2026-03-11 | 6 pages, 2 figures |
 | **[RA-SSU: Towards Fine-Grained Audio-Visual Learning with Region-Aware Sound Source Understanding](https://arxiv.org/abs/2603.09809v1)** | 2026-03-10 | Accepted by IEEE TMM |
 | **[Audio-Visual World Models: Towards Multisensory Imagination in Sight and Sound](https://arxiv.org/abs/2512.00883v2)** | 2026-03-10 |  |
-| **[AgentOS: From Application Silos to a Natural Language-Driven Data Ecosystem](https://arxiv.org/abs/2603.08938v1)** | 2026-03-09 |  |
 | **[RedSage: A Cybersecurity Generalist LLM](https://arxiv.org/abs/2601.22159v2)** | 2026-03-09 | <details><summary>Publi...</summary><p>Published at ICLR 2026; Project page: https://risys-lab.github.io/RedSage/</p></details> |
 | **[A Primer on Evolutionary Frameworks for Near-Field Multi-Source Localization](https://arxiv.org/abs/2603.07676v1)** | 2026-03-08 | <details><summary>This ...</summary><p>This paper is submitted to a related Journal</p></details> |
 | **[Non-Invasive Reconstruction of Intracranial EEG Across the Deep Temporal Lobe from Scalp EEG based on Conditional Normalizing Flow](https://arxiv.org/abs/2603.03354v2)** | 2026-03-08 |  |
@@ -21,7 +22,6 @@ labels: documentation
 | **[Sound Source Localization for Spatial Mapping of Surgical Actions in Dynamic Scenes](https://arxiv.org/abs/2510.24332v2)** | 2026-02-24 |  |
 | **[Chasing Ghosts: A Simulation-to-Real Olfactory Navigation Stack with Optional Vision Augmentation](https://arxiv.org/abs/2602.19577v1)** | 2026-02-23 |  |
 | **[JAEGER: Joint 3D Audio-Visual Grounding and Reasoning in Simulated Physical Environments](https://arxiv.org/abs/2602.18527v1)** | 2026-02-20 |  |
-| **[Lend me an Ear: Speech Enhancement Using a Robotic Arm with a Microphone Array](https://arxiv.org/abs/2602.17818v1)** | 2026-02-19 |  |
 
 ## source detection
 | **Title** | **Date** | **Comment** |
@@ -45,6 +45,8 @@ labels: documentation
 ## source identification
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[HiSync: Spatio-Temporally Aligning Hand Motion from Wearable IMU and On-Robot Camera for Command Source Identification in Long-Range HRI](https://arxiv.org/abs/2603.11809v1)** | 2026-03-12 |  |
+| **[Multi-Agent Reinforcement Learning for UAV-Based Chemical Plume Source Localization](https://arxiv.org/abs/2603.11582v1)** | 2026-03-12 |  |
 | **[Who Made This? Fake Detection and Source Attribution with Diffusion Features](https://arxiv.org/abs/2510.27602v2)** | 2026-03-10 |  |
 | **[One Good Source is All You Need: Near-Optimal Regret for Bandits under Heterogeneous Noise](https://arxiv.org/abs/2602.14474v1)** | 2026-02-16 |  |
 | **[DataCross: A Unified Benchmark and Agent Framework for Cross-Modal Heterogeneous Data Analysis](https://arxiv.org/abs/2601.21403v1)** | 2026-01-29 |  |
@@ -58,8 +60,6 @@ labels: documentation
 | **[A Bayesian thinning algorithm for the point source identification of heat equation](https://arxiv.org/abs/2509.14245v1)** | 2025-09-04 | 6 pages |
 | **[Set-Valued Transformer Network for High-Emission Mobile Source Identification](https://arxiv.org/abs/2508.11976v1)** | 2025-08-16 |  |
 | **[Horizontal and Vertical Federated Causal Structure Learning via Higher-order Cumulants](https://arxiv.org/abs/2507.06888v1)** | 2025-07-09 |  |
-| **[Using Wavelet Domain Fingerprints to Improve Source Camera Identification](https://arxiv.org/abs/2507.01712v1)** | 2025-07-02 |  |
-| **[Dynamic Watermark Generation for Digital Images using Perimeter Gated SPAD Imager PUFs](https://arxiv.org/abs/2506.17134v1)** | 2025-06-20 | <details><summary>5 pag...</summary><p>5 pages, 7 figures, accepted at MWSCAS 2025 Conference</p></details> |
 
 ## diffusion source
 | **Title** | **Date** | **Comment** |
