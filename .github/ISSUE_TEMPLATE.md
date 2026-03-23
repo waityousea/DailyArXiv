@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - March 22, 2026
+title: Latest 15 Papers - March 23, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/waityousea/DailyArXiv/) page for a better reading experience and more papers.**
@@ -26,6 +26,7 @@ labels: documentation
 ## source detection
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Transfer learning for high-dimensional Factor-augmented sparse linear model](https://arxiv.org/abs/2511.12435v3)** | 2026-03-20 | 54 pages, 1 figures |
 | **[Identifying the Source of Information Spread in Networks via Markov Chains](https://arxiv.org/abs/2401.11330v2)** | 2026-02-19 |  |
 | **[StarEmbed: Benchmarking Time Series Foundation Models on Astronomical Observations of Variable Stars](https://arxiv.org/abs/2510.06200v3)** | 2026-02-18 |  |
 | **[Overview of PAN 2026: Voight-Kampff Generative AI Detection, Text Watermarking, Multi-Author Writing Style Analysis, Generative Plagiarism Detection, and Reasoning Trajectory Detection](https://arxiv.org/abs/2602.09147v1)** | 2026-02-09 |  |
@@ -35,7 +36,6 @@ labels: documentation
 | **[Graph Neural Networks for Source Detection: A Review and Benchmark Study](https://arxiv.org/abs/2512.20657v1)** | 2025-12-18 |  |
 | **[Conformal Prediction for Multi-Source Detection on a Network](https://arxiv.org/abs/2511.08867v2)** | 2025-11-30 |  |
 | **[Transfer Learning for High-dimensional Quantile Regression with Distribution Shift](https://arxiv.org/abs/2411.19933v2)** | 2025-11-25 | 61 pages |
-| **[Transfer learning for high-dimensional Factor-augmented sparse linear model](https://arxiv.org/abs/2511.12435v2)** | 2025-11-18 | 52 pages, 2 figures |
 | **[Neural Posterior Estimation for Cataloging Astronomical Images from the Legacy Survey of Space and Time](https://arxiv.org/abs/2510.15315v3)** | 2025-11-05 |  |
 | **[Is It Certainly a Deepfake? Reliability Analysis in Detection & Generation Ecosystem](https://arxiv.org/abs/2509.17550v3)** | 2025-10-28 | <details><summary>Accep...</summary><p>Accepted for publication at the ICCV 2025 workshop - STREAM</p></details> |
 | **[Can Indirect Prompt Injection Attacks Be Detected and Removed?](https://arxiv.org/abs/2502.16580v5)** | 2025-10-04 | ACL 2025 Main |
