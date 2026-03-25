@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - March 24, 2026
+title: Latest 15 Papers - March 25, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/waityousea/DailyArXiv/) page for a better reading experience and more papers.**
@@ -26,6 +26,7 @@ labels: documentation
 ## source detection
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Operational machine learning for remote spectroscopic detection of CH$_{4}$ point sources](https://arxiv.org/abs/2511.07719v2)** | 2026-03-24 | <details><summary>20 pa...</summary><p>20 pages, 14 figures, 10 tables. In review</p></details> |
 | **[Transfer learning for high-dimensional Factor-augmented sparse linear model](https://arxiv.org/abs/2511.12435v3)** | 2026-03-20 | 54 pages, 1 figures |
 | **[Identifying the Source of Information Spread in Networks via Markov Chains](https://arxiv.org/abs/2401.11330v2)** | 2026-02-19 |  |
 | **[StarEmbed: Benchmarking Time Series Foundation Models on Astronomical Observations of Variable Stars](https://arxiv.org/abs/2510.06200v3)** | 2026-02-18 |  |
@@ -40,7 +41,6 @@ labels: documentation
 | **[Is It Certainly a Deepfake? Reliability Analysis in Detection & Generation Ecosystem](https://arxiv.org/abs/2509.17550v3)** | 2025-10-28 | <details><summary>Accep...</summary><p>Accepted for publication at the ICCV 2025 workshop - STREAM</p></details> |
 | **[Can Indirect Prompt Injection Attacks Be Detected and Removed?](https://arxiv.org/abs/2502.16580v5)** | 2025-10-04 | ACL 2025 Main |
 | **[Optimal Stopping for Sequential Bayesian Experimental Design](https://arxiv.org/abs/2509.21734v1)** | 2025-09-26 |  |
-| **[Parking Space Ground Truth Test Automation by Artificial Intelligence Using Convolutional Neural Networks](https://arxiv.org/abs/2509.13366v1)** | 2025-09-15 | 10 pages, 5 figures |
 
 ## source identification
 | **Title** | **Date** | **Comment** |
