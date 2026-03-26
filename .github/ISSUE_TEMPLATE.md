@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - March 25, 2026
+title: Latest 15 Papers - March 26, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/waityousea/DailyArXiv/) page for a better reading experience and more papers.**
@@ -45,7 +45,7 @@ labels: documentation
 ## source identification
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[HiSync: Spatio-Temporally Aligning Hand Motion from Wearable IMU and On-Robot Camera for Command Source Identification in Long-Range HRI](https://arxiv.org/abs/2603.11809v1)** | 2026-03-12 |  |
+| **[HiSync: Spatio-Temporally Aligning Hand Motion from Wearable IMU and On-Robot Camera for Command Source Identification in Long-Range HRI](https://arxiv.org/abs/2603.11809v2)** | 2026-03-25 |  |
 | **[Multi-Agent Reinforcement Learning for UAV-Based Chemical Plume Source Localization](https://arxiv.org/abs/2603.11582v1)** | 2026-03-12 |  |
 | **[Who Made This? Fake Detection and Source Attribution with Diffusion Features](https://arxiv.org/abs/2510.27602v2)** | 2026-03-10 |  |
 | **[One Good Source is All You Need: Near-Optimal Regret for Bandits under Heterogeneous Noise](https://arxiv.org/abs/2602.14474v1)** | 2026-02-16 |  |
