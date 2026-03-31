@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - March 28, 2026
+title: Latest 15 Papers - March 31, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/waityousea/DailyArXiv/) page for a better reading experience and more papers.**
@@ -7,7 +7,7 @@ labels: documentation
 ## source localization
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Acoustic Imaging for Low-SNR UAV Detection: Dense Beamformed Energy Maps and U-Net SELD](https://arxiv.org/abs/2508.00307v2)** | 2026-03-26 |  |
+| **[Acoustic Imaging for UAV Detection: Dense Beamformed Energy Maps and U-Net SELD](https://arxiv.org/abs/2508.00307v3)** | 2026-03-27 |  |
 | **[Multi-Agent Reinforcement Learning for UAV-Based Chemical Plume Source Localization](https://arxiv.org/abs/2603.11582v1)** | 2026-03-12 |  |
 | **[AgentOS: From Application Silos to a Natural Language-Driven Data Ecosystem](https://arxiv.org/abs/2603.08938v2)** | 2026-03-11 |  |
 | **[Enhancing Brain Source Reconstruction by Initializing 3D Neural Networks with Physical Inverse Solutions](https://arxiv.org/abs/2411.00143v2)** | 2026-03-11 | <details><summary>Accep...</summary><p>Accepted in IEEE Transactions on Medical Imaging</p></details> |
