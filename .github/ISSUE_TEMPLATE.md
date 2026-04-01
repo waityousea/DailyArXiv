@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - March 31, 2026
+title: Latest 15 Papers - April 01, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/waityousea/DailyArXiv/) page for a better reading experience and more papers.**
@@ -45,6 +45,7 @@ labels: documentation
 ## source identification
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[L-ReLF: A Framework for Lexical Dataset Creation](https://arxiv.org/abs/2603.29346v1)** | 2026-03-31 | <details><summary>Accep...</summary><p>Accepted to the 2026 International Conference on Natural Language Processing (ICNLP). 6 pages, 1 figure</p></details> |
 | **[HiSync: Spatio-Temporally Aligning Hand Motion from Wearable IMU and On-Robot Camera for Command Source Identification in Long-Range HRI](https://arxiv.org/abs/2603.11809v2)** | 2026-03-25 |  |
 | **[Multi-Agent Reinforcement Learning for UAV-Based Chemical Plume Source Localization](https://arxiv.org/abs/2603.11582v1)** | 2026-03-12 |  |
 | **[Who Made This? Fake Detection and Source Attribution with Diffusion Features](https://arxiv.org/abs/2510.27602v2)** | 2026-03-10 |  |
@@ -59,7 +60,6 @@ labels: documentation
 | **[Physics-informed sensor coverage through structure preserving machine learning](https://arxiv.org/abs/2509.10363v1)** | 2025-09-12 |  |
 | **[A Bayesian thinning algorithm for the point source identification of heat equation](https://arxiv.org/abs/2509.14245v1)** | 2025-09-04 | 6 pages |
 | **[Set-Valued Transformer Network for High-Emission Mobile Source Identification](https://arxiv.org/abs/2508.11976v1)** | 2025-08-16 |  |
-| **[Horizontal and Vertical Federated Causal Structure Learning via Higher-order Cumulants](https://arxiv.org/abs/2507.06888v1)** | 2025-07-09 |  |
 
 ## diffusion source
 | **Title** | **Date** | **Comment** |
