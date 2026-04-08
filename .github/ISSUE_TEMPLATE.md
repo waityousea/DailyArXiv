@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - April 07, 2026
+title: Latest 15 Papers - April 08, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/waityousea/DailyArXiv/) page for a better reading experience and more papers.**
@@ -51,6 +51,7 @@ labels: documentation
 | **[Multi-Agent Reinforcement Learning for UAV-Based Chemical Plume Source Localization](https://arxiv.org/abs/2603.11582v1)** | 2026-03-12 |  |
 | **[Who Made This? Fake Detection and Source Attribution with Diffusion Features](https://arxiv.org/abs/2510.27602v2)** | 2026-03-10 |  |
 | **[One Good Source is All You Need: Near-Optimal Regret for Bandits under Heterogeneous Noise](https://arxiv.org/abs/2602.14474v1)** | 2026-02-16 |  |
+| **[Pramana: Fine-Tuning Large Language Models for Epistemic Reasoning through Navya-Nyaya](https://arxiv.org/abs/2604.04937v1)** | 2026-02-14 | <details><summary>52 pa...</summary><p>52 pages + appendices, comprehensive treatment of Navya-Nyaya computational formalization</p></details> |
 | **[DataCross: A Unified Benchmark and Agent Framework for Cross-Modal Heterogeneous Data Analysis](https://arxiv.org/abs/2601.21403v1)** | 2026-01-29 |  |
 | **[Breadcrumbs in the Digital Forest: Tracing Criminals through Torrent Metadata with OSINT](https://arxiv.org/abs/2601.01492v1)** | 2026-01-04 |  |
 | **[On the Inherent Anonymity of Gossiping](https://arxiv.org/abs/2308.02477v2)** | 2025-12-24 | <details><summary>Full ...</summary><p>Full version of DISC2023 paper</p></details> |
@@ -59,7 +60,6 @@ labels: documentation
 | **[Online Non-convex Optimization with Long-term Non-convex Constraints](https://arxiv.org/abs/2311.02426v4)** | 2025-10-01 |  |
 | **[OmniDFA: A Unified Framework for Open Set Synthesis Image Detection and Few-Shot Attribution](https://arxiv.org/abs/2509.25682v1)** | 2025-09-30 | 19 pages, 5 figures |
 | **[Physics-informed sensor coverage through structure preserving machine learning](https://arxiv.org/abs/2509.10363v1)** | 2025-09-12 |  |
-| **[A Bayesian thinning algorithm for the point source identification of heat equation](https://arxiv.org/abs/2509.14245v1)** | 2025-09-04 | 6 pages |
 
 ## diffusion source
 | **Title** | **Date** | **Comment** |
