@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - April 08, 2026
+title: Latest 15 Papers - April 09, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/waityousea/DailyArXiv/) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## source localization
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Generate, Analyze, and Refine: Training-Free Sound Source Localization via MLLM Meta-Reasoning](https://arxiv.org/abs/2604.06824v1)** | 2026-04-08 | <details><summary>Accep...</summary><p>Accepted to CVPR 2026</p></details> |
 | **[Acoustic Imaging for UAV Detection: Dense Beamformed Energy Maps and U-Net SELD](https://arxiv.org/abs/2508.00307v3)** | 2026-03-27 |  |
 | **[Multi-Agent Reinforcement Learning for UAV-Based Chemical Plume Source Localization](https://arxiv.org/abs/2603.11582v1)** | 2026-03-12 |  |
 | **[AgentOS: From Application Silos to a Natural Language-Driven Data Ecosystem](https://arxiv.org/abs/2603.08938v2)** | 2026-03-11 |  |
@@ -21,11 +22,11 @@ labels: documentation
 | **[On the Uniqueness of Solutions in GPS Source Localization: Distance and Squared-Distance Minimization under Limited Measurements in Two and Three Dimensions](https://arxiv.org/abs/2602.23741v1)** | 2026-02-27 |  |
 | **[Cyber Attacks Detection, Prevention, and Source Localization in Digital Substation Communication using Hybrid Statistical-Deep Learning](https://arxiv.org/abs/2507.00522v2)** | 2026-02-26 | <details><summary>11 pa...</summary><p>11 pages, 7 figures. This work has been submitted to the IEEE for possible publication</p></details> |
 | **[Sound Source Localization for Spatial Mapping of Surgical Actions in Dynamic Scenes](https://arxiv.org/abs/2510.24332v2)** | 2026-02-24 |  |
-| **[Chasing Ghosts: A Simulation-to-Real Olfactory Navigation Stack with Optional Vision Augmentation](https://arxiv.org/abs/2602.19577v1)** | 2026-02-23 |  |
 
 ## source detection
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Transfer Learning for Robust Structured Regression with Bi-level Source Detection](https://arxiv.org/abs/2604.06659v1)** | 2026-04-08 | 34 pages, 7 Figures |
 | **[Operational machine learning for remote spectroscopic detection of CH$_{4}$ point sources](https://arxiv.org/abs/2511.07719v2)** | 2026-03-24 | <details><summary>20 pa...</summary><p>20 pages, 14 figures, 10 tables. In review</p></details> |
 | **[Transfer learning for high-dimensional Factor-augmented sparse linear model](https://arxiv.org/abs/2511.12435v3)** | 2026-03-20 | 54 pages, 1 figures |
 | **[Identifying the Source of Information Spread in Networks via Markov Chains](https://arxiv.org/abs/2401.11330v2)** | 2026-02-19 |  |
@@ -40,11 +41,11 @@ labels: documentation
 | **[Neural Posterior Estimation for Cataloging Astronomical Images from the Legacy Survey of Space and Time](https://arxiv.org/abs/2510.15315v3)** | 2025-11-05 |  |
 | **[Is It Certainly a Deepfake? Reliability Analysis in Detection & Generation Ecosystem](https://arxiv.org/abs/2509.17550v3)** | 2025-10-28 | <details><summary>Accep...</summary><p>Accepted for publication at the ICCV 2025 workshop - STREAM</p></details> |
 | **[Can Indirect Prompt Injection Attacks Be Detected and Removed?](https://arxiv.org/abs/2502.16580v5)** | 2025-10-04 | ACL 2025 Main |
-| **[Optimal Stopping for Sequential Bayesian Experimental Design](https://arxiv.org/abs/2509.21734v1)** | 2025-09-26 |  |
 
 ## source identification
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[LLM-based Schema-Guided Extraction and Validation of Missing-Person Intelligence from Heterogeneous Data Sources](https://arxiv.org/abs/2604.06571v1)** | 2026-04-08 | <details><summary>9 pag...</summary><p>9 pages, 6 figures. Accepted at International Conference on Intelligent Digitization of Systems and Services (IDSS 2026)</p></details> |
 | **[Disentangled Deep Priors for Bayesian Inverse Problems](https://arxiv.org/abs/2604.02304v1)** | 2026-04-02 |  |
 | **[L-ReLF: A Framework for Lexical Dataset Creation](https://arxiv.org/abs/2603.29346v1)** | 2026-03-31 | <details><summary>Accep...</summary><p>Accepted to the 2026 International Conference on Natural Language Processing (ICNLP). 6 pages, 1 figure</p></details> |
 | **[HiSync: Spatio-Temporally Aligning Hand Motion from Wearable IMU and On-Robot Camera for Command Source Identification in Long-Range HRI](https://arxiv.org/abs/2603.11809v2)** | 2026-03-25 |  |
@@ -59,7 +60,6 @@ labels: documentation
 | **[Conditionally adaptive augmented Lagrangian method for physics-informed learning of forward and inverse problems](https://arxiv.org/abs/2508.15695v2)** | 2025-12-07 | 37 pages, 22 figures |
 | **[Online Non-convex Optimization with Long-term Non-convex Constraints](https://arxiv.org/abs/2311.02426v4)** | 2025-10-01 |  |
 | **[OmniDFA: A Unified Framework for Open Set Synthesis Image Detection and Few-Shot Attribution](https://arxiv.org/abs/2509.25682v1)** | 2025-09-30 | 19 pages, 5 figures |
-| **[Physics-informed sensor coverage through structure preserving machine learning](https://arxiv.org/abs/2509.10363v1)** | 2025-09-12 |  |
 
 ## diffusion source
 | **Title** | **Date** | **Comment** |
