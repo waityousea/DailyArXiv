@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - April 16, 2026
+title: Latest 15 Papers - April 17, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/waityousea/DailyArXiv/) page for a better reading experience and more papers.**
@@ -7,6 +7,8 @@ labels: documentation
 ## source localization
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Source Distance Estimation in Turbulent Airflow: Exploiting Molecule Degradation Diversity](https://arxiv.org/abs/2604.15032v1)** | 2026-04-16 |  |
+| **[Nonlinear dynamics of information overload: Impact on source localization in complex networks](https://arxiv.org/abs/2604.14778v1)** | 2026-04-16 |  |
 | **[Global monitoring of methane point sources using deep learning on hyperspectral radiance measurements from EMIT](https://arxiv.org/abs/2604.10094v1)** | 2026-04-11 | <details><summary>43 pa...</summary><p>43 pages, 27 figures, 4 tables</p></details> |
 | **[Generate, Analyze, and Refine: Training-Free Sound Source Localization via MLLM Meta-Reasoning](https://arxiv.org/abs/2604.06824v1)** | 2026-04-08 | <details><summary>Accep...</summary><p>Accepted to CVPR 2026</p></details> |
 | **[Acoustic Imaging for UAV Detection: Dense Beamformed Energy Maps and U-Net SELD](https://arxiv.org/abs/2508.00307v3)** | 2026-03-27 |  |
@@ -20,8 +22,6 @@ labels: documentation
 | **[A Primer on Evolutionary Frameworks for Near-Field Multi-Source Localization](https://arxiv.org/abs/2603.07676v1)** | 2026-03-08 | <details><summary>This ...</summary><p>This paper is submitted to a related Journal</p></details> |
 | **[Non-Invasive Reconstruction of Intracranial EEG Across the Deep Temporal Lobe from Scalp EEG based on Conditional Normalizing Flow](https://arxiv.org/abs/2603.03354v2)** | 2026-03-08 |  |
 | **[Geometric Autoencoder Priors for Bayesian Inversion: Learn First Observe Later](https://arxiv.org/abs/2509.19929v3)** | 2026-02-27 |  |
-| **[On the Uniqueness of Solutions in GPS Source Localization: Distance and Squared-Distance Minimization under Limited Measurements in Two and Three Dimensions](https://arxiv.org/abs/2602.23741v1)** | 2026-02-27 |  |
-| **[Cyber Attacks Detection, Prevention, and Source Localization in Digital Substation Communication using Hybrid Statistical-Deep Learning](https://arxiv.org/abs/2507.00522v2)** | 2026-02-26 | <details><summary>11 pa...</summary><p>11 pages, 7 figures. This work has been submitted to the IEEE for possible publication</p></details> |
 
 ## source detection
 | **Title** | **Date** | **Comment** |
