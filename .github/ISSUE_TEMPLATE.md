@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - April 19, 2026
+title: Latest 15 Papers - April 20, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/waityousea/DailyArXiv/) page for a better reading experience and more papers.**
@@ -26,6 +26,7 @@ labels: documentation
 ## source detection
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Two-Stage Framework for Efficient UAV-Based Wildfire Video Analysis with Adaptive Compression and Fire Source Detection](https://arxiv.org/abs/2508.16739v2)** | 2026-04-17 | <details><summary>IEEE ...</summary><p>IEEE JSTARS; Extended Journal Version of IROS 2024</p></details> |
 | **[Transfer Learning for Robust Structured Regression with Bi-level Source Detection](https://arxiv.org/abs/2604.06659v1)** | 2026-04-08 | 34 pages, 7 Figures |
 | **[Operational machine learning for remote spectroscopic detection of CH$_{4}$ point sources](https://arxiv.org/abs/2511.07719v2)** | 2026-03-24 | <details><summary>20 pa...</summary><p>20 pages, 14 figures, 10 tables. In review</p></details> |
 | **[Transfer learning for high-dimensional Factor-augmented sparse linear model](https://arxiv.org/abs/2511.12435v3)** | 2026-03-20 | 54 pages, 1 figures |
@@ -40,7 +41,6 @@ labels: documentation
 | **[Transfer Learning for High-dimensional Quantile Regression with Distribution Shift](https://arxiv.org/abs/2411.19933v2)** | 2025-11-25 | 61 pages |
 | **[Neural Posterior Estimation for Cataloging Astronomical Images from the Legacy Survey of Space and Time](https://arxiv.org/abs/2510.15315v3)** | 2025-11-05 |  |
 | **[Is It Certainly a Deepfake? Reliability Analysis in Detection & Generation Ecosystem](https://arxiv.org/abs/2509.17550v3)** | 2025-10-28 | <details><summary>Accep...</summary><p>Accepted for publication at the ICCV 2025 workshop - STREAM</p></details> |
-| **[Can Indirect Prompt Injection Attacks Be Detected and Removed?](https://arxiv.org/abs/2502.16580v5)** | 2025-10-04 | ACL 2025 Main |
 
 ## source identification
 | **Title** | **Date** | **Comment** |
