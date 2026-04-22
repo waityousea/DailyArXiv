@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - April 20, 2026
+title: Latest 15 Papers - April 22, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/waityousea/DailyArXiv/) page for a better reading experience and more papers.**
@@ -7,9 +7,13 @@ labels: documentation
 ## source localization
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[ATLAS: Constitution-Conditioned Latent Geometry and Redistribution Across Language Models and Neural Perturbation Data](https://arxiv.org/abs/2604.17663v1)** | 2026-04-19 | 49 pages, 7 figures |
+| **[Workstream: A Local-First Developer Command Center for the AI-Augmented Engineering Workflow](https://arxiv.org/abs/2604.17055v1)** | 2026-04-18 | <details><summary>6 pag...</summary><p>6 pages, 3 figures, 5 tables. Open source: https://github.com/happybhati/workstream</p></details> |
+| **[Chasing Ghosts: A Simulation-to-Real Olfactory Navigation Stack with Optional Vision Augmentation](https://arxiv.org/abs/2602.19577v2)** | 2026-04-18 |  |
 | **[Source Distance Estimation in Turbulent Airflow: Exploiting Molecule Degradation Diversity](https://arxiv.org/abs/2604.15032v1)** | 2026-04-16 |  |
 | **[Nonlinear dynamics of information overload: Impact on source localization in complex networks](https://arxiv.org/abs/2604.14778v1)** | 2026-04-16 |  |
 | **[Global monitoring of methane point sources using deep learning on hyperspectral radiance measurements from EMIT](https://arxiv.org/abs/2604.10094v1)** | 2026-04-11 | <details><summary>43 pa...</summary><p>43 pages, 27 figures, 4 tables</p></details> |
+| **[MLE-Toolbox: An Open-Source Toolbox for Comprehensive EEG and MEG Data Analysis](https://arxiv.org/abs/2604.16463v1)** | 2026-04-08 |  |
 | **[Generate, Analyze, and Refine: Training-Free Sound Source Localization via MLLM Meta-Reasoning](https://arxiv.org/abs/2604.06824v1)** | 2026-04-08 | <details><summary>Accep...</summary><p>Accepted to CVPR 2026</p></details> |
 | **[Acoustic Imaging for UAV Detection: Dense Beamformed Energy Maps and U-Net SELD](https://arxiv.org/abs/2508.00307v3)** | 2026-03-27 |  |
 | **[Multi-Agent Reinforcement Learning for UAV-Based Chemical Plume Source Localization](https://arxiv.org/abs/2603.11582v1)** | 2026-03-12 |  |
@@ -18,14 +22,11 @@ labels: documentation
 | **[Tracking Cancer Through Text: Longitudinal Extraction From Radiology Reports Using Open-Source Large Language Models](https://arxiv.org/abs/2603.09638v2)** | 2026-03-11 | 6 pages, 2 figures |
 | **[RA-SSU: Towards Fine-Grained Audio-Visual Learning with Region-Aware Sound Source Understanding](https://arxiv.org/abs/2603.09809v1)** | 2026-03-10 | Accepted by IEEE TMM |
 | **[Audio-Visual World Models: Towards Multisensory Imagination in Sight and Sound](https://arxiv.org/abs/2512.00883v2)** | 2026-03-10 |  |
-| **[RedSage: A Cybersecurity Generalist LLM](https://arxiv.org/abs/2601.22159v2)** | 2026-03-09 | <details><summary>Publi...</summary><p>Published at ICLR 2026; Project page: https://risys-lab.github.io/RedSage/</p></details> |
-| **[A Primer on Evolutionary Frameworks for Near-Field Multi-Source Localization](https://arxiv.org/abs/2603.07676v1)** | 2026-03-08 | <details><summary>This ...</summary><p>This paper is submitted to a related Journal</p></details> |
-| **[Non-Invasive Reconstruction of Intracranial EEG Across the Deep Temporal Lobe from Scalp EEG based on Conditional Normalizing Flow](https://arxiv.org/abs/2603.03354v2)** | 2026-03-08 |  |
-| **[Geometric Autoencoder Priors for Bayesian Inversion: Learn First Observe Later](https://arxiv.org/abs/2509.19929v3)** | 2026-02-27 |  |
 
 ## source detection
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[AstroSURE: Learning to Remove Noise from Astronomical Images Without Ground Truth Data](https://arxiv.org/abs/2604.16793v1)** | 2026-04-18 |  |
 | **[Two-Stage Framework for Efficient UAV-Based Wildfire Video Analysis with Adaptive Compression and Fire Source Detection](https://arxiv.org/abs/2508.16739v2)** | 2026-04-17 | <details><summary>IEEE ...</summary><p>IEEE JSTARS; Extended Journal Version of IROS 2024</p></details> |
 | **[Transfer Learning for Robust Structured Regression with Bi-level Source Detection](https://arxiv.org/abs/2604.06659v1)** | 2026-04-08 | 34 pages, 7 Figures |
 | **[Operational machine learning for remote spectroscopic detection of CH$_{4}$ point sources](https://arxiv.org/abs/2511.07719v2)** | 2026-03-24 | <details><summary>20 pa...</summary><p>20 pages, 14 figures, 10 tables. In review</p></details> |
@@ -40,7 +41,6 @@ labels: documentation
 | **[Conformal Prediction for Multi-Source Detection on a Network](https://arxiv.org/abs/2511.08867v2)** | 2025-11-30 |  |
 | **[Transfer Learning for High-dimensional Quantile Regression with Distribution Shift](https://arxiv.org/abs/2411.19933v2)** | 2025-11-25 | 61 pages |
 | **[Neural Posterior Estimation for Cataloging Astronomical Images from the Legacy Survey of Space and Time](https://arxiv.org/abs/2510.15315v3)** | 2025-11-05 |  |
-| **[Is It Certainly a Deepfake? Reliability Analysis in Detection & Generation Ecosystem](https://arxiv.org/abs/2509.17550v3)** | 2025-10-28 | <details><summary>Accep...</summary><p>Accepted for publication at the ICCV 2025 workshop - STREAM</p></details> |
 
 ## source identification
 | **Title** | **Date** | **Comment** |
