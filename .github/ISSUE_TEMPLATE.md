@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - April 26, 2026
+title: Latest 15 Papers - April 27, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/waityousea/DailyArXiv/) page for a better reading experience and more papers.**
@@ -26,6 +26,7 @@ labels: documentation
 ## source detection
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Thermal background reduction for mid-infrared imaging by low-rank background and sparse point-source modelling](https://arxiv.org/abs/2604.22351v1)** | 2026-04-24 |  |
 | **[AstroSURE: Learning to Remove Noise from Astronomical Images Without Ground Truth Data](https://arxiv.org/abs/2604.16793v1)** | 2026-04-18 |  |
 | **[Two-Stage Framework for Efficient UAV-Based Wildfire Video Analysis with Adaptive Compression and Fire Source Detection](https://arxiv.org/abs/2508.16739v2)** | 2026-04-17 | <details><summary>IEEE ...</summary><p>IEEE JSTARS; Extended Journal Version of IROS 2024</p></details> |
 | **[Transfer Learning for Robust Structured Regression with Bi-level Source Detection](https://arxiv.org/abs/2604.06659v1)** | 2026-04-08 | 34 pages, 7 Figures |
@@ -40,7 +41,6 @@ labels: documentation
 | **[Graph Neural Networks for Source Detection: A Review and Benchmark Study](https://arxiv.org/abs/2512.20657v1)** | 2025-12-18 |  |
 | **[Conformal Prediction for Multi-Source Detection on a Network](https://arxiv.org/abs/2511.08867v2)** | 2025-11-30 |  |
 | **[Transfer Learning for High-dimensional Quantile Regression with Distribution Shift](https://arxiv.org/abs/2411.19933v2)** | 2025-11-25 | 61 pages |
-| **[Neural Posterior Estimation for Cataloging Astronomical Images from the Legacy Survey of Space and Time](https://arxiv.org/abs/2510.15315v3)** | 2025-11-05 |  |
 
 ## source identification
 | **Title** | **Date** | **Comment** |
