@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - May 04, 2026
+title: Latest 15 Papers - May 06, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/waityousea/DailyArXiv/) page for a better reading experience and more papers.**
@@ -7,6 +7,8 @@ labels: documentation
 ## source localization
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[PDSL: Propagation Dynamics Aware Framework for Source Localization](https://arxiv.org/abs/2605.03550v1)** | 2026-05-05 | <details><summary>IEEE ...</summary><p>IEEE Transactions on Network Science and Engineering</p></details> |
+| **[Sound Source Localization for Spatial Mapping of Surgical Actions in Dynamic Scenes](https://arxiv.org/abs/2510.24332v3)** | 2026-05-04 |  |
 | **[Distill-Belief: Closed-Loop Inverse Source Localization and Characterization in Physical Fields](https://arxiv.org/abs/2604.26095v1)** | 2026-04-28 |  |
 | **[Scensory: Real-Time Robotic Olfactory Perception for Joint Identification and Source Localization](https://arxiv.org/abs/2509.19318v2)** | 2026-04-23 | <details><summary>Our p...</summary><p>Our project website is at: http://generalroboticslab.com/Scensory</p></details> |
 | **[ATLAS: Constitution-Conditioned Latent Geometry and Redistribution Across Language Models and Neural Perturbation Data](https://arxiv.org/abs/2604.17663v1)** | 2026-04-19 | 49 pages, 7 figures |
@@ -20,8 +22,6 @@ labels: documentation
 | **[Acoustic Imaging for UAV Detection: Dense Beamformed Energy Maps and U-Net SELD](https://arxiv.org/abs/2508.00307v3)** | 2026-03-27 |  |
 | **[Multi-Agent Reinforcement Learning for UAV-Based Chemical Plume Source Localization](https://arxiv.org/abs/2603.11582v1)** | 2026-03-12 |  |
 | **[AgentOS: From Application Silos to a Natural Language-Driven Data Ecosystem](https://arxiv.org/abs/2603.08938v2)** | 2026-03-11 |  |
-| **[Enhancing Brain Source Reconstruction by Initializing 3D Neural Networks with Physical Inverse Solutions](https://arxiv.org/abs/2411.00143v2)** | 2026-03-11 | <details><summary>Accep...</summary><p>Accepted in IEEE Transactions on Medical Imaging</p></details> |
-| **[Tracking Cancer Through Text: Longitudinal Extraction From Radiology Reports Using Open-Source Large Language Models](https://arxiv.org/abs/2603.09638v2)** | 2026-03-11 | 6 pages, 2 figures |
 
 ## source detection
 | **Title** | **Date** | **Comment** |
