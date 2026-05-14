@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - May 13, 2026
+title: Latest 15 Papers - May 14, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/waityousea/DailyArXiv/) page for a better reading experience and more papers.**
@@ -7,6 +7,9 @@ labels: documentation
 ## source localization
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Geometric Autoencoder Priors for Bayesian Inversion: Learn First Observe Later](https://arxiv.org/abs/2509.19929v4)** | 2026-05-13 |  |
+| **[Calibration-Free Gas Source Localization with Mobile Robots: Source Term Estimation Based on Concentration Measurement Ranking](https://arxiv.org/abs/2605.13208v1)** | 2026-05-13 | <details><summary>This ...</summary><p>This paper has been accepted for publication in the IEEE International Conference on Robotics and Automation (ICRA), 2026</p></details> |
+| **[Active Sensing with Meta-Reinforcement Learning for Emitter Localization from RF Observations](https://arxiv.org/abs/2605.12569v1)** | 2026-05-12 |  |
 | **[Initiation of Interaction Detection Framework using a Nonverbal Cue for Human-Robot Interaction](https://arxiv.org/abs/2605.10087v1)** | 2026-05-11 |  |
 | **[On Unbiased Parameter Estimation and Signal Reconstruction](https://arxiv.org/abs/2605.05276v1)** | 2026-05-06 | 27 pages, 9 figures |
 | **[PDSL: Propagation Dynamics Aware Framework for Source Localization](https://arxiv.org/abs/2605.03550v1)** | 2026-05-05 | <details><summary>IEEE ...</summary><p>IEEE Transactions on Network Science and Engineering</p></details> |
@@ -19,9 +22,6 @@ labels: documentation
 | **[Source Distance Estimation in Turbulent Airflow: Exploiting Molecule Degradation Diversity](https://arxiv.org/abs/2604.15032v1)** | 2026-04-16 |  |
 | **[Nonlinear dynamics of information overload: Impact on source localization in complex networks](https://arxiv.org/abs/2604.14778v1)** | 2026-04-16 |  |
 | **[Global monitoring of methane point sources using deep learning on hyperspectral radiance measurements from EMIT](https://arxiv.org/abs/2604.10094v1)** | 2026-04-11 | <details><summary>43 pa...</summary><p>43 pages, 27 figures, 4 tables</p></details> |
-| **[MLE-Toolbox: An Open-Source Toolbox for Comprehensive EEG and MEG Data Analysis](https://arxiv.org/abs/2604.16463v1)** | 2026-04-08 |  |
-| **[Generate, Analyze, and Refine: Training-Free Sound Source Localization via MLLM Meta-Reasoning](https://arxiv.org/abs/2604.06824v1)** | 2026-04-08 | <details><summary>Accep...</summary><p>Accepted to CVPR 2026</p></details> |
-| **[Acoustic Imaging for UAV Detection: Dense Beamformed Energy Maps and U-Net SELD](https://arxiv.org/abs/2508.00307v3)** | 2026-03-27 |  |
 
 ## source detection
 | **Title** | **Date** | **Comment** |
