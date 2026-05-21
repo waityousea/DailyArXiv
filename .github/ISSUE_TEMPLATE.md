@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - May 17, 2026
+title: Latest 15 Papers - May 21, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/waityousea/DailyArXiv/) page for a better reading experience and more papers.**
@@ -7,10 +7,12 @@ labels: documentation
 ## source localization
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Security Document Classification with a Fine-Tuned Local Large Language Model: Benchmark Data and an Open-Source System](https://arxiv.org/abs/2605.20368v1)** | 2026-05-19 |  |
 | **[Geometric Autoencoder Priors for Bayesian Inversion: Learn First Observe Later](https://arxiv.org/abs/2509.19929v4)** | 2026-05-13 |  |
 | **[Calibration-Free Gas Source Localization with Mobile Robots: Source Term Estimation Based on Concentration Measurement Ranking](https://arxiv.org/abs/2605.13208v1)** | 2026-05-13 | <details><summary>This ...</summary><p>This paper has been accepted for publication in the IEEE International Conference on Robotics and Automation (ICRA), 2026</p></details> |
 | **[Active Sensing with Meta-Reinforcement Learning for Emitter Localization from RF Observations](https://arxiv.org/abs/2605.12569v1)** | 2026-05-12 |  |
 | **[Initiation of Interaction Detection Framework using a Nonverbal Cue for Human-Robot Interaction](https://arxiv.org/abs/2605.10087v1)** | 2026-05-11 |  |
+| **[CheckSupport: A Local LLM-Powered Tool for Automated Manuscript Submission Checklist Selection and Completion](https://arxiv.org/abs/2605.16377v1)** | 2026-05-10 |  |
 | **[On Unbiased Parameter Estimation and Signal Reconstruction](https://arxiv.org/abs/2605.05276v1)** | 2026-05-06 | 27 pages, 9 figures |
 | **[PDSL: Propagation Dynamics Aware Framework for Source Localization](https://arxiv.org/abs/2605.03550v1)** | 2026-05-05 | <details><summary>IEEE ...</summary><p>IEEE Transactions on Network Science and Engineering</p></details> |
 | **[Sound Source Localization for Spatial Mapping of Surgical Actions in Dynamic Scenes](https://arxiv.org/abs/2510.24332v3)** | 2026-05-04 |  |
@@ -20,12 +22,11 @@ labels: documentation
 | **[Workstream: A Local-First Developer Command Center for the AI-Augmented Engineering Workflow](https://arxiv.org/abs/2604.17055v1)** | 2026-04-18 | <details><summary>6 pag...</summary><p>6 pages, 3 figures, 5 tables. Open source: https://github.com/happybhati/workstream</p></details> |
 | **[Chasing Ghosts: A Simulation-to-Real Olfactory Navigation Stack with Optional Vision Augmentation](https://arxiv.org/abs/2602.19577v2)** | 2026-04-18 |  |
 | **[Source Distance Estimation in Turbulent Airflow: Exploiting Molecule Degradation Diversity](https://arxiv.org/abs/2604.15032v1)** | 2026-04-16 |  |
-| **[Nonlinear dynamics of information overload: Impact on source localization in complex networks](https://arxiv.org/abs/2604.14778v1)** | 2026-04-16 |  |
-| **[Global monitoring of methane point sources using deep learning on hyperspectral radiance measurements from EMIT](https://arxiv.org/abs/2604.10094v1)** | 2026-04-11 | <details><summary>43 pa...</summary><p>43 pages, 27 figures, 4 tables</p></details> |
 
 ## source detection
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Identifying the Source of Information Spread in Networks via Markov Chains](https://arxiv.org/abs/2401.11330v3)** | 2026-05-19 | <details><summary>Repla...</summary><p>Replaced to fix minor typos in the text</p></details> |
 | **[An agentic framework for gravitational-wave counterpart association in the multi-messenger era](https://arxiv.org/abs/2605.10584v1)** | 2026-05-11 |  |
 | **[MUSDA: Multi-source Multi-modality Unsupervised Domain Adaptive 3D Object Detection for Autonomous Driving](https://arxiv.org/abs/2605.10026v1)** | 2026-05-11 |  |
 | **[Thermal background reduction for mid-infrared imaging by low-rank background and sparse point-source modelling](https://arxiv.org/abs/2604.22351v1)** | 2026-04-24 |  |
@@ -34,7 +35,6 @@ labels: documentation
 | **[Transfer Learning for Robust Structured Regression with Bi-level Source Detection](https://arxiv.org/abs/2604.06659v1)** | 2026-04-08 | 34 pages, 7 Figures |
 | **[Operational machine learning for remote spectroscopic detection of CH$_{4}$ point sources](https://arxiv.org/abs/2511.07719v2)** | 2026-03-24 | <details><summary>20 pa...</summary><p>20 pages, 14 figures, 10 tables. In review</p></details> |
 | **[Transfer learning for high-dimensional Factor-augmented sparse linear model](https://arxiv.org/abs/2511.12435v3)** | 2026-03-20 | 54 pages, 1 figures |
-| **[Identifying the Source of Information Spread in Networks via Markov Chains](https://arxiv.org/abs/2401.11330v2)** | 2026-02-19 |  |
 | **[StarEmbed: Benchmarking Time Series Foundation Models on Astronomical Observations of Variable Stars](https://arxiv.org/abs/2510.06200v3)** | 2026-02-18 |  |
 | **[Overview of PAN 2026: Voight-Kampff Generative AI Detection, Text Watermarking, Multi-Author Writing Style Analysis, Generative Plagiarism Detection, and Reasoning Trajectory Detection](https://arxiv.org/abs/2602.09147v1)** | 2026-02-09 |  |
 | **[CORDS: Continuous Representations of Discrete Structures](https://arxiv.org/abs/2601.21583v1)** | 2026-01-29 | <details><summary>Prepr...</summary><p>Preprint, accepted at ICLR 2026</p></details> |
