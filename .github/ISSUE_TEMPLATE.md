@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - May 25, 2026
+title: Latest 15 Papers - May 26, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/waityousea/DailyArXiv/) page for a better reading experience and more papers.**
@@ -7,6 +7,10 @@ labels: documentation
 ## source localization
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Goal-driven Bayesian Optimal Experimental Design for Robust Decision-Making Under Model Uncertainty](https://arxiv.org/abs/2605.26093v1)** | 2026-05-25 |  |
+| **[The Symmetric Location Problem: a Song of Efficiency and Robustness](https://arxiv.org/abs/2605.25870v1)** | 2026-05-25 |  |
+| **[Non-Invasive Reconstruction of Intracranial EEG Across the Deep Temporal Lobe from Scalp EEG based on Conditional Normalizing Flow](https://arxiv.org/abs/2603.03354v3)** | 2026-05-25 |  |
+| **[JAEGER: Joint 3D Audio-Visual Grounding and Reasoning in Simulated Physical Environments](https://arxiv.org/abs/2602.18527v2)** | 2026-05-24 | <details><summary>Accep...</summary><p>Accepted to ICML 2026</p></details> |
 | **[Security Document Classification with a Fine-Tuned Local Large Language Model: Benchmark Data and an Open-Source System](https://arxiv.org/abs/2605.20368v1)** | 2026-05-19 |  |
 | **[Geometric Autoencoder Priors for Bayesian Inversion: Learn First Observe Later](https://arxiv.org/abs/2509.19929v4)** | 2026-05-13 |  |
 | **[Calibration-Free Gas Source Localization with Mobile Robots: Source Term Estimation Based on Concentration Measurement Ranking](https://arxiv.org/abs/2605.13208v1)** | 2026-05-13 | <details><summary>This ...</summary><p>This paper has been accepted for publication in the IEEE International Conference on Robotics and Automation (ICRA), 2026</p></details> |
@@ -18,10 +22,6 @@ labels: documentation
 | **[Sound Source Localization for Spatial Mapping of Surgical Actions in Dynamic Scenes](https://arxiv.org/abs/2510.24332v3)** | 2026-05-04 |  |
 | **[Distill-Belief: Closed-Loop Inverse Source Localization and Characterization in Physical Fields](https://arxiv.org/abs/2604.26095v1)** | 2026-04-28 |  |
 | **[Scensory: Real-Time Robotic Olfactory Perception for Joint Identification and Source Localization](https://arxiv.org/abs/2509.19318v2)** | 2026-04-23 | <details><summary>Our p...</summary><p>Our project website is at: http://generalroboticslab.com/Scensory</p></details> |
-| **[ATLAS: Constitution-Conditioned Latent Geometry and Redistribution Across Language Models and Neural Perturbation Data](https://arxiv.org/abs/2604.17663v1)** | 2026-04-19 | 49 pages, 7 figures |
-| **[Workstream: A Local-First Developer Command Center for the AI-Augmented Engineering Workflow](https://arxiv.org/abs/2604.17055v1)** | 2026-04-18 | <details><summary>6 pag...</summary><p>6 pages, 3 figures, 5 tables. Open source: https://github.com/happybhati/workstream</p></details> |
-| **[Chasing Ghosts: A Simulation-to-Real Olfactory Navigation Stack with Optional Vision Augmentation](https://arxiv.org/abs/2602.19577v2)** | 2026-04-18 |  |
-| **[Source Distance Estimation in Turbulent Airflow: Exploiting Molecule Degradation Diversity](https://arxiv.org/abs/2604.15032v1)** | 2026-04-16 |  |
 
 ## source detection
 | **Title** | **Date** | **Comment** |
