@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - May 27, 2026
+title: Latest 15 Papers - May 28, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/waityousea/DailyArXiv/) page for a better reading experience and more papers.**
@@ -26,6 +26,7 @@ labels: documentation
 ## source detection
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Graph Neural Networks for Source Detection: A Review and Benchmark Study](https://arxiv.org/abs/2512.20657v2)** | 2026-05-27 |  |
 | **[Identifying the Source of Information Spread in Networks via Markov Chains](https://arxiv.org/abs/2401.11330v3)** | 2026-05-19 | <details><summary>Repla...</summary><p>Replaced to fix minor typos in the text</p></details> |
 | **[An agentic framework for gravitational-wave counterpart association in the multi-messenger era](https://arxiv.org/abs/2605.10584v1)** | 2026-05-11 |  |
 | **[MUSDA: Multi-source Multi-modality Unsupervised Domain Adaptive 3D Object Detection for Autonomous Driving](https://arxiv.org/abs/2605.10026v1)** | 2026-05-11 |  |
@@ -40,7 +41,6 @@ labels: documentation
 | **[CORDS: Continuous Representations of Discrete Structures](https://arxiv.org/abs/2601.21583v1)** | 2026-01-29 | <details><summary>Prepr...</summary><p>Preprint, accepted at ICLR 2026</p></details> |
 | **[Large-Scale Autonomous Gas Monitoring for Volcanic Environments: A Legged Robot on Mount Etna](https://arxiv.org/abs/2601.07362v2)** | 2026-01-29 | <details><summary>This ...</summary><p>This work has been submitted to the IEEE for possible publication. Submitted to IEEE Robotics & Automation Magazine (RAM)</p></details> |
 | **[Polarization based direction of arrival estimation using a radio interferometric array](https://arxiv.org/abs/2510.15116v2)** | 2025-12-20 | <details><summary>Accep...</summary><p>Accepted; Astronomy and Computing</p></details> |
-| **[Graph Neural Networks for Source Detection: A Review and Benchmark Study](https://arxiv.org/abs/2512.20657v1)** | 2025-12-18 |  |
 
 ## source identification
 | **Title** | **Date** | **Comment** |
