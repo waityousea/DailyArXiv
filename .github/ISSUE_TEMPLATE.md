@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - June 01, 2026
+title: Latest 15 Papers - June 02, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/waityousea/DailyArXiv/) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## source localization
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Systematic Evaluation of Time-Frequency Features for Binaural Sound Source Localization](https://arxiv.org/abs/2511.13487v3)** | 2026-05-30 | <details><summary>Accep...</summary><p>Accepted at EUSIPCO 2026</p></details> |
 | **[JAEGER: Joint 3D Audio-Visual Grounding and Reasoning in Simulated Physical Environments](https://arxiv.org/abs/2602.18527v3)** | 2026-05-28 | <details><summary>Accep...</summary><p>Accepted to ICML 2026</p></details> |
 | **[EMAG: Differentiable 4D Gaussian Mixture Splatting for EEG Spatial Super-Resolution](https://arxiv.org/abs/2605.29731v1)** | 2026-05-28 |  |
 | **[Scensory: Real-Time Robotic Olfactory Perception for Joint Identification and Source Localization](https://arxiv.org/abs/2509.19318v3)** | 2026-05-28 | <details><summary>Our p...</summary><p>Our project website is at: http://generalroboticslab.com/Scensory</p></details> |
@@ -21,7 +22,6 @@ labels: documentation
 | **[CheckSupport: A Local LLM-Powered Tool for Automated Manuscript Submission Checklist Selection and Completion](https://arxiv.org/abs/2605.16377v1)** | 2026-05-10 |  |
 | **[On Unbiased Parameter Estimation and Signal Reconstruction](https://arxiv.org/abs/2605.05276v1)** | 2026-05-06 | 27 pages, 9 figures |
 | **[PDSL: Propagation Dynamics Aware Framework for Source Localization](https://arxiv.org/abs/2605.03550v1)** | 2026-05-05 | <details><summary>IEEE ...</summary><p>IEEE Transactions on Network Science and Engineering</p></details> |
-| **[Sound Source Localization for Spatial Mapping of Surgical Actions in Dynamic Scenes](https://arxiv.org/abs/2510.24332v3)** | 2026-05-04 |  |
 
 ## source detection
 | **Title** | **Date** | **Comment** |
