@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - June 04, 2026
+title: Latest 15 Papers - June 06, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/waityousea/DailyArXiv/) page for a better reading experience and more papers.**
@@ -45,6 +45,7 @@ labels: documentation
 ## source identification
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Environment-Robust Representation Learning with Empirical Bayes](https://arxiv.org/abs/2606.05365v1)** | 2026-06-03 |  |
 | **[One Good Source is All You Need: Near-Optimal Regret for Bandits under Heterogeneous Noise](https://arxiv.org/abs/2602.14474v2)** | 2026-05-01 |  |
 | **[LLM-based Schema-Guided Extraction and Validation of Missing-Person Intelligence from Heterogeneous Data Sources](https://arxiv.org/abs/2604.06571v1)** | 2026-04-08 | <details><summary>9 pag...</summary><p>9 pages, 6 figures. Accepted at International Conference on Intelligent Digitization of Systems and Services (IDSS 2026)</p></details> |
 | **[Disentangled Deep Priors for Bayesian Inverse Problems](https://arxiv.org/abs/2604.02304v1)** | 2026-04-02 |  |
@@ -59,7 +60,6 @@ labels: documentation
 | **[An Unsupervised Deep Explainable AI Framework for Localization of Concurrent Replay Attacks in Nuclear Reactor Signals](https://arxiv.org/abs/2508.09162v4)** | 2025-12-19 | <details><summary>Added...</summary><p>Added references, corrected typos, grammar check, authors updated</p></details> |
 | **[Conditionally adaptive augmented Lagrangian method for physics-informed learning of forward and inverse problems](https://arxiv.org/abs/2508.15695v2)** | 2025-12-07 | 37 pages, 22 figures |
 | **[Online Non-convex Optimization with Long-term Non-convex Constraints](https://arxiv.org/abs/2311.02426v4)** | 2025-10-01 |  |
-| **[OmniDFA: A Unified Framework for Open Set Synthesis Image Detection and Few-Shot Attribution](https://arxiv.org/abs/2509.25682v1)** | 2025-09-30 | 19 pages, 5 figures |
 
 ## diffusion source
 | **Title** | **Date** | **Comment** |
