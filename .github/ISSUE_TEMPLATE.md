@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - June 10, 2026
+title: Latest 15 Papers - June 11, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/waityousea/DailyArXiv/) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## source localization
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[PROJECTMEM: A Local-First, Event-Sourced Memory and Judgment Layer for AI Coding Agents](https://arxiv.org/abs/2606.12329v1)** | 2026-06-10 | <details><summary>12 pa...</summary><p>12 pages, 5 figures, 1 table. Code: https://github.com/riponcm/projectmem</p></details> |
 | **[Audio-Visual World Models: Grounding Multisensory Imagination for Embodied Agents](https://arxiv.org/abs/2512.00883v3)** | 2026-06-05 |  |
 | **[Systematic Evaluation of Time-Frequency Features for Binaural Sound Source Localization](https://arxiv.org/abs/2511.13487v3)** | 2026-05-30 | <details><summary>Accep...</summary><p>Accepted at EUSIPCO 2026</p></details> |
 | **[JAEGER: Joint 3D Audio-Visual Grounding and Reasoning in Simulated Physical Environments](https://arxiv.org/abs/2602.18527v3)** | 2026-05-28 | <details><summary>Accep...</summary><p>Accepted to ICML 2026</p></details> |
@@ -21,7 +22,6 @@ labels: documentation
 | **[Active Sensing with Meta-Reinforcement Learning for Emitter Localization from RF Observations](https://arxiv.org/abs/2605.12569v1)** | 2026-05-12 |  |
 | **[Initiation of Interaction Detection Framework using a Nonverbal Cue for Human-Robot Interaction](https://arxiv.org/abs/2605.10087v1)** | 2026-05-11 |  |
 | **[CheckSupport: A Local LLM-Powered Tool for Automated Manuscript Submission Checklist Selection and Completion](https://arxiv.org/abs/2605.16377v1)** | 2026-05-10 |  |
-| **[On Unbiased Parameter Estimation and Signal Reconstruction](https://arxiv.org/abs/2605.05276v1)** | 2026-05-06 | 27 pages, 9 figures |
 
 ## source detection
 | **Title** | **Date** | **Comment** |
