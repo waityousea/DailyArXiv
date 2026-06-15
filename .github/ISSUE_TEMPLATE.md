@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - June 14, 2026
+title: Latest 15 Papers - June 15, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/waityousea/DailyArXiv/) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## source localization
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Leveraging Sound Source Trajectories for Universal Sound Separation](https://arxiv.org/abs/2409.04843v3)** | 2026-06-12 | <details><summary>Publi...</summary><p>Published in IEEE Transactions on Audio, Speech and Language Processing(TASLP)</p></details> |
 | **[PROJECTMEM: A Local-First, Event-Sourced Memory and Judgment Layer for AI Coding Agents](https://arxiv.org/abs/2606.12329v1)** | 2026-06-10 | <details><summary>12 pa...</summary><p>12 pages, 5 figures, 1 table. Code: https://github.com/riponcm/projectmem</p></details> |
 | **[Audio-Visual World Models: Grounding Multisensory Imagination for Embodied Agents](https://arxiv.org/abs/2512.00883v3)** | 2026-06-05 |  |
 | **[Systematic Evaluation of Time-Frequency Features for Binaural Sound Source Localization](https://arxiv.org/abs/2511.13487v3)** | 2026-05-30 | <details><summary>Accep...</summary><p>Accepted at EUSIPCO 2026</p></details> |
@@ -21,7 +22,6 @@ labels: documentation
 | **[Calibration-Free Gas Source Localization with Mobile Robots: Source Term Estimation Based on Concentration Measurement Ranking](https://arxiv.org/abs/2605.13208v1)** | 2026-05-13 | <details><summary>This ...</summary><p>This paper has been accepted for publication in the IEEE International Conference on Robotics and Automation (ICRA), 2026</p></details> |
 | **[Active Sensing with Meta-Reinforcement Learning for Emitter Localization from RF Observations](https://arxiv.org/abs/2605.12569v1)** | 2026-05-12 |  |
 | **[Initiation of Interaction Detection Framework using a Nonverbal Cue for Human-Robot Interaction](https://arxiv.org/abs/2605.10087v1)** | 2026-05-11 |  |
-| **[CheckSupport: A Local LLM-Powered Tool for Automated Manuscript Submission Checklist Selection and Completion](https://arxiv.org/abs/2605.16377v1)** | 2026-05-10 |  |
 
 ## source detection
 | **Title** | **Date** | **Comment** |
