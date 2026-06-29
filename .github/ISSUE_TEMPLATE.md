@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - June 28, 2026
+title: Latest 15 Papers - June 29, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/waityousea/DailyArXiv/) page for a better reading experience and more papers.**
@@ -7,6 +7,8 @@ labels: documentation
 ## source localization
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[From General-Purpose Audio Tagging to Spatially Grounded Sound Event Localization and Detection](https://arxiv.org/abs/2606.27751v1)** | 2026-06-26 | <details><summary>Techn...</summary><p>Technical Report (KU Leuven - UnivAQ)</p></details> |
+| **[Physics-Guided Robotic Radiation Source Localization along Arbitrary Measurement Paths in Unstructured Environments](https://arxiv.org/abs/2606.27624v1)** | 2026-06-26 | <details><summary>18 pa...</summary><p>18 pages, 14 figures, 2 tables</p></details> |
 | **[AI-Empowered UAV-Assisted Backscatter Localization and ISAC for Zero-Energy IoT: A Comprehensive Survey](https://arxiv.org/abs/2606.23125v1)** | 2026-06-22 | <details><summary>33 pa...</summary><p>33 pages, 19 figures, 7 tables. Submitted to Elsevier for Possible Publication</p></details> |
 | **[NeuralMUSIC: A Hybrid Neural-Subspace Framework for Robot Sound Source Localization](https://arxiv.org/abs/2606.18664v1)** | 2026-06-17 |  |
 | **[A Primer on Evolutionary Optimization Frameworks for Near-Field Multi-Source Localization](https://arxiv.org/abs/2603.07676v2)** | 2026-06-13 | <details><summary>This ...</summary><p>This work has been submitted to the IEEE for possible publication</p></details> |
@@ -20,8 +22,6 @@ labels: documentation
 | **[Goal-driven Bayesian Optimal Experimental Design for Robust Decision-Making Under Model Uncertainty](https://arxiv.org/abs/2605.26093v1)** | 2026-05-25 |  |
 | **[The Symmetric Location Problem: a Song of Efficiency and Robustness](https://arxiv.org/abs/2605.25870v1)** | 2026-05-25 |  |
 | **[Non-Invasive Reconstruction of Intracranial EEG Across the Deep Temporal Lobe from Scalp EEG based on Conditional Normalizing Flow](https://arxiv.org/abs/2603.03354v3)** | 2026-05-25 |  |
-| **[Security Document Classification with a Fine-Tuned Local Large Language Model: Benchmark Data and an Open-Source System](https://arxiv.org/abs/2605.20368v1)** | 2026-05-19 |  |
-| **[Geometric Autoencoder Priors for Bayesian Inversion: Learn First Observe Later](https://arxiv.org/abs/2509.19929v4)** | 2026-05-13 |  |
 
 ## source detection
 | **Title** | **Date** | **Comment** |
