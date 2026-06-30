@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - June 29, 2026
+title: Latest 15 Papers - June 30, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/waityousea/DailyArXiv/) page for a better reading experience and more papers.**
@@ -7,10 +7,10 @@ labels: documentation
 ## source localization
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[NeuralMUSIC: A Hybrid Neural-Subspace Framework for Robot Sound Source Localization](https://arxiv.org/abs/2606.18664v2)** | 2026-06-27 | <details><summary>Accep...</summary><p>Accepted by IROS 2026</p></details> |
 | **[From General-Purpose Audio Tagging to Spatially Grounded Sound Event Localization and Detection](https://arxiv.org/abs/2606.27751v1)** | 2026-06-26 | <details><summary>Techn...</summary><p>Technical Report (KU Leuven - UnivAQ)</p></details> |
 | **[Physics-Guided Robotic Radiation Source Localization along Arbitrary Measurement Paths in Unstructured Environments](https://arxiv.org/abs/2606.27624v1)** | 2026-06-26 | <details><summary>18 pa...</summary><p>18 pages, 14 figures, 2 tables</p></details> |
 | **[AI-Empowered UAV-Assisted Backscatter Localization and ISAC for Zero-Energy IoT: A Comprehensive Survey](https://arxiv.org/abs/2606.23125v1)** | 2026-06-22 | <details><summary>33 pa...</summary><p>33 pages, 19 figures, 7 tables. Submitted to Elsevier for Possible Publication</p></details> |
-| **[NeuralMUSIC: A Hybrid Neural-Subspace Framework for Robot Sound Source Localization](https://arxiv.org/abs/2606.18664v1)** | 2026-06-17 |  |
 | **[A Primer on Evolutionary Optimization Frameworks for Near-Field Multi-Source Localization](https://arxiv.org/abs/2603.07676v2)** | 2026-06-13 | <details><summary>This ...</summary><p>This work has been submitted to the IEEE for possible publication</p></details> |
 | **[Leveraging Sound Source Trajectories for Universal Sound Separation](https://arxiv.org/abs/2409.04843v3)** | 2026-06-12 | <details><summary>Publi...</summary><p>Published in IEEE Transactions on Audio, Speech and Language Processing(TASLP)</p></details> |
 | **[PROJECTMEM: A Local-First, Event-Sourced Memory and Judgment Layer for AI Coding Agents](https://arxiv.org/abs/2606.12329v1)** | 2026-06-10 | <details><summary>12 pa...</summary><p>12 pages, 5 figures, 1 table. Code: https://github.com/riponcm/projectmem</p></details> |
@@ -26,6 +26,7 @@ labels: documentation
 ## source detection
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Underwater Source Detection and Classification for Signal-based Surveillance: Audio Dataset Curation and Cross-Domain Evaluation](https://arxiv.org/abs/2606.28988v1)** | 2026-06-27 | <details><summary>6 pag...</summary><p>6 pages, 4 figures. Accepted to the 2026 International Conference on Advanced Visual and Signal-Based Systems (AVSS) - Lecce, Italy</p></details> |
 | **[A Hybrid Intrusion Detection System for Electric Vehicle Charging Infrastructure](https://arxiv.org/abs/2606.23236v1)** | 2026-06-22 | <details><summary>This ...</summary><p>This work has been submitted to the IEEE for possible publication</p></details> |
 | **[The Chandra-Gaia Catalog of Counterparts: Resolving ambiguous Gaia matches to X-ray sources in the Chandra Source Catalog using Machine Learning](https://arxiv.org/abs/2606.19329v1)** | 2026-06-17 | <details><summary>Accep...</summary><p>Accepted to The Astrophysical Journal. Website: https://www.samuelperezdi.com/chandragaia/</p></details> |
 | **[Optimal Stopping for Sequential Bayesian Experimental Design](https://arxiv.org/abs/2509.21734v3)** | 2026-06-13 |  |
@@ -40,7 +41,6 @@ labels: documentation
 | **[Transfer Learning for Robust Structured Regression with Bi-level Source Detection](https://arxiv.org/abs/2604.06659v1)** | 2026-04-08 | 34 pages, 7 Figures |
 | **[Operational machine learning for remote spectroscopic detection of CH$_{4}$ point sources](https://arxiv.org/abs/2511.07719v2)** | 2026-03-24 | <details><summary>20 pa...</summary><p>20 pages, 14 figures, 10 tables. In review</p></details> |
 | **[Transfer learning for high-dimensional Factor-augmented sparse linear model](https://arxiv.org/abs/2511.12435v3)** | 2026-03-20 | 54 pages, 1 figures |
-| **[StarEmbed: Benchmarking Time Series Foundation Models on Astronomical Observations of Variable Stars](https://arxiv.org/abs/2510.06200v3)** | 2026-02-18 |  |
 
 ## source identification
 | **Title** | **Date** | **Comment** |
