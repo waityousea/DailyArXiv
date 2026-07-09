@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - July 08, 2026
+title: Latest 15 Papers - July 09, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/waityousea/DailyArXiv/) page for a better reading experience and more papers.**
@@ -7,11 +7,11 @@ labels: documentation
 ## source localization
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[NeuralMUSIC: A Hybrid Neural-Subspace Framework for Robot Sound Source Localization](https://arxiv.org/abs/2606.18664v3)** | 2026-07-08 | <details><summary>Accep...</summary><p>Accepted by IROS 2026</p></details> |
 | **[ForestIR: Physics-Informed Forest Sound Simulation for Array-Based Bioacoustic Remote Sensing](https://arxiv.org/abs/2607.06299v1)** | 2026-07-07 |  |
 | **[Pluralis v0.1: Towards a Multicultural, Multimodal, Multilingual Benchmark for AI Risk and Reliability](https://arxiv.org/abs/2607.06196v1)** | 2026-07-07 |  |
 | **[Active Sensing with Meta-Reinforcement Learning for Emitter Localization from RF Observations](https://arxiv.org/abs/2605.12569v2)** | 2026-07-03 | 6 pages, 9 figures |
 | **[SelectTSL: Prompt-Guided Selective Target Sound Localization in Complex Scenarios](https://arxiv.org/abs/2607.02343v1)** | 2026-07-02 |  |
-| **[NeuralMUSIC: A Hybrid Neural-Subspace Framework for Robot Sound Source Localization](https://arxiv.org/abs/2606.18664v2)** | 2026-06-27 | <details><summary>Accep...</summary><p>Accepted by IROS 2026</p></details> |
 | **[From General-Purpose Audio Tagging to Spatially Grounded Sound Event Localization and Detection](https://arxiv.org/abs/2606.27751v1)** | 2026-06-26 | <details><summary>Techn...</summary><p>Technical Report (KU Leuven - UnivAQ)</p></details> |
 | **[Physics-Guided Robotic Radiation Source Localization along Arbitrary Measurement Paths in Unstructured Environments](https://arxiv.org/abs/2606.27624v1)** | 2026-06-26 | <details><summary>18 pa...</summary><p>18 pages, 14 figures, 2 tables</p></details> |
 | **[AI-Empowered UAV-Assisted Backscatter Localization and ISAC for Zero-Energy IoT: A Comprehensive Survey](https://arxiv.org/abs/2606.23125v1)** | 2026-06-22 | <details><summary>33 pa...</summary><p>33 pages, 19 figures, 7 tables. Submitted to Elsevier for Possible Publication</p></details> |
@@ -26,6 +26,7 @@ labels: documentation
 ## source detection
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Enforcing Speech Content Privacy in Environmental Sound Recordings using Segment-wise Waveform Reversal](https://arxiv.org/abs/2507.08412v2)** | 2026-07-08 |  |
 | **[Underwater Source Detection and Classification for Signal-based Surveillance: Audio Dataset Curation and Cross-Domain Evaluation](https://arxiv.org/abs/2606.28988v2)** | 2026-07-07 | <details><summary>6 pag...</summary><p>6 pages, 4 figures. Accepted to the 2026 International Conference on Advanced Visual and Signal-Based Systems (AVSS) - Lecce, Italy</p></details> |
 | **[A Hybrid Intrusion Detection System for Electric Vehicle Charging Infrastructure](https://arxiv.org/abs/2606.23236v1)** | 2026-06-22 | <details><summary>This ...</summary><p>This work has been submitted to the IEEE for possible publication</p></details> |
 | **[The Chandra-Gaia Catalog of Counterparts: Resolving ambiguous Gaia matches to X-ray sources in the Chandra Source Catalog using Machine Learning](https://arxiv.org/abs/2606.19329v1)** | 2026-06-17 | <details><summary>Accep...</summary><p>Accepted to The Astrophysical Journal. Website: https://www.samuelperezdi.com/chandragaia/</p></details> |
@@ -40,7 +41,6 @@ labels: documentation
 | **[Two-Stage Framework for Efficient UAV-Based Wildfire Video Analysis with Adaptive Compression and Fire Source Detection](https://arxiv.org/abs/2508.16739v2)** | 2026-04-17 | <details><summary>IEEE ...</summary><p>IEEE JSTARS; Extended Journal Version of IROS 2024</p></details> |
 | **[Transfer Learning for Robust Structured Regression with Bi-level Source Detection](https://arxiv.org/abs/2604.06659v1)** | 2026-04-08 | 34 pages, 7 Figures |
 | **[Operational machine learning for remote spectroscopic detection of CH$_{4}$ point sources](https://arxiv.org/abs/2511.07719v2)** | 2026-03-24 | <details><summary>20 pa...</summary><p>20 pages, 14 figures, 10 tables. In review</p></details> |
-| **[Transfer learning for high-dimensional Factor-augmented sparse linear model](https://arxiv.org/abs/2511.12435v3)** | 2026-03-20 | 54 pages, 1 figures |
 
 ## source identification
 | **Title** | **Date** | **Comment** |
