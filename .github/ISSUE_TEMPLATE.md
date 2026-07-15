@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - July 14, 2026
+title: Latest 15 Papers - July 15, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/waityousea/DailyArXiv/) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## source localization
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[From Preimage Search To Source-Grounded Feature Inversion](https://arxiv.org/abs/2607.12526v1)** | 2026-07-14 |  |
 | **[NeuralMUSIC: A Hybrid Neural-Subspace Framework for Robot Sound Source Localization](https://arxiv.org/abs/2606.18664v3)** | 2026-07-08 | <details><summary>Accep...</summary><p>Accepted by IROS 2026</p></details> |
 | **[ForestIR: Physics-Informed Forest Sound Simulation for Array-Based Bioacoustic Remote Sensing](https://arxiv.org/abs/2607.06299v1)** | 2026-07-07 |  |
 | **[Pluralis v0.1: Towards a Multicultural, Multimodal, Multilingual Benchmark for AI Risk and Reliability](https://arxiv.org/abs/2607.06196v1)** | 2026-07-07 |  |
@@ -21,7 +22,6 @@ labels: documentation
 | **[The Hidden Water Geography of U.S. Hyperscale Data Centers in the AI Era](https://arxiv.org/abs/2607.02531v1)** | 2026-06-05 |  |
 | **[Audio-Visual World Models: Grounding Multisensory Imagination for Embodied Agents](https://arxiv.org/abs/2512.00883v3)** | 2026-06-05 |  |
 | **[Systematic Evaluation of Time-Frequency Features for Binaural Sound Source Localization](https://arxiv.org/abs/2511.13487v3)** | 2026-05-30 | <details><summary>Accep...</summary><p>Accepted at EUSIPCO 2026</p></details> |
-| **[JAEGER: Joint 3D Audio-Visual Grounding and Reasoning in Simulated Physical Environments](https://arxiv.org/abs/2602.18527v3)** | 2026-05-28 | <details><summary>Accep...</summary><p>Accepted to ICML 2026</p></details> |
 
 ## source detection
 | **Title** | **Date** | **Comment** |
