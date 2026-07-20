@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - July 19, 2026
+title: Latest 15 Papers - July 20, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/waityousea/DailyArXiv/) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## source localization
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Acoustic Imaging for UAV Detection: Dense Beamformed Energy Maps and U-Net SELD](https://arxiv.org/abs/2508.00307v4)** | 2026-07-17 |  |
 | **[From Preimage Search To Source-Grounded Feature Inversion](https://arxiv.org/abs/2607.12526v1)** | 2026-07-14 |  |
 | **[NeuralMUSIC: A Hybrid Neural-Subspace Framework for Robot Sound Source Localization](https://arxiv.org/abs/2606.18664v3)** | 2026-07-08 | <details><summary>Accep...</summary><p>Accepted by IROS 2026</p></details> |
 | **[ForestIR: Physics-Informed Forest Sound Simulation for Array-Based Bioacoustic Remote Sensing](https://arxiv.org/abs/2607.06299v1)** | 2026-07-07 |  |
@@ -21,7 +22,6 @@ labels: documentation
 | **[PROJECTMEM: A Local-First, Event-Sourced Memory and Judgment Layer for AI Coding Agents](https://arxiv.org/abs/2606.12329v1)** | 2026-06-10 | <details><summary>12 pa...</summary><p>12 pages, 5 figures, 1 table. Code: https://github.com/riponcm/projectmem</p></details> |
 | **[The Hidden Water Geography of U.S. Hyperscale Data Centers in the AI Era](https://arxiv.org/abs/2607.02531v1)** | 2026-06-05 |  |
 | **[Audio-Visual World Models: Grounding Multisensory Imagination for Embodied Agents](https://arxiv.org/abs/2512.00883v3)** | 2026-06-05 |  |
-| **[Systematic Evaluation of Time-Frequency Features for Binaural Sound Source Localization](https://arxiv.org/abs/2511.13487v3)** | 2026-05-30 | <details><summary>Accep...</summary><p>Accepted at EUSIPCO 2026</p></details> |
 
 ## source detection
 | **Title** | **Date** | **Comment** |
