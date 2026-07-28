@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - July 26, 2026
+title: Latest 15 Papers - July 28, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/waityousea/DailyArXiv/) page for a better reading experience and more papers.**
@@ -7,7 +7,9 @@ labels: documentation
 ## source localization
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Cyber Attacks Detection, Prevention, and Source Localization in Digital Substation Communication using Hybrid Statistical-Deep Learning](https://arxiv.org/abs/2507.00522v3)** | 2026-07-27 | <details><summary>15 pa...</summary><p>15 pages, 9 figures. This work has been submitted to the IEEE for possible publication</p></details> |
 | **[HiMe: Real-Time Self-Hosted Personal Agent Platform for Health Insights with Wearable Devices](https://arxiv.org/abs/2607.21019v1)** | 2026-07-23 |  |
+| **[Computer Vision Based Neurology Brain Activity Rejection Architecture and Implementation](https://arxiv.org/abs/2607.21654v1)** | 2026-07-22 | <details><summary>7 pag...</summary><p>7 pages, 10 figures, Conference</p></details> |
 | **[Distributed Acoustic Localization Array Deployed Using a Soft Everting Vine Robot](https://arxiv.org/abs/2607.20392v1)** | 2026-07-22 | <details><summary>Sebas...</summary><p>Sebastian Lorca Godoy, Ciera McFarland, Michael Val, Antonio Alvarez Valdivia, Nathaniel Hanson, and Margaret McGuinness, "Distributed Acoustic Localization Array Deployed Using a Soft Everting Vine Robot", in IEEE International Conference on Intelligent Robots and Systems, 2026</p></details> |
 | **[Development of an automated, reliable, and clinically meaningful artificial intelligence (AI) tool for diagnosing cardiac disease from conventional cardiovascular magnetic resonance (CMR) images](https://arxiv.org/abs/2607.20087v1)** | 2026-07-22 |  |
 | **[Portable models as a replacement for industrial heuristics in compiler optimizations](https://arxiv.org/abs/2607.17389v1)** | 2026-07-19 | <details><summary>9 pag...</summary><p>9 pages, 13 figures, 5 tables, 28 references</p></details> |
@@ -20,15 +22,15 @@ labels: documentation
 | **[SelectTSL: Prompt-Guided Selective Target Sound Localization in Complex Scenarios](https://arxiv.org/abs/2607.02343v1)** | 2026-07-02 |  |
 | **[From General-Purpose Audio Tagging to Spatially Grounded Sound Event Localization and Detection](https://arxiv.org/abs/2606.27751v1)** | 2026-06-26 | <details><summary>Techn...</summary><p>Technical Report (KU Leuven - UnivAQ)</p></details> |
 | **[Physics-Guided Robotic Radiation Source Localization along Arbitrary Measurement Paths in Unstructured Environments](https://arxiv.org/abs/2606.27624v1)** | 2026-06-26 | <details><summary>18 pa...</summary><p>18 pages, 14 figures, 2 tables</p></details> |
-| **[AI-Empowered UAV-Assisted Backscatter Localization and ISAC for Zero-Energy IoT: A Comprehensive Survey](https://arxiv.org/abs/2606.23125v1)** | 2026-06-22 | <details><summary>33 pa...</summary><p>33 pages, 19 figures, 7 tables. Submitted to Elsevier for Possible Publication</p></details> |
-| **[A Primer on Evolutionary Optimization Frameworks for Near-Field Multi-Source Localization](https://arxiv.org/abs/2603.07676v2)** | 2026-06-13 | <details><summary>This ...</summary><p>This work has been submitted to the IEEE for possible publication</p></details> |
 
 ## source detection
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Systematic Experiment Tracking in Quantum Software: A Case Study of Reservoir Computing with Error Mitigation](https://arxiv.org/abs/2607.24264v1)** | 2026-07-27 | <details><summary>12 pa...</summary><p>12 pages, 7 figures, 5 tables, presented at QCE26</p></details> |
 | **[Visualizing Privacy-Relevant Data Flows in Android Applications](https://arxiv.org/abs/2503.16640v2)** | 2026-07-22 |  |
 | **[A Hybrid Intrusion Detection System for Electric Vehicle Charging Infrastructure](https://arxiv.org/abs/2606.23236v2)** | 2026-07-22 | <details><summary>This ...</summary><p>This work has been submitted to the IEEE for possible publication</p></details> |
 | **[Information Source Detection with Limited Time Knowledge](https://arxiv.org/abs/1905.12913v2)** | 2026-07-19 | <details><summary>The c...</summary><p>The content of this manuscript has been integrated into another more comprehensive research work. We withdraw this preliminary version to avoid redundant publications. All authors consent to this withdrawal</p></details> |
+| **[Detecting Hallucinated and Suspicious Citations: What Current Tools Can and Cannot Do](https://arxiv.org/abs/2607.22693v1)** | 2026-07-17 | 6 pages, 4 tables |
 | **[Enforcing Speech Content Privacy in Environmental Sound Recordings using Segment-wise Waveform Reversal](https://arxiv.org/abs/2507.08412v2)** | 2026-07-08 |  |
 | **[Underwater Source Detection and Classification for Signal-based Surveillance: Audio Dataset Curation and Cross-Domain Evaluation](https://arxiv.org/abs/2606.28988v2)** | 2026-07-07 | <details><summary>6 pag...</summary><p>6 pages, 4 figures. Accepted to the 2026 International Conference on Advanced Visual and Signal-Based Systems (AVSS) - Lecce, Italy</p></details> |
 | **[The Chandra-Gaia Catalog of Counterparts: Resolving ambiguous Gaia matches to X-ray sources in the Chandra Source Catalog using Machine Learning](https://arxiv.org/abs/2606.19329v1)** | 2026-06-17 | <details><summary>Accep...</summary><p>Accepted to The Astrophysical Journal. Website: https://www.samuelperezdi.com/chandragaia/</p></details> |
@@ -39,8 +41,6 @@ labels: documentation
 | **[An agentic framework for gravitational-wave counterpart association in the multi-messenger era](https://arxiv.org/abs/2605.10584v1)** | 2026-05-11 |  |
 | **[MUSDA: Multi-source Multi-modality Unsupervised Domain Adaptive 3D Object Detection for Autonomous Driving](https://arxiv.org/abs/2605.10026v1)** | 2026-05-11 |  |
 | **[Thermal background reduction for mid-infrared imaging by low-rank background and sparse point-source modelling](https://arxiv.org/abs/2604.22351v1)** | 2026-04-24 |  |
-| **[AstroSURE: Learning to Remove Noise from Astronomical Images Without Ground Truth Data](https://arxiv.org/abs/2604.16793v1)** | 2026-04-18 |  |
-| **[Two-Stage Framework for Efficient UAV-Based Wildfire Video Analysis with Adaptive Compression and Fire Source Detection](https://arxiv.org/abs/2508.16739v2)** | 2026-04-17 | <details><summary>IEEE ...</summary><p>IEEE JSTARS; Extended Journal Version of IROS 2024</p></details> |
 
 ## source identification
 | **Title** | **Date** | **Comment** |
