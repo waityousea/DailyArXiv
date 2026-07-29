@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - July 28, 2026
+title: Latest 15 Papers - July 29, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/waityousea/DailyArXiv/) page for a better reading experience and more papers.**
@@ -7,6 +7,9 @@ labels: documentation
 ## source localization
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[S2A2: Audio-Visual Imitation Learning for Manipulation Tasks Using Acoustic Spatial Information](https://arxiv.org/abs/2607.26047v1)** | 2026-07-28 | <details><summary>Proje...</summary><p>Project page: https://azuma413.github.io/projects/s2a2</p></details> |
+| **[Spacing Out: On the Reliability of Binaural Music Source Separation Metrics](https://arxiv.org/abs/2607.25919v1)** | 2026-07-28 | <details><summary>6 pag...</summary><p>6 pages + references, 6 figures, 1 table, 27th International Society for Music Information Retrieval (ISMIR) Conference</p></details> |
+| **[Comparing RAG and GraphRAG for Page-Level Retrieval Question Answering on a Math Textbook](https://arxiv.org/abs/2509.16780v3)** | 2026-07-28 | 6 pages, 1 figure |
 | **[Cyber Attacks Detection, Prevention, and Source Localization in Digital Substation Communication using Hybrid Statistical-Deep Learning](https://arxiv.org/abs/2507.00522v3)** | 2026-07-27 | <details><summary>15 pa...</summary><p>15 pages, 9 figures. This work has been submitted to the IEEE for possible publication</p></details> |
 | **[HiMe: Real-Time Self-Hosted Personal Agent Platform for Health Insights with Wearable Devices](https://arxiv.org/abs/2607.21019v1)** | 2026-07-23 |  |
 | **[Computer Vision Based Neurology Brain Activity Rejection Architecture and Implementation](https://arxiv.org/abs/2607.21654v1)** | 2026-07-22 | <details><summary>7 pag...</summary><p>7 pages, 10 figures, Conference</p></details> |
@@ -19,18 +22,15 @@ labels: documentation
 | **[ForestIR: Physics-Informed Forest Sound Simulation for Array-Based Bioacoustic Remote Sensing](https://arxiv.org/abs/2607.06299v1)** | 2026-07-07 |  |
 | **[Pluralis v0.1: Towards a Multicultural, Multimodal, Multilingual Benchmark for AI Risk and Reliability](https://arxiv.org/abs/2607.06196v1)** | 2026-07-07 |  |
 | **[Active Sensing with Meta-Reinforcement Learning for Emitter Localization from RF Observations](https://arxiv.org/abs/2605.12569v2)** | 2026-07-03 | 6 pages, 9 figures |
-| **[SelectTSL: Prompt-Guided Selective Target Sound Localization in Complex Scenarios](https://arxiv.org/abs/2607.02343v1)** | 2026-07-02 |  |
-| **[From General-Purpose Audio Tagging to Spatially Grounded Sound Event Localization and Detection](https://arxiv.org/abs/2606.27751v1)** | 2026-06-26 | <details><summary>Techn...</summary><p>Technical Report (KU Leuven - UnivAQ)</p></details> |
-| **[Physics-Guided Robotic Radiation Source Localization along Arbitrary Measurement Paths in Unstructured Environments](https://arxiv.org/abs/2606.27624v1)** | 2026-06-26 | <details><summary>18 pa...</summary><p>18 pages, 14 figures, 2 tables</p></details> |
 
 ## source detection
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Detecting Hallucinated and Suspicious Citations: What Current Tools Can and Cannot Do](https://arxiv.org/abs/2607.22693v2)** | 2026-07-28 | 6 pages, 4 tables |
 | **[Systematic Experiment Tracking in Quantum Software: A Case Study of Reservoir Computing with Error Mitigation](https://arxiv.org/abs/2607.24264v1)** | 2026-07-27 | <details><summary>12 pa...</summary><p>12 pages, 7 figures, 5 tables, presented at QCE26</p></details> |
 | **[Visualizing Privacy-Relevant Data Flows in Android Applications](https://arxiv.org/abs/2503.16640v2)** | 2026-07-22 |  |
 | **[A Hybrid Intrusion Detection System for Electric Vehicle Charging Infrastructure](https://arxiv.org/abs/2606.23236v2)** | 2026-07-22 | <details><summary>This ...</summary><p>This work has been submitted to the IEEE for possible publication</p></details> |
 | **[Information Source Detection with Limited Time Knowledge](https://arxiv.org/abs/1905.12913v2)** | 2026-07-19 | <details><summary>The c...</summary><p>The content of this manuscript has been integrated into another more comprehensive research work. We withdraw this preliminary version to avoid redundant publications. All authors consent to this withdrawal</p></details> |
-| **[Detecting Hallucinated and Suspicious Citations: What Current Tools Can and Cannot Do](https://arxiv.org/abs/2607.22693v1)** | 2026-07-17 | 6 pages, 4 tables |
 | **[Enforcing Speech Content Privacy in Environmental Sound Recordings using Segment-wise Waveform Reversal](https://arxiv.org/abs/2507.08412v2)** | 2026-07-08 |  |
 | **[Underwater Source Detection and Classification for Signal-based Surveillance: Audio Dataset Curation and Cross-Domain Evaluation](https://arxiv.org/abs/2606.28988v2)** | 2026-07-07 | <details><summary>6 pag...</summary><p>6 pages, 4 figures. Accepted to the 2026 International Conference on Advanced Visual and Signal-Based Systems (AVSS) - Lecce, Italy</p></details> |
 | **[The Chandra-Gaia Catalog of Counterparts: Resolving ambiguous Gaia matches to X-ray sources in the Chandra Source Catalog using Machine Learning](https://arxiv.org/abs/2606.19329v1)** | 2026-06-17 | <details><summary>Accep...</summary><p>Accepted to The Astrophysical Journal. Website: https://www.samuelperezdi.com/chandragaia/</p></details> |
