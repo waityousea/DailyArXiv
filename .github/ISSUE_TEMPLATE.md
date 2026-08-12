@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - August 11, 2026
+title: Latest 15 Papers - August 12, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/waityousea/DailyArXiv/) page for a better reading experience and more papers.**
@@ -7,6 +7,8 @@ labels: documentation
 ## source localization
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Deployment Is Not Destiny: Robot Recomposition in the Field with Unseen Software, Hardware, and Compute Payloads](https://arxiv.org/abs/2608.11063v1)** | 2026-08-11 |  |
+| **[Bandable Cumulant Tensors: Optimal Estimation and Applications in Non-Gaussian Data Modeling](https://arxiv.org/abs/2608.10161v1)** | 2026-08-10 |  |
 | **[From Preimage Search To Source-Grounded Feature Inversion](https://arxiv.org/abs/2607.12526v2)** | 2026-08-03 |  |
 | **[Belief-Contraction-Driven Active Inverse Source Localization and Characterization](https://arxiv.org/abs/2501.13084v2)** | 2026-08-03 |  |
 | **[Global monitoring of methane point sources using deep learning on hyperspectral radiance measurements from EMIT](https://arxiv.org/abs/2604.10094v2)** | 2026-07-29 | <details><summary>43 pa...</summary><p>43 pages, 27 figures, 4 tables</p></details> |
@@ -20,8 +22,6 @@ labels: documentation
 | **[Development of an automated, reliable, and clinically meaningful artificial intelligence (AI) tool for diagnosing cardiac disease from conventional cardiovascular magnetic resonance (CMR) images](https://arxiv.org/abs/2607.20087v1)** | 2026-07-22 |  |
 | **[Portable models as a replacement for industrial heuristics in compiler optimizations](https://arxiv.org/abs/2607.17389v1)** | 2026-07-19 | <details><summary>9 pag...</summary><p>9 pages, 13 figures, 5 tables, 28 references</p></details> |
 | **[Acoustic Imaging for UAV Detection: Dense Beamformed Energy Maps and U-Net SELD](https://arxiv.org/abs/2508.00307v4)** | 2026-07-17 |  |
-| **[NeuralMUSIC: A Hybrid Neural-Subspace Framework for Robot Sound Source Localization](https://arxiv.org/abs/2606.18664v3)** | 2026-07-08 | <details><summary>Accep...</summary><p>Accepted by IROS 2026</p></details> |
-| **[ForestIR: Physics-Informed Forest Sound Simulation for Array-Based Bioacoustic Remote Sensing](https://arxiv.org/abs/2607.06299v1)** | 2026-07-07 |  |
 
 ## source detection
 | **Title** | **Date** | **Comment** |
