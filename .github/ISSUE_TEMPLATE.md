@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - August 12, 2026
+title: Latest 15 Papers - August 13, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/waityousea/DailyArXiv/) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## source localization
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Random Inverse Problems with Structural and Probabilistic Ambiguities](https://arxiv.org/abs/2608.01439v2)** | 2026-08-12 |  |
 | **[Deployment Is Not Destiny: Robot Recomposition in the Field with Unseen Software, Hardware, and Compute Payloads](https://arxiv.org/abs/2608.11063v1)** | 2026-08-11 |  |
 | **[Bandable Cumulant Tensors: Optimal Estimation and Applications in Non-Gaussian Data Modeling](https://arxiv.org/abs/2608.10161v1)** | 2026-08-10 |  |
 | **[From Preimage Search To Source-Grounded Feature Inversion](https://arxiv.org/abs/2607.12526v2)** | 2026-08-03 |  |
@@ -21,7 +22,6 @@ labels: documentation
 | **[Distributed Acoustic Localization Array Deployed Using a Soft Everting Vine Robot](https://arxiv.org/abs/2607.20392v1)** | 2026-07-22 | <details><summary>Sebas...</summary><p>Sebastian Lorca Godoy, Ciera McFarland, Michael Val, Antonio Alvarez Valdivia, Nathaniel Hanson, and Margaret McGuinness, "Distributed Acoustic Localization Array Deployed Using a Soft Everting Vine Robot", in IEEE International Conference on Intelligent Robots and Systems, 2026</p></details> |
 | **[Development of an automated, reliable, and clinically meaningful artificial intelligence (AI) tool for diagnosing cardiac disease from conventional cardiovascular magnetic resonance (CMR) images](https://arxiv.org/abs/2607.20087v1)** | 2026-07-22 |  |
 | **[Portable models as a replacement for industrial heuristics in compiler optimizations](https://arxiv.org/abs/2607.17389v1)** | 2026-07-19 | <details><summary>9 pag...</summary><p>9 pages, 13 figures, 5 tables, 28 references</p></details> |
-| **[Acoustic Imaging for UAV Detection: Dense Beamformed Energy Maps and U-Net SELD](https://arxiv.org/abs/2508.00307v4)** | 2026-07-17 |  |
 
 ## source detection
 | **Title** | **Date** | **Comment** |
