@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - August 17, 2026
+title: Latest 15 Papers - August 18, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/waityousea/DailyArXiv/) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## source localization
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Deep Probabilistic Indoor Gas Source Localization via Physical Dependency-Guided Sequential Inference](https://arxiv.org/abs/2608.16221v1)** | 2026-08-17 | <details><summary>18 pa...</summary><p>18 pages, 22 figures, 5 tables. Submitted to IEEE Transactions on Robotics</p></details> |
 | **[Random Inverse Problems with Structural and Probabilistic Ambiguities](https://arxiv.org/abs/2608.01439v2)** | 2026-08-12 |  |
 | **[Deployment Is Not Destiny: Robot Recomposition in the Field with Unseen Software, Hardware, and Compute Payloads](https://arxiv.org/abs/2608.11063v1)** | 2026-08-11 |  |
 | **[Bandable Cumulant Tensors: Optimal Estimation and Applications in Non-Gaussian Data Modeling](https://arxiv.org/abs/2608.10161v1)** | 2026-08-10 |  |
@@ -21,7 +22,6 @@ labels: documentation
 | **[Computer Vision Based Neurology Brain Activity Rejection Architecture and Implementation](https://arxiv.org/abs/2607.21654v1)** | 2026-07-22 | <details><summary>7 pag...</summary><p>7 pages, 10 figures, Conference</p></details> |
 | **[Distributed Acoustic Localization Array Deployed Using a Soft Everting Vine Robot](https://arxiv.org/abs/2607.20392v1)** | 2026-07-22 | <details><summary>Sebas...</summary><p>Sebastian Lorca Godoy, Ciera McFarland, Michael Val, Antonio Alvarez Valdivia, Nathaniel Hanson, and Margaret McGuinness, "Distributed Acoustic Localization Array Deployed Using a Soft Everting Vine Robot", in IEEE International Conference on Intelligent Robots and Systems, 2026</p></details> |
 | **[Development of an automated, reliable, and clinically meaningful artificial intelligence (AI) tool for diagnosing cardiac disease from conventional cardiovascular magnetic resonance (CMR) images](https://arxiv.org/abs/2607.20087v1)** | 2026-07-22 |  |
-| **[Portable models as a replacement for industrial heuristics in compiler optimizations](https://arxiv.org/abs/2607.17389v1)** | 2026-07-19 | <details><summary>9 pag...</summary><p>9 pages, 13 figures, 5 tables, 28 references</p></details> |
 
 ## source detection
 | **Title** | **Date** | **Comment** |
@@ -64,6 +64,7 @@ labels: documentation
 ## diffusion source
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Diffused-Beam Laser-Diode LiFi Under Realizable Receiver, Noise, and Safety Constraints: Design-Space Analysis and an Open Cross-Verified Simulation Framework](https://arxiv.org/abs/2608.15236v1)** | 2026-08-15 | <details><summary>15 pa...</summary><p>15 pages, 16 figures, Journal</p></details> |
 | **[Unsupervised Single-Channel Audio Separation with Diffusion Source Priors](https://arxiv.org/abs/2512.07226v2)** | 2025-12-23 |  |
 | **[Radio U-Net: a convolutional neural network to detect diffuse radio sources in galaxy clusters and beyond](https://arxiv.org/abs/2408.10871v1)** | 2024-08-20 | <details><summary>Accep...</summary><p>Accepted by MNRAS, 16 pages, 9 figures, 2 tables</p></details> |
 | **[Source Localization for Cross Network Information Diffusion](https://arxiv.org/abs/2404.14668v1)** | 2024-04-23 | <details><summary>Code ...</summary><p>Code and data are available at: https://github.com/tanmoysr/CNSL/</p></details> |
