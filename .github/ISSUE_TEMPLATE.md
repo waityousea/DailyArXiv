@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - August 23, 2026
+title: Latest 15 Papers - August 24, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/waityousea/DailyArXiv/) page for a better reading experience and more papers.**
@@ -26,11 +26,11 @@ labels: documentation
 ## source detection
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[A Hybrid Intrusion Detection System for Electric Vehicle Charging Infrastructure](https://arxiv.org/abs/2606.23236v3)** | 2026-08-21 | <details><summary>This ...</summary><p>This paper has been accepted for publication by IEEE. C. Joglekar, C. Eze, D. Xiang and A. Monti, "A Hybrid Intrusion Detection System for Electric Vehicle Charging Infrastructure," in IEEE Internet of Things Journal, doi: 10.1109/JIOT.2026.3725487. Upon publication, it will be made available under a Creative Commons Attribution 4.0 International License</p></details> |
 | **[StarEmbed: Benchmarking Time Series Foundation Models on Astronomical Observations of Variable Stars](https://arxiv.org/abs/2510.06200v4)** | 2026-08-13 | <details><summary>Accep...</summary><p>Accepted at ICML 2026</p></details> |
 | **[Detecting Hallucinated and Suspicious Citations: What Current Tools Can and Cannot Do](https://arxiv.org/abs/2607.22693v2)** | 2026-07-28 | 6 pages, 4 tables |
 | **[Systematic Experiment Tracking in Quantum Software: A Case Study of Reservoir Computing with Error Mitigation](https://arxiv.org/abs/2607.24264v1)** | 2026-07-27 | <details><summary>12 pa...</summary><p>12 pages, 7 figures, 5 tables, presented at QCE26</p></details> |
 | **[Visualizing Privacy-Relevant Data Flows in Android Applications](https://arxiv.org/abs/2503.16640v2)** | 2026-07-22 |  |
-| **[A Hybrid Intrusion Detection System for Electric Vehicle Charging Infrastructure](https://arxiv.org/abs/2606.23236v2)** | 2026-07-22 | <details><summary>This ...</summary><p>This work has been submitted to the IEEE for possible publication</p></details> |
 | **[Information Source Detection with Limited Time Knowledge](https://arxiv.org/abs/1905.12913v2)** | 2026-07-19 | <details><summary>The c...</summary><p>The content of this manuscript has been integrated into another more comprehensive research work. We withdraw this preliminary version to avoid redundant publications. All authors consent to this withdrawal</p></details> |
 | **[Enforcing Speech Content Privacy in Environmental Sound Recordings using Segment-wise Waveform Reversal](https://arxiv.org/abs/2507.08412v2)** | 2026-07-08 |  |
 | **[Underwater Source Detection and Classification for Signal-based Surveillance: Audio Dataset Curation and Cross-Domain Evaluation](https://arxiv.org/abs/2606.28988v2)** | 2026-07-07 | <details><summary>6 pag...</summary><p>6 pages, 4 figures. Accepted to the 2026 International Conference on Advanced Visual and Signal-Based Systems (AVSS) - Lecce, Italy</p></details> |
