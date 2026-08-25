@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - August 24, 2026
+title: Latest 15 Papers - August 25, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/waityousea/DailyArXiv/) page for a better reading experience and more papers.**
@@ -9,6 +9,7 @@ labels: documentation
 | --- | --- | --- |
 | **[Deep Probabilistic Indoor Gas Source Localization via Physical Dependency-Guided Sequential Inference](https://arxiv.org/abs/2608.16221v1)** | 2026-08-17 | <details><summary>18 pa...</summary><p>18 pages, 22 figures, 5 tables. Submitted to IEEE Transactions on Robotics</p></details> |
 | **[Random Inverse Problems with Structural and Probabilistic Ambiguities](https://arxiv.org/abs/2608.01439v2)** | 2026-08-12 |  |
+| **[RiskWorld: Object-Centric Latent World Modeling for Autonomous Driving Risk Identification](https://arxiv.org/abs/2608.21414v1)** | 2026-08-12 |  |
 | **[Deployment Is Not Destiny: Robot Recomposition in the Field with Unseen Software, Hardware, and Compute Payloads](https://arxiv.org/abs/2608.11063v1)** | 2026-08-11 |  |
 | **[Bandable Cumulant Tensors: Optimal Estimation and Applications in Non-Gaussian Data Modeling](https://arxiv.org/abs/2608.10161v1)** | 2026-08-10 |  |
 | **[From Preimage Search To Source-Grounded Feature Inversion](https://arxiv.org/abs/2607.12526v2)** | 2026-08-03 |  |
@@ -21,7 +22,6 @@ labels: documentation
 | **[HiMe: Real-Time Self-Hosted Personal Agent Platform for Health Insights with Wearable Devices](https://arxiv.org/abs/2607.21019v1)** | 2026-07-23 |  |
 | **[Computer Vision Based Neurology Brain Activity Rejection Architecture and Implementation](https://arxiv.org/abs/2607.21654v1)** | 2026-07-22 | <details><summary>7 pag...</summary><p>7 pages, 10 figures, Conference</p></details> |
 | **[Distributed Acoustic Localization Array Deployed Using a Soft Everting Vine Robot](https://arxiv.org/abs/2607.20392v1)** | 2026-07-22 | <details><summary>Sebas...</summary><p>Sebastian Lorca Godoy, Ciera McFarland, Michael Val, Antonio Alvarez Valdivia, Nathaniel Hanson, and Margaret McGuinness, "Distributed Acoustic Localization Array Deployed Using a Soft Everting Vine Robot", in IEEE International Conference on Intelligent Robots and Systems, 2026</p></details> |
-| **[Development of an automated, reliable, and clinically meaningful artificial intelligence (AI) tool for diagnosing cardiac disease from conventional cardiovascular magnetic resonance (CMR) images](https://arxiv.org/abs/2607.20087v1)** | 2026-07-22 |  |
 
 ## source detection
 | **Title** | **Date** | **Comment** |
@@ -45,6 +45,7 @@ labels: documentation
 ## source identification
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Using Wavelet Domain Fingerprints to Improve Source Camera Identification](https://arxiv.org/abs/2507.01712v2)** | 2026-08-22 |  |
 | **[Can Foundation Models Hear What Made That Sound? A Tiered Benchmark of Audio-Language Models and Traditional Classifiers for Closed-Set Sound Source Identification](https://arxiv.org/abs/2608.02397v1)** | 2026-08-03 |  |
 | **[Interpretable Human-Label-Free Deep Learning for Real-Bogus Classification with Uncertainty Quantification](https://arxiv.org/abs/2607.05393v1)** | 2026-07-06 | <details><summary>Submi...</summary><p>Submitted to Astronomy & Astrophysics, revised after first referee report</p></details> |
 | **[Source apportionment of air pollution burden using geometric non-negative matrix factorization and high-throughput multi-pollutant air sensor data in Curtis Bay, Baltimore, USA](https://arxiv.org/abs/2511.11833v3)** | 2026-06-17 |  |
@@ -59,7 +60,6 @@ labels: documentation
 | **[Who Made This? Fake Detection and Source Attribution with Diffusion Features](https://arxiv.org/abs/2510.27602v2)** | 2026-03-10 |  |
 | **[Pramana: Fine-Tuning Large Language Models for Epistemic Reasoning through Navya-Nyaya](https://arxiv.org/abs/2604.04937v1)** | 2026-02-14 | <details><summary>52 pa...</summary><p>52 pages + appendices, comprehensive treatment of Navya-Nyaya computational formalization</p></details> |
 | **[DataCross: A Unified Benchmark and Agent Framework for Cross-Modal Heterogeneous Data Analysis](https://arxiv.org/abs/2601.21403v1)** | 2026-01-29 |  |
-| **[Breadcrumbs in the Digital Forest: Tracing Criminals through Torrent Metadata with OSINT](https://arxiv.org/abs/2601.01492v1)** | 2026-01-04 |  |
 
 ## diffusion source
 | **Title** | **Date** | **Comment** |
