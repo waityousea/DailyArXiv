@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - August 25, 2026
+title: Latest 15 Papers - August 26, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/waityousea/DailyArXiv/) page for a better reading experience and more papers.**
@@ -26,6 +26,8 @@ labels: documentation
 ## source detection
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Fiber Bragg Grating Whiskers for Bioinspired Hydrodynamic Perception on Underwater Robots](https://arxiv.org/abs/2608.24724v1)** | 2026-08-25 | 13 pages, 8 figures |
+| **[Design-to-Plan: A Large Language Model-Based Multi-Agent Framework for Manufacturing Process Planning from 3D CAD Models and 2D Engineering Drawings](https://arxiv.org/abs/2608.24039v1)** | 2026-08-25 | <details><summary>Submi...</summary><p>Submitted to Elsevier Journal</p></details> |
 | **[A Hybrid Intrusion Detection System for Electric Vehicle Charging Infrastructure](https://arxiv.org/abs/2606.23236v3)** | 2026-08-21 | <details><summary>This ...</summary><p>This paper has been accepted for publication by IEEE. C. Joglekar, C. Eze, D. Xiang and A. Monti, "A Hybrid Intrusion Detection System for Electric Vehicle Charging Infrastructure," in IEEE Internet of Things Journal, doi: 10.1109/JIOT.2026.3725487. Upon publication, it will be made available under a Creative Commons Attribution 4.0 International License</p></details> |
 | **[StarEmbed: Benchmarking Time Series Foundation Models on Astronomical Observations of Variable Stars](https://arxiv.org/abs/2510.06200v4)** | 2026-08-13 | <details><summary>Accep...</summary><p>Accepted at ICML 2026</p></details> |
 | **[Detecting Hallucinated and Suspicious Citations: What Current Tools Can and Cannot Do](https://arxiv.org/abs/2607.22693v2)** | 2026-07-28 | 6 pages, 4 tables |
@@ -39,8 +41,6 @@ labels: documentation
 | **[Semi-supervised Source Detection in Astronomical Images: New Benchmark and Strong Baseline](https://arxiv.org/abs/2606.09219v1)** | 2026-06-08 |  |
 | **[Graph Neural Networks for Source Detection: A Review and Benchmark Study](https://arxiv.org/abs/2512.20657v2)** | 2026-05-27 |  |
 | **[Identifying the Source of Information Spread in Networks via Markov Chains](https://arxiv.org/abs/2401.11330v3)** | 2026-05-19 | <details><summary>Repla...</summary><p>Replaced to fix minor typos in the text</p></details> |
-| **[An agentic framework for gravitational-wave counterpart association in the multi-messenger era](https://arxiv.org/abs/2605.10584v1)** | 2026-05-11 |  |
-| **[MUSDA: Multi-source Multi-modality Unsupervised Domain Adaptive 3D Object Detection for Autonomous Driving](https://arxiv.org/abs/2605.10026v1)** | 2026-05-11 |  |
 
 ## source identification
 | **Title** | **Date** | **Comment** |
