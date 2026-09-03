@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - September 02, 2026
+title: Latest 15 Papers - September 03, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/waityousea/DailyArXiv/) page for a better reading experience and more papers.**
@@ -8,6 +8,7 @@ labels: documentation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
 | **[The Symmetric Location Problem: a Song of (statistical) Efficiency and Robustness](https://arxiv.org/abs/2605.25870v2)** | 2026-09-01 |  |
+| **[Not All Agreement Counts as Corroboration: Provenance-Conserving Multi-View Fusion for Typed Action Admission in Human-Robot Collaboration](https://arxiv.org/abs/2609.01662v1)** | 2026-08-31 | <details><summary>35 pa...</summary><p>35 pages, 8 figures, 11 tables. Code and supporting materials: https://github.com/ZekaiJ/PACT</p></details> |
 | **[Probabilistic Multi-Robot Gas Source Localization with Uncalibrated Sensors: A Distributed Estimation Approach](https://arxiv.org/abs/2608.28214v1)** | 2026-08-28 | <details><summary>14 pa...</summary><p>14 pages, 6 figures, accepted by The 18th International Symposium on Distributed Autonomous Robotic Systems (DARS)</p></details> |
 | **[Secret MCP: Evidence-Bounded and Context-Isolated Design Specification Generation from Web Screenshots](https://arxiv.org/abs/2608.24944v1)** | 2026-08-24 | <details><summary>7 pag...</summary><p>7 pages, 2 figures, 3 tables. Source code and evaluation artifacts: https://github.com/yyeongjin/secret_mcp</p></details> |
 | **[Deep Probabilistic Indoor Gas Source Localization via Physical Dependency-Guided Sequential Inference](https://arxiv.org/abs/2608.16221v1)** | 2026-08-17 | <details><summary>18 pa...</summary><p>18 pages, 22 figures, 5 tables. Submitted to IEEE Transactions on Robotics</p></details> |
@@ -21,7 +22,6 @@ labels: documentation
 | **[S2A2: Audio-Visual Imitation Learning for Manipulation Tasks Using Acoustic Spatial Information](https://arxiv.org/abs/2607.26047v1)** | 2026-07-28 | <details><summary>Proje...</summary><p>Project page: https://azuma413.github.io/projects/s2a2</p></details> |
 | **[Spacing Out: On the Reliability of Binaural Music Source Separation Metrics](https://arxiv.org/abs/2607.25919v1)** | 2026-07-28 | <details><summary>6 pag...</summary><p>6 pages + references, 6 figures, 1 table, 27th International Society for Music Information Retrieval (ISMIR) Conference</p></details> |
 | **[Comparing RAG and GraphRAG for Page-Level Retrieval Question Answering on a Math Textbook](https://arxiv.org/abs/2509.16780v3)** | 2026-07-28 | 6 pages, 1 figure |
-| **[Cyber Attacks Detection, Prevention, and Source Localization in Digital Substation Communication using Hybrid Statistical-Deep Learning](https://arxiv.org/abs/2507.00522v3)** | 2026-07-27 | <details><summary>15 pa...</summary><p>15 pages, 9 figures. This work has been submitted to the IEEE for possible publication</p></details> |
 
 ## source detection
 | **Title** | **Date** | **Comment** |
