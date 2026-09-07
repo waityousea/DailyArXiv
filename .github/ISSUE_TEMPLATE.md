@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - September 06, 2026
+title: Latest 15 Papers - September 07, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/waityousea/DailyArXiv/) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## source localization
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Uncertainty Signals for Network Intent Translation: Risk Ranking and Ambiguity Localization](https://arxiv.org/abs/2609.04486v1)** | 2026-09-03 |  |
 | **[Generalized Hankel/Toeplitz matrix for array signal processing](https://arxiv.org/abs/2609.03325v1)** | 2026-09-03 | 48 pages, 13 figures |
 | **[Physics-Guided Robotic Radiation Source Localization along Arbitrary Measurement Paths in Unstructured Environments](https://arxiv.org/abs/2606.27624v2)** | 2026-09-02 | <details><summary>17 pa...</summary><p>17 pages, 14 figures, 2 tables</p></details> |
 | **[The Symmetric Location Problem: a Song of (statistical) Efficiency and Robustness](https://arxiv.org/abs/2605.25870v2)** | 2026-09-01 |  |
@@ -21,7 +22,6 @@ labels: documentation
 | **[From Preimage Search To Source-Grounded Feature Inversion](https://arxiv.org/abs/2607.12526v2)** | 2026-08-03 |  |
 | **[Belief-Contraction-Driven Active Inverse Source Localization and Characterization](https://arxiv.org/abs/2501.13084v2)** | 2026-08-03 |  |
 | **[Global monitoring of methane point sources using deep learning on hyperspectral radiance measurements from EMIT](https://arxiv.org/abs/2604.10094v2)** | 2026-07-29 | <details><summary>43 pa...</summary><p>43 pages, 27 figures, 4 tables</p></details> |
-| **[S2A2: Audio-Visual Imitation Learning for Manipulation Tasks Using Acoustic Spatial Information](https://arxiv.org/abs/2607.26047v1)** | 2026-07-28 | <details><summary>Proje...</summary><p>Project page: https://azuma413.github.io/projects/s2a2</p></details> |
 
 ## source detection
 | **Title** | **Date** | **Comment** |
