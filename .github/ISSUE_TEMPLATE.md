@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - September 08, 2026
+title: Latest 15 Papers - September 09, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/waityousea/DailyArXiv/) page for a better reading experience and more papers.**
@@ -7,6 +7,9 @@ labels: documentation
 ## source localization
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[L2G-Map: Local-to-Global Mapping via Hierarchical Diffusion Refinement and Elliptical Bayesian Fusion](https://arxiv.org/abs/2503.02578v2)** | 2026-09-08 | <details><summary>Sourc...</summary><p>Source code will be available at https://github.com/lynn-yu/L2G-Map</p></details> |
+| **[Efficient and Microphone-Fault-Tolerant 3D Sound Source Localization](https://arxiv.org/abs/2505.20961v2)** | 2026-09-07 | <details><summary>Accep...</summary><p>Accepted by Interspeech 2025 Conference</p></details> |
+| **[Information-Guided Safe Reinforcement Learning for Autonomous Gas Source Localization using sUAS](https://arxiv.org/abs/2609.05569v1)** | 2026-09-04 | <details><summary>8 pag...</summary><p>8 pages, 5 figures, 2 tables. Submitted to the 2026 IEEE Conference on Decision and Control (CDC). Code: https://github.com/sachingirime/Info-guided-safe-RL</p></details> |
 | **[Uncertainty Signals for Network Intent Translation: Risk Ranking and Ambiguity Localization](https://arxiv.org/abs/2609.04486v1)** | 2026-09-03 |  |
 | **[Generalized Hankel/Toeplitz matrix for array signal processing](https://arxiv.org/abs/2609.03325v1)** | 2026-09-03 | 48 pages, 13 figures |
 | **[Physics-Guided Robotic Radiation Source Localization along Arbitrary Measurement Paths in Unstructured Environments](https://arxiv.org/abs/2606.27624v2)** | 2026-09-02 | <details><summary>17 pa...</summary><p>17 pages, 14 figures, 2 tables</p></details> |
@@ -19,13 +22,11 @@ labels: documentation
 | **[RiskWorld: Object-Centric Latent World Modeling for Autonomous Driving Risk Identification](https://arxiv.org/abs/2608.21414v1)** | 2026-08-12 |  |
 | **[Deployment Is Not Destiny: Robot Recomposition in the Field with Unseen Software, Hardware, and Compute Payloads](https://arxiv.org/abs/2608.11063v1)** | 2026-08-11 |  |
 | **[Bandable Cumulant Tensors: Optimal Estimation and Applications in Non-Gaussian Data Modeling](https://arxiv.org/abs/2608.10161v1)** | 2026-08-10 |  |
-| **[From Preimage Search To Source-Grounded Feature Inversion](https://arxiv.org/abs/2607.12526v2)** | 2026-08-03 |  |
-| **[Belief-Contraction-Driven Active Inverse Source Localization and Characterization](https://arxiv.org/abs/2501.13084v2)** | 2026-08-03 |  |
-| **[Global monitoring of methane point sources using deep learning on hyperspectral radiance measurements from EMIT](https://arxiv.org/abs/2604.10094v2)** | 2026-07-29 | <details><summary>43 pa...</summary><p>43 pages, 27 figures, 4 tables</p></details> |
 
 ## source detection
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[An agentic framework for gravitational-wave counterpart association in the multi-messenger era](https://arxiv.org/abs/2605.10584v2)** | 2026-09-07 | <details><summary>12 pa...</summary><p>12 pages, 6 figures; published in The Innovation as a Letter</p></details> |
 | **[Fiber Bragg Grating Whiskers for Bioinspired Hydrodynamic Perception on Underwater Robots](https://arxiv.org/abs/2608.24724v1)** | 2026-08-25 | 13 pages, 8 figures |
 | **[Design-to-Plan: A Large Language Model-Based Multi-Agent Framework for Manufacturing Process Planning from 3D CAD Models and 2D Engineering Drawings](https://arxiv.org/abs/2608.24039v1)** | 2026-08-25 | <details><summary>Submi...</summary><p>Submitted to Elsevier Journal</p></details> |
 | **[A Hybrid Intrusion Detection System for Electric Vehicle Charging Infrastructure](https://arxiv.org/abs/2606.23236v3)** | 2026-08-21 | <details><summary>This ...</summary><p>This paper has been accepted for publication by IEEE. C. Joglekar, C. Eze, D. Xiang and A. Monti, "A Hybrid Intrusion Detection System for Electric Vehicle Charging Infrastructure," in IEEE Internet of Things Journal, doi: 10.1109/JIOT.2026.3725487. Upon publication, it will be made available under a Creative Commons Attribution 4.0 International License</p></details> |
@@ -40,11 +41,12 @@ labels: documentation
 | **[Optimal Stopping for Sequential Bayesian Experimental Design](https://arxiv.org/abs/2509.21734v3)** | 2026-06-13 |  |
 | **[Semi-supervised Source Detection in Astronomical Images: New Benchmark and Strong Baseline](https://arxiv.org/abs/2606.09219v1)** | 2026-06-08 |  |
 | **[Graph Neural Networks for Source Detection: A Review and Benchmark Study](https://arxiv.org/abs/2512.20657v2)** | 2026-05-27 |  |
-| **[Identifying the Source of Information Spread in Networks via Markov Chains](https://arxiv.org/abs/2401.11330v3)** | 2026-05-19 | <details><summary>Repla...</summary><p>Replaced to fix minor typos in the text</p></details> |
 
 ## source identification
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Local gradient neural operator](https://arxiv.org/abs/2609.07752v1)** | 2026-09-07 | <details><summary>29 pa...</summary><p>29 pages, 11 figures. Code available at https://github.com/baiming-zhang/LGNO</p></details> |
+| **[PsyCLIENT: Client Simulation via Conversational Trajectory Modeling for Trainee Practice and Model Evaluation in Mental Health Counseling](https://arxiv.org/abs/2601.07312v2)** | 2026-09-07 | <details><summary>Accep...</summary><p>Accepted to EMNLP 2026 (Main Conference)</p></details> |
 | **[Using Wavelet Domain Fingerprints to Improve Source Camera Identification](https://arxiv.org/abs/2507.01712v2)** | 2026-08-22 |  |
 | **[Can Foundation Models Hear What Made That Sound? A Tiered Benchmark of Audio-Language Models and Traditional Classifiers for Closed-Set Sound Source Identification](https://arxiv.org/abs/2608.02397v1)** | 2026-08-03 |  |
 | **[Interpretable Human-Label-Free Deep Learning for Real-Bogus Classification with Uncertainty Quantification](https://arxiv.org/abs/2607.05393v1)** | 2026-07-06 | <details><summary>Submi...</summary><p>Submitted to Astronomy & Astrophysics, revised after first referee report</p></details> |
@@ -58,8 +60,6 @@ labels: documentation
 | **[HiSync: Spatio-Temporally Aligning Hand Motion from Wearable IMU and On-Robot Camera for Command Source Identification in Long-Range HRI](https://arxiv.org/abs/2603.11809v2)** | 2026-03-25 |  |
 | **[Multi-Agent Reinforcement Learning for UAV-Based Chemical Plume Source Localization](https://arxiv.org/abs/2603.11582v1)** | 2026-03-12 |  |
 | **[Who Made This? Fake Detection and Source Attribution with Diffusion Features](https://arxiv.org/abs/2510.27602v2)** | 2026-03-10 |  |
-| **[Pramana: Fine-Tuning Large Language Models for Epistemic Reasoning through Navya-Nyaya](https://arxiv.org/abs/2604.04937v1)** | 2026-02-14 | <details><summary>52 pa...</summary><p>52 pages + appendices, comprehensive treatment of Navya-Nyaya computational formalization</p></details> |
-| **[DataCross: A Unified Benchmark and Agent Framework for Cross-Modal Heterogeneous Data Analysis](https://arxiv.org/abs/2601.21403v1)** | 2026-01-29 |  |
 
 ## diffusion source
 | **Title** | **Date** | **Comment** |
