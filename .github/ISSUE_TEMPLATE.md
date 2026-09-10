@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - September 09, 2026
+title: Latest 15 Papers - September 10, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/waityousea/DailyArXiv/) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## source localization
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[SAGE: Semantic-Aware Geographic Error Recovery for AI Data Movement](https://arxiv.org/abs/2609.10126v1)** | 2026-09-09 |  |
 | **[L2G-Map: Local-to-Global Mapping via Hierarchical Diffusion Refinement and Elliptical Bayesian Fusion](https://arxiv.org/abs/2503.02578v2)** | 2026-09-08 | <details><summary>Sourc...</summary><p>Source code will be available at https://github.com/lynn-yu/L2G-Map</p></details> |
 | **[Efficient and Microphone-Fault-Tolerant 3D Sound Source Localization](https://arxiv.org/abs/2505.20961v2)** | 2026-09-07 | <details><summary>Accep...</summary><p>Accepted by Interspeech 2025 Conference</p></details> |
 | **[Information-Guided Safe Reinforcement Learning for Autonomous Gas Source Localization using sUAS](https://arxiv.org/abs/2609.05569v1)** | 2026-09-04 | <details><summary>8 pag...</summary><p>8 pages, 5 figures, 2 tables. Submitted to the 2026 IEEE Conference on Decision and Control (CDC). Code: https://github.com/sachingirime/Info-guided-safe-RL</p></details> |
@@ -21,7 +22,6 @@ labels: documentation
 | **[Random Inverse Problems with Structural and Probabilistic Ambiguities](https://arxiv.org/abs/2608.01439v2)** | 2026-08-12 |  |
 | **[RiskWorld: Object-Centric Latent World Modeling for Autonomous Driving Risk Identification](https://arxiv.org/abs/2608.21414v1)** | 2026-08-12 |  |
 | **[Deployment Is Not Destiny: Robot Recomposition in the Field with Unseen Software, Hardware, and Compute Payloads](https://arxiv.org/abs/2608.11063v1)** | 2026-08-11 |  |
-| **[Bandable Cumulant Tensors: Optimal Estimation and Applications in Non-Gaussian Data Modeling](https://arxiv.org/abs/2608.10161v1)** | 2026-08-10 |  |
 
 ## source detection
 | **Title** | **Date** | **Comment** |
