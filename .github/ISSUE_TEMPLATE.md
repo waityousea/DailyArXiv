@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - September 16, 2026
+title: Latest 15 Papers - September 17, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/waityousea/DailyArXiv/) page for a better reading experience and more papers.**
@@ -7,6 +7,8 @@ labels: documentation
 ## source localization
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Robot Visions: Breaking reCAPTCHA at Zero Cost and Zero Shot](https://arxiv.org/abs/2609.18518v1)** | 2026-09-16 | <details><summary>Accep...</summary><p>Accepted for publication in the Proceedings of the 29th Information Security Conference (ISC 2026)</p></details> |
+| **[Not All Agreement Counts as Corroboration: Provenance-Conserving Multi-View Fusion for Typed Action Admission in Human-Robot Collaboration](https://arxiv.org/abs/2609.01662v2)** | 2026-09-16 | <details><summary>35 pa...</summary><p>35 pages, 8 figures, 15 tables. Revised manuscript with clarified theoretical assumptions and evaluation scope. Code and supporting materials: https://github.com/ZekaiJ/PACT</p></details> |
 | **[Scensory: Real-Time Robotic Olfactory Perception for Joint Identification and Source Localization](https://arxiv.org/abs/2509.19318v4)** | 2026-09-15 | <details><summary>Our p...</summary><p>Our project website is at: http://generalroboticslab.com/Scensory</p></details> |
 | **[Bayesian optimization with kernel ensembles and disagreement-based acquisition for source localization and acoustic inversion](https://arxiv.org/abs/2609.14262v1)** | 2026-09-13 |  |
 | **[SAGE: Semantic-Aware Geographic Error Recovery for AI Data Movement](https://arxiv.org/abs/2609.10126v1)** | 2026-09-09 |  |
@@ -17,11 +19,9 @@ labels: documentation
 | **[Generalized Hankel/Toeplitz matrix for array signal processing](https://arxiv.org/abs/2609.03325v1)** | 2026-09-03 | 48 pages, 13 figures |
 | **[Physics-Guided Robotic Radiation Source Localization along Arbitrary Measurement Paths in Unstructured Environments](https://arxiv.org/abs/2606.27624v2)** | 2026-09-02 | <details><summary>17 pa...</summary><p>17 pages, 14 figures, 2 tables</p></details> |
 | **[The Symmetric Location Problem: a Song of (statistical) Efficiency and Robustness](https://arxiv.org/abs/2605.25870v2)** | 2026-09-01 |  |
-| **[Not All Agreement Counts as Corroboration: Provenance-Conserving Multi-View Fusion for Typed Action Admission in Human-Robot Collaboration](https://arxiv.org/abs/2609.01662v1)** | 2026-08-31 | <details><summary>35 pa...</summary><p>35 pages, 8 figures, 11 tables. Code and supporting materials: https://github.com/ZekaiJ/PACT</p></details> |
 | **[Probabilistic Multi-Robot Gas Source Localization with Uncalibrated Sensors: A Distributed Estimation Approach](https://arxiv.org/abs/2608.28214v1)** | 2026-08-28 | <details><summary>14 pa...</summary><p>14 pages, 6 figures, accepted by The 18th International Symposium on Distributed Autonomous Robotic Systems (DARS)</p></details> |
 | **[Secret MCP: Evidence-Bounded and Context-Isolated Design Specification Generation from Web Screenshots](https://arxiv.org/abs/2608.24944v1)** | 2026-08-24 | <details><summary>7 pag...</summary><p>7 pages, 2 figures, 3 tables. Source code and evaluation artifacts: https://github.com/yyeongjin/secret_mcp</p></details> |
 | **[Deep Probabilistic Indoor Gas Source Localization via Physical Dependency-Guided Sequential Inference](https://arxiv.org/abs/2608.16221v1)** | 2026-08-17 | <details><summary>18 pa...</summary><p>18 pages, 22 figures, 5 tables. Submitted to IEEE Transactions on Robotics</p></details> |
-| **[Random Inverse Problems with Structural and Probabilistic Ambiguities](https://arxiv.org/abs/2608.01439v2)** | 2026-08-12 |  |
 
 ## source detection
 | **Title** | **Date** | **Comment** |
