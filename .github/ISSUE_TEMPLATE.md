@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - September 21, 2026
+title: Latest 15 Papers - September 22, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/waityousea/DailyArXiv/) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## source localization
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[From Inference Engine to Inference Control Plane: Connecting vLLM, llm-d, and the Evolution of Efficient Distributed LLM Serving](https://arxiv.org/abs/2609.23130v1)** | 2026-09-19 | <details><summary>17 pa...</summary><p>17 pages, 5 figures, 5 tables. Systems synthesis and research agenda on vLLM, llm-d, distributed inference control, KV-state management, routing, disaggregation, heterogeneous accelerators, reliability, and agentic/multimodal serving. No new experimental measurements are claimed; empirical and organization-reported results are attributed to the cited sources</p></details> |
 | **[On Unbiased Parameter Estimation and Signal Reconstruction](https://arxiv.org/abs/2605.05276v2)** | 2026-09-18 | 35 pages, 9 figures |
 | **[MAPLE-RF: Efficient Probabilistic RF Source Localization in Partially Explored Environments](https://arxiv.org/abs/2609.21026v1)** | 2026-09-17 |  |
 | **[Robot Visions: Breaking reCAPTCHA at Zero Cost and Zero Shot](https://arxiv.org/abs/2609.18518v1)** | 2026-09-16 | <details><summary>Accep...</summary><p>Accepted for publication in the Proceedings of the 29th Information Security Conference (ISC 2026)</p></details> |
@@ -21,7 +22,6 @@ labels: documentation
 | **[Generalized Hankel/Toeplitz matrix for array signal processing](https://arxiv.org/abs/2609.03325v1)** | 2026-09-03 | 48 pages, 13 figures |
 | **[Physics-Guided Robotic Radiation Source Localization along Arbitrary Measurement Paths in Unstructured Environments](https://arxiv.org/abs/2606.27624v2)** | 2026-09-02 | <details><summary>17 pa...</summary><p>17 pages, 14 figures, 2 tables</p></details> |
 | **[The Symmetric Location Problem: a Song of (statistical) Efficiency and Robustness](https://arxiv.org/abs/2605.25870v2)** | 2026-09-01 |  |
-| **[Probabilistic Multi-Robot Gas Source Localization with Uncalibrated Sensors: A Distributed Estimation Approach](https://arxiv.org/abs/2608.28214v1)** | 2026-08-28 | <details><summary>14 pa...</summary><p>14 pages, 6 figures, accepted by The 18th International Symposium on Distributed Autonomous Robotic Systems (DARS)</p></details> |
 
 ## source detection
 | **Title** | **Date** | **Comment** |
