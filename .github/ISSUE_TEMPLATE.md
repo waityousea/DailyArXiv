@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - September 23, 2026
+title: Latest 15 Papers - September 24, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/waityousea/DailyArXiv/) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## source localization
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Lend me an Ear: Speech Enhancement Using a Robotic Arm with a Microphone Array](https://arxiv.org/abs/2602.17818v2)** | 2026-09-23 |  |
 | **[From Inference Engine to Inference Control Plane: Connecting vLLM, llm-d, and the Evolution of Efficient Distributed LLM Serving](https://arxiv.org/abs/2609.23130v1)** | 2026-09-19 | <details><summary>17 pa...</summary><p>17 pages, 5 figures, 5 tables. Systems synthesis and research agenda on vLLM, llm-d, distributed inference control, KV-state management, routing, disaggregation, heterogeneous accelerators, reliability, and agentic/multimodal serving. No new experimental measurements are claimed; empirical and organization-reported results are attributed to the cited sources</p></details> |
 | **[On Unbiased Parameter Estimation and Signal Reconstruction](https://arxiv.org/abs/2605.05276v2)** | 2026-09-18 | 35 pages, 9 figures |
 | **[MAPLE-RF: Efficient Probabilistic RF Source Localization in Partially Explored Environments](https://arxiv.org/abs/2609.21026v1)** | 2026-09-17 |  |
@@ -21,11 +22,11 @@ labels: documentation
 | **[Uncertainty Signals for Network Intent Translation: Risk Ranking and Ambiguity Localization](https://arxiv.org/abs/2609.04486v1)** | 2026-09-03 |  |
 | **[Generalized Hankel/Toeplitz matrix for array signal processing](https://arxiv.org/abs/2609.03325v1)** | 2026-09-03 | 48 pages, 13 figures |
 | **[Physics-Guided Robotic Radiation Source Localization along Arbitrary Measurement Paths in Unstructured Environments](https://arxiv.org/abs/2606.27624v2)** | 2026-09-02 | <details><summary>17 pa...</summary><p>17 pages, 14 figures, 2 tables</p></details> |
-| **[The Symmetric Location Problem: a Song of (statistical) Efficiency and Robustness](https://arxiv.org/abs/2605.25870v2)** | 2026-09-01 |  |
 
 ## source detection
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[The Chandra-Gaia Catalog of Counterparts: Resolving ambiguous Gaia matches to X-ray sources in the Chandra Source Catalog using Machine Learning](https://arxiv.org/abs/2606.19329v2)** | 2026-09-23 | <details><summary>Publi...</summary><p>Published in The Astrophysical Journal. Website: https://www.samuelperezdi.com/chandragaia/</p></details> |
 | **[CORDS: Continuous Representations of Discrete Structures](https://arxiv.org/abs/2601.21583v2)** | 2026-09-17 | <details><summary>Publi...</summary><p>Published as a conference paper at ICLR 2026. 38 pages, including appendix. Code: https://github.com/stases/CORDS</p></details> |
 | **[An agentic framework for gravitational-wave counterpart association in the multi-messenger era](https://arxiv.org/abs/2605.10584v2)** | 2026-09-07 | <details><summary>12 pa...</summary><p>12 pages, 6 figures; published in The Innovation as a Letter</p></details> |
 | **[Fiber Bragg Grating Whiskers for Bioinspired Hydrodynamic Perception on Underwater Robots](https://arxiv.org/abs/2608.24724v1)** | 2026-08-25 | 13 pages, 8 figures |
@@ -38,7 +39,6 @@ labels: documentation
 | **[Information Source Detection with Limited Time Knowledge](https://arxiv.org/abs/1905.12913v2)** | 2026-07-19 | <details><summary>The c...</summary><p>The content of this manuscript has been integrated into another more comprehensive research work. We withdraw this preliminary version to avoid redundant publications. All authors consent to this withdrawal</p></details> |
 | **[Enforcing Speech Content Privacy in Environmental Sound Recordings using Segment-wise Waveform Reversal](https://arxiv.org/abs/2507.08412v2)** | 2026-07-08 |  |
 | **[Underwater Source Detection and Classification for Signal-based Surveillance: Audio Dataset Curation and Cross-Domain Evaluation](https://arxiv.org/abs/2606.28988v2)** | 2026-07-07 | <details><summary>6 pag...</summary><p>6 pages, 4 figures. Accepted to the 2026 International Conference on Advanced Visual and Signal-Based Systems (AVSS) - Lecce, Italy</p></details> |
-| **[The Chandra-Gaia Catalog of Counterparts: Resolving ambiguous Gaia matches to X-ray sources in the Chandra Source Catalog using Machine Learning](https://arxiv.org/abs/2606.19329v1)** | 2026-06-17 | <details><summary>Accep...</summary><p>Accepted to The Astrophysical Journal. Website: https://www.samuelperezdi.com/chandragaia/</p></details> |
 | **[Optimal Stopping for Sequential Bayesian Experimental Design](https://arxiv.org/abs/2509.21734v3)** | 2026-06-13 |  |
 | **[Semi-supervised Source Detection in Astronomical Images: New Benchmark and Strong Baseline](https://arxiv.org/abs/2606.09219v1)** | 2026-06-08 |  |
 
