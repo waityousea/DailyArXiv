@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - September 24, 2026
+title: Latest 15 Papers - September 25, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/waityousea/DailyArXiv/) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## source localization
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[SWE-PolyVision: Benchmarking Cross-Image Abductive Reasoning for Repository-Level Software Engineering](https://arxiv.org/abs/2609.29754v1)** | 2026-09-24 |  |
 | **[Lend me an Ear: Speech Enhancement Using a Robotic Arm with a Microphone Array](https://arxiv.org/abs/2602.17818v2)** | 2026-09-23 |  |
 | **[From Inference Engine to Inference Control Plane: Connecting vLLM, llm-d, and the Evolution of Efficient Distributed LLM Serving](https://arxiv.org/abs/2609.23130v1)** | 2026-09-19 | <details><summary>17 pa...</summary><p>17 pages, 5 figures, 5 tables. Systems synthesis and research agenda on vLLM, llm-d, distributed inference control, KV-state management, routing, disaggregation, heterogeneous accelerators, reliability, and agentic/multimodal serving. No new experimental measurements are claimed; empirical and organization-reported results are attributed to the cited sources</p></details> |
 | **[On Unbiased Parameter Estimation and Signal Reconstruction](https://arxiv.org/abs/2605.05276v2)** | 2026-09-18 | 35 pages, 9 figures |
@@ -21,7 +22,6 @@ labels: documentation
 | **[Information-Guided Safe Reinforcement Learning for Autonomous Gas Source Localization using sUAS](https://arxiv.org/abs/2609.05569v1)** | 2026-09-04 | <details><summary>8 pag...</summary><p>8 pages, 5 figures, 2 tables. Submitted to the 2026 IEEE Conference on Decision and Control (CDC). Code: https://github.com/sachingirime/Info-guided-safe-RL</p></details> |
 | **[Uncertainty Signals for Network Intent Translation: Risk Ranking and Ambiguity Localization](https://arxiv.org/abs/2609.04486v1)** | 2026-09-03 |  |
 | **[Generalized Hankel/Toeplitz matrix for array signal processing](https://arxiv.org/abs/2609.03325v1)** | 2026-09-03 | 48 pages, 13 figures |
-| **[Physics-Guided Robotic Radiation Source Localization along Arbitrary Measurement Paths in Unstructured Environments](https://arxiv.org/abs/2606.27624v2)** | 2026-09-02 | <details><summary>17 pa...</summary><p>17 pages, 14 figures, 2 tables</p></details> |
 
 ## source detection
 | **Title** | **Date** | **Comment** |
