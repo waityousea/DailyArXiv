@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - September 27, 2026
+title: Latest 15 Papers - September 28, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/waityousea/DailyArXiv/) page for a better reading experience and more papers.**
@@ -26,6 +26,7 @@ labels: documentation
 ## source detection
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[MM-VeriAgent: Learning to Use Extensive Tools to Verify Multimodal Misinformation with Reinforcement Learning](https://arxiv.org/abs/2609.30698v1)** | 2026-09-25 |  |
 | **[The Chandra-Gaia Catalog of Counterparts: Resolving ambiguous Gaia matches to X-ray sources in the Chandra Source Catalog using Machine Learning](https://arxiv.org/abs/2606.19329v2)** | 2026-09-23 | <details><summary>Publi...</summary><p>Published in The Astrophysical Journal. Website: https://www.samuelperezdi.com/chandragaia/</p></details> |
 | **[CORDS: Continuous Representations of Discrete Structures](https://arxiv.org/abs/2601.21583v2)** | 2026-09-17 | <details><summary>Publi...</summary><p>Published as a conference paper at ICLR 2026. 38 pages, including appendix. Code: https://github.com/stases/CORDS</p></details> |
 | **[An agentic framework for gravitational-wave counterpart association in the multi-messenger era](https://arxiv.org/abs/2605.10584v2)** | 2026-09-07 | <details><summary>12 pa...</summary><p>12 pages, 6 figures; published in The Innovation as a Letter</p></details> |
@@ -40,11 +41,11 @@ labels: documentation
 | **[Enforcing Speech Content Privacy in Environmental Sound Recordings using Segment-wise Waveform Reversal](https://arxiv.org/abs/2507.08412v2)** | 2026-07-08 |  |
 | **[Underwater Source Detection and Classification for Signal-based Surveillance: Audio Dataset Curation and Cross-Domain Evaluation](https://arxiv.org/abs/2606.28988v2)** | 2026-07-07 | <details><summary>6 pag...</summary><p>6 pages, 4 figures. Accepted to the 2026 International Conference on Advanced Visual and Signal-Based Systems (AVSS) - Lecce, Italy</p></details> |
 | **[Optimal Stopping for Sequential Bayesian Experimental Design](https://arxiv.org/abs/2509.21734v3)** | 2026-06-13 |  |
-| **[Semi-supervised Source Detection in Astronomical Images: New Benchmark and Strong Baseline](https://arxiv.org/abs/2606.09219v1)** | 2026-06-08 |  |
 
 ## source identification
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[BeatGraph: Self-Supervised Heartbeat Graphs for Infant ECG Representations from the Home Environment](https://arxiv.org/abs/2609.31546v1)** | 2026-09-25 |  |
 | **[ATTRICITE: Training an Open 4B Model for Citation Recovery toward Faithful Attribution](https://arxiv.org/abs/2609.14248v1)** | 2026-09-13 | Work in Progress |
 | **[Local gradient neural operator](https://arxiv.org/abs/2609.07752v1)** | 2026-09-07 | <details><summary>29 pa...</summary><p>29 pages, 11 figures. Code available at https://github.com/baiming-zhang/LGNO</p></details> |
 | **[PsyCLIENT: Client Simulation via Conversational Trajectory Modeling for Trainee Practice and Model Evaluation in Mental Health Counseling](https://arxiv.org/abs/2601.07312v2)** | 2026-09-07 | <details><summary>Accep...</summary><p>Accepted to EMNLP 2026 (Main Conference)</p></details> |
@@ -59,7 +60,6 @@ labels: documentation
 | **[Disentangled Deep Priors for Bayesian Inverse Problems](https://arxiv.org/abs/2604.02304v1)** | 2026-04-02 |  |
 | **[L-ReLF: A Framework for Lexical Dataset Creation](https://arxiv.org/abs/2603.29346v1)** | 2026-03-31 | <details><summary>Accep...</summary><p>Accepted to the 2026 International Conference on Natural Language Processing (ICNLP). 6 pages, 1 figure</p></details> |
 | **[HiSync: Spatio-Temporally Aligning Hand Motion from Wearable IMU and On-Robot Camera for Command Source Identification in Long-Range HRI](https://arxiv.org/abs/2603.11809v2)** | 2026-03-25 |  |
-| **[Multi-Agent Reinforcement Learning for UAV-Based Chemical Plume Source Localization](https://arxiv.org/abs/2603.11582v1)** | 2026-03-12 |  |
 
 ## diffusion source
 | **Title** | **Date** | **Comment** |
