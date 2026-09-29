@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - September 28, 2026
+title: Latest 15 Papers - September 29, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/waityousea/DailyArXiv/) page for a better reading experience and more papers.**
@@ -7,6 +7,9 @@ labels: documentation
 ## source localization
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[After the Fix: How Corrected Agent Histories Transfer to Related Tasks](https://arxiv.org/abs/2609.34603v1)** | 2026-09-28 |  |
+| **[The Error You See Is Not the Error You Made: Progression-aware Reasoning Origin for Reasoning Error Localization](https://arxiv.org/abs/2609.33297v1)** | 2026-09-27 |  |
+| **[Binaural Audio-Visual Instance Segmentation](https://arxiv.org/abs/2609.32180v1)** | 2026-09-26 |  |
 | **[SWE-PolyVision: Benchmarking Cross-Image Abductive Reasoning for Repository-Level Software Engineering](https://arxiv.org/abs/2609.29754v1)** | 2026-09-24 |  |
 | **[Lend me an Ear: Speech Enhancement Using a Robotic Arm with a Microphone Array](https://arxiv.org/abs/2602.17818v2)** | 2026-09-23 |  |
 | **[From Inference Engine to Inference Control Plane: Connecting vLLM, llm-d, and the Evolution of Efficient Distributed LLM Serving](https://arxiv.org/abs/2609.23130v1)** | 2026-09-19 | <details><summary>17 pa...</summary><p>17 pages, 5 figures, 5 tables. Systems synthesis and research agenda on vLLM, llm-d, distributed inference control, KV-state management, routing, disaggregation, heterogeneous accelerators, reliability, and agentic/multimodal serving. No new experimental measurements are claimed; empirical and organization-reported results are attributed to the cited sources</p></details> |
@@ -19,13 +22,11 @@ labels: documentation
 | **[SAGE: Semantic-Aware Geographic Error Recovery for AI Data Movement](https://arxiv.org/abs/2609.10126v1)** | 2026-09-09 |  |
 | **[L2G-Map: Local-to-Global Mapping via Hierarchical Diffusion Refinement and Elliptical Bayesian Fusion](https://arxiv.org/abs/2503.02578v2)** | 2026-09-08 | <details><summary>Sourc...</summary><p>Source code will be available at https://github.com/lynn-yu/L2G-Map</p></details> |
 | **[Efficient and Microphone-Fault-Tolerant 3D Sound Source Localization](https://arxiv.org/abs/2505.20961v2)** | 2026-09-07 | <details><summary>Accep...</summary><p>Accepted by Interspeech 2025 Conference</p></details> |
-| **[Information-Guided Safe Reinforcement Learning for Autonomous Gas Source Localization using sUAS](https://arxiv.org/abs/2609.05569v1)** | 2026-09-04 | <details><summary>8 pag...</summary><p>8 pages, 5 figures, 2 tables. Submitted to the 2026 IEEE Conference on Decision and Control (CDC). Code: https://github.com/sachingirime/Info-guided-safe-RL</p></details> |
-| **[Uncertainty Signals for Network Intent Translation: Risk Ranking and Ambiguity Localization](https://arxiv.org/abs/2609.04486v1)** | 2026-09-03 |  |
-| **[Generalized Hankel/Toeplitz matrix for array signal processing](https://arxiv.org/abs/2609.03325v1)** | 2026-09-03 | 48 pages, 13 figures |
 
 ## source detection
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[GPUPHOT: A Python Framework for High-Performance GPU-Accelerated Photometry and Distributed Astronomical Data Reduction](https://arxiv.org/abs/2609.32375v1)** | 2026-09-26 | <details><summary>39 pa...</summary><p>39 pages, 8 figures. Submitted to Astronomy and Computing</p></details> |
 | **[MM-VeriAgent: Learning to Use Extensive Tools to Verify Multimodal Misinformation with Reinforcement Learning](https://arxiv.org/abs/2609.30698v1)** | 2026-09-25 |  |
 | **[The Chandra-Gaia Catalog of Counterparts: Resolving ambiguous Gaia matches to X-ray sources in the Chandra Source Catalog using Machine Learning](https://arxiv.org/abs/2606.19329v2)** | 2026-09-23 | <details><summary>Publi...</summary><p>Published in The Astrophysical Journal. Website: https://www.samuelperezdi.com/chandragaia/</p></details> |
 | **[CORDS: Continuous Representations of Discrete Structures](https://arxiv.org/abs/2601.21583v2)** | 2026-09-17 | <details><summary>Publi...</summary><p>Published as a conference paper at ICLR 2026. 38 pages, including appendix. Code: https://github.com/stases/CORDS</p></details> |
@@ -40,7 +41,6 @@ labels: documentation
 | **[Information Source Detection with Limited Time Knowledge](https://arxiv.org/abs/1905.12913v2)** | 2026-07-19 | <details><summary>The c...</summary><p>The content of this manuscript has been integrated into another more comprehensive research work. We withdraw this preliminary version to avoid redundant publications. All authors consent to this withdrawal</p></details> |
 | **[Enforcing Speech Content Privacy in Environmental Sound Recordings using Segment-wise Waveform Reversal](https://arxiv.org/abs/2507.08412v2)** | 2026-07-08 |  |
 | **[Underwater Source Detection and Classification for Signal-based Surveillance: Audio Dataset Curation and Cross-Domain Evaluation](https://arxiv.org/abs/2606.28988v2)** | 2026-07-07 | <details><summary>6 pag...</summary><p>6 pages, 4 figures. Accepted to the 2026 International Conference on Advanced Visual and Signal-Based Systems (AVSS) - Lecce, Italy</p></details> |
-| **[Optimal Stopping for Sequential Bayesian Experimental Design](https://arxiv.org/abs/2509.21734v3)** | 2026-06-13 |  |
 
 ## source identification
 | **Title** | **Date** | **Comment** |
@@ -64,6 +64,7 @@ labels: documentation
 ## diffusion source
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[PI-NOMT: Physics-Informed Neural Optimal Mass Transport for Brain Fluid Dynamics](https://arxiv.org/abs/2609.33857v1)** | 2026-09-27 |  |
 | **[Diffused-Beam Laser-Diode LiFi Under Realizable Receiver, Noise, and Safety Constraints: Design-Space Analysis and an Open Cross-Verified Simulation Framework](https://arxiv.org/abs/2608.15236v1)** | 2026-08-15 | <details><summary>15 pa...</summary><p>15 pages, 16 figures, Journal</p></details> |
 | **[Unsupervised Single-Channel Audio Separation with Diffusion Source Priors](https://arxiv.org/abs/2512.07226v2)** | 2025-12-23 |  |
 | **[Radio U-Net: a convolutional neural network to detect diffuse radio sources in galaxy clusters and beyond](https://arxiv.org/abs/2408.10871v1)** | 2024-08-20 | <details><summary>Accep...</summary><p>Accepted by MNRAS, 16 pages, 9 figures, 2 tables</p></details> |
