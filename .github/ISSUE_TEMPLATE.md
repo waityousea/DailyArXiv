@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - September 29, 2026
+title: Latest 15 Papers - September 30, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/waityousea/DailyArXiv/) page for a better reading experience and more papers.**
@@ -7,7 +7,10 @@ labels: documentation
 ## source localization
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[After the Fix: How Corrected Agent Histories Transfer to Related Tasks](https://arxiv.org/abs/2609.34603v1)** | 2026-09-28 |  |
+| **[S2A2: Audio-Visual Imitation Learning for Manipulation Tasks Using Acoustic Spatial Information](https://arxiv.org/abs/2607.26047v2)** | 2026-09-29 | <details><summary>Proje...</summary><p>Project page: https://azuma413.github.io/projects/s2a2</p></details> |
+| **[Best Practices in EEG Analysis: Preprocessing, Modeling, and Machine Learning](https://arxiv.org/abs/2609.36609v1)** | 2026-09-29 | <details><summary>38 pa...</summary><p>38 pages, 5 figures. Chapter 16 of the 2026 monograph "Electroencephalogram Signals and Cognition," edited by Hema A. Murthy, Shrikanth Narayanan, Mriganka Sur, and Rajeswari Aghoram</p></details> |
+| **[After the Fix: Transfer of Corrected Agent Experience](https://arxiv.org/abs/2609.34603v2)** | 2026-09-29 |  |
+| **[Unlocking Spatial Grounding in Large Audio-Visual Retrieval models](https://arxiv.org/abs/2607.24786v2)** | 2026-09-28 |  |
 | **[The Error You See Is Not the Error You Made: Progression-aware Reasoning Origin for Reasoning Error Localization](https://arxiv.org/abs/2609.33297v1)** | 2026-09-27 |  |
 | **[Binaural Audio-Visual Instance Segmentation](https://arxiv.org/abs/2609.32180v1)** | 2026-09-26 |  |
 | **[SWE-PolyVision: Benchmarking Cross-Image Abductive Reasoning for Repository-Level Software Engineering](https://arxiv.org/abs/2609.29754v1)** | 2026-09-24 |  |
@@ -19,9 +22,6 @@ labels: documentation
 | **[Not All Agreement Counts as Corroboration: Provenance-Conserving Multi-View Fusion for Typed Action Admission in Human-Robot Collaboration](https://arxiv.org/abs/2609.01662v2)** | 2026-09-16 | <details><summary>35 pa...</summary><p>35 pages, 8 figures, 15 tables. Revised manuscript with clarified theoretical assumptions and evaluation scope. Code and supporting materials: https://github.com/ZekaiJ/PACT</p></details> |
 | **[Scensory: Real-Time Robotic Olfactory Perception for Joint Identification and Source Localization](https://arxiv.org/abs/2509.19318v4)** | 2026-09-15 | <details><summary>Our p...</summary><p>Our project website is at: http://generalroboticslab.com/Scensory</p></details> |
 | **[Bayesian optimization with kernel ensembles and disagreement-based acquisition for source localization and acoustic inversion](https://arxiv.org/abs/2609.14262v1)** | 2026-09-13 |  |
-| **[SAGE: Semantic-Aware Geographic Error Recovery for AI Data Movement](https://arxiv.org/abs/2609.10126v1)** | 2026-09-09 |  |
-| **[L2G-Map: Local-to-Global Mapping via Hierarchical Diffusion Refinement and Elliptical Bayesian Fusion](https://arxiv.org/abs/2503.02578v2)** | 2026-09-08 | <details><summary>Sourc...</summary><p>Source code will be available at https://github.com/lynn-yu/L2G-Map</p></details> |
-| **[Efficient and Microphone-Fault-Tolerant 3D Sound Source Localization](https://arxiv.org/abs/2505.20961v2)** | 2026-09-07 | <details><summary>Accep...</summary><p>Accepted by Interspeech 2025 Conference</p></details> |
 
 ## source detection
 | **Title** | **Date** | **Comment** |
