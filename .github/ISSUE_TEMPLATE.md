@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - September 30, 2026
+title: Latest 15 Papers - October 01, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/waityousea/DailyArXiv/) page for a better reading experience and more papers.**
@@ -7,6 +7,8 @@ labels: documentation
 ## source localization
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Lens Flare Removal and Reconstruction](https://arxiv.org/abs/2609.39527v1)** | 2026-09-30 | <details><summary>20 pa...</summary><p>20 pages, 14 figures. Project page: https://lensflare-3dgs.pages.dev</p></details> |
+| **[PROJECTMEM: A Local-First, Event-Sourced Memory and Judgment Layer for AI Coding Agents](https://arxiv.org/abs/2606.12329v2)** | 2026-09-30 | <details><summary>19 pa...</summary><p>19 pages, 6 figures, 6 tables. Major revision: expanded the study to six months and 3,228 events across 27 projects; added judgment-gate latency, supersession, cross-project attribution, and client-compatibility evaluations; and revised the system design, related work, limitations, and worked example. Code and reproducibility artifacts: https://github.com/riponcm/projectmem</p></details> |
 | **[S2A2: Audio-Visual Imitation Learning for Manipulation Tasks Using Acoustic Spatial Information](https://arxiv.org/abs/2607.26047v2)** | 2026-09-29 | <details><summary>Proje...</summary><p>Project page: https://azuma413.github.io/projects/s2a2</p></details> |
 | **[Best Practices in EEG Analysis: Preprocessing, Modeling, and Machine Learning](https://arxiv.org/abs/2609.36609v1)** | 2026-09-29 | <details><summary>38 pa...</summary><p>38 pages, 5 figures. Chapter 16 of the 2026 monograph "Electroencephalogram Signals and Cognition," edited by Hema A. Murthy, Shrikanth Narayanan, Mriganka Sur, and Rajeswari Aghoram</p></details> |
 | **[After the Fix: Transfer of Corrected Agent Experience](https://arxiv.org/abs/2609.34603v2)** | 2026-09-29 |  |
@@ -20,8 +22,6 @@ labels: documentation
 | **[MAPLE-RF: Efficient Probabilistic RF Source Localization in Partially Explored Environments](https://arxiv.org/abs/2609.21026v1)** | 2026-09-17 |  |
 | **[Robot Visions: Breaking reCAPTCHA at Zero Cost and Zero Shot](https://arxiv.org/abs/2609.18518v1)** | 2026-09-16 | <details><summary>Accep...</summary><p>Accepted for publication in the Proceedings of the 29th Information Security Conference (ISC 2026)</p></details> |
 | **[Not All Agreement Counts as Corroboration: Provenance-Conserving Multi-View Fusion for Typed Action Admission in Human-Robot Collaboration](https://arxiv.org/abs/2609.01662v2)** | 2026-09-16 | <details><summary>35 pa...</summary><p>35 pages, 8 figures, 15 tables. Revised manuscript with clarified theoretical assumptions and evaluation scope. Code and supporting materials: https://github.com/ZekaiJ/PACT</p></details> |
-| **[Scensory: Real-Time Robotic Olfactory Perception for Joint Identification and Source Localization](https://arxiv.org/abs/2509.19318v4)** | 2026-09-15 | <details><summary>Our p...</summary><p>Our project website is at: http://generalroboticslab.com/Scensory</p></details> |
-| **[Bayesian optimization with kernel ensembles and disagreement-based acquisition for source localization and acoustic inversion](https://arxiv.org/abs/2609.14262v1)** | 2026-09-13 |  |
 
 ## source detection
 | **Title** | **Date** | **Comment** |
@@ -45,6 +45,7 @@ labels: documentation
 ## source identification
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Anchor-ECC: Local Integrity Checking for Watermarked LLM Outputs via Error-Correcting Codes](https://arxiv.org/abs/2609.38722v1)** | 2026-09-30 | <details><summary>18 pa...</summary><p>18 pages, including references and appendices; 1 figure and 11 tables</p></details> |
 | **[BeatGraph: Self-Supervised Heartbeat Graphs for Infant ECG Representations from the Home Environment](https://arxiv.org/abs/2609.31546v1)** | 2026-09-25 |  |
 | **[ATTRICITE: Training an Open 4B Model for Citation Recovery toward Faithful Attribution](https://arxiv.org/abs/2609.14248v1)** | 2026-09-13 | Work in Progress |
 | **[Local gradient neural operator](https://arxiv.org/abs/2609.07752v1)** | 2026-09-07 | <details><summary>29 pa...</summary><p>29 pages, 11 figures. Code available at https://github.com/baiming-zhang/LGNO</p></details> |
@@ -59,11 +60,11 @@ labels: documentation
 | **[LLM-based Schema-Guided Extraction and Validation of Missing-Person Intelligence from Heterogeneous Data Sources](https://arxiv.org/abs/2604.06571v1)** | 2026-04-08 | <details><summary>9 pag...</summary><p>9 pages, 6 figures. Accepted at International Conference on Intelligent Digitization of Systems and Services (IDSS 2026)</p></details> |
 | **[Disentangled Deep Priors for Bayesian Inverse Problems](https://arxiv.org/abs/2604.02304v1)** | 2026-04-02 |  |
 | **[L-ReLF: A Framework for Lexical Dataset Creation](https://arxiv.org/abs/2603.29346v1)** | 2026-03-31 | <details><summary>Accep...</summary><p>Accepted to the 2026 International Conference on Natural Language Processing (ICNLP). 6 pages, 1 figure</p></details> |
-| **[HiSync: Spatio-Temporally Aligning Hand Motion from Wearable IMU and On-Robot Camera for Command Source Identification in Long-Range HRI](https://arxiv.org/abs/2603.11809v2)** | 2026-03-25 |  |
 
 ## diffusion source
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Wrong Operator or Blind Design? A Reference-Free Diagnostic for Physics-Informed Coefficient Learning](https://arxiv.org/abs/2608.16925v2)** | 2026-09-30 | <details><summary>12 pa...</summary><p>12 pages, 6 figures, 7 tables. Supplementary material (15 pp.) included as an ancillary file</p></details> |
 | **[PI-NOMT: Physics-Informed Neural Optimal Mass Transport for Brain Fluid Dynamics](https://arxiv.org/abs/2609.33857v1)** | 2026-09-27 |  |
 | **[Diffused-Beam Laser-Diode LiFi Under Realizable Receiver, Noise, and Safety Constraints: Design-Space Analysis and an Open Cross-Verified Simulation Framework](https://arxiv.org/abs/2608.15236v1)** | 2026-08-15 | <details><summary>15 pa...</summary><p>15 pages, 16 figures, Journal</p></details> |
 | **[Unsupervised Single-Channel Audio Separation with Diffusion Source Priors](https://arxiv.org/abs/2512.07226v2)** | 2025-12-23 |  |
@@ -78,7 +79,6 @@ labels: documentation
 | **[Diffusion Source Identification on Networks with Statistical Confidence](https://arxiv.org/abs/2106.04800v2)** | 2021-06-17 |  |
 | **[Information Source Finding in Networks: Querying with Budgets](https://arxiv.org/abs/2009.00795v5)** | 2020-10-22 | <details><summary>Part ...</summary><p>Part of this work was presented at the IEEE INFOCOM 2017 (arXiv:1805.03532) and IEEE ISIT 2018 (arXiv:1711.05496)</p></details> |
 | **[Necessary and Sufficient Budgets in Information Source Finding with Querying: Adaptivity Gap](https://arxiv.org/abs/1805.03532v9)** | 2020-10-06 | <details><summary>This ...</summary><p>This is a technical paper of ISIT 2018 and part of this work was presented at the IEEE INFOCOM 2017 (arXiv:1711.05496)</p></details> |
-| **[Identification of Anomalous Diffusion Sources by Unsupervised Learning](https://arxiv.org/abs/2010.02168v1)** | 2020-10-05 | <details><summary>publi...</summary><p>published in physical review research</p></details> |
 
 ## rumor source
 | **Title** | **Date** | **Comment** |
