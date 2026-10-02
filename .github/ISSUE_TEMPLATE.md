@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - October 01, 2026
+title: Latest 15 Papers - October 02, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/waityousea/DailyArXiv/) page for a better reading experience and more papers.**
@@ -45,6 +45,7 @@ labels: documentation
 ## source identification
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Source Identification Is Not Fitness Testing: Measuring the Limits of Synthetic-Data Attribution](https://arxiv.org/abs/2610.00417v1)** | 2026-09-30 |  |
 | **[Anchor-ECC: Local Integrity Checking for Watermarked LLM Outputs via Error-Correcting Codes](https://arxiv.org/abs/2609.38722v1)** | 2026-09-30 | <details><summary>18 pa...</summary><p>18 pages, including references and appendices; 1 figure and 11 tables</p></details> |
 | **[BeatGraph: Self-Supervised Heartbeat Graphs for Infant ECG Representations from the Home Environment](https://arxiv.org/abs/2609.31546v1)** | 2026-09-25 |  |
 | **[ATTRICITE: Training an Open 4B Model for Citation Recovery toward Faithful Attribution](https://arxiv.org/abs/2609.14248v1)** | 2026-09-13 | Work in Progress |
@@ -59,7 +60,6 @@ labels: documentation
 | **[One Good Source is All You Need: Near-Optimal Regret for Bandits under Heterogeneous Noise](https://arxiv.org/abs/2602.14474v2)** | 2026-05-01 |  |
 | **[LLM-based Schema-Guided Extraction and Validation of Missing-Person Intelligence from Heterogeneous Data Sources](https://arxiv.org/abs/2604.06571v1)** | 2026-04-08 | <details><summary>9 pag...</summary><p>9 pages, 6 figures. Accepted at International Conference on Intelligent Digitization of Systems and Services (IDSS 2026)</p></details> |
 | **[Disentangled Deep Priors for Bayesian Inverse Problems](https://arxiv.org/abs/2604.02304v1)** | 2026-04-02 |  |
-| **[L-ReLF: A Framework for Lexical Dataset Creation](https://arxiv.org/abs/2603.29346v1)** | 2026-03-31 | <details><summary>Accep...</summary><p>Accepted to the 2026 International Conference on Natural Language Processing (ICNLP). 6 pages, 1 figure</p></details> |
 
 ## diffusion source
 | **Title** | **Date** | **Comment** |
