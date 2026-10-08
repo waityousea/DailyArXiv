@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - October 05, 2026
+title: Latest 15 Papers - October 08, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/waityousea/DailyArXiv/) page for a better reading experience and more papers.**
@@ -7,6 +7,9 @@ labels: documentation
 ## source localization
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[SEA-LM: Egocentric Spatial Audio Understanding for Wearable Microphone Arrays](https://arxiv.org/abs/2610.05610v2)** | 2026-10-07 |  |
+| **[Fluorescence-enhanced Whisker Array with Vision-based Deformation Analysis for Underwater Source Localization](https://arxiv.org/abs/2610.07275v1)** | 2026-10-05 | 8 pages, 8 figures |
+| **[SWE-PolyVision: Benchmarking Cross-Image Abductive Reasoning for Repository-Level Software Engineering](https://arxiv.org/abs/2609.29754v2)** | 2026-10-03 |  |
 | **[RailWave: Adaptive Spatial and Temporal Scheduling for Expert-Parallel Communication](https://arxiv.org/abs/2610.03415v1)** | 2026-10-02 | <details><summary>19 pa...</summary><p>19 pages, 10 figures, 8 tables</p></details> |
 | **[SideKernel: A Usable microVM Sandbox for AI Coding Agents on macOS](https://arxiv.org/abs/2610.02456v1)** | 2026-10-01 | <details><summary>17 pa...</summary><p>17 pages, 5 figures, 9 tables. Georgia Tech M.S. Cybersecurity practicum project</p></details> |
 | **[Lens Flare Removal and Reconstruction](https://arxiv.org/abs/2609.39527v1)** | 2026-09-30 | <details><summary>20 pa...</summary><p>20 pages, 14 figures. Project page: https://lensflare-3dgs.pages.dev</p></details> |
@@ -17,15 +20,15 @@ labels: documentation
 | **[Unlocking Spatial Grounding in Large Audio-Visual Retrieval models](https://arxiv.org/abs/2607.24786v2)** | 2026-09-28 |  |
 | **[The Error You See Is Not the Error You Made: Progression-aware Reasoning Origin for Reasoning Error Localization](https://arxiv.org/abs/2609.33297v1)** | 2026-09-27 |  |
 | **[Binaural Audio-Visual Instance Segmentation](https://arxiv.org/abs/2609.32180v1)** | 2026-09-26 |  |
-| **[SWE-PolyVision: Benchmarking Cross-Image Abductive Reasoning for Repository-Level Software Engineering](https://arxiv.org/abs/2609.29754v1)** | 2026-09-24 |  |
 | **[Lend me an Ear: Speech Enhancement Using a Robotic Arm with a Microphone Array](https://arxiv.org/abs/2602.17818v2)** | 2026-09-23 |  |
 | **[From Inference Engine to Inference Control Plane: Connecting vLLM, llm-d, and the Evolution of Efficient Distributed LLM Serving](https://arxiv.org/abs/2609.23130v1)** | 2026-09-19 | <details><summary>17 pa...</summary><p>17 pages, 5 figures, 5 tables. Systems synthesis and research agenda on vLLM, llm-d, distributed inference control, KV-state management, routing, disaggregation, heterogeneous accelerators, reliability, and agentic/multimodal serving. No new experimental measurements are claimed; empirical and organization-reported results are attributed to the cited sources</p></details> |
-| **[On Unbiased Parameter Estimation and Signal Reconstruction](https://arxiv.org/abs/2605.05276v2)** | 2026-09-18 | 35 pages, 9 figures |
-| **[MAPLE-RF: Efficient Probabilistic RF Source Localization in Partially Explored Environments](https://arxiv.org/abs/2609.21026v1)** | 2026-09-17 |  |
 
 ## source detection
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[When Agent Context Goes Stale: Incoherence in Volatile Agent Context](https://arxiv.org/abs/2610.05281v2)** | 2026-10-06 | <details><summary>8 pag...</summary><p>8 pages, 3 figures, 1 table. Accepted to the AgenticOS Workshop at SOSP 2026</p></details> |
+| **[Fluorescence-enhanced Whisker Array with Vision-based Deformation Analysis for Underwater Source Localization](https://arxiv.org/abs/2610.07275v1)** | 2026-10-05 | 8 pages, 8 figures |
+| **[Minimax and Adaptive Transfer Learning for Sparse Canonical Correlation Analysis](https://arxiv.org/abs/2610.05735v1)** | 2026-10-05 | 21 pages, 3 figures |
 | **[Writerslogic at PAN 2026: Process over Content for Robust Detection under Domain Shift](https://arxiv.org/abs/2610.03565v1)** | 2026-10-02 | <details><summary>13 pa...</summary><p>13 pages, 1 figure, 6 tables. Notebook for the PAN Lab at CLEF 2026. Code https://github.com/dcondrey/voight-kampff-clef2026 and https://github.com/dcondrey/trajectory-detection-clef2026</p></details> |
 | **[GPUPHOT: A Python Framework for High-Performance GPU-Accelerated Photometry and Distributed Astronomical Data Reduction](https://arxiv.org/abs/2609.32375v1)** | 2026-09-26 | <details><summary>39 pa...</summary><p>39 pages, 8 figures. Submitted to Astronomy and Computing</p></details> |
 | **[MM-VeriAgent: Learning to Use Extensive Tools to Verify Multimodal Misinformation with Reinforcement Learning](https://arxiv.org/abs/2609.30698v1)** | 2026-09-25 |  |
@@ -38,9 +41,6 @@ labels: documentation
 | **[StarEmbed: Benchmarking Time Series Foundation Models on Astronomical Observations of Variable Stars](https://arxiv.org/abs/2510.06200v4)** | 2026-08-13 | <details><summary>Accep...</summary><p>Accepted at ICML 2026</p></details> |
 | **[Detecting Hallucinated and Suspicious Citations: What Current Tools Can and Cannot Do](https://arxiv.org/abs/2607.22693v2)** | 2026-07-28 | 6 pages, 4 tables |
 | **[Systematic Experiment Tracking in Quantum Software: A Case Study of Reservoir Computing with Error Mitigation](https://arxiv.org/abs/2607.24264v1)** | 2026-07-27 | <details><summary>12 pa...</summary><p>12 pages, 7 figures, 5 tables, presented at QCE26</p></details> |
-| **[Visualizing Privacy-Relevant Data Flows in Android Applications](https://arxiv.org/abs/2503.16640v2)** | 2026-07-22 |  |
-| **[Information Source Detection with Limited Time Knowledge](https://arxiv.org/abs/1905.12913v2)** | 2026-07-19 | <details><summary>The c...</summary><p>The content of this manuscript has been integrated into another more comprehensive research work. We withdraw this preliminary version to avoid redundant publications. All authors consent to this withdrawal</p></details> |
-| **[Enforcing Speech Content Privacy in Environmental Sound Recordings using Segment-wise Waveform Reversal](https://arxiv.org/abs/2507.08412v2)** | 2026-07-08 |  |
 
 ## source identification
 | **Title** | **Date** | **Comment** |
