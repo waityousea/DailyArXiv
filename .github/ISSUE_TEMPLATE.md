@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - October 14, 2026
+title: Latest 15 Papers - October 15, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/waityousea/DailyArXiv/) page for a better reading experience and more papers.**
@@ -64,7 +64,6 @@ labels: documentation
 ## diffusion source
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Wrong Operator or Blind Design? A Reference-Free Diagnostic for Physics-Informed Coefficient Learning](https://arxiv.org/abs/2608.16925v2)** | 2026-09-30 | <details><summary>12 pa...</summary><p>12 pages, 6 figures, 7 tables. Supplementary material (15 pp.) included as an ancillary file</p></details> |
 | **[PI-NOMT: Physics-Informed Neural Optimal Mass Transport for Brain Fluid Dynamics](https://arxiv.org/abs/2609.33857v1)** | 2026-09-27 |  |
 | **[Diffused-Beam Laser-Diode LiFi Under Realizable Receiver, Noise, and Safety Constraints: Design-Space Analysis and an Open Cross-Verified Simulation Framework](https://arxiv.org/abs/2608.15236v1)** | 2026-08-15 | <details><summary>15 pa...</summary><p>15 pages, 16 figures, Journal</p></details> |
 | **[Unsupervised Single-Channel Audio Separation with Diffusion Source Priors](https://arxiv.org/abs/2512.07226v2)** | 2025-12-23 |  |
@@ -79,6 +78,7 @@ labels: documentation
 | **[Diffusion Source Identification on Networks with Statistical Confidence](https://arxiv.org/abs/2106.04800v2)** | 2021-06-17 |  |
 | **[Information Source Finding in Networks: Querying with Budgets](https://arxiv.org/abs/2009.00795v5)** | 2020-10-22 | <details><summary>Part ...</summary><p>Part of this work was presented at the IEEE INFOCOM 2017 (arXiv:1805.03532) and IEEE ISIT 2018 (arXiv:1711.05496)</p></details> |
 | **[Necessary and Sufficient Budgets in Information Source Finding with Querying: Adaptivity Gap](https://arxiv.org/abs/1805.03532v9)** | 2020-10-06 | <details><summary>This ...</summary><p>This is a technical paper of ISIT 2018 and part of this work was presented at the IEEE INFOCOM 2017 (arXiv:1711.05496)</p></details> |
+| **[Identification of Anomalous Diffusion Sources by Unsupervised Learning](https://arxiv.org/abs/2010.02168v1)** | 2020-10-05 | <details><summary>publi...</summary><p>published in physical review research</p></details> |
 
 ## rumor source
 | **Title** | **Date** | **Comment** |
