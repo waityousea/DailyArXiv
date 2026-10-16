@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - October 15, 2026
+title: Latest 15 Papers - October 16, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/waityousea/DailyArXiv/) page for a better reading experience and more papers.**
@@ -7,11 +7,11 @@ labels: documentation
 ## source localization
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[SWE-PolyVision: Benchmarking Cross-Image Abductive Reasoning for Repository-Level Software Engineering](https://arxiv.org/abs/2609.29754v3)** | 2026-10-15 |  |
 | **[DSABench: Benchmarking Source Discovery, Coordination, and Execution for Multi-Database Agents](https://arxiv.org/abs/2610.14700v1)** | 2026-10-10 | 39 pages |
 | **[Visual-Wi-Fi Navigation to Signal-Emitting Devices](https://arxiv.org/abs/2610.12733v1)** | 2026-10-08 | Under review |
 | **[SEA-LM: Egocentric Spatial Audio Understanding for Wearable Microphone Arrays](https://arxiv.org/abs/2610.05610v2)** | 2026-10-07 |  |
 | **[Fluorescence-enhanced Whisker Array with Vision-based Deformation Analysis for Underwater Source Localization](https://arxiv.org/abs/2610.07275v1)** | 2026-10-05 | 8 pages, 8 figures |
-| **[SWE-PolyVision: Benchmarking Cross-Image Abductive Reasoning for Repository-Level Software Engineering](https://arxiv.org/abs/2609.29754v2)** | 2026-10-03 |  |
 | **[RailWave: Adaptive Spatial and Temporal Scheduling for Expert-Parallel Communication](https://arxiv.org/abs/2610.03415v1)** | 2026-10-02 | <details><summary>19 pa...</summary><p>19 pages, 10 figures, 8 tables</p></details> |
 | **[SideKernel: A Usable microVM Sandbox for AI Coding Agents on macOS](https://arxiv.org/abs/2610.02456v1)** | 2026-10-01 | <details><summary>17 pa...</summary><p>17 pages, 5 figures, 9 tables. Georgia Tech M.S. Cybersecurity practicum project</p></details> |
 | **[Lens Flare Removal and Reconstruction](https://arxiv.org/abs/2609.39527v1)** | 2026-09-30 | <details><summary>20 pa...</summary><p>20 pages, 14 figures. Project page: https://lensflare-3dgs.pages.dev</p></details> |
