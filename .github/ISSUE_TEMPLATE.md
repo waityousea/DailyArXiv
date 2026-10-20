@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - October 19, 2026
+title: Latest 15 Papers - October 20, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/waityousea/DailyArXiv/) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## source localization
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Auditing Tool Traces in Agentic LLMs: Source Localization and Counterfactual Dependence Testing](https://arxiv.org/abs/2610.25540v1)** | 2026-10-18 | <details><summary>12 pa...</summary><p>12 pages. Accepted at the NeurIPS 2026 Workshop on Agentic AI for Biological Discovery (AgenticLS)</p></details> |
 | **[SWE-PolyVision: Benchmarking Cross-Image Abductive Reasoning for Repository-Level Software Engineering](https://arxiv.org/abs/2609.29754v3)** | 2026-10-15 |  |
 | **[DSABench: Benchmarking Source Discovery, Coordination, and Execution for Multi-Database Agents](https://arxiv.org/abs/2610.14700v1)** | 2026-10-10 | 39 pages |
 | **[Visual-Wi-Fi Navigation to Signal-Emitting Devices](https://arxiv.org/abs/2610.12733v1)** | 2026-10-08 | Under review |
@@ -21,7 +22,6 @@ labels: documentation
 | **[After the Fix: Transfer of Corrected Agent Experience](https://arxiv.org/abs/2609.34603v2)** | 2026-09-29 |  |
 | **[Unlocking Spatial Grounding in Large Audio-Visual Retrieval models](https://arxiv.org/abs/2607.24786v2)** | 2026-09-28 |  |
 | **[The Error You See Is Not the Error You Made: Progression-aware Reasoning Origin for Reasoning Error Localization](https://arxiv.org/abs/2609.33297v1)** | 2026-09-27 |  |
-| **[Binaural Audio-Visual Instance Segmentation](https://arxiv.org/abs/2609.32180v1)** | 2026-09-26 |  |
 
 ## source detection
 | **Title** | **Date** | **Comment** |
