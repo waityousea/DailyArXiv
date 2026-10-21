@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - October 20, 2026
+title: Latest 15 Papers - October 21, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/waityousea/DailyArXiv/) page for a better reading experience and more papers.**
@@ -7,6 +7,8 @@ labels: documentation
 ## source localization
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Binaural Audio-Visual Instance Segmentation](https://arxiv.org/abs/2609.32180v2)** | 2026-10-20 |  |
+| **[Observability-Aligned Diffusion and Null-Space Completion for EEG Source Localization](https://arxiv.org/abs/2610.27461v1)** | 2026-10-20 |  |
 | **[Auditing Tool Traces in Agentic LLMs: Source Localization and Counterfactual Dependence Testing](https://arxiv.org/abs/2610.25540v1)** | 2026-10-18 | <details><summary>12 pa...</summary><p>12 pages. Accepted at the NeurIPS 2026 Workshop on Agentic AI for Biological Discovery (AgenticLS)</p></details> |
 | **[SWE-PolyVision: Benchmarking Cross-Image Abductive Reasoning for Repository-Level Software Engineering](https://arxiv.org/abs/2609.29754v3)** | 2026-10-15 |  |
 | **[DSABench: Benchmarking Source Discovery, Coordination, and Execution for Multi-Database Agents](https://arxiv.org/abs/2610.14700v1)** | 2026-10-10 | 39 pages |
@@ -20,8 +22,6 @@ labels: documentation
 | **[S2A2: Audio-Visual Imitation Learning for Manipulation Tasks Using Acoustic Spatial Information](https://arxiv.org/abs/2607.26047v2)** | 2026-09-29 | <details><summary>Proje...</summary><p>Project page: https://azuma413.github.io/projects/s2a2</p></details> |
 | **[Best Practices in EEG Analysis: Preprocessing, Modeling, and Machine Learning](https://arxiv.org/abs/2609.36609v1)** | 2026-09-29 | <details><summary>38 pa...</summary><p>38 pages, 5 figures. Chapter 16 of the 2026 monograph "Electroencephalogram Signals and Cognition," edited by Hema A. Murthy, Shrikanth Narayanan, Mriganka Sur, and Rajeswari Aghoram</p></details> |
 | **[After the Fix: Transfer of Corrected Agent Experience](https://arxiv.org/abs/2609.34603v2)** | 2026-09-29 |  |
-| **[Unlocking Spatial Grounding in Large Audio-Visual Retrieval models](https://arxiv.org/abs/2607.24786v2)** | 2026-09-28 |  |
-| **[The Error You See Is Not the Error You Made: Progression-aware Reasoning Origin for Reasoning Error Localization](https://arxiv.org/abs/2609.33297v1)** | 2026-09-27 |  |
 
 ## source detection
 | **Title** | **Date** | **Comment** |
@@ -45,6 +45,7 @@ labels: documentation
 ## source identification
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Source apportionment of air pollution burden using geometric non-negative matrix factorization and high-throughput multi-pollutant air sensor data in Curtis Bay, Baltimore, USA](https://arxiv.org/abs/2511.11833v4)** | 2026-10-19 |  |
 | **[Source Identification Is Not Fitness Testing: Measuring the Limits of Synthetic-Data Attribution](https://arxiv.org/abs/2610.00417v1)** | 2026-09-30 |  |
 | **[Anchor-ECC: Local Integrity Checking for Watermarked LLM Outputs via Error-Correcting Codes](https://arxiv.org/abs/2609.38722v1)** | 2026-09-30 | <details><summary>18 pa...</summary><p>18 pages, including references and appendices; 1 figure and 11 tables</p></details> |
 | **[BeatGraph: Self-Supervised Heartbeat Graphs for Infant ECG Representations from the Home Environment](https://arxiv.org/abs/2609.31546v1)** | 2026-09-25 |  |
@@ -54,7 +55,6 @@ labels: documentation
 | **[Using Wavelet Domain Fingerprints to Improve Source Camera Identification](https://arxiv.org/abs/2507.01712v2)** | 2026-08-22 |  |
 | **[Can Foundation Models Hear What Made That Sound? A Tiered Benchmark of Audio-Language Models and Traditional Classifiers for Closed-Set Sound Source Identification](https://arxiv.org/abs/2608.02397v1)** | 2026-08-03 |  |
 | **[Interpretable Human-Label-Free Deep Learning for Real-Bogus Classification with Uncertainty Quantification](https://arxiv.org/abs/2607.05393v1)** | 2026-07-06 | <details><summary>Submi...</summary><p>Submitted to Astronomy & Astrophysics, revised after first referee report</p></details> |
-| **[Source apportionment of air pollution burden using geometric non-negative matrix factorization and high-throughput multi-pollutant air sensor data in Curtis Bay, Baltimore, USA](https://arxiv.org/abs/2511.11833v3)** | 2026-06-17 |  |
 | **[Where Does the Answer Come From? Benchmarking View-Level Visual Evidence Identification in Multi-View MLLMs for Autonomous Driving](https://arxiv.org/abs/2606.09644v1)** | 2026-06-08 |  |
 | **[Environment-Robust Representation Learning with Empirical Bayes](https://arxiv.org/abs/2606.05365v1)** | 2026-06-03 |  |
 | **[One Good Source is All You Need: Near-Optimal Regret for Bandits under Heterogeneous Noise](https://arxiv.org/abs/2602.14474v2)** | 2026-05-01 |  |
