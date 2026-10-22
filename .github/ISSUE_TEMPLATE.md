@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - October 21, 2026
+title: Latest 15 Papers - October 22, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/waityousea/DailyArXiv/) page for a better reading experience and more papers.**
@@ -26,6 +26,7 @@ labels: documentation
 ## source detection
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Dual-Phase Flow Matching for Probabilistic Source Detection and Measurement in Astronomical Images](https://arxiv.org/abs/2610.28919v1)** | 2026-10-20 |  |
 | **[HyperCD: Effective Source Detection in Hypergraphs via Causal Disentanglement](https://arxiv.org/abs/2610.16303v1)** | 2026-10-12 | <details><summary>The p...</summary><p>The paper is accepted by ACM MM 2026</p></details> |
 | **[When Agent Context Goes Stale: Incoherence in Volatile Agent Context](https://arxiv.org/abs/2610.05281v2)** | 2026-10-06 | <details><summary>8 pag...</summary><p>8 pages, 3 figures, 1 table. Accepted to the AgenticOS Workshop at SOSP 2026</p></details> |
 | **[Fluorescence-enhanced Whisker Array with Vision-based Deformation Analysis for Underwater Source Localization](https://arxiv.org/abs/2610.07275v1)** | 2026-10-05 | 8 pages, 8 figures |
@@ -40,7 +41,6 @@ labels: documentation
 | **[Design-to-Plan: A Large Language Model-Based Multi-Agent Framework for Manufacturing Process Planning from 3D CAD Models and 2D Engineering Drawings](https://arxiv.org/abs/2608.24039v1)** | 2026-08-25 | <details><summary>Submi...</summary><p>Submitted to Elsevier Journal</p></details> |
 | **[A Hybrid Intrusion Detection System for Electric Vehicle Charging Infrastructure](https://arxiv.org/abs/2606.23236v3)** | 2026-08-21 | <details><summary>This ...</summary><p>This paper has been accepted for publication by IEEE. C. Joglekar, C. Eze, D. Xiang and A. Monti, "A Hybrid Intrusion Detection System for Electric Vehicle Charging Infrastructure," in IEEE Internet of Things Journal, doi: 10.1109/JIOT.2026.3725487. Upon publication, it will be made available under a Creative Commons Attribution 4.0 International License</p></details> |
 | **[StarEmbed: Benchmarking Time Series Foundation Models on Astronomical Observations of Variable Stars](https://arxiv.org/abs/2510.06200v4)** | 2026-08-13 | <details><summary>Accep...</summary><p>Accepted at ICML 2026</p></details> |
-| **[Detecting Hallucinated and Suspicious Citations: What Current Tools Can and Cannot Do](https://arxiv.org/abs/2607.22693v2)** | 2026-07-28 | 6 pages, 4 tables |
 
 ## source identification
 | **Title** | **Date** | **Comment** |
