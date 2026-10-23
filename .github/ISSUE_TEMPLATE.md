@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - October 22, 2026
+title: Latest 15 Papers - October 23, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/waityousea/DailyArXiv/) page for a better reading experience and more papers.**
@@ -45,13 +45,13 @@ labels: documentation
 ## source identification
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[PsyCLIENT: Client Simulation via Conversational Trajectory Modeling for Trainee Practice and Model Evaluation in Mental Health Counseling](https://arxiv.org/abs/2601.07312v3)** | 2026-10-22 | <details><summary>Accep...</summary><p>Accepted to EMNLP 2026 (Main Conference)</p></details> |
 | **[Source apportionment of air pollution burden using geometric non-negative matrix factorization and high-throughput multi-pollutant air sensor data in Curtis Bay, Baltimore, USA](https://arxiv.org/abs/2511.11833v4)** | 2026-10-19 |  |
 | **[Source Identification Is Not Fitness Testing: Measuring the Limits of Synthetic-Data Attribution](https://arxiv.org/abs/2610.00417v1)** | 2026-09-30 |  |
 | **[Anchor-ECC: Local Integrity Checking for Watermarked LLM Outputs via Error-Correcting Codes](https://arxiv.org/abs/2609.38722v1)** | 2026-09-30 | <details><summary>18 pa...</summary><p>18 pages, including references and appendices; 1 figure and 11 tables</p></details> |
 | **[BeatGraph: Self-Supervised Heartbeat Graphs for Infant ECG Representations from the Home Environment](https://arxiv.org/abs/2609.31546v1)** | 2026-09-25 |  |
 | **[ATTRICITE: Training an Open 4B Model for Citation Recovery toward Faithful Attribution](https://arxiv.org/abs/2609.14248v1)** | 2026-09-13 | Work in Progress |
 | **[Local gradient neural operator](https://arxiv.org/abs/2609.07752v1)** | 2026-09-07 | <details><summary>29 pa...</summary><p>29 pages, 11 figures. Code available at https://github.com/baiming-zhang/LGNO</p></details> |
-| **[PsyCLIENT: Client Simulation via Conversational Trajectory Modeling for Trainee Practice and Model Evaluation in Mental Health Counseling](https://arxiv.org/abs/2601.07312v2)** | 2026-09-07 | <details><summary>Accep...</summary><p>Accepted to EMNLP 2026 (Main Conference)</p></details> |
 | **[Using Wavelet Domain Fingerprints to Improve Source Camera Identification](https://arxiv.org/abs/2507.01712v2)** | 2026-08-22 |  |
 | **[Can Foundation Models Hear What Made That Sound? A Tiered Benchmark of Audio-Language Models and Traditional Classifiers for Closed-Set Sound Source Identification](https://arxiv.org/abs/2608.02397v1)** | 2026-08-03 |  |
 | **[Interpretable Human-Label-Free Deep Learning for Real-Bogus Classification with Uncertainty Quantification](https://arxiv.org/abs/2607.05393v1)** | 2026-07-06 | <details><summary>Submi...</summary><p>Submitted to Astronomy & Astrophysics, revised after first referee report</p></details> |
