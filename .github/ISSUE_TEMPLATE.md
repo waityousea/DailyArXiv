@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - October 25, 2026
+title: Latest 15 Papers - October 26, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/waityousea/DailyArXiv/) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## source localization
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Fisher Information and the Minimum Mean-Square Error for Locating Closely Spaced Point Sources](https://arxiv.org/abs/2610.32018v1)** | 2026-10-23 |  |
 | **[Binaural Audio-Visual Instance Segmentation](https://arxiv.org/abs/2609.32180v2)** | 2026-10-20 |  |
 | **[Observability-Aligned Diffusion and Null-Space Completion for EEG Source Localization](https://arxiv.org/abs/2610.27461v1)** | 2026-10-20 |  |
 | **[Auditing Tool Traces in Agentic LLMs: Source Localization and Counterfactual Dependence Testing](https://arxiv.org/abs/2610.25540v1)** | 2026-10-18 | <details><summary>12 pa...</summary><p>12 pages. Accepted at the NeurIPS 2026 Workshop on Agentic AI for Biological Discovery (AgenticLS)</p></details> |
@@ -21,7 +22,6 @@ labels: documentation
 | **[PROJECTMEM: A Local-First, Event-Sourced Memory and Judgment Layer for AI Coding Agents](https://arxiv.org/abs/2606.12329v2)** | 2026-09-30 | <details><summary>19 pa...</summary><p>19 pages, 6 figures, 6 tables. Major revision: expanded the study to six months and 3,228 events across 27 projects; added judgment-gate latency, supersession, cross-project attribution, and client-compatibility evaluations; and revised the system design, related work, limitations, and worked example. Code and reproducibility artifacts: https://github.com/riponcm/projectmem</p></details> |
 | **[S2A2: Audio-Visual Imitation Learning for Manipulation Tasks Using Acoustic Spatial Information](https://arxiv.org/abs/2607.26047v2)** | 2026-09-29 | <details><summary>Proje...</summary><p>Project page: https://azuma413.github.io/projects/s2a2</p></details> |
 | **[Best Practices in EEG Analysis: Preprocessing, Modeling, and Machine Learning](https://arxiv.org/abs/2609.36609v1)** | 2026-09-29 | <details><summary>38 pa...</summary><p>38 pages, 5 figures. Chapter 16 of the 2026 monograph "Electroencephalogram Signals and Cognition," edited by Hema A. Murthy, Shrikanth Narayanan, Mriganka Sur, and Rajeswari Aghoram</p></details> |
-| **[After the Fix: Transfer of Corrected Agent Experience](https://arxiv.org/abs/2609.34603v2)** | 2026-09-29 |  |
 
 ## source detection
 | **Title** | **Date** | **Comment** |
