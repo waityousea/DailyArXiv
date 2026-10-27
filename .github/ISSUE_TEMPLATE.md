@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - October 26, 2026
+title: Latest 15 Papers - October 27, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/waityousea/DailyArXiv/) page for a better reading experience and more papers.**
@@ -7,6 +7,8 @@ labels: documentation
 ## source localization
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[On Distributed Sensing and Adversarial Localization of Narrowband Acoustic Sources for Offshore Data Center Monitoring](https://arxiv.org/abs/2610.34393v1)** | 2026-10-25 | <details><summary>Techn...</summary><p>Technical report, 19 pages, 11 figures</p></details> |
+| **[Numina Fuse: Interactive Autoformalization in Lean 4](https://arxiv.org/abs/2610.33860v1)** | 2026-10-24 | 16 pages, 10 figures |
 | **[Fisher Information and the Minimum Mean-Square Error for Locating Closely Spaced Point Sources](https://arxiv.org/abs/2610.32018v1)** | 2026-10-23 |  |
 | **[Binaural Audio-Visual Instance Segmentation](https://arxiv.org/abs/2609.32180v2)** | 2026-10-20 |  |
 | **[Observability-Aligned Diffusion and Null-Space Completion for EEG Source Localization](https://arxiv.org/abs/2610.27461v1)** | 2026-10-20 |  |
@@ -20,8 +22,6 @@ labels: documentation
 | **[SideKernel: A Usable microVM Sandbox for AI Coding Agents on macOS](https://arxiv.org/abs/2610.02456v1)** | 2026-10-01 | <details><summary>17 pa...</summary><p>17 pages, 5 figures, 9 tables. Georgia Tech M.S. Cybersecurity practicum project</p></details> |
 | **[Lens Flare Removal and Reconstruction](https://arxiv.org/abs/2609.39527v1)** | 2026-09-30 | <details><summary>20 pa...</summary><p>20 pages, 14 figures. Project page: https://lensflare-3dgs.pages.dev</p></details> |
 | **[PROJECTMEM: A Local-First, Event-Sourced Memory and Judgment Layer for AI Coding Agents](https://arxiv.org/abs/2606.12329v2)** | 2026-09-30 | <details><summary>19 pa...</summary><p>19 pages, 6 figures, 6 tables. Major revision: expanded the study to six months and 3,228 events across 27 projects; added judgment-gate latency, supersession, cross-project attribution, and client-compatibility evaluations; and revised the system design, related work, limitations, and worked example. Code and reproducibility artifacts: https://github.com/riponcm/projectmem</p></details> |
-| **[S2A2: Audio-Visual Imitation Learning for Manipulation Tasks Using Acoustic Spatial Information](https://arxiv.org/abs/2607.26047v2)** | 2026-09-29 | <details><summary>Proje...</summary><p>Project page: https://azuma413.github.io/projects/s2a2</p></details> |
-| **[Best Practices in EEG Analysis: Preprocessing, Modeling, and Machine Learning](https://arxiv.org/abs/2609.36609v1)** | 2026-09-29 | <details><summary>38 pa...</summary><p>38 pages, 5 figures. Chapter 16 of the 2026 monograph "Electroencephalogram Signals and Cognition," edited by Hema A. Murthy, Shrikanth Narayanan, Mriganka Sur, and Rajeswari Aghoram</p></details> |
 
 ## source detection
 | **Title** | **Date** | **Comment** |
